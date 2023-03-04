@@ -1,0 +1,519 @@
+|j|☆brianortegachoice
+|j|☆sniperghoost
+|t:|1677792948
+|gametype|singles
+|player|p1|brianortegachoice|170|1177
+|player|p2|sniperghoost|red|1242
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Ferrothorn, F|
+|poke|p1|Grimmsnarl, M|
+|poke|p1|Dragapult, M|
+|poke|p1|Gyarados, F|
+|poke|p1|Garchomp, F|
+|poke|p1|Blaziken, F|
+|poke|p2|Rillaboom, M|
+|poke|p2|Heatran, M|
+|poke|p2|Slowking, F|
+|poke|p2|Dragapult, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Bisharp, F|
+|teampreview
+|c|☆brianortegachoice|gg, I win
+|
+|t:|1677792970
+|start
+|switch|p1a: Garchomp|Garchomp, F|100/100
+|switch|p2a: Slowking|Slowking, F, shiny|100/100
+|turn|1
+|j| IC1
+|
+|t:|1677792981
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|move|p2a: Slowking|Future Sight|p1a: Ferrothorn
+|-start|p2a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|2
+|
+|t:|1677792997
+|move|p1a: Ferrothorn|Thunder Wave|p2a: Slowking
+|-status|p2a: Slowking|par
+|move|p2a: Slowking|Teleport|p2a: Slowking
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by sniperghoost)
+|
+|t:|1677793001
+|switch|p2a: Heatran|Heatran, M|100/100|[from] Teleport
+|-item|p2a: Heatran|Air Balloon
+|
+|upkeep
+|turn|3
+|c|☆brianortegachoice|fuck
+|c|☆brianortegachoice|third battle third heatran in a row
+|c|☆brianortegachoice|it don't miss
+|
+|t:|1677793025
+|switch|p1a: Garchomp|Garchomp, F|100/100
+|move|p2a: Heatran|Eruption|p1a: Garchomp
+|-resisted|p1a: Garchomp
+|-damage|p1a: Garchomp|44/100
+|
+|-end|p1a: Garchomp|move: Future Sight
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|upkeep
+|c| IC1|tf
+|c| IC1|shii
+|inactive|brianortegachoice has 120 seconds left.
+|c| IC1|what is it with peeps n this fucked up set
+|c|☆brianortegachoice|I don't know man
+|inactive|brianortegachoice has 90 seconds left.
+|
+|t:|1677793077
+|switch|p1a: Blaziken|Blaziken, F, shiny|100/100
+|-item|p1a: Blaziken|Air Balloon
+|turn|4
+|inactive|brianortegachoice has 90 seconds left.
+|
+|t:|1677793097
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Blaziken|atk|1
+|move|p1a: Blaziken|Close Combat|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|86/100
+|-unboost|p1a: Blaziken|def|1
+|-unboost|p1a: Blaziken|spd|1
+|
+|-heal|p2a: Landorus|92/100|[from] item: Leftovers
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|5
+|
+|t:|1677793113
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|move|p2a: Landorus|Knock Off|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|83/100
+|-damage|p2a: Landorus|80/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-damage|p2a: Landorus|63/100|[from] item: Rocky Helmet|[of] p1a: Ferrothorn
+|-enditem|p1a: Ferrothorn|Rocky Helmet|[from] move: Knock Off|[of] p2a: Landorus
+|
+|-heal|p2a: Landorus|69/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1677793123
+|move|p2a: Landorus|U-turn|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|69/100
+|-damage|p2a: Landorus|57/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|
+|t:|1677793129
+|switch|p2a: Rillaboom|Rillaboom, M, shiny|100/100|[from] U-turn
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Ferrothorn|Body Press|p2a: Rillaboom
+|-damage|p2a: Rillaboom|72/100
+|
+|-heal|p2a: Rillaboom|78/100|[from] Grassy Terrain
+|-heal|p1a: Ferrothorn|75/100|[from] Grassy Terrain
+|upkeep
+|turn|7
+|inactive|brianortegachoice has 90 seconds left.
+|
+|t:|1677793151
+|move|p2a: Rillaboom|Superpower|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|-unboost|p2a: Rillaboom|atk|1
+|-unboost|p2a: Rillaboom|def|1
+|-damage|p2a: Rillaboom|66/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|faint|p1a: Ferrothorn
+|
+|-heal|p2a: Rillaboom|72/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1677793169
+|switch|p1a: Blaziken|Blaziken, F, shiny|100/100
+|-item|p1a: Blaziken|Air Balloon
+|turn|8
+|
+|t:|1677793184
+|switch|p2a: Landorus|Landorus-Therian, M|57/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Blaziken|atk|1
+|move|p1a: Blaziken|Flare Blitz|p2a: Landorus
+|-damage|p2a: Landorus|27/100
+|-damage|p1a: Blaziken|88/100|[from] Recoil
+|
+|-heal|p2a: Landorus|33/100|[from] item: Leftovers
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|9
+|c|☆brianortegachoice|idiot coaching me nonsense
+|inactive|brianortegachoice has 60 seconds left.
+|
+|t:|1677793209
+|move|p1a: Blaziken|Close Combat|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|19/100
+|-unboost|p1a: Blaziken|def|1
+|-unboost|p1a: Blaziken|spd|1
+|move|p2a: Landorus|Knock Off|p1a: Blaziken
+|-resisted|p1a: Blaziken
+|-damage|p1a: Blaziken|53/100
+|-enditem|p1a: Blaziken|Air Balloon
+|
+|-heal|p1a: Blaziken|59/100|[from] Grassy Terrain
+|-heal|p2a: Landorus|25/100|[from] item: Leftovers
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|10
+|inactive|brianortegachoice has 60 seconds left.
+|
+|t:|1677793225
+|move|p1a: Blaziken|Flare Blitz|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|-damage|p1a: Blaziken|49/100|[from] Recoil
+|
+|-heal|p1a: Blaziken|55/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|c| IC1|brute force is rlly ur way haha
+|
+|t:|1677793239
+|switch|p2a: Dragapult|Dragapult, F, shiny|100/100
+|turn|11
+|inactive|brianortegachoice has 60 seconds left.
+|c|☆brianortegachoice|for real bro
+|c|☆brianortegachoice|no strategy
+|c| IC1|its deffo specs pult btw
+|c| IC1|so be carefu;
+|c| IC1|careful
+|inactive|brianortegachoice has 30 seconds left.
+|c|☆brianortegachoice|the power that be guides my fingers to click on moves
+|c| IC1|specs or band im sure
+|inactive|brianortegachoice has 20 seconds left.
+|c| IC1|hes got saink like op for ur blaziken
+|c|☆brianortegachoice|in this case I need a sac
+|inactive|brianortegachoice has 15 seconds left.
+|
+|t:|1677793293
+|switch|p1a: Grimmsnarl|Grimmsnarl, M|100/100
+|move|p2a: Dragapult|Shadow Ball|p1a: Grimmsnarl
+|-resisted|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|79/100
+|
+|upkeep
+|turn|12
+|inactive|brianortegachoice has 25 seconds left this turn.
+|c| IC1|balle
+|c| IC1|good one
+|
+|t:|1677793305
+|switch|p2a: Slowking|Slowking, F, shiny|100/100 par
+|move|p1a: Grimmsnarl|Sucker Punch||[still]
+|-fail|p1a: Grimmsnarl
+|
+|upkeep
+|turn|13
+|inactive|brianortegachoice has 30 seconds left.
+|c| IC1|fuck
+|
+|t:|1677793310
+|move|p1a: Grimmsnarl|Taunt|p2a: Slowking
+|-start|p2a: Slowking|move: Taunt
+|move|p2a: Slowking|Future Sight|p1a: Grimmsnarl
+|-start|p2a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|14
+|
+|t:|1677793316
+|move|p1a: Grimmsnarl|Light Screen|p1a: Grimmsnarl
+|-sidestart|p1: brianortegachoice|move: Light Screen
+|move|p2a: Slowking|Scald|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|67/100
+|-status|p1a: Grimmsnarl|brn
+|
+|-damage|p1a: Grimmsnarl|61/100 brn|[from] brn
+|upkeep
+|turn|15
+|c| IC1|rng ass
+|
+|t:|1677793323
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|move|p2a: Slowking|Scald|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|92/100
+|
+|-end|p1a: Dragapult|move: Future Sight
+|-damage|p1a: Dragapult|64/100
+|-end|p2a: Slowking|move: Taunt
+|upkeep
+|turn|16
+|c|☆brianortegachoice|EZ
+|
+|t:|1677793333
+|move|p1a: Dragapult|Thunder|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-crit|p2a: Slowking
+|-damage|p2a: Slowking|51/100 par
+|move|p2a: Slowking|Teleport|p2a: Slowking
+|
+|t:|1677793339
+|switch|p2a: Bisharp|Bisharp, F, shiny|100/100|[from] Teleport
+|
+|upkeep
+|turn|17
+|c| IC1|hes going bisharp
+|c| IC1|balle
+|c|☆brianortegachoice|aaaand he fled
+|inactive|brianortegachoice has 60 seconds left.
+|c| IC1|now
+|c| IC1|umm
+|c| IC1|u go for whatever
+|c|☆brianortegachoice|dragon darts, yeah ?
+|
+|t:|1677793365
+|switch|p1a: Grimmsnarl|Grimmsnarl, M|61/100 brn
+|move|p2a: Bisharp|Sucker Punch||[still]
+|-fail|p2a: Bisharp
+|
+|-damage|p1a: Grimmsnarl|55/100 brn|[from] brn
+|upkeep
+|turn|18
+|c| IC1|wink
+|c|☆brianortegachoice|lol
+|c| IC1|haha
+|c|☆brianortegachoice|he fell for it
+|c| IC1|ikr
+|
+|t:|1677793386
+|switch|p2a: Slowking|Slowking, F, shiny|85/100 par
+|move|p1a: Grimmsnarl|Reflect|p1a: Grimmsnarl
+|-sidestart|p1: brianortegachoice|Reflect
+|
+|-damage|p1a: Grimmsnarl|49/100 brn|[from] brn
+|upkeep
+|turn|19
+|c| IC1|balle
+|c| IC1|now y tjis?
+|c| IC1|this
+|inactive|brianortegachoice has 30 seconds left.
+|
+|t:|1677793402
+|switch|p1a: Gyarados|Gyarados, F|100/100
+|move|p2a: Slowking|Future Sight|p1a: Gyarados
+|-start|p2a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|20
+|c| IC1|balle
+|c|☆brianortegachoice|I set up for free now
+|inactive|brianortegachoice has 30 seconds left.
+|c| IC1|waterfall wink
+|
+|t:|1677793413
+|move|p1a: Gyarados|Dragon Dance|p1a: Gyarados
+|-boost|p1a: Gyarados|atk|1
+|-boost|p1a: Gyarados|spe|1
+|move|p2a: Slowking|Teleport|p2a: Slowking
+|
+|t:|1677793417
+|switch|p2a: Rillaboom|Rillaboom, M, shiny|72/100|[from] Teleport
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|
+|-heal|p2a: Rillaboom|78/100|[from] Grassy Terrain
+|upkeep
+|turn|21
+|c| IC1|he runs
+|c| IC1|fuck
+|c| IC1|ice
+|c| IC1|wink
+|
+|t:|1677793428
+|move|p1a: Gyarados|Ice Fang|p2a: Rillaboom
+|-supereffective|p2a: Rillaboom
+|-damage|p2a: Rillaboom|10/100
+|move|p2a: Rillaboom|Wood Hammer|p1a: Gyarados
+|-damage|p1a: Gyarados|22/100
+|-damage|p2a: Rillaboom|0 fnt|[from] Recoil
+|faint|p2a: Rillaboom
+|
+|-end|p1a: Gyarados|move: Future Sight
+|-damage|p1a: Gyarados|0 fnt
+|faint|p1a: Gyarados
+|-sideend|p1: brianortegachoice|move: Light Screen
+|upkeep
+|c| IC1|him
+|c| IC1|ez
+|c|☆brianortegachoice|oops
+|c| IC1|worth the sack'
+|c| IC1|dw#
+|inactive|brianortegachoice has 30 seconds left.
+|c|☆brianortegachoice|yeah
+|c|☆brianortegachoice|nice battle tbh
+|c| IC1|umm
+|c|☆brianortegachoice|he plays well ngl
+|inactive|brianortegachoice has 20 seconds left.
+|
+|t:|1677793457
+|switch|p1a: Blaziken|Blaziken, F, shiny|55/100
+|switch|p2a: Dragapult|Dragapult, F, shiny|100/100
+|turn|22
+|inactive|brianortegachoice has 30 seconds left this turn.
+|c| IC1|balle
+|c| IC1|uno wht to do
+|inactive|brianortegachoice has 20 seconds left.
+|inactive|brianortegachoice has 15 seconds left.
+|inactive|brianortegachoice has 10 seconds left.
+|
+|t:|1677793479
+|switch|p1a: Grimmsnarl|Grimmsnarl, M|49/100 brn
+|move|p2a: Dragapult|Shadow Ball|p1a: Grimmsnarl
+|-resisted|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|30/100 brn
+|
+|-heal|p1a: Grimmsnarl|36/100 brn|[from] Grassy Terrain
+|-damage|p1a: Grimmsnarl|30/100 brn|[from] brn
+|upkeep
+|turn|23
+|inactive|brianortegachoice has 20 seconds left this turn.
+|inactive|brianortegachoice has 15 seconds left.
+|
+|t:|1677793488
+|switch|p2a: Slowking|Slowking, F, shiny|100/100 par
+|move|p1a: Grimmsnarl|Sucker Punch||[still]
+|-fail|p1a: Grimmsnarl
+|
+|-heal|p1a: Grimmsnarl|36/100 brn|[from] Grassy Terrain
+|-damage|p1a: Grimmsnarl|30/100 brn|[from] brn
+|upkeep
+|turn|24
+|inactive|brianortegachoice has 25 seconds left this turn.
+|inactive|brianortegachoice has 20 seconds left.
+|c| IC1|he likes the swwitching
+|inactive|brianortegachoice has 15 seconds left.
+|c| IC1|reflect
+|inactive|brianortegachoice has 10 seconds left.
+|
+|t:|1677793503
+|switch|p1a: Blaziken|Blaziken, F, shiny|55/100
+|move|p2a: Slowking|Future Sight|p1a: Blaziken
+|-start|p2a: Slowking|move: Future Sight
+|
+|-heal|p1a: Blaziken|61/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|25
+|inactive|brianortegachoice has 20 seconds left this turn.
+|c| IC1|wink
+|c| IC1|fuck
+|inactive|brianortegachoice has 15 seconds left.
+|
+|t:|1677793510
+|move|p1a: Blaziken|Thunder Punch|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|56/100 par
+|move|p2a: Slowking|Scald|p1a: Blaziken
+|-supereffective|p1a: Blaziken
+|-damage|p1a: Blaziken|0 fnt
+|faint|p1a: Blaziken
+|
+|-sideend|p1: brianortegachoice|Reflect
+|upkeep
+|inactive|brianortegachoice has 20 seconds left this turn.
+|c|☆brianortegachoice|gg
+|inactive|brianortegachoice has 15 seconds left.
+|c| IC1|not yet
+|inactive|brianortegachoice has 10 seconds left.
+|inactive|brianortegachoice has 5 seconds left.
+|
+|t:|1677793526
+|switch|p1a: Dragapult|Dragapult, M|64/100
+|turn|26
+|inactive|brianortegachoice has 15 seconds left this turn.
+|c| IC1|balle
+|
+|t:|1677793531
+|move|p1a: Dragapult|Thunder|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|18/100 par
+|move|p2a: Slowking|Teleport|p2a: Slowking
+|inactive|brianortegachoice has 20 seconds left this turn.
+|c| IC1|fucker
+|c|☆brianortegachoice|heatran is healthy
+|
+|t:|1677793537
+|switch|p2a: Bisharp|Bisharp, F, shiny|100/100|[from] Teleport
+|
+|-end|p1a: Dragapult|move: Future Sight
+|-damage|p1a: Dragapult|13/100
+|upkeep
+|turn|27
+|inactive|brianortegachoice has 30 seconds left this turn.
+|c| IC1|balle
+|
+|t:|1677793544
+|switch|p1a: Grimmsnarl|Grimmsnarl, M|30/100 brn
+|move|p2a: Bisharp|Sucker Punch||[still]
+|-fail|p2a: Bisharp
+|
+|-damage|p1a: Grimmsnarl|24/100 brn|[from] brn
+|upkeep
+|turn|28
+|c| IC1|well gg
+|c| IC1|sigh
+|
+|t:|1677793552
+|move|p1a: Grimmsnarl|Reflect|p1a: Grimmsnarl
+|-sidestart|p1: brianortegachoice|Reflect
+|move|p2a: Bisharp|Iron Head|p1a: Grimmsnarl
+|-supereffective|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|0 fnt
+|faint|p1a: Grimmsnarl
+|
+|upkeep
+|c|☆brianortegachoice|welp
+|
+|t:|1677793557
+|switch|p1a: Dragapult|Dragapult, M|13/100
+|turn|29
+|c| IC1|this guy has some stall
+|
+|t:|1677793560
+|move|p2a: Bisharp|Sucker Punch|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|win|sniperghoost
+|raw|brianortegachoice's rating: 1177 &rarr; <strong>1157</strong><br />(-20 for losing)
+|raw|sniperghoost's rating: 1242 &rarr; <strong>1262</strong><br />(+20 for winning)
+|c|☆sniperghoost|gg
+|c| IC1|gg
+|c|☆sniperghoost|xdddddd
+|c|☆brianortegachoice|gg wp
+|c|☆sniperghoost|gg
+|c|☆brianortegachoice|we bullshitting around
+|c| IC1|wanna battle me sniperghoost?
+|c|☆brianortegachoice|we like to banter
+|c| IC1|balle
+|c| IC1|battle me sniperghoost?

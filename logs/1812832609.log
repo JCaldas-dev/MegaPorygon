@@ -1,0 +1,193 @@
+|j|☆Mt_2009
+|j|☆rakinzera
+|t:|1677800847
+|gametype|singles
+|player|p1|Mt_2009|swimmer|
+|player|p2|rakinzera|psychic-gen4|
+|teamsize|p1|6
+|teamsize|p2|2
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Zapdos|
+|poke|p1|Frosmoth, F|
+|poke|p1|Torkoal, F|
+|poke|p1|Tapu Fini|
+|poke|p1|Cottonee, L1, M|
+|poke|p1|Ditto|
+|poke|p2|Swoobat, F|
+|poke|p2|Ditto|
+|teampreview
+|
+|t:|1677800861
+|start
+|switch|p1a: Torkoal|Torkoal, F|100/100
+|switch|p2a: Swoobat|Swoobat, F|100/100
+|turn|1
+|
+|t:|1677800866
+|move|p2a: Swoobat|Calm Mind|p2a: Swoobat
+|-boost|p2a: Swoobat|spa|2
+|-boost|p2a: Swoobat|spd|2
+|move|p1a: Torkoal|Yawn|p2a: Swoobat
+|-start|p2a: Swoobat|move: Yawn|[of] p1a: Torkoal
+|
+|upkeep
+|turn|2
+|
+|t:|1677800874
+|move|p2a: Swoobat|Calm Mind|p2a: Swoobat
+|-boost|p2a: Swoobat|spa|2
+|-boost|p2a: Swoobat|spd|2
+|move|p1a: Torkoal|Heat Wave|p2a: Swoobat|[miss]
+|-miss|p1a: Torkoal|p2a: Swoobat
+|
+|-end|p2a: Swoobat|move: Yawn|[silent]
+|-status|p2a: Swoobat|slp
+|upkeep
+|turn|3
+|
+|t:|1677800886
+|cant|p2a: Swoobat|slp
+|move|p1a: Torkoal|Superpower|p2a: Swoobat
+|-resisted|p2a: Swoobat
+|-damage|p2a: Swoobat|86/100 slp
+|-unboost|p1a: Torkoal|atk|1
+|-unboost|p1a: Torkoal|def|1
+|-damage|p1a: Torkoal|91/100|[from] item: Life Orb
+|
+|-heal|p2a: Swoobat|92/100 slp|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1677800891
+|cant|p2a: Swoobat|slp
+|move|p1a: Torkoal|Iron Defense|p1a: Torkoal
+|-boost|p1a: Torkoal|def|2
+|
+|-heal|p2a: Swoobat|98/100 slp|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1677800895
+|cant|p2a: Swoobat|slp
+|move|p1a: Torkoal|Iron Defense|p1a: Torkoal
+|-boost|p1a: Torkoal|def|2
+|
+|-heal|p2a: Swoobat|100/100 slp|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1677800898
+|-curestatus|p2a: Swoobat|slp|[msg]
+|move|p2a: Swoobat|Substitute|p2a: Swoobat
+|-start|p2a: Swoobat|Substitute
+|-damage|p2a: Swoobat|75/100
+|move|p1a: Torkoal|Iron Defense|p1a: Torkoal
+|-boost|p1a: Torkoal|def|2
+|
+|-heal|p2a: Swoobat|82/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1677800910
+|move|p2a: Swoobat|Calm Mind|p2a: Swoobat
+|-boost|p2a: Swoobat|spa|2
+|-boost|p2a: Swoobat|spd|2
+|move|p1a: Torkoal|Iron Defense|p1a: Torkoal
+|-boost|p1a: Torkoal|def|1
+|
+|-heal|p2a: Swoobat|88/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1677800916
+|move|p2a: Swoobat|Stored Power|p1a: Torkoal
+|-damage|p1a: Torkoal|0 fnt
+|faint|p1a: Torkoal
+|
+|-heal|p2a: Swoobat|94/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1677800929
+|switch|p1a: Ditto|Ditto|100/100
+|turn|9
+|
+|t:|1677800938
+|move|p1a: Ditto|Transform||[still]
+|-fail|p1a: Ditto
+|move|p2a: Swoobat|Stored Power|p1a: Ditto
+|-damage|p1a: Ditto|0 fnt
+|faint|p1a: Ditto
+|
+|-heal|p2a: Swoobat|99/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1677800949
+|switch|p1a: Cottonee|Cottonee, L1, M, shiny|100/100
+|turn|10
+|
+|t:|1677800954
+|move|p1a: Cottonee|Leech Seed||[still]
+|-fail|p1a: Cottonee
+|move|p2a: Swoobat|Stored Power|p1a: Cottonee
+|-enditem|p1a: Cottonee|Focus Sash
+|-damage|p1a: Cottonee|9/100
+|
+|-heal|p2a: Swoobat|100/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1677800964
+|move|p1a: Cottonee|Substitute|p1a: Cottonee
+|-fail|p1a: Cottonee|move: Substitute|[weak]
+|move|p2a: Swoobat|Stored Power|p1a: Cottonee
+|-damage|p1a: Cottonee|0 fnt
+|faint|p1a: Cottonee
+|
+|upkeep
+|
+|t:|1677800971
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|turn|12
+|
+|t:|1677800976
+|move|p2a: Swoobat|Stored Power|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|0 fnt
+|faint|p1a: Tapu Fini
+|
+|upkeep
+|
+|t:|1677800978
+|switch|p1a: Zapdos|Zapdos|100/100
+|-ability|p1a: Zapdos|Pressure
+|turn|13
+|
+|t:|1677800983
+|move|p2a: Swoobat|Stored Power|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|upkeep
+|
+|t:|1677800988
+|switch|p1a: Frosmoth|Frosmoth, F|100/100
+|turn|14
+|
+|t:|1677800995
+|move|p2a: Swoobat|Air Slash|p1a: Frosmoth
+|-supereffective|p1a: Frosmoth
+|-damage|p1a: Frosmoth|0 fnt
+|faint|p1a: Frosmoth
+|
+|win|rakinzera
+|l|☆Mt_2009

@@ -1,0 +1,442 @@
+|j|☆Howardbeatz
+|j|☆dashnub
+|t:|1677817158
+|gametype|singles
+|player|p1|Howardbeatz|170|1157
+|player|p2|dashnub|pilot|1093
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Corsola-Galar, M|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Hydreigon, M|
+|poke|p1|Toxapex, M|
+|poke|p1|Obstagoon, M|
+|poke|p1|Corviknight, M|
+|poke|p2|Toxapex, M|
+|poke|p2|Urshifu-*, M|
+|poke|p2|Togekiss, F|
+|poke|p2|Clefable, M|
+|poke|p2|Garchomp, F|
+|poke|p2|Dragapult, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by dashnub)
+|
+|t:|1677817170
+|start
+|switch|p1a: Corsola|Corsola-Galar, M|100/100
+|switch|p2a: Clefable|Clefable, M|100/100
+|turn|1
+|
+|t:|1677817187
+|move|p2a: Clefable|Thunder Wave|p1a: Corsola
+|-status|p1a: Corsola|par
+|move|p1a: Corsola|Stealth Rock|p2a: Clefable
+|-sidestart|p2: dashnub|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1677817192
+|move|p2a: Clefable|Stealth Rock|p1a: Corsola
+|-sidestart|p1: Howardbeatz|move: Stealth Rock
+|move|p1a: Corsola|Will-O-Wisp|p2a: Clefable
+|-status|p2a: Clefable|brn
+|
+|upkeep
+|turn|3
+|
+|t:|1677817203
+|move|p2a: Clefable|Moonblast|p1a: Corsola
+|-damage|p1a: Corsola|84/100 par
+|-start|p2a: Clefable|Disable|Moonblast|[from] ability: Cursed Body|[of] p1a: Corsola
+|cant|p1a: Corsola|par
+|
+|upkeep
+|turn|4
+|
+|t:|1677817214
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|-damage|p2a: Toxapex|88/100|[from] Stealth Rock
+|move|p1a: Corsola|Night Shade|p2a: Toxapex
+|-damage|p2a: Toxapex|55/100
+|
+|-heal|p2a: Toxapex|61/100|[from] item: Black Sludge
+|upkeep
+|turn|5
+|inactive|Howardbeatz has 120 seconds left.
+|
+|t:|1677817247
+|move|p2a: Toxapex|Toxic Spikes|p1a: Corsola
+|-sidestart|p1: Howardbeatz|move: Toxic Spikes
+|move|p1a: Corsola|Will-O-Wisp|p2a: Toxapex
+|-status|p2a: Toxapex|brn
+|
+|-heal|p2a: Toxapex|68/100 brn|[from] item: Black Sludge
+|-damage|p2a: Toxapex|61/100 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1677817256
+|switch|p1a: Corviknight|Corviknight, M|100/100
+|-damage|p1a: Corviknight|88/100|[from] Stealth Rock
+|move|p2a: Toxapex|Toxic Spikes|p1a: Corviknight
+|-sidestart|p1: Howardbeatz|move: Toxic Spikes
+|
+|-heal|p2a: Toxapex|68/100 brn|[from] item: Black Sludge
+|-damage|p2a: Toxapex|61/100 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1677817277
+|move|p1a: Corviknight|Defog|p2a: Toxapex
+|-unboost|p2a: Toxapex|evasion|1
+|-sideend|p2: dashnub|Stealth Rock|[from] move: Defog|[of] p1a: Corviknight
+|-sideend|p1: Howardbeatz|Toxic Spikes|[from] move: Defog|[of] p1a: Corviknight
+|-sideend|p1: Howardbeatz|Stealth Rock|[from] move: Defog|[of] p1a: Corviknight
+|move|p2a: Toxapex|Scald|p1a: Corviknight
+|-damage|p1a: Corviknight|71/100
+|
+|-heal|p2a: Toxapex|68/100 brn|[from] item: Black Sludge
+|-damage|p2a: Toxapex|61/100 brn|[from] brn
+|upkeep
+|turn|8
+|inactive|Howardbeatz has 120 seconds left.
+|
+|t:|1677817295
+|move|p1a: Corviknight|U-turn|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|57/100 brn
+|inactive|Howardbeatz has 120 seconds left.
+|
+|t:|1677817321
+|switch|p1a: Corsola|Corsola-Galar, M|84/100 par|[from] U-turn
+|move|p2a: Toxapex|Toxic Spikes|p1a: Corsola
+|-sidestart|p1: Howardbeatz|move: Toxic Spikes
+|
+|-heal|p2a: Toxapex|63/100 brn|[from] item: Black Sludge
+|-damage|p2a: Toxapex|57/100 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1677817330
+|switch|p2a: Clefable|Clefable, M|100/100 brn
+|cant|p1a: Corsola|par
+|
+|upkeep
+|turn|10
+|
+|t:|1677817336
+|move|p2a: Clefable|Stealth Rock|p1a: Corsola
+|-sidestart|p1: Howardbeatz|move: Stealth Rock
+|move|p1a: Corsola|Stealth Rock|p2a: Clefable
+|-sidestart|p2: dashnub|move: Stealth Rock
+|
+|upkeep
+|turn|11
+|inactive|Howardbeatz has 120 seconds left.
+|
+|t:|1677817366
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|-damage|p2a: Dragapult|88/100|[from] Stealth Rock
+|cant|p1a: Corsola|par
+|
+|upkeep
+|turn|12
+|
+|t:|1677817375
+|move|p2a: Dragapult|Draco Meteor|p1a: Corsola
+|-damage|p1a: Corsola|38/100 par
+|-unboost|p2a: Dragapult|spa|2
+|-start|p2a: Dragapult|Disable|Draco Meteor|[from] ability: Cursed Body|[of] p1a: Corsola
+|cant|p1a: Corsola|par
+|
+|upkeep
+|turn|13
+|
+|t:|1677817387
+|switch|p2a: Clefable|Clefable, M|100/100 brn
+|switch|p1a: Corviknight|Corviknight, M|71/100
+|-damage|p1a: Corviknight|59/100|[from] Stealth Rock
+|
+|upkeep
+|turn|14
+|
+|t:|1677817397
+|move|p1a: Corviknight|Taunt|p2a: Clefable
+|-start|p2a: Clefable|move: Taunt
+|cant|p2a: Clefable|move: Taunt|Stealth Rock
+|
+|upkeep
+|turn|15
+|inactive|Howardbeatz has 120 seconds left.
+|
+|t:|1677817403
+|switch|p2a: Toxapex|Toxapex, M|90/100 brn
+|-damage|p2a: Toxapex|77/100 brn|[from] Stealth Rock
+|move|p1a: Corviknight|Defog|p2a: Toxapex
+|-unboost|p2a: Toxapex|evasion|1
+|-sideend|p2: dashnub|Stealth Rock|[from] move: Defog|[of] p1a: Corviknight
+|-sideend|p1: Howardbeatz|Toxic Spikes|[from] move: Defog|[of] p1a: Corviknight
+|-sideend|p1: Howardbeatz|Stealth Rock|[from] move: Defog|[of] p1a: Corviknight
+|
+|-heal|p2a: Toxapex|84/100 brn|[from] item: Black Sludge
+|-damage|p2a: Toxapex|77/100 brn|[from] brn
+|upkeep
+|turn|16
+|inactive|Howardbeatz has 120 seconds left.
+|
+|t:|1677817415
+|switch|p1a: Corsola|Corsola-Galar, M|38/100 par
+|move|p2a: Toxapex|Toxic Spikes|p1a: Corsola
+|-sidestart|p1: Howardbeatz|move: Toxic Spikes
+|
+|-heal|p2a: Toxapex|84/100 brn|[from] item: Black Sludge
+|-damage|p2a: Toxapex|77/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1677817424
+|move|p2a: Toxapex|Scald|p1a: Corsola
+|-damage|p1a: Corsola|29/100 par
+|move|p1a: Corsola|Stealth Rock|p2a: Toxapex
+|-sidestart|p2: dashnub|move: Stealth Rock
+|
+|-heal|p2a: Toxapex|84/100 brn|[from] item: Black Sludge
+|-damage|p2a: Toxapex|77/100 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1677817433
+|move|p2a: Toxapex|Scald|p1a: Corsola
+|-damage|p1a: Corsola|21/100 par
+|move|p1a: Corsola|Night Shade|p2a: Toxapex
+|-damage|p2a: Toxapex|45/100 brn
+|
+|-heal|p2a: Toxapex|51/100 brn|[from] item: Black Sludge
+|-damage|p2a: Toxapex|45/100 brn|[from] brn
+|upkeep
+|turn|19
+|
+|t:|1677817456
+|switch|p2a: Dragapult|Dragapult, M|88/100
+|-damage|p2a: Dragapult|76/100|[from] Stealth Rock
+|cant|p1a: Corsola|par
+|
+|upkeep
+|turn|20
+|
+|t:|1677817471
+|move|p2a: Dragapult|Draco Meteor|p1a: Corsola
+|-damage|p1a: Corsola|0 fnt
+|-unboost|p2a: Dragapult|spa|2
+|-start|p2a: Dragapult|Disable|Draco Meteor|[from] ability: Cursed Body|[of] p1a: Corsola
+|faint|p1a: Corsola
+|
+|upkeep
+|
+|t:|1677817479
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|turn|21
+|
+|t:|1677817486
+|switch|p2a: Clefable|Clefable, M|100/100 brn
+|move|p1a: Ferrothorn|Leech Seed|p2a: Clefable
+|-start|p2a: Clefable|move: Leech Seed
+|
+|upkeep
+|turn|22
+|
+|t:|1677817507
+|move|p2a: Clefable|Stealth Rock|p1a: Ferrothorn
+|-sidestart|p1: Howardbeatz|move: Stealth Rock
+|move|p1a: Ferrothorn|Spikes|p2a: Clefable
+|-sidestart|p2: dashnub|Spikes
+|
+|upkeep
+|turn|23
+|
+|t:|1677817513
+|move|p2a: Clefable|Thunder Wave|p1a: Ferrothorn|[miss]
+|-miss|p2a: Clefable|p1a: Ferrothorn
+|move|p1a: Ferrothorn|Spikes|p2a: Clefable
+|-sidestart|p2: dashnub|Spikes
+|
+|upkeep
+|turn|24
+|
+|t:|1677817523
+|switch|p1a: Obstagoon|Obstagoon, M|100/100
+|move|p2a: Clefable|Thunder Wave|p1a: Obstagoon
+|-status|p1a: Obstagoon|par
+|
+|upkeep
+|turn|25
+|
+|t:|1677817530
+|move|p2a: Clefable|Moonblast|p1a: Obstagoon
+|-supereffective|p1a: Obstagoon
+|-damage|p1a: Obstagoon|38/100 par
+|move|p1a: Obstagoon|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-crit|p2a: Clefable
+|-damage|p2a: Clefable|63/100 brn
+|-enditem|p2a: Clefable|Leftovers|[from] move: Knock Off|[of] p1a: Obstagoon
+|
+|upkeep
+|turn|26
+|
+|t:|1677817541
+|switch|p1a: Corviknight|Corviknight, M|59/100
+|-damage|p1a: Corviknight|47/100|[from] Stealth Rock
+|move|p2a: Clefable|Moonblast|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|32/100
+|
+|upkeep
+|turn|27
+|
+|t:|1677817550
+|move|p1a: Corviknight|Taunt|p2a: Clefable
+|-start|p2a: Clefable|move: Taunt
+|cant|p2a: Clefable|move: Taunt|Soft-Boiled
+|
+|upkeep
+|turn|28
+|
+|t:|1677817556
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|82/100
+|-singleturn|p1a: Corviknight|move: Roost
+|move|p2a: Clefable|Moonblast|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|66/100
+|
+|upkeep
+|turn|29
+|
+|t:|1677817566
+|switch|p2a: Dragapult|Dragapult, M|76/100
+|-damage|p2a: Dragapult|64/100|[from] Stealth Rock
+|-damage|p2a: Dragapult|47/100|[from] Spikes
+|move|p1a: Corviknight|Defog|p2a: Dragapult
+|-unboost|p2a: Dragapult|evasion|1
+|-sideend|p2: dashnub|Spikes|[from] move: Defog|[of] p1a: Corviknight
+|-sideend|p2: dashnub|Stealth Rock|[from] move: Defog|[of] p1a: Corviknight
+|-sideend|p1: Howardbeatz|Toxic Spikes|[from] move: Defog|[of] p1a: Corviknight
+|-sideend|p1: Howardbeatz|Stealth Rock|[from] move: Defog|[of] p1a: Corviknight
+|
+|upkeep
+|turn|30
+|
+|t:|1677817576
+|move|p2a: Dragapult|Fire Blast|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-damage|p1a: Corviknight|0 fnt
+|faint|p1a: Corviknight
+|
+|upkeep
+|
+|t:|1677817579
+|switch|p1a: Hydreigon|Hydreigon, M|100/100
+|turn|31
+|
+|t:|1677817585
+|switch|p2a: Clefable|Clefable, M|63/100 brn
+|move|p1a: Hydreigon|Dark Pulse|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|50/100 brn
+|
+|upkeep
+|turn|32
+|
+|t:|1677817593
+|move|p1a: Hydreigon|Dark Pulse|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|36/100 brn
+|cant|p2a: Clefable|flinch
+|
+|upkeep
+|turn|33
+|
+|t:|1677817597
+|move|p1a: Hydreigon|Dark Pulse|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|23/100 brn
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|73/100 brn
+|
+|upkeep
+|turn|34
+|
+|t:|1677817604
+|move|p1a: Hydreigon|Nasty Plot|p1a: Hydreigon
+|-boost|p1a: Hydreigon|spa|2
+|move|p2a: Clefable|Stealth Rock|p1a: Hydreigon
+|-sidestart|p1: Howardbeatz|move: Stealth Rock
+|
+|upkeep
+|turn|35
+|
+|t:|1677817608
+|move|p1a: Hydreigon|Dark Pulse|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|47/100 brn
+|cant|p2a: Clefable|flinch
+|
+|upkeep
+|turn|36
+|
+|t:|1677817613
+|move|p1a: Hydreigon|Dark Pulse|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|18/100 brn
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|68/100 brn
+|
+|upkeep
+|turn|37
+|
+|t:|1677817622
+|move|p1a: Hydreigon|Dark Pulse|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|41/100 brn
+|move|p2a: Clefable|Moonblast|p1a: Hydreigon
+|-supereffective|p1a: Hydreigon
+|-damage|p1a: Hydreigon|0 fnt
+|faint|p1a: Hydreigon
+|
+|upkeep
+|
+|t:|1677817628
+|switch|p1a: Obstagoon|Obstagoon, M|38/100 par
+|turn|38
+|
+|t:|1677817635
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|91/100 brn
+|cant|p1a: Obstagoon|par
+|
+|upkeep
+|turn|39
+|-message|Howardbeatz forfeited.
+|
+|win|dashnub
+|raw|Howardbeatz's rating: 1157 &rarr; <strong>1127</strong><br />(-30 for losing)
+|raw|dashnub's rating: 1093 &rarr; <strong>1124</strong><br />(+31 for winning)
+|l|☆Howardbeatz
+|l|☆dashnub
+|j|☆dashnub
+|player|p2|dashnub|pilot
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

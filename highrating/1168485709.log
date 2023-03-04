@@ -1,0 +1,395 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name prefixed by 'LT71LX'.</div>
+|j|‽LT71LX EGC
+|j|☆LT71LX Jyt
+|t:|1597360454
+|player|p1|LT71LX EGC|unknown|2136
+|player|p2|LT71LX Jyt|lucas-gen4pt|2110
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|clearpoke
+|poke|p1|Ribombee, M|
+|poke|p1|Kommo-o, M|
+|poke|p1|Rillaboom, M|
+|poke|p1|Toxtricity, M|
+|poke|p1|Mimikyu, M|
+|poke|p1|Urshifu-*, M|
+|poke|p2|Kyurem|
+|poke|p2|Kommo-o, F|
+|poke|p2|Zeraora|
+|poke|p2|Aegislash, M|
+|poke|p2|Clefable, F|
+|poke|p2|Mantine, F|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|teampreview
+|j| lt71lx tace
+|j| ez
+|j| lt71lx empo
+|j| LT71LX Ciudadanos
+|j| funzsp
+|j| Livio ElTito
+|j| hrnnggghg
+|j| LT71LXJaggermaster
+|j| Sagiri I.
+|j| Devil Patchy
+|j| RNN YasuKe
+|j| lt71lx croo
+|j| King l5
+|j| xtra
+|j| Rnn brexit
+|j| LT71LX Newal
+|j| Mannat
+|j| Iarimm
+|l| xtra
+|j| OUTU Hide And Seek
+|j| Mob Burly
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by LT71LX EGC)
+|j| Ggzu
+|j| quinomak
+|j|+FMG
+|j| Free Swimming
+|j| cleann
+|j| LT71LX XVR
+|
+|t:|1597360476
+|start
+|switch|p1a: Ribombee|Ribombee, M|100/100
+|switch|p2a: Aegislash|Aegislash, M|100/100
+|turn|1
+|j| Mihowk
+|j| LowGxeDoritos
+|j| Hayburner
+|j| File tes baskets
+|j| LT71LX Luthier
+|
+|t:|1597360483
+|move|p1a: Ribombee|Sticky Web|p2a: Aegislash
+|-sidestart|p2: LT71LX Jyt|move: Sticky Web
+|-formechange|p2a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p2a: Aegislash|Flash Cannon|p1a: Ribombee
+|-supereffective|p1a: Ribombee
+|-enditem|p1a: Ribombee|Focus Sash
+|-damage|p1a: Ribombee|1/100
+|
+|upkeep
+|turn|2
+|
+|t:|1597360486
+|switch|p1a: Kommo-o|Kommo-o, M|100/100
+|move|p2a: Aegislash|Shadow Sneak|p1a: Kommo-o
+|-damage|p1a: Kommo-o|77/100
+|
+|upkeep
+|turn|3
+|j|+Cdumas
+|j| MS3D
+|
+|t:|1597360496
+|switch|p1a: Toxtricity|Toxtricity, M|100/100
+|switch|p2a: Mantine|Mantine, F|100/100
+|
+|upkeep
+|turn|4
+|j| studying in tab
+|j| Alexander
+|j| LT71LX PK
+|j| ayevon
+|j| Majin Mew
+|j| Dylanronpa
+|j| LT71LX Sks
+|l| File tes baskets
+|inactive|LT71LX Jyt has 120 seconds left.
+|j| TornadusF4n
+|
+|t:|1597360530
+|switch|p2a: Zeraora|Zeraora|100/100
+|move|p1a: Toxtricity|Overdrive|p2a: Zeraora
+|-immune|p2a: Zeraora|[from] ability: Volt Absorb
+|
+|upkeep
+|turn|5
+|j| Mara Sattei
+|
+|t:|1597360534
+|switch|p2a: Aegislash|Aegislash, M|100/100
+|-activate|p2a: Aegislash|move: Sticky Web
+|-unboost|p2a: Aegislash|spe|1
+|move|p1a: Toxtricity|Boomburst|p2a: Aegislash
+|-immune|p2a: Aegislash
+|
+|upkeep
+|turn|6
+|
+|t:|1597360546
+|switch|p1a: Ribombee|Ribombee, M|1/100
+|-formechange|p2a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p2a: Aegislash|Shadow Ball|p1a: Ribombee
+|-damage|p1a: Ribombee|0 fnt
+|faint|p1a: Ribombee
+|
+|upkeep
+|j| Spl4sh
+|
+|t:|1597360559
+|switch|p1a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|7
+|j| isdjhfbdkjfgbmncvb
+|
+|t:|1597360573
+|move|p1a: Rillaboom|Swords Dance|p1a: Rillaboom
+|-boost|p1a: Rillaboom|atk|2
+|move|p2a: Aegislash|Shadow Ball|p1a: Rillaboom
+|-damage|p1a: Rillaboom|28/100
+|
+|-heal|p1a: Rillaboom|34/100|[from] Grassy Terrain
+|upkeep
+|turn|8
+|j| EC DPP
+|j| Instagram Models
+|
+|t:|1597360591
+|switch|p2a: Kommo-o|Kommo-o, F|100/100
+|-activate|p2a: Kommo-o|move: Sticky Web
+|-unboost|p2a: Kommo-o|spe|1
+|move|p1a: Rillaboom|Swords Dance|p1a: Rillaboom
+|-boost|p1a: Rillaboom|atk|2
+|
+|-heal|p1a: Rillaboom|40/100|[from] Grassy Terrain
+|upkeep
+|turn|9
+|
+|t:|1597360596
+|move|p1a: Rillaboom|Superpower|p2a: Kommo-o
+|-damage|p2a: Kommo-o|0 fnt
+|-unboost|p1a: Rillaboom|atk|1
+|-unboost|p1a: Rillaboom|def|1
+|-damage|p1a: Rillaboom|31/100|[from] item: Life Orb
+|faint|p2a: Kommo-o
+|
+|-heal|p1a: Rillaboom|37/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1597360600
+|switch|p2a: Aegislash|Aegislash, M|100/100
+|-activate|p2a: Aegislash|move: Sticky Web
+|-unboost|p2a: Aegislash|spe|1
+|turn|10
+|j| yeying
+|
+|t:|1597360610
+|switch|p1a: Kommo-o|Kommo-o, M|77/100
+|-formechange|p2a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p2a: Aegislash|Shadow Sneak|p1a: Kommo-o
+|-damage|p1a: Kommo-o|53/100
+|
+|-heal|p1a: Kommo-o|59/100|[from] Grassy Terrain
+|upkeep
+|turn|11
+|j| lt71lx cuzzie
+|
+|t:|1597360616
+|switch|p1a: Toxtricity|Toxtricity, M|100/100
+|move|p2a: Aegislash|Shadow Ball|p1a: Toxtricity
+|-damage|p1a: Toxtricity|0 fnt
+|faint|p1a: Toxtricity
+|
+|-fieldend|move: Grassy Terrain
+|upkeep
+|j| lucario737
+|l| LT71LX XVR
+|j| Pidgey Gordito
+|
+|t:|1597360628
+|switch|p1a: Rillaboom|Rillaboom, M|37/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|12
+|inactive|LT71LX Jyt has 120 seconds left.
+|
+|t:|1597360663
+|move|p1a: Rillaboom|Knock Off|p2a: Aegislash
+|-supereffective|p2a: Aegislash
+|-damage|p2a: Aegislash|0 fnt
+|-enditem|p2a: Aegislash|Spell Tag|[from] move: Knock Off|[of] p1a: Rillaboom
+|-damage|p1a: Rillaboom|27/100|[from] item: Life Orb
+|faint|p2a: Aegislash
+|
+|-heal|p1a: Rillaboom|33/100|[from] Grassy Terrain
+|upkeep
+|j| JiminyRickets
+|
+|t:|1597360673
+|switch|p2a: Zeraora|Zeraora|100/100
+|turn|13
+|n| LowGxeDoritos|lowgxedoritos
+|inactive|LT71LX Jyt has 120 seconds left.
+|l| JiminyRickets
+|
+|t:|1597360681
+|move|p1a: Rillaboom|Grassy Glide|p2a: Zeraora
+|-damage|p2a: Zeraora|11/100
+|-damage|p1a: Rillaboom|23/100|[from] item: Life Orb
+|move|p2a: Zeraora|Knock Off|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|-enditem|p1a: Rillaboom|Life Orb|[from] move: Knock Off|[of] p2a: Zeraora
+|faint|p1a: Rillaboom
+|
+|-heal|p2a: Zeraora|17/100|[from] Grassy Terrain
+|upkeep
+|l| quinomak
+|
+|t:|1597360696
+|switch|p1a: Mimikyu|Mimikyu, M|100/100
+|turn|14
+|
+|t:|1597360703
+|move|p2a: Zeraora|Volt Switch|p1a: Mimikyu
+|-activate|p1a: Mimikyu|ability: Disguise
+|-damage|p1a: Mimikyu|100/100
+|detailschange|p1a: Mimikyu|Mimikyu-Busted, M
+|-damage|p1a: Mimikyu|88/100|[from] pokemon: Mimikyu-Busted
+|j| Mattakata
+|
+|t:|1597360706
+|switch|p2a: Mantine|Mantine, F|100/100|[from]move: Volt Switch
+|move|p1a: Mimikyu|Swords Dance|p1a: Mimikyu
+|-boost|p1a: Mimikyu|atk|2
+|
+|-heal|p1a: Mimikyu|94/100|[from] Grassy Terrain
+|upkeep
+|turn|15
+|
+|t:|1597360710
+|move|p1a: Mimikyu|Play Rough|p2a: Mantine
+|-damage|p2a: Mantine|0 fnt
+|-damage|p1a: Mimikyu|84/100|[from] item: Life Orb
+|faint|p2a: Mantine
+|
+|-heal|p1a: Mimikyu|90/100|[from] Grassy Terrain
+|upkeep
+|l| Mattakata
+|
+|t:|1597360730
+|switch|p2a: Kyurem|Kyurem|100/100
+|-activate|p2a: Kyurem|move: Sticky Web
+|-unboost|p2a: Kyurem|spe|1
+|-ability|p2a: Kyurem|Pressure
+|turn|16
+|
+|t:|1597360733
+|move|p1a: Mimikyu|Play Rough|p2a: Kyurem|[miss]
+|-miss|p1a: Mimikyu|p2a: Kyurem
+|move|p2a: Kyurem|Ice Beam|p1a: Mimikyu
+|-damage|p1a: Mimikyu|3/100
+|
+|-heal|p1a: Mimikyu|9/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|17
+|
+|t:|1597360751
+|move|p1a: Mimikyu|Play Rough|p2a: Kyurem
+|-supereffective|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|-damage|p1a: Mimikyu|0 fnt|[from] item: Life Orb
+|faint|p2a: Kyurem
+|faint|p1a: Mimikyu
+|
+|upkeep
+|l| MS3D
+|inactive|LT71LX EGC has 120 seconds left.
+|
+|t:|1597360786
+|switch|p2a: Clefable|Clefable, F|100/100
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|-activate|p2a: Clefable|move: Sticky Web
+|-unboost|p2a: Clefable|spe|1
+|turn|18
+|c| Sagiri I.|GOATÇ
+|c| Sagiri I.|goat
+|j| lt71lx bacon
+|inactive|LT71LX Jyt has 120 seconds left.
+|j| Adri en sandwich
+|inactive|LT71LX Jyt has 90 seconds left.
+|
+|t:|1597360841
+|move|p1a: Urshifu|Surging Strikes|p2a: Clefable
+|-crit|p2a: Clefable
+|-damage|p2a: Clefable|79/100
+|-crit|p2a: Clefable
+|-damage|p2a: Clefable|60/100
+|-crit|p2a: Clefable
+|-damage|p2a: Clefable|37/100
+|-hitcount|p2a: Clefable|3
+|-damage|p1a: Urshifu|91/100|[from] item: Life Orb
+|move|p2a: Clefable|Moonblast|p1a: Urshifu
+|-supereffective|p1a: Urshifu
+|-damage|p1a: Urshifu|4/100
+|
+|-heal|p2a: Clefable|43/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|inactive|LT71LX Jyt has 90 seconds left.
+|
+|t:|1597360848
+|switch|p2a: Zeraora|Zeraora|17/100
+|move|p1a: Urshifu|Surging Strikes|p2a: Zeraora
+|-crit|p2a: Zeraora
+|-damage|p2a: Zeraora|0 fnt
+|-hitcount|p2a: Zeraora|1
+|-damage|p1a: Urshifu|0 fnt|[from] item: Life Orb
+|faint|p2a: Zeraora
+|faint|p1a: Urshifu
+|
+|upkeep
+|
+|t:|1597360851
+|switch|p2a: Clefable|Clefable, F|43/100
+|switch|p1a: Kommo-o|Kommo-o, M|59/100
+|-activate|p2a: Clefable|move: Sticky Web
+|-unboost|p2a: Clefable|spe|1
+|turn|20
+|c| Sagiri I.|VAMOS
+|
+|t:|1597360858
+|move|p2a: Clefable|Protect|p2a: Clefable
+|-singleturn|p2a: Clefable|Protect
+|move|p1a: Kommo-o|Flash Cannon|p2a: Clefable
+|-activate|p2a: Clefable|move: Protect
+|
+|-heal|p2a: Clefable|49/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|c| Sagiri I.|F
+|inactive|LT71LX Jyt has 90 seconds left.
+|l| lt71lx bacon
+|c| Iarimm|Maluco e br chines
+|c| Iarimm|Tendi nd
+|
+|t:|1597360895
+|move|p1a: Kommo-o|Flash Cannon|p2a: Clefable
+|-supereffective|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|-damage|p1a: Kommo-o|49/100|[from] item: Life Orb
+|faint|p2a: Clefable
+|
+|win|LT71LX EGC
+|j| unforgiven lies
+|l| Mannat
+|l|+FMG
+|l| Rnn brexit
+|l| Devil Patchy
+|l| yeying
+|raw|LT71LX EGC's rating: 2136 &rarr; <strong>2155</strong><br />(+19 for winning)
+|raw|LT71LX Jyt's rating: 2110 &rarr; <strong>2091</strong><br />(-19 for losing)
+|l| Iarimm
+|l| Hayburner

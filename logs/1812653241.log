@@ -1,0 +1,150 @@
+|j|☆Fredefyr
+|j|☆qq290572945
+|t:|1677785119
+|gametype|singles
+|player|p1|Fredefyr|170|1313
+|player|p2|qq290572945|rosa|1310
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Corsola-Galar, F|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Toxapex, M|
+|poke|p1|Ditto|
+|poke|p1|Hydreigon, M|
+|poke|p1|Corviknight, F|
+|poke|p2|Blaziken, F|
+|poke|p2|Rillaboom, F|
+|poke|p2|Volcanion|
+|poke|p2|Garchomp, F|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Zapdos|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Fredefyr)
+|
+|t:|1677785129
+|start
+|switch|p1a: Corsola|Corsola-Galar, F|100/100
+|switch|p2a: Blaziken|Blaziken, F|100/100
+|turn|1
+|
+|t:|1677785138
+|move|p2a: Blaziken|Swords Dance|p2a: Blaziken
+|-boost|p2a: Blaziken|atk|2
+|move|p1a: Corsola|Stealth Rock|p2a: Blaziken
+|-sidestart|p2: qq290572945|move: Stealth Rock
+|
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|turn|2
+|
+|t:|1677785146
+|move|p2a: Blaziken|Swords Dance|p2a: Blaziken
+|-boost|p2a: Blaziken|atk|2
+|move|p1a: Corsola|Strength Sap|p2a: Blaziken
+|-unboost|p2a: Blaziken|atk|1
+|
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|turn|3
+|
+|t:|1677785156
+|move|p2a: Blaziken|Swords Dance|p2a: Blaziken
+|-boost|p2a: Blaziken|atk|2
+|move|p1a: Corsola|Strength Sap|p2a: Blaziken
+|-unboost|p2a: Blaziken|atk|1
+|
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|turn|4
+|
+|t:|1677785166
+|move|p2a: Blaziken|Swords Dance|p2a: Blaziken
+|-boost|p2a: Blaziken|atk|2
+|move|p1a: Corsola|Strength Sap|p2a: Blaziken
+|-unboost|p2a: Blaziken|atk|1
+|
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|turn|5
+|
+|t:|1677785175
+|move|p2a: Blaziken|Blaze Kick|p1a: Corsola
+|-crit|p1a: Corsola
+|-damage|p1a: Corsola|0 fnt
+|faint|p1a: Corsola
+|
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|
+|t:|1677785183
+|switch|p1a: Ditto|Ditto|100/100
+|-transform|p1a: Ditto|p2a: Blaziken|[from] ability: Imposter
+|turn|6
+|
+|t:|1677785194
+|move|p2a: Blaziken|Protect|p2a: Blaziken
+|-singleturn|p2a: Blaziken|Protect
+|move|p1a: Ditto|Blaze Kick|p2a: Blaziken
+|-activate|p2a: Blaziken|move: Protect
+|
+|-ability|p1a: Ditto|Speed Boost|boost
+|-boost|p1a: Ditto|spe|1
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|turn|7
+|
+|t:|1677785204
+|move|p1a: Ditto|Blaze Kick|p2a: Blaziken|[miss]
+|-miss|p1a: Ditto|p2a: Blaziken
+|move|p2a: Blaziken|Reversal|p1a: Ditto
+|-damage|p1a: Ditto|49/100
+|
+|upkeep
+|turn|8
+|
+|t:|1677785213
+|move|p1a: Ditto|Blaze Kick|p2a: Blaziken
+|-resisted|p2a: Blaziken
+|-enditem|p2a: Blaziken|Focus Sash
+|-damage|p2a: Blaziken|1/100
+|move|p2a: Blaziken|Reversal|p1a: Ditto
+|-damage|p1a: Ditto|0 fnt
+|faint|p1a: Ditto
+|
+|upkeep
+|
+|t:|1677785224
+|switch|p1a: Toxapex|Toxapex, M|100/100
+|turn|9
+|
+|t:|1677785227
+|move|p2a: Blaziken|Reversal|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|0 fnt
+|faint|p1a: Toxapex
+|
+|upkeep
+|-message|Fredefyr forfeited.
+|
+|win|qq290572945
+|raw|Fredefyr's rating: 1313 &rarr; <strong>1293</strong><br />(-20 for losing)
+|raw|qq290572945's rating: 1310 &rarr; <strong>1330</strong><br />(+20 for winning)
+|l|☆Fredefyr

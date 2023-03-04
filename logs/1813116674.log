@@ -1,0 +1,306 @@
+|j|☆xuian
+|j|☆Diegocoostaa
+|t:|1677837485
+|gametype|singles
+|player|p1|xuian|169|1246
+|player|p2|Diegocoostaa|acetrainersnow|1458
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Garchomp, F|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Rotom-Wash|
+|poke|p1|Celesteela|
+|poke|p1|Clefable, F|
+|poke|p1|Starmie|
+|poke|p2|Victini|
+|poke|p2|Tapu Fini|
+|poke|p2|Kartana|
+|poke|p2|Mandibuzz, F|
+|poke|p2|Zeraora|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|
+|t:|1677837517
+|start
+|switch|p1a: Starmie|Starmie|100/100
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|turn|1
+|
+|t:|1677837552
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|move|p2a: Tapu Fini|Calm Mind|p2a: Tapu Fini
+|-boost|p2a: Tapu Fini|spa|1
+|-boost|p2a: Tapu Fini|spd|1
+|
+|upkeep
+|turn|2
+|
+|t:|1677837570
+|move|p1a: Tornadus|Defog|p2a: Tapu Fini
+|-unboost|p2a: Tapu Fini|evasion|1
+|-fieldend|Misty Terrain
+|move|p2a: Tapu Fini|Calm Mind|p2a: Tapu Fini
+|-boost|p2a: Tapu Fini|spa|1
+|-boost|p2a: Tapu Fini|spd|1
+|
+|upkeep
+|turn|3
+|
+|t:|1677837583
+|move|p1a: Tornadus|Hurricane|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|80/100
+|-start|p2a: Tapu Fini|confusion
+|-activate|p2a: Tapu Fini|confusion
+|move|p2a: Tapu Fini|Surf|p1a: Tornadus
+|-damage|p1a: Tornadus|25/100
+|
+|-heal|p2a: Tapu Fini|86/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1677837595
+|switch|p1a: Rotom|Rotom-Wash|100/100
+|-activate|p2a: Tapu Fini|confusion
+|-damage|p2a: Tapu Fini|82/100|[from] confusion
+|
+|-heal|p2a: Tapu Fini|88/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1677837606
+|move|p1a: Rotom|Thunderbolt|p2a: Tapu Fini
+|-supereffective|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|59/100
+|-end|p2a: Tapu Fini|confusion
+|move|p2a: Tapu Fini|Draining Kiss|p1a: Rotom
+|-damage|p1a: Rotom|65/100
+|-heal|p2a: Tapu Fini|80/100|[from] drain|[of] p1a: Rotom
+|
+|-heal|p2a: Tapu Fini|86/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1677837620
+|move|p1a: Rotom|Thunderbolt|p2a: Tapu Fini
+|-supereffective|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|54/100
+|move|p2a: Tapu Fini|Surf|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|30/100
+|
+|-heal|p2a: Tapu Fini|60/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1677837631
+|switch|p1a: Garchomp|Garchomp, F|100/100
+|move|p2a: Tapu Fini|Draining Kiss|p1a: Garchomp
+|-supereffective|p1a: Garchomp
+|-damage|p1a: Garchomp|30/100
+|-heal|p2a: Tapu Fini|100/100|[from] drain|[of] p1a: Garchomp
+|-damage|p2a: Tapu Fini|88/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|
+|-heal|p2a: Tapu Fini|94/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1677837643
+|move|p1a: Garchomp|Scale Shot|p2a: Tapu Fini
+|-immune|p2a: Tapu Fini
+|move|p2a: Tapu Fini|Draining Kiss|p1a: Garchomp
+|-supereffective|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|-heal|p2a: Tapu Fini|100/100|[from] drain|[of] p1a: Garchomp
+|-damage|p2a: Tapu Fini|88/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|faint|p1a: Garchomp
+|
+|-heal|p2a: Tapu Fini|94/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1677837663
+|switch|p1a: Celesteela|Celesteela|100/100
+|turn|9
+|
+|t:|1677837670
+|move|p2a: Tapu Fini|Taunt|p1a: Celesteela
+|-start|p1a: Celesteela|move: Taunt
+|move|p1a: Celesteela|Flamethrower|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|90/100
+|
+|-heal|p2a: Tapu Fini|96/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1677837682
+|move|p2a: Tapu Fini|Surf|p1a: Celesteela
+|-damage|p1a: Celesteela|59/100
+|move|p1a: Celesteela|Earthquake|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|81/100
+|
+|-heal|p2a: Tapu Fini|87/100|[from] item: Leftovers
+|-heal|p1a: Celesteela|65/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1677837694
+|switch|p1a: Starmie|Starmie|100/100
+|move|p2a: Tapu Fini|Surf|p1a: Starmie
+|-resisted|p1a: Starmie
+|-damage|p1a: Starmie|57/100
+|
+|-heal|p2a: Tapu Fini|93/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1677837706
+|switch|p1a: Celesteela|Celesteela|65/100
+|move|p2a: Tapu Fini|Draining Kiss|p1a: Celesteela
+|-resisted|p1a: Celesteela
+|-damage|p1a: Celesteela|55/100
+|-heal|p2a: Tapu Fini|100/100|[from] drain|[of] p1a: Celesteela
+|
+|-heal|p1a: Celesteela|61/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1677837719
+|switch|p1a: Tornadus|Tornadus-Therian, M|58/100
+|move|p2a: Tapu Fini|Taunt|p1a: Tornadus
+|-start|p1a: Tornadus|move: Taunt
+|
+|upkeep
+|turn|14
+|
+|t:|1677837728
+|switch|p1a: Rotom|Rotom-Wash|30/100
+|move|p2a: Tapu Fini|Calm Mind|p2a: Tapu Fini
+|-boost|p2a: Tapu Fini|spa|1
+|-boost|p2a: Tapu Fini|spd|1
+|
+|upkeep
+|turn|15
+|
+|t:|1677837735
+|move|p1a: Rotom|Volt Switch|p2a: Tapu Fini
+|-supereffective|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|82/100
+|
+|t:|1677837741
+|switch|p1a: Clefable|Clefable, F|100/100|[from] Volt Switch
+|move|p2a: Tapu Fini|Draining Kiss|p1a: Clefable
+|-damage|p1a: Clefable|84/100
+|-heal|p2a: Tapu Fini|96/100|[from] drain|[of] p1a: Clefable
+|-damage|p2a: Tapu Fini|80/100|[from] item: Rocky Helmet|[of] p1a: Clefable
+|
+|-heal|p2a: Tapu Fini|86/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1677837753
+|move|p2a: Tapu Fini|Taunt|p1a: Clefable
+|-start|p1a: Clefable|move: Taunt
+|move|p1a: Clefable|Moonblast|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|61/100
+|
+|-heal|p2a: Tapu Fini|67/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1677837768
+|move|p2a: Tapu Fini|Surf|p1a: Clefable
+|-damage|p1a: Clefable|57/100
+|move|p1a: Clefable|Moonblast|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|42/100
+|
+|-heal|p2a: Tapu Fini|48/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1677837781
+|move|p2a: Tapu Fini|Surf|p1a: Clefable
+|-damage|p1a: Clefable|27/100
+|move|p1a: Clefable|Moonblast|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|23/100
+|
+|-heal|p2a: Tapu Fini|29/100|[from] item: Leftovers
+|-end|p1a: Clefable|move: Taunt
+|upkeep
+|turn|19
+|
+|t:|1677837795
+|switch|p1a: Tornadus|Tornadus-Therian, M|91/100
+|move|p2a: Tapu Fini|Surf|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|
+|-heal|p2a: Tapu Fini|35/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1677837812
+|switch|p1a: Clefable|Clefable, F|27/100
+|turn|20
+|
+|t:|1677837817
+|switch|p1a: Starmie|Starmie|57/100
+|move|p2a: Tapu Fini|Surf|p1a: Starmie
+|-resisted|p1a: Starmie
+|-damage|p1a: Starmie|0 fnt
+|faint|p1a: Starmie
+|
+|-heal|p2a: Tapu Fini|41/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1677837828
+|switch|p1a: Celesteela|Celesteela|61/100
+|turn|21
+|
+|t:|1677837832
+|move|p2a: Tapu Fini|Taunt|p1a: Celesteela
+|-start|p1a: Celesteela|move: Taunt
+|move|p1a: Celesteela|Flamethrower|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|37/100
+|
+|-heal|p2a: Tapu Fini|44/100|[from] item: Leftovers
+|-heal|p1a: Celesteela|67/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1677837844
+|move|p2a: Tapu Fini|Surf|p1a: Celesteela
+|-damage|p1a: Celesteela|16/100
+|move|p1a: Celesteela|Earthquake|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|27/100
+|
+|-heal|p2a: Tapu Fini|33/100|[from] item: Leftovers
+|-heal|p1a: Celesteela|22/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1677837863
+|move|p2a: Tapu Fini|Surf|p1a: Celesteela
+|-damage|p1a: Celesteela|0 fnt
+|faint|p1a: Celesteela
+|
+|-heal|p2a: Tapu Fini|39/100|[from] item: Leftovers
+|upkeep
+|-message|xuian forfeited.
+|
+|win|Diegocoostaa
+|raw|xuian's rating: 1246 &rarr; <strong>1235</strong><br />(-11 for losing)
+|raw|Diegocoostaa's rating: 1458 &rarr; <strong>1467</strong><br />(+9 for winning)
+|l|☆xuian

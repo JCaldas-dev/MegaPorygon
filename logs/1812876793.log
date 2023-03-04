@@ -1,0 +1,437 @@
+|j|☆Raulxyh
+|j|☆Shalzar69
+|t:|1677805442
+|gametype|singles
+|player|p1|Raulxyh|blackbelt|1000
+|player|p2|Shalzar69|169|1050
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Toxapex, F|
+|poke|p1|Metagross|
+|poke|p1|Krookodile, F|
+|poke|p1|Volcarona, M|
+|poke|p1|Dragapult, F|
+|poke|p1|Zeraora|
+|poke|p2|Aerodactyl, M|
+|poke|p2|Conkeldurr, F|
+|poke|p2|Bisharp, F|
+|poke|p2|Volcarona, M|
+|poke|p2|Rotom-Wash|
+|poke|p2|Dragonite, M|
+|teampreview
+|
+|t:|1677805456
+|start
+|switch|p1a: Krookodile|Krookodile, F|100/100
+|switch|p2a: Aerodactyl|Aerodactyl, M|100/100
+|-ability|p1a: Krookodile|Intimidate|boost
+|-unboost|p2a: Aerodactyl|atk|1
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Raulxyh)
+|
+|t:|1677805476
+|switch|p2a: Volcarona|Volcarona, M|100/100
+|move|p1a: Krookodile|Aqua Tail|p2a: Volcarona
+|-supereffective|p2a: Volcarona
+|-damage|p2a: Volcarona|5/100
+|
+|upkeep
+|turn|2
+|
+|t:|1677805488
+|move|p2a: Volcarona|Giga Drain|p1a: Krookodile
+|-supereffective|p1a: Krookodile
+|-damage|p1a: Krookodile|25/100
+|-heal|p2a: Volcarona|46/100|[from] drain|[of] p1a: Krookodile
+|move|p1a: Krookodile|Aqua Tail|p2a: Volcarona|[miss]
+|-miss|p1a: Krookodile|p2a: Volcarona
+|
+|upkeep
+|turn|3
+|
+|t:|1677805499
+|move|p2a: Volcarona|Giga Drain|p1a: Krookodile
+|-supereffective|p1a: Krookodile
+|-damage|p1a: Krookodile|0 fnt
+|-heal|p2a: Volcarona|59/100|[from] drain|[of] p1a: Krookodile
+|faint|p1a: Krookodile
+|
+|upkeep
+|
+|t:|1677805506
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|turn|4
+|
+|t:|1677805521
+|move|p2a: Volcarona|Wild Charge|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|86/100
+|-damage|p2a: Volcarona|55/100|[from] Recoil
+|move|p1a: Toxapex|Toxic|p2a: Volcarona
+|-status|p2a: Volcarona|tox
+|-enditem|p2a: Volcarona|Lum Berry|[eat]
+|-curestatus|p2a: Volcarona|tox|[msg]
+|
+|upkeep
+|turn|5
+|
+|t:|1677805536
+|switch|p1a: Volcarona|Volcarona, M|100/100
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|
+|upkeep
+|turn|6
+|
+|t:|1677805555
+|switch|p1a: Zeraora|Zeraora|100/100
+|-item|p1a: Zeraora|Air Balloon
+|move|p2a: Volcarona|Giga Drain|p1a: Zeraora
+|-damage|p1a: Zeraora|51/100
+|-heal|p2a: Volcarona|81/100|[from] drain|[of] p1a: Zeraora
+|-enditem|p1a: Zeraora|Air Balloon
+|
+|upkeep
+|turn|7
+|
+|t:|1677805578
+|move|p2a: Volcarona|Giga Drain|p1a: Zeraora
+|-damage|p1a: Zeraora|3/100
+|-heal|p2a: Volcarona|100/100|[from] drain|[of] p1a: Zeraora
+|move|p1a: Zeraora|Acrobatics|p2a: Volcarona
+|-supereffective|p2a: Volcarona
+|-damage|p2a: Volcarona|0 fnt
+|-status|p1a: Zeraora|brn|[from] ability: Flame Body|[of] p2a: Volcarona
+|faint|p2a: Volcarona
+|
+|-damage|p1a: Zeraora|0 fnt|[from] brn
+|faint|p1a: Zeraora
+|upkeep
+|inactive|Shalzar69 has 120 seconds left.
+|
+|t:|1677805595
+|switch|p1a: Volcarona|Volcarona, M|100/100
+|switch|p2a: Bisharp|Bisharp, F|100/100
+|turn|8
+|inactive|Shalzar69 has 120 seconds left.
+|
+|t:|1677805609
+|move|p2a: Bisharp|Sucker Punch||[still]
+|-fail|p2a: Bisharp
+|move|p1a: Volcarona|Quiver Dance|p1a: Volcarona
+|-boost|p1a: Volcarona|spa|1
+|-boost|p1a: Volcarona|spd|1
+|-boost|p1a: Volcarona|spe|1
+|
+|upkeep
+|turn|9
+|
+|t:|1677805619
+|move|p2a: Bisharp|Sucker Punch||[still]
+|-fail|p2a: Bisharp
+|move|p1a: Volcarona|Quiver Dance|p1a: Volcarona
+|-boost|p1a: Volcarona|spa|1
+|-boost|p1a: Volcarona|spd|1
+|-boost|p1a: Volcarona|spe|1
+|
+|upkeep
+|turn|10
+|
+|t:|1677805628
+|move|p1a: Volcarona|Quiver Dance|p1a: Volcarona
+|-boost|p1a: Volcarona|spa|1
+|-boost|p1a: Volcarona|spd|1
+|-boost|p1a: Volcarona|spe|1
+|move|p2a: Bisharp|Iron Head|p1a: Volcarona
+|-resisted|p1a: Volcarona
+|-damage|p1a: Volcarona|73/100
+|-damage|p2a: Bisharp|91/100|[from] item: Life Orb
+|
+|upkeep
+|turn|11
+|
+|t:|1677805639
+|move|p1a: Volcarona|Quiver Dance|p1a: Volcarona
+|-boost|p1a: Volcarona|spa|1
+|-boost|p1a: Volcarona|spd|1
+|-boost|p1a: Volcarona|spe|1
+|move|p2a: Bisharp|Knock Off|p1a: Volcarona
+|-damage|p1a: Volcarona|10/100
+|-status|p2a: Bisharp|brn|[from] ability: Flame Body|[of] p1a: Volcarona
+|-enditem|p1a: Volcarona|Focus Sash|[from] move: Knock Off|[of] p2a: Bisharp
+|-damage|p2a: Bisharp|81/100 brn|[from] item: Life Orb
+|
+|-damage|p2a: Bisharp|75/100 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1677805656
+|move|p2a: Bisharp|Sucker Punch|p1a: Volcarona
+|-crit|p1a: Volcarona
+|-damage|p1a: Volcarona|0 fnt
+|faint|p1a: Volcarona
+|-damage|p2a: Bisharp|65/100 brn|[from] item: Life Orb
+|
+|-damage|p2a: Bisharp|59/100 brn|[from] brn
+|upkeep
+|
+|t:|1677805669
+|switch|p1a: Metagross|Metagross|100/100
+|turn|13
+|
+|t:|1677805679
+|move|p2a: Bisharp|Sucker Punch|p1a: Metagross
+|-supereffective|p1a: Metagross
+|-damage|p1a: Metagross|50/100
+|-damage|p2a: Bisharp|49/100 brn|[from] item: Life Orb
+|move|p1a: Metagross|Earthquake|p2a: Bisharp
+|-supereffective|p2a: Bisharp
+|-damage|p2a: Bisharp|0 fnt
+|faint|p2a: Bisharp
+|
+|upkeep
+|
+|t:|1677805689
+|switch|p2a: Conkeldurr|Conkeldurr, F|100/100
+|turn|14
+|
+|t:|1677805703
+|move|p1a: Metagross|Earthquake|p2a: Conkeldurr
+|-damage|p2a: Conkeldurr|64/100
+|move|p2a: Conkeldurr|Drain Punch|p1a: Metagross
+|-damage|p1a: Metagross|12/100
+|-heal|p2a: Conkeldurr|79/100|[from] drain|[of] p1a: Metagross
+|
+|-status|p2a: Conkeldurr|brn|[from] item: Flame Orb
+|upkeep
+|turn|15
+|
+|t:|1677805715
+|move|p2a: Conkeldurr|Mach Punch|p1a: Metagross
+|-crit|p1a: Metagross
+|-damage|p1a: Metagross|0 fnt
+|faint|p1a: Metagross
+|
+|-damage|p2a: Conkeldurr|73/100 brn|[from] brn
+|upkeep
+|
+|t:|1677805722
+|switch|p1a: Toxapex|Toxapex, F|86/100
+|turn|16
+|
+|t:|1677805740
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|move|p2a: Conkeldurr|Drain Punch|p1a: Dragapult
+|-immune|p1a: Dragapult
+|
+|-damage|p2a: Conkeldurr|67/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1677805753
+|move|p1a: Dragapult|Psychic Fangs|p2a: Conkeldurr
+|-supereffective|p2a: Conkeldurr
+|-damage|p2a: Conkeldurr|24/100 brn
+|move|p2a: Conkeldurr|Ice Punch|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|-damage|p2a: Conkeldurr|18/100 brn|[from] brn
+|upkeep
+|
+|t:|1677805761
+|switch|p1a: Toxapex|Toxapex, F|86/100
+|turn|18
+|
+|t:|1677805766
+|move|p2a: Conkeldurr|Drain Punch|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|66/100
+|-heal|p2a: Conkeldurr|26/100 brn|[from] drain|[of] p1a: Toxapex
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|100/100
+|
+|-damage|p2a: Conkeldurr|20/100 brn|[from] brn
+|upkeep
+|turn|19
+|
+|t:|1677805777
+|move|p1a: Toxapex|Baneful Bunker|p1a: Toxapex
+|-singleturn|p1a: Toxapex|move: Protect
+|move|p2a: Conkeldurr|Facade|p1a: Toxapex
+|-activate|p1a: Toxapex|move: Protect
+|
+|-damage|p2a: Conkeldurr|14/100 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1677805788
+|move|p2a: Conkeldurr|Facade|p1a: Toxapex
+|-damage|p1a: Toxapex|54/100
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|100/100
+|
+|-damage|p2a: Conkeldurr|8/100 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1677805800
+|move|p1a: Toxapex|Baneful Bunker|p1a: Toxapex
+|-singleturn|p1a: Toxapex|move: Protect
+|move|p2a: Conkeldurr|Mach Punch|p1a: Toxapex
+|-activate|p1a: Toxapex|move: Protect
+|
+|-damage|p2a: Conkeldurr|2/100 brn|[from] brn
+|upkeep
+|turn|22
+|
+|t:|1677805807
+|move|p2a: Conkeldurr|Mach Punch|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|89/100
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|100/100
+|
+|-damage|p2a: Conkeldurr|0 fnt|[from] brn
+|faint|p2a: Conkeldurr
+|upkeep
+|
+|t:|1677805823
+|switch|p2a: Aerodactyl|Aerodactyl, M|100/100
+|turn|23
+|
+|t:|1677805829
+|move|p2a: Aerodactyl|Earthquake|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|63/100
+|move|p1a: Toxapex|Toxic|p2a: Aerodactyl
+|-status|p2a: Aerodactyl|tox
+|
+|-damage|p2a: Aerodactyl|95/100 tox|[from] psn
+|upkeep
+|turn|24
+|
+|t:|1677805842
+|move|p2a: Aerodactyl|Earthquake|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|28/100
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|78/100
+|
+|-damage|p2a: Aerodactyl|83/100 tox|[from] psn
+|upkeep
+|turn|25
+|
+|t:|1677805851
+|move|p1a: Toxapex|Baneful Bunker|p1a: Toxapex
+|-singleturn|p1a: Toxapex|move: Protect
+|move|p2a: Aerodactyl|Earthquake|p1a: Toxapex
+|-activate|p1a: Toxapex|move: Protect
+|
+|-damage|p2a: Aerodactyl|65/100 tox|[from] psn
+|upkeep
+|turn|26
+|
+|t:|1677805861
+|move|p2a: Aerodactyl|Earthquake|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|42/100
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|92/100
+|
+|-damage|p2a: Aerodactyl|41/100 tox|[from] psn
+|upkeep
+|turn|27
+|
+|t:|1677805874
+|switch|p2a: Rotom|Rotom-Wash|100/100
+|move|p1a: Toxapex|Baneful Bunker||[still]
+|-fail|p1a: Toxapex
+|
+|upkeep
+|turn|28
+|
+|t:|1677805888
+|move|p2a: Rotom|Trick|p1a: Toxapex
+|-activate|p2a: Rotom|move: Trick|[of] p1a: Toxapex
+|-item|p1a: Toxapex|Choice Scarf|[from] move: Trick
+|-item|p2a: Rotom|Focus Sash|[from] move: Trick
+|move|p1a: Toxapex|Toxic|p2a: Rotom
+|-status|p2a: Rotom|tox
+|
+|-damage|p2a: Rotom|95/100 tox|[from] psn
+|upkeep
+|turn|29
+|
+|t:|1677805899
+|move|p2a: Rotom|Hydro Pump|p1a: Toxapex|[miss]
+|-miss|p2a: Rotom|p1a: Toxapex
+|move|p1a: Toxapex|Toxic|p2a: Rotom
+|-fail|p2a: Rotom|tox
+|
+|-damage|p2a: Rotom|83/100 tox|[from] psn
+|upkeep
+|turn|30
+|
+|t:|1677805908
+|move|p2a: Rotom|Hydro Pump|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|75/100
+|move|p1a: Toxapex|Toxic|p2a: Rotom
+|-fail|p2a: Rotom|tox
+|
+|-damage|p2a: Rotom|65/100 tox|[from] psn
+|upkeep
+|turn|31
+|
+|t:|1677805918
+|move|p2a: Rotom|Defog|p1a: Toxapex
+|-unboost|p1a: Toxapex|evasion|1
+|move|p1a: Toxapex|Toxic|p2a: Rotom
+|-fail|p2a: Rotom|tox
+|
+|-damage|p2a: Rotom|41/100 tox|[from] psn
+|upkeep
+|turn|32
+|
+|t:|1677805929
+|move|p2a: Rotom|Volt Switch|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|37/100
+|
+|t:|1677805934
+|switch|p2a: Dragonite|Dragonite, M|100/100|[from] Volt Switch
+|move|p1a: Toxapex|Toxic|p2a: Dragonite
+|-status|p2a: Dragonite|tox
+|
+|-damage|p2a: Dragonite|94/100 tox|[from] psn
+|upkeep
+|turn|33
+|
+|t:|1677805943
+|move|p2a: Dragonite|Earthquake|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|0 fnt
+|faint|p1a: Toxapex
+|
+|win|Shalzar69
+|raw|Raulxyh's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|raw|Shalzar69's rating: 1050 &rarr; <strong>1078</strong><br />(+28 for winning)
+|l|☆Raulxyh
+|c|☆Shalzar69|ggs
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

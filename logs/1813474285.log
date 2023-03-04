@@ -1,0 +1,795 @@
+|j|☆ei weiwei
+|j|☆Betyoudam
+|t:|1677873102
+|gametype|singles
+|player|p1|ei weiwei|pokekid|1114
+|player|p2|Betyoudam|ethan|1079
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Rapidash, F|
+|poke|p1|Decidueye, M|
+|poke|p1|Swampert, F|
+|poke|p1|Luxray, M|
+|poke|p1|Rotom|
+|poke|p1|Togekiss, M|
+|poke|p2|Decidueye, M|
+|poke|p2|Vikavolt, M|
+|poke|p2|Persian-Alola, F|
+|poke|p2|Toxapex, M|
+|poke|p2|Mudsdale, M|
+|poke|p2|Turtonator, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Betyoudam)
+|
+|t:|1677873141
+|start
+|switch|p1a: Yabadabadoo|Rapidash, F, shiny|100/100
+|switch|p2a: Turtonator|Turtonator, M|100/100
+|turn|1
+|
+|t:|1677873151
+|move|p1a: Yabadabadoo|Drill Run|p2a: Turtonator
+|-supereffective|p2a: Turtonator
+|-damage|p2a: Turtonator|53/100
+|move|p2a: Turtonator|Shell Smash|p2a: Turtonator
+|-unboost|p2a: Turtonator|def|1
+|-unboost|p2a: Turtonator|spd|1
+|-boost|p2a: Turtonator|atk|2
+|-boost|p2a: Turtonator|spa|2
+|-boost|p2a: Turtonator|spe|2
+|
+|-heal|p2a: Turtonator|59/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1677873171
+|move|p2a: Turtonator|Dragon Pulse|p1a: Yabadabadoo
+|-damage|p1a: Yabadabadoo|7/100
+|move|p1a: Yabadabadoo|Drill Run|p2a: Turtonator
+|-supereffective|p2a: Turtonator
+|-damage|p2a: Turtonator|0 fnt
+|faint|p2a: Turtonator
+|
+|upkeep
+|
+|t:|1677873183
+|switch|p2a: Mudsdale|Mudsdale, M|100/100
+|turn|3
+|
+|t:|1677873189
+|switch|p1a: Rotom|Rotom|100/100
+|move|p2a: Mudsdale|Body Press|p1a: Rotom
+|-immune|p1a: Rotom
+|
+|upkeep
+|turn|4
+|
+|t:|1677873214
+|switch|p2a: Vikavolt|Vikavolt, M|100/100
+|move|p1a: Rotom|Will-O-Wisp|p2a: Vikavolt
+|-status|p2a: Vikavolt|brn
+|
+|-damage|p2a: Vikavolt|94/100 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1677873235
+|switch|p1a: Decidueye|Decidueye, M|100/100
+|move|p2a: Vikavolt|Sticky Web|p1a: Decidueye
+|-sidestart|p1: ei weiwei|move: Sticky Web
+|
+|-damage|p2a: Vikavolt|88/100 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1677873245
+|move|p1a: Decidueye|Swords Dance|p1a: Decidueye
+|-boost|p1a: Decidueye|atk|2
+|move|p2a: Vikavolt|Bug Buzz|p1a: Decidueye
+|-damage|p1a: Decidueye|60/100
+|
+|-heal|p1a: Decidueye|66/100|[from] item: Leftovers
+|-damage|p2a: Vikavolt|82/100 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1677873254
+|move|p1a: Decidueye|Brave Bird|p2a: Vikavolt
+|-damage|p2a: Vikavolt|32/100 brn
+|-damage|p1a: Decidueye|50/100|[from] Recoil
+|move|p2a: Vikavolt|Toxic|p1a: Decidueye
+|-status|p1a: Decidueye|tox
+|
+|-heal|p1a: Decidueye|56/100 tox|[from] item: Leftovers
+|-damage|p1a: Decidueye|50/100 tox|[from] psn
+|-damage|p2a: Vikavolt|26/100 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1677873265
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|move|p1a: Decidueye|Leaf Blade|p2a: Toxapex
+|-damage|p2a: Toxapex|50/100
+|
+|-heal|p1a: Decidueye|56/100 tox|[from] item: Leftovers
+|-heal|p2a: Toxapex|56/100|[from] item: Leftovers
+|-damage|p1a: Decidueye|43/100 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1677873273
+|move|p2a: Toxapex|Baneful Bunker|p2a: Toxapex
+|-singleturn|p2a: Toxapex|move: Protect
+|move|p1a: Decidueye|Poltergeist|p2a: Toxapex
+|-activate|p2a: Toxapex|move: Protect
+|
+|-heal|p1a: Decidueye|50/100 tox|[from] item: Leftovers
+|-heal|p2a: Toxapex|62/100|[from] item: Leftovers
+|-damage|p1a: Decidueye|31/100 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1677873281
+|move|p1a: Decidueye|Poltergeist|p2a: Toxapex
+|-activate|p2a: Toxapex|move: Poltergeist|Leftovers
+|-damage|p2a: Toxapex|7/100
+|move|p2a: Toxapex|Knock Off|p1a: Decidueye
+|-supereffective|p1a: Decidueye
+|-damage|p1a: Decidueye|0 fnt
+|-enditem|p1a: Decidueye|Leftovers|[from] move: Knock Off|[of] p2a: Toxapex
+|faint|p1a: Decidueye
+|
+|-heal|p2a: Toxapex|13/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1677873288
+|switch|p1a: Togekiss|Togekiss, M|100/100
+|turn|11
+|
+|t:|1677873296
+|move|p2a: Toxapex|Baneful Bunker|p2a: Toxapex
+|-singleturn|p2a: Toxapex|move: Protect
+|move|p1a: Togekiss|Tailwind|p1a: Togekiss
+|-sidestart|p1: ei weiwei|move: Tailwind
+|
+|-heal|p2a: Toxapex|19/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1677873303
+|switch|p2a: Vikavolt|Vikavolt, M|26/100 brn
+|move|p1a: Togekiss|Psyshock|p2a: Vikavolt
+|-damage|p2a: Vikavolt|7/100 brn
+|
+|-damage|p2a: Vikavolt|1/100 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1677873313
+|move|p1a: Togekiss|Dazzling Gleam|p2a: Vikavolt
+|-damage|p2a: Vikavolt|0 fnt
+|faint|p2a: Vikavolt
+|
+|upkeep
+|
+|t:|1677873318
+|switch|p2a: Persian|Persian-Alola, F|100/100
+|turn|14
+|
+|t:|1677873329
+|move|p2a: Persian|Fake Out|p1a: Togekiss
+|-damage|p1a: Togekiss|90/100
+|cant|p1a: Togekiss|flinch
+|
+|-heal|p1a: Togekiss|96/100|[from] item: Leftovers
+|-sideend|p1: ei weiwei|move: Tailwind
+|upkeep
+|turn|15
+|
+|t:|1677873338
+|move|p2a: Persian|Parting Shot|p1a: Togekiss
+|-unboost|p1a: Togekiss|atk|1
+|-unboost|p1a: Togekiss|spa|1
+|
+|t:|1677873346
+|switch|p2a: Toxapex|Toxapex, M|52/100|[from] Parting Shot
+|move|p1a: Togekiss|Yawn|p2a: Toxapex
+|-start|p2a: Toxapex|move: Yawn|[of] p1a: Togekiss
+|
+|-heal|p1a: Togekiss|100/100|[from] item: Leftovers
+|-heal|p2a: Toxapex|59/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1677873356
+|move|p1a: Togekiss|Tailwind|p1a: Togekiss
+|-sidestart|p1: ei weiwei|move: Tailwind
+|move|p2a: Toxapex|Toxic Spikes|p1a: Togekiss
+|-sidestart|p1: ei weiwei|move: Toxic Spikes
+|
+|-heal|p2a: Toxapex|65/100|[from] item: Leftovers
+|-end|p2a: Toxapex|move: Yawn|[silent]
+|-status|p2a: Toxapex|slp
+|upkeep
+|turn|17
+|
+|t:|1677873366
+|move|p1a: Togekiss|Psyshock|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|41/100 slp
+|cant|p2a: Toxapex|slp
+|
+|-heal|p2a: Toxapex|48/100 slp|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1677873384
+|switch|p1a: Rotom|Rotom|100/100
+|cant|p2a: Toxapex|slp
+|
+|-heal|p2a: Toxapex|54/100 slp|[from] item: Leftovers
+|upkeep
+|turn|19
+|inactive|ei weiwei has 120 seconds left.
+|
+|t:|1677873414
+|move|p1a: Rotom|Shadow Ball|p2a: Toxapex
+|-damage|p2a: Toxapex|26/100 slp
+|cant|p2a: Toxapex|slp
+|
+|-heal|p2a: Toxapex|32/100 slp|[from] item: Leftovers
+|-sideend|p1: ei weiwei|move: Tailwind
+|upkeep
+|turn|20
+|
+|t:|1677873422
+|-curestatus|p2a: Toxapex|slp|[msg]
+|move|p2a: Toxapex|Baneful Bunker|p2a: Toxapex
+|-singleturn|p2a: Toxapex|move: Protect
+|move|p1a: Rotom|Shadow Ball|p2a: Toxapex
+|-activate|p2a: Toxapex|move: Protect
+|
+|-heal|p2a: Toxapex|38/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1677873431
+|move|p1a: Rotom|Shadow Ball|p2a: Toxapex
+|-damage|p2a: Toxapex|8/100
+|move|p2a: Toxapex|Knock Off|p1a: Rotom
+|-supereffective|p1a: Rotom
+|-damage|p1a: Rotom|52/100
+|-enditem|p1a: Rotom|Choice Scarf|[from] move: Knock Off|[of] p2a: Toxapex
+|
+|-heal|p2a: Toxapex|15/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1677873445
+|switch|p2a: Persian|Persian-Alola, F|100/100
+|move|p1a: Rotom|Shadow Ball|p2a: Persian
+|-resisted|p2a: Persian
+|-damage|p2a: Persian|66/100
+|-ability|p2a: Persian|Rattled|boost
+|-boost|p2a: Persian|spe|1
+|
+|-heal|p2a: Persian|72/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1677873461
+|move|p2a: Persian|Dark Pulse|p1a: Rotom
+|-supereffective|p1a: Rotom
+|-damage|p1a: Rotom|0 fnt
+|faint|p1a: Rotom
+|
+|-heal|p2a: Persian|78/100|[from] item: Leftovers
+|upkeep
+|inactive|ei weiwei has 120 seconds left.
+|
+|t:|1677873478
+|switch|p1a: Swampert|Swampert, F, shiny|100/100
+|-activate|p1a: Swampert|move: Sticky Web
+|-unboost|p1a: Swampert|spe|1
+|-status|p1a: Swampert|psn
+|turn|24
+|inactive|ei weiwei has 120 seconds left.
+|
+|t:|1677873501
+|move|p2a: Persian|Parting Shot|p1a: Swampert
+|-unboost|p1a: Swampert|atk|1
+|-unboost|p1a: Swampert|spa|1
+|
+|t:|1677873503
+|switch|p2a: Toxapex|Toxapex, M|48/100|[from] Parting Shot
+|move|p1a: Swampert|Liquidation|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|40/100
+|-unboost|p2a: Toxapex|def|1
+|
+|-heal|p2a: Toxapex|46/100|[from] item: Leftovers
+|-damage|p1a: Swampert|88/100 psn|[from] psn
+|upkeep
+|turn|25
+|inactive|ei weiwei has 120 seconds left.
+|
+|t:|1677873513
+|switch|p1a: Togekiss|Togekiss, M|100/100
+|move|p2a: Toxapex|Baneful Bunker||[still]
+|-fail|p2a: Toxapex
+|
+|-heal|p2a: Toxapex|52/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|inactive|ei weiwei has 120 seconds left.
+|
+|t:|1677873523
+|move|p1a: Togekiss|Tailwind|p1a: Togekiss
+|-sidestart|p1: ei weiwei|move: Tailwind
+|move|p2a: Toxapex|Knock Off|p1a: Togekiss
+|-resisted|p1a: Togekiss
+|-damage|p1a: Togekiss|93/100
+|-enditem|p1a: Togekiss|Leftovers|[from] move: Knock Off|[of] p2a: Toxapex
+|
+|-heal|p2a: Toxapex|58/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1677873537
+|move|p1a: Togekiss|Yawn|p2a: Toxapex
+|-start|p2a: Toxapex|move: Yawn|[of] p1a: Togekiss
+|move|p2a: Toxapex|Toxic Spikes|p1a: Togekiss
+|-sidestart|p1: ei weiwei|move: Toxic Spikes
+|
+|-heal|p2a: Toxapex|65/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1677873547
+|switch|p2a: Mudsdale|Mudsdale, M|100/100
+|move|p1a: Togekiss|Psyshock|p2a: Mudsdale
+|-damage|p2a: Mudsdale|78/100
+|-ability|p2a: Mudsdale|Stamina|boost
+|-boost|p2a: Mudsdale|def|1
+|
+|-heal|p2a: Mudsdale|84/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1677873556
+|move|p1a: Togekiss|Yawn|p2a: Mudsdale
+|-start|p2a: Mudsdale|move: Yawn|[of] p1a: Togekiss
+|move|p2a: Mudsdale|Body Press|p1a: Togekiss
+|-resisted|p1a: Togekiss
+|-damage|p1a: Togekiss|86/100
+|
+|-heal|p2a: Mudsdale|91/100|[from] item: Leftovers
+|-sideend|p1: ei weiwei|move: Tailwind
+|upkeep
+|turn|30
+|
+|t:|1677873566
+|move|p1a: Togekiss|Dazzling Gleam|p2a: Mudsdale
+|-damage|p2a: Mudsdale|65/100
+|-ability|p2a: Mudsdale|Stamina|boost
+|-boost|p2a: Mudsdale|def|1
+|move|p2a: Mudsdale|Body Press|p1a: Togekiss
+|-resisted|p1a: Togekiss
+|-damage|p1a: Togekiss|76/100
+|
+|-heal|p2a: Mudsdale|72/100|[from] item: Leftovers
+|-end|p2a: Mudsdale|move: Yawn|[silent]
+|-status|p2a: Mudsdale|slp
+|upkeep
+|turn|31
+|
+|t:|1677873578
+|move|p1a: Togekiss|Dazzling Gleam|p2a: Mudsdale
+|-damage|p2a: Mudsdale|46/100 slp
+|-ability|p2a: Mudsdale|Stamina|boost
+|-boost|p2a: Mudsdale|def|1
+|cant|p2a: Mudsdale|slp
+|move|p2a: Mudsdale|Sleep Talk|p2a: Mudsdale
+|move|p2a: Mudsdale|Earthquake|p1a: Togekiss|[from]move: Sleep Talk
+|-immune|p1a: Togekiss
+|
+|-heal|p2a: Mudsdale|52/100 slp|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1677873583
+|move|p1a: Togekiss|Dazzling Gleam|p2a: Mudsdale
+|-damage|p2a: Mudsdale|24/100 slp
+|-ability|p2a: Mudsdale|Stamina|boost
+|-boost|p2a: Mudsdale|def|1
+|cant|p2a: Mudsdale|slp
+|move|p2a: Mudsdale|Sleep Talk|p2a: Mudsdale
+|move|p2a: Mudsdale|Body Press|p1a: Togekiss|[from]move: Sleep Talk
+|-resisted|p1a: Togekiss
+|-damage|p1a: Togekiss|61/100
+|
+|-heal|p2a: Mudsdale|30/100 slp|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1677873596
+|switch|p2a: Toxapex|Toxapex, M|98/100
+|move|p1a: Togekiss|Tailwind|p1a: Togekiss
+|-sidestart|p1: ei weiwei|move: Tailwind
+|
+|-heal|p2a: Toxapex|100/100|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1677873606
+|move|p1a: Togekiss|Psyshock|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|71/100
+|move|p2a: Toxapex|Knock Off|p1a: Togekiss
+|-resisted|p1a: Togekiss
+|-damage|p1a: Togekiss|55/100
+|
+|-heal|p2a: Toxapex|77/100|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1677873616
+|move|p1a: Togekiss|Yawn|p2a: Toxapex
+|-start|p2a: Toxapex|move: Yawn|[of] p1a: Togekiss
+|move|p2a: Toxapex|Knock Off|p1a: Togekiss
+|-resisted|p1a: Togekiss
+|-damage|p1a: Togekiss|50/100
+|
+|-heal|p2a: Toxapex|83/100|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1677873624
+|move|p1a: Togekiss|Psyshock|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|52/100
+|move|p2a: Toxapex|Knock Off|p1a: Togekiss
+|-resisted|p1a: Togekiss
+|-damage|p1a: Togekiss|45/100
+|
+|-heal|p2a: Toxapex|58/100|[from] item: Leftovers
+|-end|p2a: Toxapex|move: Yawn|[silent]
+|-message|Sleep Clause Mod activated.
+|-hint|Sleep Clause Mod prevents players from putting more than one of their opponent's Pokémon to sleep at a time
+|-sideend|p1: ei weiwei|move: Tailwind
+|upkeep
+|turn|37
+|
+|t:|1677873653
+|move|p1a: Togekiss|Psyshock|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-crit|p2a: Toxapex
+|-damage|p2a: Toxapex|9/100
+|move|p2a: Toxapex|Knock Off|p1a: Togekiss
+|-resisted|p1a: Togekiss
+|-damage|p1a: Togekiss|40/100
+|
+|-heal|p2a: Toxapex|15/100|[from] item: Leftovers
+|upkeep
+|turn|38
+|
+|t:|1677873671
+|move|p2a: Toxapex|Baneful Bunker|p2a: Toxapex
+|-singleturn|p2a: Toxapex|move: Protect
+|move|p1a: Togekiss|Psyshock|p2a: Toxapex
+|-activate|p2a: Toxapex|move: Protect
+|
+|-heal|p2a: Toxapex|21/100|[from] item: Leftovers
+|upkeep
+|turn|39
+|
+|t:|1677873681
+|switch|p2a: Persian|Persian-Alola, F|78/100
+|move|p1a: Togekiss|Dazzling Gleam|p2a: Persian
+|-supereffective|p2a: Persian
+|-damage|p2a: Persian|0 fnt
+|faint|p2a: Persian
+|
+|upkeep
+|inactive|Betyoudam has 120 seconds left.
+|
+|t:|1677873701
+|switch|p2a: Mudsdale|Mudsdale, M|30/100 slp
+|turn|40
+|inactive|Betyoudam has 120 seconds left.
+|inactive|ei weiwei has 120 seconds left.
+|
+|t:|1677873728
+|move|p1a: Togekiss|Dazzling Gleam|p2a: Mudsdale
+|-damage|p2a: Mudsdale|5/100 slp
+|-ability|p2a: Mudsdale|Stamina|boost
+|-boost|p2a: Mudsdale|def|1
+|cant|p2a: Mudsdale|slp
+|
+|-heal|p2a: Mudsdale|12/100 slp|[from] item: Leftovers
+|upkeep
+|turn|41
+|inactive|ei weiwei has 120 seconds left.
+|inactive|Betyoudam has 120 seconds left.
+|
+|t:|1677873742
+|move|p1a: Togekiss|Dazzling Gleam|p2a: Mudsdale
+|-damage|p2a: Mudsdale|0 fnt
+|faint|p2a: Mudsdale
+|
+|upkeep
+|
+|t:|1677873745
+|switch|p2a: Toxapex|Toxapex, M|54/100
+|turn|42
+|
+|t:|1677873760
+|move|p1a: Togekiss|Yawn|p2a: Toxapex
+|-start|p2a: Toxapex|move: Yawn|[of] p1a: Togekiss
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|100/100
+|
+|upkeep
+|turn|43
+|inactive|Betyoudam has 120 seconds left.
+|
+|t:|1677873778
+|switch|p2a: Decidueye|Decidueye, M|100/100
+|move|p1a: Togekiss|Psyshock|p2a: Decidueye
+|-damage|p2a: Decidueye|67/100
+|
+|-heal|p2a: Decidueye|73/100|[from] item: Leftovers
+|upkeep
+|turn|44
+|inactive|Betyoudam has 120 seconds left.
+|
+|t:|1677873794
+|move|p1a: Togekiss|Tailwind|p1a: Togekiss
+|-sidestart|p1: ei weiwei|move: Tailwind
+|move|p2a: Decidueye|Roost|p2a: Decidueye
+|-heal|p2a: Decidueye|100/100
+|-singleturn|p2a: Decidueye|move: Roost
+|
+|upkeep
+|turn|45
+|inactive|Betyoudam has 120 seconds left.
+|
+|t:|1677873806
+|move|p1a: Togekiss|Yawn|p2a: Decidueye
+|-start|p2a: Decidueye|move: Yawn|[of] p1a: Togekiss
+|move|p2a: Decidueye|Air Slash|p1a: Togekiss
+|-damage|p1a: Togekiss|19/100
+|
+|upkeep
+|turn|46
+|
+|t:|1677873821
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|move|p1a: Togekiss|Dazzling Gleam|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-crit|p2a: Toxapex
+|-damage|p2a: Toxapex|77/100
+|
+|-heal|p2a: Toxapex|83/100|[from] item: Leftovers
+|upkeep
+|turn|47
+|
+|t:|1677873829
+|move|p1a: Togekiss|Yawn|p2a: Toxapex
+|-start|p2a: Toxapex|move: Yawn|[of] p1a: Togekiss
+|move|p2a: Toxapex|Knock Off|p1a: Togekiss
+|-resisted|p1a: Togekiss
+|-damage|p1a: Togekiss|14/100
+|
+|-heal|p2a: Toxapex|89/100|[from] item: Leftovers
+|-sideend|p1: ei weiwei|move: Tailwind
+|upkeep
+|turn|48
+|
+|t:|1677873839
+|switch|p1a: Swampert|Swampert, F, shiny|88/100 psn
+|-activate|p1a: Swampert|move: Sticky Web
+|-unboost|p1a: Swampert|spe|1
+|switch|p2a: Decidueye|Decidueye, M|100/100
+|
+|-damage|p1a: Swampert|76/100 psn|[from] psn
+|upkeep
+|turn|49
+|
+|t:|1677873866
+|move|p2a: Decidueye|Giga Drain|p1a: Swampert
+|-supereffective|p1a: Swampert
+|-damage|p1a: Swampert|0 fnt
+|faint|p1a: Swampert
+|
+|upkeep
+|inactive|ei weiwei has 120 seconds left.
+|
+|t:|1677873896
+|switch|p1a: Yabadabadoo|Rapidash, F, shiny|7/100
+|-activate|p1a: Yabadabadoo|move: Sticky Web
+|-unboost|p1a: Yabadabadoo|spe|1
+|-status|p1a: Yabadabadoo|tox
+|turn|50
+|
+|t:|1677873912
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|move|p1a: Yabadabadoo|Wild Charge|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|66/100
+|-damage|p1a: Yabadabadoo|0 fnt|[from] Recoil
+|faint|p1a: Yabadabadoo
+|
+|-heal|p2a: Toxapex|72/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1677873922
+|switch|p1a: Luxray|Luxray, M, shiny|100/100
+|-activate|p1a: Luxray|move: Sticky Web
+|-unboost|p1a: Luxray|spe|1
+|-status|p1a: Luxray|tox
+|-ability|p1a: Luxray|Intimidate|boost
+|-unboost|p2a: Toxapex|atk|1
+|turn|51
+|
+|t:|1677873936
+|move|p2a: Toxapex|Baneful Bunker|p2a: Toxapex
+|-singleturn|p2a: Toxapex|move: Protect
+|move|p1a: Luxray|Substitute|p1a: Luxray
+|-start|p1a: Luxray|Substitute
+|-damage|p1a: Luxray|75/100 tox
+|
+|-heal|p2a: Toxapex|78/100|[from] item: Leftovers
+|-damage|p1a: Luxray|69/100 tox|[from] psn
+|upkeep
+|turn|52
+|
+|t:|1677873952
+|move|p1a: Luxray|Ice Fang|p2a: Toxapex|[miss]
+|-miss|p1a: Luxray|p2a: Toxapex
+|move|p2a: Toxapex|Knock Off|p1a: Luxray
+|-activate|p1a: Luxray|move: Substitute|[damage]
+|
+|-heal|p2a: Toxapex|84/100|[from] item: Leftovers
+|-damage|p1a: Luxray|57/100 tox|[from] psn
+|upkeep
+|turn|53
+|
+|t:|1677873960
+|move|p1a: Luxray|Ice Fang|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|78/100
+|move|p2a: Toxapex|Knock Off|p1a: Luxray
+|-activate|p1a: Luxray|move: Substitute|[damage]
+|
+|-heal|p2a: Toxapex|84/100|[from] item: Leftovers
+|-damage|p1a: Luxray|39/100 tox|[from] psn
+|upkeep
+|turn|54
+|
+|t:|1677873971
+|move|p2a: Toxapex|Baneful Bunker|p2a: Toxapex
+|-singleturn|p2a: Toxapex|move: Protect
+|move|p1a: Luxray|Wild Charge|p2a: Toxapex
+|-activate|p2a: Toxapex|move: Protect
+|
+|-heal|p2a: Toxapex|90/100|[from] item: Leftovers
+|-damage|p1a: Luxray|15/100 tox|[from] psn
+|upkeep
+|turn|55
+|
+|t:|1677873982
+|move|p1a: Luxray|Wild Charge|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|36/100
+|-damage|p1a: Luxray|4/100 tox|[from] Recoil
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|86/100
+|
+|-heal|p2a: Toxapex|93/100|[from] item: Leftovers
+|-damage|p1a: Luxray|0 fnt|[from] psn
+|faint|p1a: Luxray
+|upkeep
+|
+|t:|1677873987
+|switch|p1a: Togekiss|Togekiss, M|14/100
+|turn|56
+|
+|t:|1677873992
+|move|p1a: Togekiss|Psyshock|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|62/100
+|move|p2a: Toxapex|Knock Off|p1a: Togekiss
+|-resisted|p1a: Togekiss
+|-damage|p1a: Togekiss|10/100
+|
+|-heal|p2a: Toxapex|68/100|[from] item: Leftovers
+|upkeep
+|turn|57
+|
+|t:|1677874001
+|move|p2a: Toxapex|Baneful Bunker|p2a: Toxapex
+|-singleturn|p2a: Toxapex|move: Protect
+|move|p1a: Togekiss|Yawn|p2a: Toxapex
+|-activate|p2a: Toxapex|move: Protect
+|
+|-heal|p2a: Toxapex|74/100|[from] item: Leftovers
+|upkeep
+|turn|58
+|
+|t:|1677874010
+|move|p1a: Togekiss|Psyshock|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|43/100
+|move|p2a: Toxapex|Knock Off|p1a: Togekiss
+|-resisted|p1a: Togekiss
+|-damage|p1a: Togekiss|7/100
+|
+|-heal|p2a: Toxapex|50/100|[from] item: Leftovers
+|upkeep
+|turn|59
+|
+|t:|1677874021
+|move|p2a: Toxapex|Baneful Bunker|p2a: Toxapex
+|-singleturn|p2a: Toxapex|move: Protect
+|move|p1a: Togekiss|Yawn|p2a: Toxapex
+|-activate|p2a: Toxapex|move: Protect
+|
+|-heal|p2a: Toxapex|56/100|[from] item: Leftovers
+|upkeep
+|turn|60
+|
+|t:|1677874029
+|move|p1a: Togekiss|Psyshock|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|22/100
+|move|p2a: Toxapex|Knock Off|p1a: Togekiss
+|-resisted|p1a: Togekiss
+|-damage|p1a: Togekiss|3/100
+|
+|-heal|p2a: Toxapex|28/100|[from] item: Leftovers
+|upkeep
+|turn|61
+|
+|t:|1677874055
+|move|p2a: Toxapex|Baneful Bunker|p2a: Toxapex
+|-singleturn|p2a: Toxapex|move: Protect
+|move|p1a: Togekiss|Psyshock|p2a: Toxapex
+|-activate|p2a: Toxapex|move: Protect
+|
+|-heal|p2a: Toxapex|35/100|[from] item: Leftovers
+|upkeep
+|turn|62
+|
+|t:|1677874061
+|switch|p2a: Decidueye|Decidueye, M|100/100
+|move|p1a: Togekiss|Psyshock|p2a: Decidueye
+|-damage|p2a: Decidueye|71/100
+|
+|-heal|p2a: Decidueye|77/100|[from] item: Leftovers
+|upkeep
+|turn|63
+|
+|t:|1677874080
+|move|p1a: Togekiss|Psyshock|p2a: Decidueye
+|-damage|p2a: Decidueye|44/100
+|move|p2a: Decidueye|Shadow Ball|p1a: Togekiss
+|-damage|p1a: Togekiss|0 fnt
+|faint|p1a: Togekiss
+|
+|win|Betyoudam
+|raw|ei weiwei's rating: 1114 &rarr; <strong>1086</strong><br />(-28 for losing)
+|raw|Betyoudam's rating: 1079 &rarr; <strong>1110</strong><br />(+31 for winning)
+|c|☆ei weiwei|gg

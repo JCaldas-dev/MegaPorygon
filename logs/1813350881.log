@@ -1,0 +1,224 @@
+|j|‽mysticgardevoir113
+|j|☆Steve yfvdgre
+|t:|1677862073
+|gametype|singles
+|player|p1|mysticgardevoir113|2|1104
+|player|p2|Steve yfvdgre|benga|1000
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Zapdos|
+|poke|p1|Blastoise, M|
+|poke|p1|Rillaboom, M|
+|poke|p1|Drapion, M|
+|poke|p1|Garchomp, M|
+|poke|p1|Blacephalon|
+|poke|p2|Kartana|
+|poke|p2|Polteageist|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Heliolisk, F|
+|poke|p2|Drapion, F|
+|poke|p2|Dragapult, F|
+|teampreview
+|
+|t:|1677862110
+|start
+|switch|p1a: Zapdos|Zapdos|100/100
+|switch|p2a: Bomb Dispenser|Ferrothorn, F|100/100
+|turn|1
+|
+|t:|1677862121
+|move|p1a: Zapdos|Heat Wave|p2a: Bomb Dispenser
+|-supereffective|p2a: Bomb Dispenser
+|-damage|p2a: Bomb Dispenser|0 fnt
+|faint|p2a: Bomb Dispenser
+|
+|upkeep
+|
+|t:|1677862130
+|switch|p2a: Toxic Dispenser|Drapion, F|100/100
+|turn|2
+|
+|t:|1677862144
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|move|p2a: Toxic Dispenser|Toxic Spikes|p1a: Garchomp
+|-sidestart|p1: mysticgardevoir113|move: Toxic Spikes
+|
+|upkeep
+|turn|3
+|
+|t:|1677862158
+|move|p1a: Garchomp|Scorching Sands|p2a: Toxic Dispenser
+|-supereffective|p2a: Toxic Dispenser
+|-damage|p2a: Toxic Dispenser|0 fnt
+|faint|p2a: Toxic Dispenser
+|
+|upkeep
+|
+|t:|1677862166
+|switch|p2a: Dancer|Dragapult, F|100/100
+|turn|4
+|
+|t:|1677862171
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Dancer|Phantom Force||[still]
+|-prepare|p2a: Dancer|Phantom Force
+|
+|upkeep
+|turn|5
+|
+|t:|1677862187
+|move|p2a: Dancer|Phantom Force|p1a: Zapdos|[from]lockedmove
+|-damage|p1a: Zapdos|66/100
+|move|p1a: Zapdos|Defog|p2a: Dancer
+|-unboost|p2a: Dancer|evasion|1
+|-sideend|p1: mysticgardevoir113|Toxic Spikes|[from] move: Defog|[of] p1a: Zapdos
+|
+|-heal|p1a: Zapdos|72/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1677862199
+|move|p2a: Dancer|Phantom Force||[still]
+|-prepare|p2a: Dancer|Phantom Force
+|move|p1a: Zapdos|Heat Wave|p2a: Dancer|[miss]
+|-miss|p1a: Zapdos|p2a: Dancer
+|
+|-heal|p1a: Zapdos|78/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1677862208
+|move|p2a: Dancer|Phantom Force|p1a: Zapdos|[from]lockedmove
+|-damage|p1a: Zapdos|46/100
+|-status|p2a: Dancer|par|[from] ability: Static|[of] p1a: Zapdos
+|move|p1a: Zapdos|Heat Wave|p2a: Dancer
+|-resisted|p2a: Dancer
+|-damage|p2a: Dancer|75/100 par
+|
+|-heal|p1a: Zapdos|52/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1677862220
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|100/100
+|-singleturn|p1a: Zapdos|move: Roost
+|move|p2a: Dancer|Phantom Force||[still]
+|-prepare|p2a: Dancer|Phantom Force
+|
+|upkeep
+|turn|9
+|
+|t:|1677862233
+|switch|p1a: Drapion|Drapion, M|100/100
+|move|p2a: Dancer|Phantom Force|p1a: Drapion|[from]lockedmove
+|-resisted|p1a: Drapion
+|-damage|p1a: Drapion|83/100
+|
+|-heal|p1a: Drapion|89/100|[from] item: Black Sludge
+|upkeep
+|turn|10
+|
+|t:|1677862245
+|move|p1a: Drapion|Swords Dance|p1a: Drapion
+|-boost|p1a: Drapion|atk|2
+|move|p2a: Dancer|Phantom Force||[still]
+|-prepare|p2a: Dancer|Phantom Force
+|
+|-heal|p1a: Drapion|95/100|[from] item: Black Sludge
+|upkeep
+|turn|11
+|
+|t:|1677862261
+|move|p1a: Drapion|Swords Dance|p1a: Drapion
+|-boost|p1a: Drapion|atk|2
+|move|p2a: Dancer|Phantom Force|p1a: Drapion|[from]lockedmove
+|-resisted|p1a: Drapion
+|-damage|p1a: Drapion|78/100
+|
+|-heal|p1a: Drapion|84/100|[from] item: Black Sludge
+|upkeep
+|turn|12
+|c|☆Steve yfvdgre|Salty spammer alert
+|c|☆Steve yfvdgre|me
+|
+|t:|1677862277
+|move|p1a: Drapion|Swords Dance|p1a: Drapion
+|-boost|p1a: Drapion|atk|2
+|cant|p2a: Dancer|par
+|
+|-heal|p1a: Drapion|90/100|[from] item: Black Sludge
+|upkeep
+|turn|13
+|
+|t:|1677862290
+|switch|p2a: Zappy Dash|Heliolisk, F|100/100
+|move|p1a: Drapion|Night Slash|p2a: Zappy Dash
+|-damage|p2a: Zappy Dash|0 fnt
+|faint|p2a: Zappy Dash
+|
+|-heal|p1a: Drapion|96/100|[from] item: Black Sludge
+|upkeep
+|c|☆Steve yfvdgre|yikes bye
+|c|☆Steve yfvdgre|what
+|
+|t:|1677862309
+|switch|p2a: Polteageist|Polteageist, shiny|100/100
+|turn|14
+|
+|t:|1677862322
+|move|p1a: Drapion|Night Slash|p2a: Polteageist
+|-supereffective|p2a: Polteageist
+|-damage|p2a: Polteageist|0 fnt
+|faint|p2a: Polteageist
+|
+|-heal|p1a: Drapion|100/100|[from] item: Black Sludge
+|upkeep
+|c|☆Steve yfvdgre|aaaaaaa
+|
+|t:|1677862328
+|switch|p2a: Slash|Kartana|100/100
+|turn|15
+|c|☆Steve yfvdgre|Come on
+|
+|t:|1677862338
+|move|p2a: Slash|Leaf Blade|p1a: Drapion
+|-resisted|p1a: Drapion
+|-damage|p1a: Drapion|59/100
+|-damage|p2a: Slash|91/100|[from] item: Life Orb
+|move|p1a: Drapion|Night Slash|p2a: Slash
+|-damage|p2a: Slash|0 fnt
+|faint|p2a: Slash
+|
+|-heal|p1a: Drapion|65/100|[from] item: Black Sludge
+|upkeep
+|c|☆Steve yfvdgre|yessss
+|c|☆Steve yfvdgre|fbnjvftufgeuyerfgefrgrfuerffegefefgefjfeferfj
+|
+|t:|1677862351
+|switch|p2a: Dancer|Dragapult, F|75/100 par
+|turn|16
+|
+|t:|1677862360
+|move|p1a: Drapion|Night Slash|p2a: Dancer
+|-supereffective|p2a: Dancer
+|-crit|p2a: Dancer
+|-damage|p2a: Dancer|0 fnt
+|faint|p2a: Dancer
+|
+|win|mysticgardevoir113
+|raw|mysticgardevoir113's rating: 1127 &rarr; <strong>1143</strong><br />(+16 for winning)
+|raw|Steve yfvdgre's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

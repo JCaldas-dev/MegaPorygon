@@ -1,0 +1,311 @@
+|j|☆xHalloW
+|j|☆cocoasobrino
+|t:|1677879165
+|gametype|singles
+|player|p1|xHalloW|266|1286
+|player|p2|cocoasobrino|gentleman|1421
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Toxapex, M|
+|poke|p1|Dragapult, F|
+|poke|p1|Heatran, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Weavile, F|
+|poke|p2|Toxapex, M|
+|poke|p2|Corsola-Galar, F|
+|poke|p2|Ditto|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Hydreigon, M|
+|poke|p2|Hatterene, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by xHalloW)
+|
+|t:|1677879176
+|start
+|switch|p1a: Hardwired|Ferrothorn, F|100/100
+|switch|p2a: AIDS|Ditto, shiny|100/100
+|-transform|p2a: AIDS|p1a: Hardwired|[from] ability: Imposter
+|turn|1
+|inactive|cocoasobrino has 120 seconds left.
+|inactive|cocoasobrino has 90 seconds left.
+|
+|t:|1677879243
+|switch|p2a: SYPHILIS|Corsola-Galar, F, shiny|100/100
+|move|p1a: Hardwired|Spikes|p2a: SYPHILIS
+|-sidestart|p2: cocoasobrino|Spikes
+|
+|upkeep
+|turn|2
+|inactive|cocoasobrino has 90 seconds left.
+|
+|t:|1677879251
+|move|p2a: SYPHILIS|Stealth Rock|p1a: Hardwired
+|-sidestart|p1: xHalloW|move: Stealth Rock
+|move|p1a: Hardwired|Spikes|p2a: SYPHILIS
+|-sidestart|p2: cocoasobrino|Spikes
+|
+|upkeep
+|turn|3
+|
+|t:|1677879256
+|move|p2a: SYPHILIS|Will-O-Wisp|p1a: Hardwired
+|-status|p1a: Hardwired|brn
+|move|p1a: Hardwired|Spikes|p2a: SYPHILIS
+|-sidestart|p2: cocoasobrino|Spikes
+|
+|-damage|p1a: Hardwired|94/100 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1677879273
+|switch|p1a: DragonForce|Dragapult, F|100/100
+|-damage|p1a: DragonForce|88/100|[from] Stealth Rock
+|move|p2a: SYPHILIS|Night Shade|p1a: DragonForce
+|-damage|p1a: DragonForce|57/100
+|
+|upkeep
+|turn|5
+|
+|t:|1677879286
+|switch|p2a: HEPATITIS|Hydreigon, M|100/100
+|move|p1a: DragonForce|Shadow Ball|p2a: HEPATITIS
+|-resisted|p2a: HEPATITIS
+|-damage|p2a: HEPATITIS|82/100
+|-unboost|p2a: HEPATITIS|spd|1
+|
+|upkeep
+|turn|6
+|
+|t:|1677879302
+|switch|p1a: Hot Stuff|Heatran, M|100/100
+|-damage|p1a: Hot Stuff|88/100|[from] Stealth Rock
+|switch|p2a: GONORRHEA|Hatterene, F, shiny|100/100
+|-damage|p2a: GONORRHEA|76/100|[from] Spikes
+|
+|-heal|p1a: Hot Stuff|94/100|[from] item: Leftovers
+|-heal|p2a: GONORRHEA|82/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1677879317
+|switch|p2a: HEPATITIS|Hydreigon, M|82/100
+|move|p1a: Hot Stuff|Heavy Slam|p2a: HEPATITIS
+|-crit|p2a: HEPATITIS
+|-damage|p2a: HEPATITIS|57/100
+|
+|-heal|p1a: Hot Stuff|100/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1677879328
+|move|p2a: HEPATITIS|Earth Power|p1a: Hot Stuff
+|-supereffective|p1a: Hot Stuff
+|-damage|p1a: Hot Stuff|13/100
+|move|p1a: Hot Stuff|Taunt|p2a: HEPATITIS
+|-start|p2a: HEPATITIS|move: Taunt
+|
+|-heal|p1a: Hot Stuff|19/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1677879337
+|switch|p1a: Polygondwanaland|Landorus-Therian, M|100/100
+|-damage|p1a: Polygondwanaland|88/100|[from] Stealth Rock
+|-ability|p1a: Polygondwanaland|Intimidate|boost
+|-unboost|p2a: HEPATITIS|atk|1
+|move|p2a: HEPATITIS|Dark Pulse|p1a: Polygondwanaland
+|-damage|p1a: Polygondwanaland|45/100
+|
+|-heal|p1a: Polygondwanaland|51/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1677879353
+|switch|p2a: HERPES|Ferrothorn, F, shiny|100/100
+|-damage|p2a: HERPES|75/100|[from] Spikes
+|move|p1a: Polygondwanaland|Stealth Rock|p2a: HERPES
+|-sidestart|p2: cocoasobrino|move: Stealth Rock
+|
+|-heal|p1a: Polygondwanaland|57/100|[from] item: Leftovers
+|-heal|p2a: HERPES|82/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1677879365
+|move|p1a: Polygondwanaland|Earthquake|p2a: HERPES
+|-damage|p2a: HERPES|54/100
+|move|p2a: HERPES|Spikes|p1a: Polygondwanaland
+|-sidestart|p1: xHalloW|Spikes
+|
+|-heal|p1a: Polygondwanaland|63/100|[from] item: Leftovers
+|-heal|p2a: HERPES|61/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1677879373
+|move|p1a: Polygondwanaland|U-turn|p2a: HERPES
+|-damage|p2a: HERPES|49/100
+|-damage|p1a: Polygondwanaland|51/100|[from] ability: Iron Barbs|[of] p2a: HERPES
+|
+|t:|1677879378
+|switch|p1a: Black Ice|Weavile, F|100/100|[from] U-turn
+|move|p2a: HERPES|Leech Seed|p1a: Black Ice
+|-start|p1a: Black Ice|move: Leech Seed
+|
+|-heal|p2a: HERPES|55/100|[from] item: Leftovers
+|-damage|p1a: Black Ice|88/100|[from] Leech Seed|[of] p2a: HERPES
+|-heal|p2a: HERPES|65/100|[silent]
+|upkeep
+|turn|13
+|inactive|cocoasobrino has 120 seconds left.
+|
+|t:|1677879387
+|move|p2a: HERPES|Protect|p2a: HERPES
+|-singleturn|p2a: HERPES|Protect
+|move|p1a: Black Ice|Swords Dance|p1a: Black Ice
+|-boost|p1a: Black Ice|atk|2
+|
+|-heal|p2a: HERPES|71/100|[from] item: Leftovers
+|-damage|p1a: Black Ice|76/100|[from] Leech Seed|[of] p2a: HERPES
+|-heal|p2a: HERPES|81/100|[silent]
+|upkeep
+|turn|14
+|
+|t:|1677879397
+|switch|p2a: CANCER|Toxapex, M, shiny|100/100
+|-damage|p2a: CANCER|75/100|[from] Spikes
+|-damage|p2a: CANCER|63/100|[from] Stealth Rock
+|move|p1a: Black Ice|Swords Dance|p1a: Black Ice
+|-boost|p1a: Black Ice|atk|2
+|
+|-heal|p2a: CANCER|69/100|[from] item: Black Sludge
+|-damage|p1a: Black Ice|63/100|[from] Leech Seed|[of] p2a: CANCER
+|-heal|p2a: CANCER|81/100|[silent]
+|upkeep
+|turn|15
+|
+|t:|1677879416
+|move|p2a: CANCER|Baneful Bunker|p2a: CANCER
+|-singleturn|p2a: CANCER|move: Protect
+|move|p1a: Black Ice|Knock Off|p2a: CANCER
+|-activate|p2a: CANCER|move: Protect
+|-status|p1a: Black Ice|psn
+|
+|-heal|p2a: CANCER|87/100|[from] item: Black Sludge
+|-damage|p1a: Black Ice|51/100 psn|[from] Leech Seed|[of] p2a: CANCER
+|-heal|p2a: CANCER|99/100|[silent]
+|-damage|p1a: Black Ice|38/100 psn|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1677879428
+|move|p1a: Black Ice|Knock Off|p2a: CANCER
+|-damage|p2a: CANCER|10/100
+|-enditem|p2a: CANCER|Black Sludge|[from] move: Knock Off|[of] p1a: Black Ice
+|move|p2a: CANCER|Haze|p2a: CANCER
+|-clearallboost
+|
+|-damage|p1a: Black Ice|26/100 psn|[from] Leech Seed|[of] p2a: CANCER
+|-heal|p2a: CANCER|22/100|[silent]
+|-damage|p1a: Black Ice|13/100 psn|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1677879440
+|move|p2a: CANCER|Baneful Bunker|p2a: CANCER
+|-singleturn|p2a: CANCER|move: Protect
+|move|p1a: Black Ice|Triple Axel|p2a: CANCER
+|-activate|p2a: CANCER|move: Protect
+|
+|-damage|p1a: Black Ice|1/100 psn|[from] Leech Seed|[of] p2a: CANCER
+|-heal|p2a: CANCER|33/100|[silent]
+|-damage|p1a: Black Ice|0 fnt|[from] psn
+|faint|p1a: Black Ice
+|upkeep
+|
+|t:|1677879449
+|switch|p1a: Hot Stuff|Heatran, M|19/100
+|-damage|p1a: Hot Stuff|7/100|[from] Stealth Rock
+|-damage|p1a: Hot Stuff|0 fnt|[from] Spikes
+|faint|p1a: Hot Stuff
+|
+|t:|1677879457
+|switch|p1a: Polygondwanaland|Landorus-Therian, M|51/100
+|-damage|p1a: Polygondwanaland|38/100|[from] Stealth Rock
+|-ability|p1a: Polygondwanaland|Intimidate|boost
+|-unboost|p2a: CANCER|atk|1
+|turn|18
+|
+|t:|1677879466
+|switch|p2a: SYPHILIS|Corsola-Galar, F, shiny|100/100
+|-damage|p2a: SYPHILIS|75/100|[from] Spikes
+|-damage|p2a: SYPHILIS|63/100|[from] Stealth Rock
+|move|p1a: Polygondwanaland|Earthquake|p2a: SYPHILIS
+|-damage|p2a: SYPHILIS|37/100
+|
+|-heal|p1a: Polygondwanaland|44/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1677879477
+|move|p1a: Polygondwanaland|Toxic|p2a: SYPHILIS
+|-status|p2a: SYPHILIS|tox
+|move|p2a: SYPHILIS|Strength Sap|p1a: Polygondwanaland
+|-unboost|p1a: Polygondwanaland|atk|1
+|-heal|p2a: SYPHILIS|100/100 tox
+|
+|-heal|p1a: Polygondwanaland|50/100|[from] item: Leftovers
+|-damage|p2a: SYPHILIS|94/100 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1677879491
+|move|p1a: Polygondwanaland|U-turn|p2a: SYPHILIS
+|-resisted|p2a: SYPHILIS
+|-damage|p2a: SYPHILIS|90/100 tox
+|-start|p1a: Polygondwanaland|Disable|U-turn|[from] ability: Cursed Body|[of] p2a: SYPHILIS
+|
+|t:|1677879500
+|switch|p1a: DragonForce|Dragapult, F|57/100|[from] U-turn
+|-damage|p1a: DragonForce|44/100|[from] Stealth Rock
+|-damage|p1a: DragonForce|32/100|[from] Spikes
+|move|p2a: SYPHILIS|Will-O-Wisp|p1a: DragonForce
+|-status|p1a: DragonForce|brn
+|
+|-damage|p2a: SYPHILIS|78/100 tox|[from] psn
+|-damage|p1a: DragonForce|26/100 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1677879517
+|switch|p2a: GONORRHEA|Hatterene, F, shiny|82/100
+|-damage|p2a: GONORRHEA|57/100|[from] Spikes
+|-damage|p2a: GONORRHEA|45/100|[from] Stealth Rock
+|move|p1a: DragonForce|Draco Meteor|p2a: GONORRHEA
+|-immune|p2a: GONORRHEA
+|
+|-heal|p2a: GONORRHEA|50/100|[from] item: Leftovers
+|-damage|p1a: DragonForce|20/100 brn|[from] brn
+|upkeep
+|turn|22
+|-message|xHalloW forfeited.
+|l|☆xHalloW
+|inactive|xHalloW disconnected and has a minute to reconnect!
+|player|p1|
+|
+|win|cocoasobrino
+|raw|xHalloW's rating: 1286 &rarr; <strong>1270</strong><br />(-16 for losing)
+|raw|cocoasobrino's rating: 1421 &rarr; <strong>1434</strong><br />(+13 for winning)

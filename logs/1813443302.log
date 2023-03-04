@@ -1,0 +1,286 @@
+|j|☆opalmama
+|j|☆Thinu125Thinu125
+|t:|1677870341
+|gametype|singles
+|player|p1|opalmama|266|
+|player|p2|Thinu125Thinu125|266|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Dragapult, F|
+|poke|p1|Mienshao, F|
+|poke|p1|Scizor, F|
+|poke|p1|Zapdos-Galar|
+|poke|p1|Moltres|
+|poke|p1|Buzzwole|
+|poke|p2|Volcanion|
+|poke|p2|Swampert, M|
+|poke|p2|Kartana|
+|poke|p2|Rillaboom, M|
+|poke|p2|Umbreon, M|
+|poke|p2|Tornadus-Therian, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Thinu125Thinu125)
+|l|☆opalmama
+|inactive|opalmama disconnected and has 300 seconds to reconnect!
+|player|p1|
+|inactive|Thinu125Thinu125 has 270 seconds left.
+|
+|t:|1677870376
+|start
+|switch|p1a: Sajieran|Mienshao, F, shiny|100/100
+|switch|p2a: Travis Scott|Tornadus-Therian, M|100/100
+|turn|1
+|j|☆opalmama
+|inactive|opalmama reconnected and has 300 seconds left.
+|player|p1|opalmama|266
+|
+|t:|1677870384
+|move|p1a: Sajieran|Stone Edge|p2a: Travis Scott
+|-supereffective|p2a: Travis Scott
+|-damage|p2a: Travis Scott|1/100
+|move|p2a: Travis Scott|Hurricane|p1a: Sajieran
+|-supereffective|p1a: Sajieran
+|-damage|p1a: Sajieran|0 fnt
+|faint|p1a: Sajieran
+|
+|upkeep
+|
+|t:|1677870411
+|switch|p1a: Pavi the Demon|Dragapult, F, shiny|100/100
+|turn|2
+|
+|t:|1677870418
+|switch|p2a: Ajeeven|Umbreon, M|100/100
+|move|p1a: Pavi the Demon|Draco Meteor|p2a: Ajeeven
+|-damage|p2a: Ajeeven|70/100
+|-unboost|p1a: Pavi the Demon|spa|2
+|
+|-heal|p2a: Ajeeven|76/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1677870434
+|switch|p1a: Vith SKY TWIN|Zapdos-Galar, shiny|100/100
+|move|p2a: Ajeeven|Toxic|p1a: Vith SKY TWIN|[miss]
+|-miss|p2a: Ajeeven|p1a: Vith SKY TWIN
+|
+|-heal|p2a: Ajeeven|82/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1677870450
+|move|p2a: Ajeeven|Protect|p2a: Ajeeven
+|-singleturn|p2a: Ajeeven|Protect
+|move|p1a: Vith SKY TWIN|Thunderous Kick|p2a: Ajeeven
+|-activate|p2a: Ajeeven|move: Protect
+|
+|-heal|p2a: Ajeeven|88/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1677870463
+|move|p1a: Vith SKY TWIN|Thunderous Kick|p2a: Ajeeven
+|-supereffective|p2a: Ajeeven
+|-damage|p2a: Ajeeven|3/100
+|-unboost|p2a: Ajeeven|def|1
+|move|p2a: Ajeeven|Toxic|p1a: Vith SKY TWIN
+|-status|p1a: Vith SKY TWIN|tox
+|
+|-heal|p2a: Ajeeven|9/100|[from] item: Leftovers
+|-damage|p1a: Vith SKY TWIN|94/100 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1677870477
+|move|p2a: Ajeeven|Protect|p2a: Ajeeven
+|-singleturn|p2a: Ajeeven|Protect
+|move|p1a: Vith SKY TWIN|Thunderous Kick|p2a: Ajeeven
+|-activate|p2a: Ajeeven|move: Protect
+|
+|-heal|p2a: Ajeeven|15/100|[from] item: Leftovers
+|-damage|p1a: Vith SKY TWIN|82/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1677870508
+|switch|p2a: Sujen Mama|Volcanion|100/100
+|move|p1a: Vith SKY TWIN|Thunderous Kick|p2a: Sujen Mama
+|-damage|p2a: Sujen Mama|63/100
+|-unboost|p2a: Sujen Mama|def|1
+|
+|-damage|p1a: Vith SKY TWIN|63/100 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1677870522
+|move|p1a: Vith SKY TWIN|Stomping Tantrum|p2a: Sujen Mama
+|-supereffective|p2a: Sujen Mama
+|-enditem|p2a: Sujen Mama|Shuca Berry|[eat]
+|-enditem|p2a: Sujen Mama|Shuca Berry|[weaken]
+|-damage|p2a: Sujen Mama|33/100
+|move|p2a: Sujen Mama|Steam Eruption|p1a: Vith SKY TWIN
+|-damage|p1a: Vith SKY TWIN|0 fnt
+|faint|p1a: Vith SKY TWIN
+|
+|upkeep
+|
+|t:|1677870535
+|switch|p1a: Pavi the Demon|Dragapult, F, shiny|100/100
+|turn|9
+|
+|t:|1677870542
+|switch|p2a: Ajeeven|Umbreon, M|15/100
+|move|p1a: Pavi the Demon|Draco Meteor|p2a: Ajeeven
+|-damage|p2a: Ajeeven|0 fnt
+|-unboost|p1a: Pavi the Demon|spa|2
+|faint|p2a: Ajeeven
+|
+|upkeep
+|
+|t:|1677870562
+|switch|p2a: Swampert|Swampert, M|100/100
+|turn|10
+|
+|t:|1677870572
+|switch|p1a: Gayass Ajeeven|Scizor, F|100/100
+|move|p2a: Swampert|Ice Beam|p1a: Gayass Ajeeven
+|-resisted|p1a: Gayass Ajeeven
+|-damage|p1a: Gayass Ajeeven|90/100
+|
+|upkeep
+|turn|11
+|
+|t:|1677870588
+|switch|p2a: Sujen Mama|Volcanion|33/100
+|move|p1a: Gayass Ajeeven|Bullet Punch|p2a: Sujen Mama
+|-resisted|p2a: Sujen Mama
+|-damage|p2a: Sujen Mama|22/100
+|
+|upkeep
+|turn|12
+|
+|t:|1677870599
+|switch|p1a: Smiling Fadeaway|Moltres, shiny|100/100
+|move|p2a: Sujen Mama|Fire Blast|p1a: Smiling Fadeaway
+|-resisted|p1a: Smiling Fadeaway
+|-damage|p1a: Smiling Fadeaway|60/100
+|
+|upkeep
+|turn|13
+|
+|t:|1677870613
+|switch|p2a: Travis Scott|Tornadus-Therian, M|34/100
+|move|p1a: Smiling Fadeaway|Scorching Sands|p2a: Travis Scott
+|-immune|p2a: Travis Scott
+|
+|upkeep
+|turn|14
+|
+|t:|1677870626
+|switch|p2a: Sujen Mama|Volcanion|22/100
+|move|p1a: Smiling Fadeaway|Hurricane|p2a: Sujen Mama|[miss]
+|-miss|p1a: Smiling Fadeaway|p2a: Sujen Mama
+|
+|upkeep
+|turn|15
+|
+|t:|1677870638
+|switch|p2a: Travis Scott|Tornadus-Therian, M|68/100
+|move|p1a: Smiling Fadeaway|Hurricane|p2a: Travis Scott
+|-damage|p2a: Travis Scott|0 fnt
+|faint|p2a: Travis Scott
+|
+|upkeep
+|
+|t:|1677870646
+|switch|p2a: Sujen Mama|Volcanion|22/100
+|turn|16
+|
+|t:|1677870653
+|move|p1a: Smiling Fadeaway|Scorching Sands|p2a: Sujen Mama
+|-supereffective|p2a: Sujen Mama
+|-damage|p2a: Sujen Mama|0 fnt
+|faint|p2a: Sujen Mama
+|
+|upkeep
+|
+|t:|1677870664
+|switch|p2a: Swampert|Swampert, M|100/100
+|turn|17
+|
+|t:|1677870673
+|move|p1a: Smiling Fadeaway|Hurricane|p2a: Swampert
+|-damage|p2a: Swampert|45/100
+|-start|p2a: Swampert|confusion
+|-activate|p2a: Swampert|confusion
+|move|p2a: Swampert|Stealth Rock|p1a: Smiling Fadeaway
+|-sidestart|p1: opalmama|move: Stealth Rock
+|
+|-heal|p2a: Swampert|51/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1677870686
+|move|p1a: Smiling Fadeaway|Hurricane|p2a: Swampert|[miss]
+|-miss|p1a: Smiling Fadeaway|p2a: Swampert
+|-end|p2a: Swampert|confusion
+|move|p2a: Swampert|Flip Turn|p1a: Smiling Fadeaway
+|-supereffective|p1a: Smiling Fadeaway
+|-damage|p1a: Smiling Fadeaway|0 fnt
+|faint|p1a: Smiling Fadeaway
+|inactive|Thinu125Thinu125 has 270 seconds left.
+|
+|t:|1677870718
+|switch|p2a: Rillaboom|Rillaboom, M|100/100|[from] Flip Turn
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|
+|upkeep
+|
+|t:|1677870732
+|switch|p1a: Gayass Ajeeven|Scizor, F|90/100
+|-damage|p1a: Gayass Ajeeven|78/100|[from] Stealth Rock
+|turn|19
+|
+|t:|1677870743
+|move|p2a: Rillaboom|Swords Dance|p2a: Rillaboom
+|-boost|p2a: Rillaboom|atk|2
+|move|p1a: Gayass Ajeeven|X-Scissor|p2a: Rillaboom
+|-supereffective|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|
+|-heal|p1a: Gayass Ajeeven|84/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1677870757
+|switch|p2a: Zoro 4 Sword Style|Kartana|100/100
+|turn|20
+|inactive|Thinu125Thinu125 has 270 seconds left.
+|
+|t:|1677870779
+|move|p2a: Zoro 4 Sword Style|Leaf Blade|p1a: Gayass Ajeeven
+|-resisted|p1a: Gayass Ajeeven
+|-damage|p1a: Gayass Ajeeven|65/100
+|move|p1a: Gayass Ajeeven|X-Scissor|p2a: Zoro 4 Sword Style
+|-damage|p2a: Zoro 4 Sword Style|33/100
+|
+|-heal|p2a: Zoro 4 Sword Style|39/100|[from] Grassy Terrain
+|-heal|p1a: Gayass Ajeeven|71/100|[from] Grassy Terrain
+|upkeep
+|turn|21
+|inactive|Thinu125Thinu125 has 270 seconds left.
+|-message|Thinu125Thinu125 forfeited.
+|
+|win|opalmama
+|l|☆Thinu125Thinu125

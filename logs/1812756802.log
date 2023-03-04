@@ -1,0 +1,485 @@
+|j|☆MyNameJeeeeff
+|j|☆IC1
+|t:|1677793688
+|gametype|singles
+|player|p1|MyNameJeeeeff|firebreather|1312
+|player|p2|IC1|marshal|1261
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tangrowth, M|
+|poke|p1|Clefable, F|
+|poke|p1|Dragonite, F|
+|poke|p1|Bisharp, F|
+|poke|p1|Volcanion|
+|poke|p1|Quagsire, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Urshifu-*, M|
+|poke|p2|Dragapult, M|
+|poke|p2|Zapdos|
+|poke|p2|Heatran, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by MyNameJeeeeff)
+|j| brianortegachoice
+|
+|t:|1677793701
+|start
+|switch|p1a: Bisharp|Bisharp, F|100/100
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Bisharp|atk|1
+|-ability|p1a: Bisharp|Defiant|boost
+|-boost|p1a: Bisharp|atk|2
+|turn|1
+|c|☆IC1|glhf
+|c| brianortegachoice|you got this bro
+|
+|t:|1677793711
+|move|p1a: Bisharp|Swords Dance|p1a: Bisharp
+|-boost|p1a: Bisharp|atk|2
+|move|p2a: Landorus|Earthquake|p1a: Bisharp
+|-supereffective|p1a: Bisharp
+|-enditem|p1a: Bisharp|Focus Sash
+|-damage|p1a: Bisharp|1/100
+|
+|upkeep
+|turn|2
+|c|☆IC1|too ez
+|
+|t:|1677793721
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|move|p1a: Bisharp|Knock Off|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|24/100
+|-damage|p1a: Bisharp|0 fnt|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|faint|p1a: Bisharp
+|
+|-heal|p2a: Ferrothorn|30/100|[from] item: Leftovers
+|upkeep
+|c|☆IC1|nah
+|c|☆IC1|not happening
+|
+|t:|1677793730
+|switch|p1a: Quagsire|Quagsire, F|100/100
+|turn|3
+|c|☆IC1|u aint killing me
+|c| brianortegachoice|lol
+|c| brianortegachoice|one down
+|
+|t:|1677793735
+|move|p1a: Quagsire|Scald|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|22/100
+|move|p2a: Ferrothorn|Power Whip|p1a: Quagsire
+|-supereffective|p1a: Quagsire
+|-damage|p1a: Quagsire|0 fnt
+|faint|p1a: Quagsire
+|
+|-heal|p2a: Ferrothorn|28/100|[from] item: Leftovers
+|upkeep
+|c|☆IC1|2
+|c|☆IC1|next
+|c| brianortegachoice|oof
+|c| brianortegachoice|forfeit incoming
+|
+|t:|1677793746
+|switch|p1a: Volcanion|Volcanion|100/100
+|turn|4
+|c|☆IC1|balle
+|
+|t:|1677793751
+|move|p1a: Volcanion|Earth Power|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|faint|p2a: Ferrothorn
+|
+|upkeep
+|c|☆IC1|thts fine
+|c|☆IC1|hes done his job
+|
+|t:|1677793765
+|switch|p2a: Zapdos|Zapdos|100/100
+|turn|5
+|c|☆MyNameJeeeeff|you guys are so cute
+|c|☆IC1|balle
+|
+|t:|1677793772
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|move|p2a: Zapdos|Volt Switch|p1a: Dragonite
+|-damage|p1a: Dragonite|84/100
+|c|☆IC1|MyNameJeeeeff aww
+|c|☆IC1|ty
+|c| brianortegachoice|imagine losing two mons to pult
+|
+|t:|1677793780
+|switch|p2a: Dragapult|Dragapult, M|100/100|[from] Volt Switch
+|
+|upkeep
+|turn|6
+|c| brianortegachoice|damn u suck
+|
+|t:|1677793789
+|move|p2a: Dragapult|U-turn|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|76/100
+|
+|t:|1677793797
+|switch|p2a: Landorus|Landorus-Therian, M|100/100|[from] U-turn
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Dragonite|atk|1
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|
+|upkeep
+|turn|7
+|c|☆IC1|shii
+|c|☆IC1|he didnt switch
+|c|☆IC1|ok
+|c| brianortegachoice|*to ferro
+|
+|t:|1677793805
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|move|p2a: Landorus|Toxic|p1a: Dragonite
+|-status|p1a: Dragonite|tox
+|
+|-damage|p1a: Dragonite|70/100 tox|[from] psn
+|upkeep
+|turn|8
+|c|☆IC1|lemme show u tricks
+|c|☆MyNameJeeeeff|toxic, but cute
+|c| brianortegachoice|idk why I said pult
+|c|☆IC1|dont call me cute
+|c|☆IC1|dodgy
+|
+|t:|1677793821
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Dragonite|Dragon Claw|p2a: Zapdos
+|-damage|p2a: Zapdos|54/100
+|
+|-damage|p1a: Dragonite|57/100 tox|[from] psn
+|upkeep
+|turn|9
+|c|☆IC1|5cuz pult op
+|c|☆MyNameJeeeeff|but the way you guys are clearly dating is cute
+|
+|t:|1677793831
+|move|p1a: Dragonite|Dragon Claw|p2a: Zapdos
+|-damage|p2a: Zapdos|3/100
+|move|p2a: Zapdos|Hurricane|p1a: Dragonite|[miss]
+|-miss|p2a: Zapdos|p1a: Dragonite
+|
+|-damage|p1a: Dragonite|39/100 tox|[from] psn
+|upkeep
+|turn|10
+|c| brianortegachoice|wait his clefable has toxic set q,
+|c|☆IC1|MyNameJeeeeff ur cute too bae
+|
+|t:|1677793839
+|move|p1a: Dragonite|Dragon Claw|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|-damage|p1a: Dragonite|14/100 tox|[from] psn
+|upkeep
+|
+|t:|1677793844
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|turn|11
+|c| brianortegachoice|weak come backs
+|
+|t:|1677793851
+|move|p2a: Urshifu|Aqua Jet|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|
+|upkeep
+|c|☆IC1|too ez
+|c| brianortegachoice|focus on getting ur ass kicked
+|c|☆IC1|3 down
+|
+|t:|1677793856
+|switch|p1a: Tangrowth|Tangrowth, M|100/100
+|turn|12
+|c|☆IC1|balle
+|
+|t:|1677793864
+|switch|p2a: Heatran|Heatran, M|100/100
+|move|p1a: Tangrowth|Sleep Powder|p2a: Heatran
+|-status|p2a: Heatran|slp|[from] move: Sleep Powder
+|
+|upkeep
+|turn|13
+|c|☆IC1|fuck
+|
+|t:|1677793875
+|cant|p2a: Heatran|slp
+|move|p1a: Tangrowth|Leech Seed|p2a: Heatran
+|-start|p2a: Heatran|move: Leech Seed
+|
+|-damage|p2a: Heatran|88/100 slp|[from] Leech Seed|[of] p1a: Tangrowth
+|upkeep
+|turn|14
+|c| brianortegachoice|oh
+|
+|t:|1677793885
+|-curestatus|p2a: Heatran|slp|[msg]
+|move|p2a: Heatran|Magma Storm|p1a: Tangrowth|[miss]
+|-miss|p2a: Heatran|p1a: Tangrowth
+|move|p1a: Tangrowth|Knock Off|p2a: Heatran
+|-damage|p2a: Heatran|72/100
+|-enditem|p2a: Heatran|Leftovers|[from] move: Knock Off|[of] p1a: Tangrowth
+|
+|-damage|p2a: Heatran|59/100|[from] Leech Seed|[of] p1a: Tangrowth
+|upkeep
+|turn|15
+|c| brianortegachoice|ngl
+|c| brianortegachoice|wp
+|c|☆IC1|nooo
+|c| brianortegachoice|nice haxx too
+|
+|t:|1677793894
+|switch|p1a: Volcanion|Volcanion|100/100
+|move|p2a: Heatran|Magma Storm|p1a: Volcanion
+|-resisted|p1a: Volcanion
+|-damage|p1a: Volcanion|88/100
+|-activate|p1a: Volcanion|move: Magma Storm|[of] p2a: Heatran
+|
+|-damage|p2a: Heatran|47/100|[from] Leech Seed|[of] p1a: Volcanion
+|-heal|p1a: Volcanion|100/100|[silent]
+|-damage|p1a: Volcanion|88/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|16
+|
+|t:|1677793904
+|move|p1a: Volcanion|Earth Power|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|-end|p1a: Volcanion|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|c| brianortegachoice|clutch but you got this IC1
+|inactive|IC1 has 120 seconds left.
+|c| brianortegachoice|deep breaths
+|
+|t:|1677793939
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Volcanion|atk|1
+|turn|17
+|c|☆IC1|let me show u whos boss
+|
+|t:|1677793948
+|switch|p1a: Tangrowth|Tangrowth, M|100/100
+|move|p2a: Landorus|Toxic|p1a: Tangrowth
+|-status|p1a: Tangrowth|tox
+|
+|-damage|p1a: Tangrowth|94/100 tox|[from] psn
+|upkeep
+|turn|18
+|c| brianortegachoice|nice
+|
+|t:|1677793957
+|move|p2a: Landorus|Stealth Rock|p1a: Tangrowth
+|-sidestart|p1: MyNameJeeeeff|move: Stealth Rock
+|move|p1a: Tangrowth|Leech Seed|p2a: Landorus
+|-start|p2a: Landorus|move: Leech Seed
+|
+|-damage|p2a: Landorus|88/100|[from] Leech Seed|[of] p1a: Tangrowth
+|-heal|p1a: Tangrowth|100/100 tox|[silent]
+|-damage|p1a: Tangrowth|88/100 tox|[from] psn
+|upkeep
+|turn|19
+|c|☆IC1|balle
+|
+|t:|1677793965
+|switch|p1a: Clefable|Clefable, F|100/100
+|move|p2a: Landorus|U-turn|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|90/100
+|
+|t:|1677793970
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|100/100|[from] U-turn
+|
+|-heal|p1a: Clefable|96/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1677793976
+|switch|p1a: Volcanion|Volcanion|88/100
+|-damage|p1a: Volcanion|63/100|[from] Stealth Rock
+|move|p2a: Urshifu|Surging Strikes|p1a: Volcanion
+|-heal|p1a: Volcanion|88/100|[from] ability: Water Absorb|[of] p2a: Urshifu
+|
+|upkeep
+|turn|21
+|c| brianortegachoice|he be panic switching
+|c|☆IC1|fuck
+|c|☆MyNameJeeeeff|is that a panic tho
+|c|☆IC1|ikr
+|c| brianortegachoice|oops
+|c|☆IC1|yes
+|c|☆IC1|panic
+|c|☆MyNameJeeeeff|or what that calculated
+|c|☆IC1|who knows
+|c|☆IC1|haha
+|c| brianortegachoice|eh
+|c|☆MyNameJeeeeff|to get you to switch to urshifu
+|c| brianortegachoice|pure luck
+|c|☆IC1|balle
+|c|☆MyNameJeeeeff|and use rapid strikes
+|inactive|MyNameJeeeeff has 120 seconds left.
+|c|☆MyNameJeeeeff|to heal my volc
+|c|☆IC1|and how do i not expect ur clef
+|
+|t:|1677794014
+|switch|p1a: Tangrowth|Tangrowth, M|100/100 tox
+|-damage|p1a: Tangrowth|88/100 tox|[from] Stealth Rock
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|
+|-damage|p1a: Tangrowth|82/100 tox|[from] psn
+|upkeep
+|turn|22
+|c|☆IC1|ezz
+|inactive|MyNameJeeeeff has 120 seconds left.
+|c|☆IC1|now ur down
+|
+|t:|1677794023
+|move|p2a: Dragapult|Flamethrower|p1a: Tangrowth
+|-supereffective|p1a: Tangrowth
+|-damage|p1a: Tangrowth|0 fnt
+|faint|p1a: Tangrowth
+|
+|upkeep
+|c| brianortegachoice|you can't keep switching
+|
+|t:|1677794028
+|switch|p1a: Clefable|Clefable, F|96/100
+|turn|23
+|c|☆IC1|ur not running
+|c|☆IC1|from that
+|c| brianortegachoice|rocks babe
+|c|☆IC1|lol
+|c| brianortegachoice|gg
+|
+|t:|1677794035
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|move|p1a: Clefable|Cosmic Power|p1a: Clefable
+|-boost|p1a: Clefable|def|1
+|-boost|p1a: Clefable|spd|1
+|
+|-heal|p1a: Clefable|100/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|c|☆IC1|balle
+|c| brianortegachoice|it's ur win IC1
+|c|☆IC1|fuck
+|
+|t:|1677794045
+|move|p2a: Urshifu|Surging Strikes|p1a: Clefable
+|-crit|p1a: Clefable
+|-damage|p1a: Clefable|71/100
+|-crit|p1a: Clefable
+|-damage|p1a: Clefable|43/100
+|-crit|p1a: Clefable
+|-damage|p1a: Clefable|16/100
+|-hitcount|p1a: Clefable|3
+|move|p1a: Clefable|Moonblast|p2a: Urshifu
+|-supereffective|p2a: Urshifu
+|-damage|p2a: Urshifu|2/100
+|
+|-heal|p1a: Clefable|22/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|c|☆IC1|lets dpo this
+|c|☆IC1|that does enough
+|c|☆IC1|balle
+|
+|t:|1677794057
+|switch|p1a: Volcanion|Volcanion|88/100
+|-damage|p1a: Volcanion|63/100|[from] Stealth Rock
+|move|p2a: Urshifu|Surging Strikes|p1a: Volcanion
+|-heal|p1a: Volcanion|88/100|[from] ability: Water Absorb|[of] p2a: Urshifu
+|
+|upkeep
+|turn|26
+|c| brianortegachoice|that's why surging strikes is so good
+|c|☆IC1|that works fine
+|c|☆IC1|wink
+|c| brianortegachoice|again
+|c| brianortegachoice|rocks
+|c|☆IC1|dw
+|c|☆IC1|hes dead
+|
+|t:|1677794070
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|move|p1a: Volcanion|Steam Eruption|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|56/100
+|
+|upkeep
+|turn|27
+|c|☆IC1|or she
+|c|☆IC1|or they
+|c| brianortegachoice|now he's down to one mon essentially
+|
+|t:|1677794078
+|switch|p1a: Clefable|Clefable, F|22/100
+|move|p2a: Dragapult|Shadow Ball|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|
+|upkeep
+|c| brianortegachoice|gg
+|c|☆IC1|too ez
+|
+|t:|1677794084
+|switch|p1a: Volcanion|Volcanion|88/100
+|-damage|p1a: Volcanion|63/100|[from] Stealth Rock
+|turn|28
+|c|☆IC1|bahahaha
+|c|☆IC1|next
+|c|☆IC1|gg mate
+|
+|t:|1677794089
+|move|p2a: Dragapult|Shadow Ball|p1a: Volcanion
+|-damage|p1a: Volcanion|0 fnt
+|faint|p1a: Volcanion
+|
+|win|IC1
+|raw|MyNameJeeeeff's rating: 1312 &rarr; <strong>1289</strong><br />(-23 for losing)
+|raw|IC1's rating: 1261 &rarr; <strong>1290</strong><br />(+29 for winning)
+|c|☆MyNameJeeeeff|gg
+|c| brianortegachoice|come get ur rematch anytime dude
+|c| brianortegachoice|gg
+|c|☆IC1|andd u thought calculating skills win
+|c|☆IC1|never
+|c|☆MyNameJeeeeff|lol
+|c|☆IC1|xd
+|c| brianortegachoice|tbh he played well
+|c|☆MyNameJeeeeff|you guys are so angry
+|c|☆MyNameJeeeeff|and for what
+|c| brianortegachoice|allow him a rematch
+|l|☆MyNameJeeeeff
+|c|☆IC1|we mess around mate
+|c| brianortegachoice|lol
+|c|☆IC1|or he runs
+|c|☆IC1|bahaha
+|c|☆IC1|this is going on discord
+|c| brianortegachoice|let me go tell him we were bantering
+|c|☆IC1|ok
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

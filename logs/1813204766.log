@@ -1,0 +1,461 @@
+|j|☆Tel!con
+|j|☆Oskarlee
+|t:|1677848574
+|gametype|singles
+|player|p1|Tel!con|n|1029
+|player|p2|Oskarlee|unknown|1000
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Regice|
+|poke|p1|Regieleki|
+|poke|p1|Regirock|
+|poke|p1|Registeel|
+|poke|p1|Regidrago|
+|poke|p1|Regigigas|
+|poke|p2|Torkoal, M|
+|poke|p2|Scrafty, M|
+|poke|p2|Jirachi|
+|poke|p2|Bellossom, F|
+|poke|p2|Azumarill, M|
+|poke|p2|Togekiss, M|
+|teampreview
+|
+|t:|1677848593
+|start
+|switch|p1a: Mr. Popo|Regirock, shiny|100/100
+|switch|p2a: Togekiss|Togekiss, M|100/100
+|turn|1
+|
+|t:|1677848603
+|move|p2a: Togekiss|Air Slash|p1a: Mr. Popo
+|-resisted|p1a: Mr. Popo
+|-damage|p1a: Mr. Popo|82/100
+|cant|p1a: Mr. Popo|flinch
+|
+|upkeep
+|turn|2
+|
+|t:|1677848609
+|move|p2a: Togekiss|Nasty Plot|p2a: Togekiss
+|-boost|p2a: Togekiss|spa|2
+|move|p1a: Mr. Popo|Rock Blast|p2a: Togekiss
+|-supereffective|p2a: Togekiss
+|-damage|p2a: Togekiss|78/100
+|-supereffective|p2a: Togekiss
+|-damage|p2a: Togekiss|57/100
+|-supereffective|p2a: Togekiss
+|-damage|p2a: Togekiss|38/100
+|-hitcount|p2a: Togekiss|3
+|
+|upkeep
+|turn|3
+|
+|t:|1677848621
+|move|p2a: Togekiss|Air Slash|p1a: Mr. Popo
+|-resisted|p1a: Mr. Popo
+|-crit|p1a: Mr. Popo
+|-damage|p1a: Mr. Popo|27/100
+|cant|p1a: Mr. Popo|flinch
+|
+|upkeep
+|turn|4
+|
+|t:|1677848626
+|move|p2a: Togekiss|Air Slash|p1a: Mr. Popo
+|-resisted|p1a: Mr. Popo
+|-damage|p1a: Mr. Popo|0 fnt
+|faint|p1a: Mr. Popo
+|
+|upkeep
+|
+|t:|1677848630
+|switch|p1a: The World OH|Regieleki, shiny|100/100
+|turn|5
+|
+|t:|1677848634
+|switch|p2a: Jirachi|Jirachi|100/100
+|move|p1a: The World OH|Volt Switch|p2a: Jirachi
+|-crit|p2a: Jirachi
+|-damage|p2a: Jirachi|40/100
+|
+|t:|1677848643
+|switch|p1a: Evil Kinevil|Regice|100/100|[from] Volt Switch
+|
+|-heal|p2a: Jirachi|46/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1677848650
+|move|p2a: Jirachi|Iron Head|p1a: Evil Kinevil
+|-supereffective|p1a: Evil Kinevil
+|-damage|p1a: Evil Kinevil|50/100
+|cant|p1a: Evil Kinevil|flinch
+|
+|-heal|p2a: Jirachi|52/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1677848656
+|move|p2a: Jirachi|Iron Head|p1a: Evil Kinevil
+|-supereffective|p1a: Evil Kinevil
+|-damage|p1a: Evil Kinevil|0 fnt
+|faint|p1a: Evil Kinevil
+|
+|-heal|p2a: Jirachi|58/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1677848662
+|switch|p1a: His High-ness|Regigigas|100/100
+|-start|p1a: His High-ness|ability: Slow Start
+|turn|8
+|
+|t:|1677848669
+|move|p2a: Jirachi|Wish|p2a: Jirachi
+|move|p1a: His High-ness|Ancient Power|p2a: Jirachi
+|-resisted|p2a: Jirachi
+|-damage|p2a: Jirachi|53/100
+|-boost|p1a: His High-ness|atk|1
+|-boost|p1a: His High-ness|def|1
+|-boost|p1a: His High-ness|spa|1
+|-boost|p1a: His High-ness|spd|1
+|-boost|p1a: His High-ness|spe|1
+|
+|-heal|p2a: Jirachi|59/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|c|☆Oskarlee|?
+|
+|t:|1677848679
+|move|p2a: Jirachi|U-turn|p1a: His High-ness
+|-damage|p1a: His High-ness|93/100
+|c|☆Oskarlee|Are you pro?
+|c|☆Oskarlee|No, are you god?
+|
+|t:|1677848698
+|switch|p2a: Togekiss|Togekiss, M|38/100|[from] U-turn
+|move|p1a: His High-ness|Heat Crash|p2a: Togekiss
+|-damage|p2a: Togekiss|7/100
+|
+|-heal|p2a: Togekiss|61/100|[from] move: Wish|[wisher] Jirachi
+|upkeep
+|turn|10
+|c|☆Tel!con|lol i just hate loosing i came and made a team and i suck at pokemon so
+|c|☆Tel!con|sorry bout al the legendarys
+|
+|t:|1677848725
+|move|p2a: Togekiss|Nasty Plot|p2a: Togekiss
+|-boost|p2a: Togekiss|spa|2
+|move|p1a: His High-ness|Ancient Power|p2a: Togekiss
+|-supereffective|p2a: Togekiss
+|-damage|p2a: Togekiss|33/100
+|
+|upkeep
+|turn|11
+|
+|t:|1677848733
+|move|p2a: Togekiss|Air Slash|p1a: His High-ness
+|-damage|p1a: His High-ness|60/100
+|move|p1a: His High-ness|Ancient Power|p2a: Togekiss
+|-supereffective|p2a: Togekiss
+|-damage|p2a: Togekiss|0 fnt
+|faint|p2a: Togekiss
+|
+|upkeep
+|
+|t:|1677848740
+|switch|p2a: Scrafty|Scrafty, M|100/100
+|turn|12
+|
+|t:|1677848747
+|move|p2a: Scrafty|High Jump Kick|p1a: His High-ness
+|-supereffective|p1a: His High-ness
+|-damage|p1a: His High-ness|4/100
+|move|p1a: His High-ness|Heat Crash|p2a: Scrafty
+|-crit|p2a: Scrafty
+|-damage|p2a: Scrafty|40/100
+|
+|-end|p1a: His High-ness|Slow Start
+|upkeep
+|turn|13
+|
+|t:|1677848760
+|move|p1a: His High-ness|Protect|p1a: His High-ness
+|-singleturn|p1a: His High-ness|Protect
+|move|p2a: Scrafty|Knock Off|p1a: His High-ness
+|-activate|p1a: His High-ness|move: Protect
+|
+|upkeep
+|turn|14
+|
+|t:|1677848769
+|move|p1a: His High-ness|Heat Crash|p2a: Scrafty
+|-damage|p2a: Scrafty|0 fnt
+|faint|p2a: Scrafty
+|
+|upkeep
+|
+|t:|1677848774
+|switch|p2a: Azumarill|Azumarill, M|100/100
+|turn|15
+|
+|t:|1677848782
+|move|p2a: Azumarill|Aqua Jet|p1a: His High-ness
+|-damage|p1a: His High-ness|0 fnt
+|faint|p1a: His High-ness
+|-end|p1a: His High-ness|Slow Start|[silent]
+|
+|upkeep
+|
+|t:|1677848788
+|switch|p1a: The World OH|Regieleki, shiny|100/100
+|turn|16
+|c|☆Oskarlee|:/
+|c|☆Oskarlee|Gotta go serious then
+|c|☆Oskarlee|HAAAAAAAAAAAAAAAA-
+|
+|t:|1677848803
+|move|p1a: The World OH|Electro Ball|p2a: Azumarill
+|-supereffective|p2a: Azumarill
+|-damage|p2a: Azumarill|0 fnt
+|faint|p2a: Azumarill
+|
+|upkeep
+|c|☆Tel!con|gettem tiger
+|c|☆Oskarlee|AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH-
+|c|☆Tel!con|yea
+|
+|t:|1677848816
+|switch|p2a: Torkoal|Torkoal, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|turn|17
+|c|☆Tel!con|surpass your limits
+|c|☆Tel!con|UNLOCK YOUR TRU POTENTIOAAAAAAAAl
+|
+|t:|1677848837
+|switch|p2a: Bellossom|Bellossom, F|100/100
+|move|p1a: The World OH|Volt Switch|p2a: Bellossom
+|-resisted|p2a: Bellossom
+|-damage|p2a: Bellossom|75/100
+|
+|t:|1677848843
+|switch|p1a: IronDeficiencyMan|Registeel|100/100|[from] Volt Switch
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1677848850
+|move|p2a: Bellossom|Quiver Dance|p2a: Bellossom
+|-boost|p2a: Bellossom|spa|1
+|-boost|p2a: Bellossom|spd|1
+|-boost|p2a: Bellossom|spe|1
+|move|p1a: IronDeficiencyMan|Bulldoze|p2a: Bellossom
+|-resisted|p2a: Bellossom
+|-damage|p2a: Bellossom|69/100
+|-unboost|p2a: Bellossom|spe|1
+|-enditem|p2a: Bellossom|Kee Berry|[eat]
+|-boost|p2a: Bellossom|def|1|[from] item: Kee Berry
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1677848861
+|move|p2a: Bellossom|Quiver Dance|p2a: Bellossom
+|-boost|p2a: Bellossom|spa|1
+|-boost|p2a: Bellossom|spd|1
+|-boost|p2a: Bellossom|spe|1
+|move|p1a: IronDeficiencyMan|Iron Head|p2a: Bellossom
+|-crit|p2a: Bellossom
+|-damage|p2a: Bellossom|30/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|20
+|
+|t:|1677848872
+|move|p2a: Bellossom|Strength Sap|p1a: IronDeficiencyMan
+|-unboost|p1a: IronDeficiencyMan|atk|1
+|-heal|p2a: Bellossom|92/100
+|move|p1a: IronDeficiencyMan|Body Slam|p2a: Bellossom
+|-damage|p2a: Bellossom|84/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|21
+|
+|t:|1677848880
+|move|p2a: Bellossom|Quiver Dance|p2a: Bellossom
+|-boost|p2a: Bellossom|spa|1
+|-boost|p2a: Bellossom|spd|1
+|-boost|p2a: Bellossom|spe|1
+|move|p1a: IronDeficiencyMan|Bulldoze|p2a: Bellossom
+|-resisted|p2a: Bellossom
+|-damage|p2a: Bellossom|81/100
+|-unboost|p2a: Bellossom|spe|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|22
+|
+|t:|1677848889
+|move|p2a: Bellossom|Quiver Dance|p2a: Bellossom
+|-boost|p2a: Bellossom|spa|1
+|-boost|p2a: Bellossom|spd|1
+|-boost|p2a: Bellossom|spe|1
+|move|p1a: IronDeficiencyMan|Iron Head|p2a: Bellossom
+|-damage|p2a: Bellossom|70/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|23
+|
+|t:|1677848896
+|move|p2a: Bellossom|Quiver Dance|p2a: Bellossom
+|-boost|p2a: Bellossom|spa|1
+|-boost|p2a: Bellossom|spd|1
+|-boost|p2a: Bellossom|spe|1
+|move|p1a: IronDeficiencyMan|Iron Head|p2a: Bellossom
+|-damage|p2a: Bellossom|59/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|24
+|
+|t:|1677848904
+|switch|p1a: Gobstopper|Regidrago|100/100
+|move|p2a: Bellossom|Quiver Dance|p2a: Bellossom
+|-boost|p2a: Bellossom|spa|1
+|-boost|p2a: Bellossom|spd|1
+|-boost|p2a: Bellossom|spe|1
+|
+|-weather|none
+|upkeep
+|turn|25
+|
+|t:|1677848916
+|move|p2a: Bellossom|Giga Drain|p1a: Gobstopper
+|-resisted|p1a: Gobstopper
+|-damage|p1a: Gobstopper|44/100
+|-heal|p2a: Bellossom|100/100|[from] drain|[of] p1a: Gobstopper
+|move|p1a: Gobstopper|Dragon Energy|p2a: Bellossom
+|-damage|p2a: Bellossom|92/100
+|
+|upkeep
+|turn|26
+|
+|t:|1677848925
+|move|p2a: Bellossom|Giga Drain|p1a: Gobstopper
+|-resisted|p1a: Gobstopper
+|-damage|p1a: Gobstopper|0 fnt
+|-heal|p2a: Bellossom|100/100|[from] drain|[of] p1a: Gobstopper
+|faint|p1a: Gobstopper
+|
+|upkeep
+|
+|t:|1677848935
+|switch|p1a: The World OH|Regieleki, shiny|100/100
+|turn|27
+|
+|t:|1677848940
+|move|p2a: Bellossom|Giga Drain|p1a: The World OH
+|-damage|p1a: The World OH|0 fnt
+|faint|p1a: The World OH
+|
+|upkeep
+|
+|t:|1677848944
+|switch|p1a: IronDeficiencyMan|Registeel|100/100
+|turn|28
+|
+|t:|1677848950
+|move|p2a: Bellossom|Giga Drain|p1a: IronDeficiencyMan
+|-resisted|p1a: IronDeficiencyMan
+|-damage|p1a: IronDeficiencyMan|67/100
+|move|p1a: IronDeficiencyMan|Bulldoze|p2a: Bellossom
+|-resisted|p2a: Bellossom
+|-damage|p2a: Bellossom|96/100
+|-unboost|p2a: Bellossom|spe|1
+|
+|upkeep
+|turn|29
+|
+|t:|1677848958
+|move|p2a: Bellossom|Giga Drain|p1a: IronDeficiencyMan
+|-resisted|p1a: IronDeficiencyMan
+|-damage|p1a: IronDeficiencyMan|37/100
+|-heal|p2a: Bellossom|100/100|[from] drain|[of] p1a: IronDeficiencyMan
+|move|p1a: IronDeficiencyMan|Body Slam|p2a: Bellossom
+|-damage|p2a: Bellossom|87/100
+|-status|p2a: Bellossom|par
+|
+|upkeep
+|turn|30
+|
+|t:|1677848967
+|cant|p2a: Bellossom|par
+|move|p1a: IronDeficiencyMan|Bulldoze|p2a: Bellossom
+|-resisted|p2a: Bellossom
+|-damage|p2a: Bellossom|83/100 par
+|-unboost|p2a: Bellossom|spe|1
+|
+|upkeep
+|turn|31
+|c|☆Oskarlee|ohh right
+|
+|t:|1677848973
+|move|p2a: Bellossom|Safeguard|p2a: Bellossom
+|-sidestart|p2: Oskarlee|Safeguard
+|move|p1a: IronDeficiencyMan|Bulldoze|p2a: Bellossom
+|-resisted|p2a: Bellossom
+|-damage|p2a: Bellossom|78/100 par
+|-unboost|p2a: Bellossom|spe|1
+|
+|upkeep
+|turn|32
+|
+|t:|1677848980
+|move|p2a: Bellossom|Giga Drain|p1a: IronDeficiencyMan
+|-resisted|p1a: IronDeficiencyMan
+|-damage|p1a: IronDeficiencyMan|4/100
+|-heal|p2a: Bellossom|93/100 par|[from] drain|[of] p1a: IronDeficiencyMan
+|move|p1a: IronDeficiencyMan|Bulldoze|p2a: Bellossom
+|-resisted|p2a: Bellossom
+|-damage|p2a: Bellossom|89/100 par
+|-unboost|p2a: Bellossom|spe|1
+|
+|upkeep
+|turn|33
+|
+|t:|1677848988
+|move|p1a: IronDeficiencyMan|Bulldoze|p2a: Bellossom
+|-resisted|p2a: Bellossom
+|-damage|p2a: Bellossom|84/100 par
+|-unboost|p2a: Bellossom|spe|1
+|move|p2a: Bellossom|Giga Drain|p1a: IronDeficiencyMan
+|-resisted|p1a: IronDeficiencyMan
+|-damage|p1a: IronDeficiencyMan|0 fnt
+|-heal|p2a: Bellossom|86/100 par|[from] drain|[of] p1a: IronDeficiencyMan
+|faint|p1a: IronDeficiencyMan
+|
+|win|Oskarlee
+|raw|Tel!con's rating: 1029 &rarr; <strong>1013</strong><br />(-16 for losing)
+|raw|Oskarlee's rating: 1000 &rarr; <strong>1043</strong><br />(+43 for winning)
+|c|☆Tel!con|i have lost
+|c|☆Oskarlee|gg
+|c|☆Tel!con|you win
+|c|☆Tel!con|gg
+|l|☆Tel!con
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

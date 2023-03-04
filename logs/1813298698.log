@@ -1,0 +1,528 @@
+|j|☆1LDK
+|j|☆Hopopope
+|t:|1677857369
+|gametype|singles
+|player|p1|1LDK|acerola|1430
+|player|p2|Hopopope|gentleman-gen4dp|1536
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Jirachi|
+|poke|p1|Tapu Lele|
+|poke|p1|Urshifu-*, F|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Zapdos|
+|poke|p2|Hippowdon, M|
+|poke|p2|Tyranitar, F|
+|poke|p2|Excadrill, F|
+|poke|p2|Dracozolt|
+|poke|p2|Buzzwole|
+|poke|p2|Zapdos|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by 1LDK)
+|c|☆Hopopope|hi
+|c|☆1LDK|hey
+|inactive|1LDK has 120 seconds left.
+|
+|t:|1677857412
+|start
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|switch|p2a: Badoit|Zapdos, shiny|100/100
+|turn|1
+|
+|t:|1677857430
+|move|p2a: Badoit|Heat Wave|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|faint|p1a: Ferrothorn
+|
+|upkeep
+|
+|t:|1677857444
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Badoit|atk|1
+|turn|2
+|
+|t:|1677857450
+|move|p2a: Badoit|Hurricane|p1a: Landorus
+|-damage|p1a: Landorus|57/100
+|move|p1a: Landorus|Stealth Rock|p2a: Badoit
+|-sidestart|p2: Hopopope|move: Stealth Rock
+|
+|-heal|p1a: Landorus|63/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1677857461
+|switch|p2a: Volvic|Hippowdon, M, shiny|100/100
+|-damage|p2a: Volvic|94/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Volvic
+|move|p1a: Landorus|Toxic|p2a: Volvic
+|-status|p2a: Volvic|tox
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Landorus|69/100|[from] item: Leftovers
+|-damage|p2a: Volvic|88/100 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1677857473
+|move|p1a: Landorus|Knock Off|p2a: Volvic
+|-damage|p2a: Volvic|72/100 tox
+|-enditem|p2a: Volvic|Smooth Rock|[from] move: Knock Off|[of] p1a: Landorus
+|move|p2a: Volvic|Stealth Rock|p1a: Landorus
+|-sidestart|p1: 1LDK|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Landorus|75/100|[from] item: Leftovers
+|-damage|p2a: Volvic|60/100 tox|[from] psn
+|upkeep
+|turn|5
+|inactive|1LDK has 120 seconds left.
+|
+|t:|1677857506
+|move|p1a: Landorus|Earthquake|p2a: Volvic
+|-damage|p2a: Volvic|36/100 tox
+|move|p2a: Volvic|Slack Off|p2a: Volvic
+|-heal|p2a: Volvic|86/100 tox
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Landorus|81/100|[from] item: Leftovers
+|-damage|p2a: Volvic|68/100 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1677857517
+|switch|p2a: Cristaline|Buzzwole, shiny|100/100
+|-damage|p2a: Cristaline|88/100|[from] Stealth Rock
+|move|p1a: Landorus|Earthquake|p2a: Cristaline
+|-resisted|p2a: Cristaline
+|-damage|p2a: Cristaline|73/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Cristaline|67/100|[from] Sandstorm
+|-heal|p1a: Landorus|87/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1677857528
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Cristaline|Ice Punch|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|52/100
+|-status|p2a: Cristaline|par|[from] ability: Static|[of] p1a: Zapdos
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|46/100|[from] Sandstorm
+|-damage|p2a: Cristaline|61/100 par|[from] Sandstorm
+|upkeep
+|turn|8
+|
+|t:|1677857541
+|switch|p2a: Evian|Tyranitar, F, shiny|100/100
+|-damage|p2a: Evian|88/100|[from] Stealth Rock
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|97/100
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|91/100|[from] Sandstorm
+|upkeep
+|turn|9
+|
+|t:|1677857553
+|move|p1a: Zapdos|Volt Switch|p2a: Evian
+|-damage|p2a: Evian|76/100
+|inactive|1LDK has 120 seconds left.
+|
+|t:|1677857567
+|switch|p1a: Jirachi|Jirachi|100/100|[from] Volt Switch
+|-damage|p1a: Jirachi|94/100|[from] Stealth Rock
+|move|p2a: Evian|Ice Beam|p1a: Jirachi
+|-resisted|p1a: Jirachi
+|-damage|p1a: Jirachi|83/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Jirachi|90/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|inactive|1LDK has 120 seconds left.
+|
+|t:|1677857588
+|switch|p2a: Badoit|Zapdos, shiny|100/100
+|move|p1a: Jirachi|Future Sight|p2a: Badoit
+|-start|p1a: Jirachi|move: Future Sight
+|
+|-weather|none
+|-heal|p1a: Jirachi|96/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|inactive|1LDK has 90 seconds left.
+|
+|t:|1677857620
+|move|p1a: Jirachi|Wish|p1a: Jirachi
+|move|p2a: Badoit|Volt Switch|p1a: Jirachi
+|-damage|p1a: Jirachi|65/100
+|
+|t:|1677857637
+|switch|p2a: Evian|Tyranitar, F, shiny|76/100|[from] Volt Switch
+|-damage|p2a: Evian|64/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Evian
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Jirachi|71/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|inactive|1LDK has 90 seconds left.
+|
+|t:|1677857658
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, F|100/100
+|-damage|p1a: Urshifu|94/100|[from] Stealth Rock
+|move|p2a: Evian|Earthquake|p1a: Urshifu
+|-damage|p1a: Urshifu|62/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Urshifu|56/100|[from] Sandstorm
+|-end|p2a: Evian|move: Future Sight
+|-immune|p2a: Evian
+|-heal|p1a: Urshifu|100/100|[from] move: Wish|[wisher] Jirachi
+|upkeep
+|turn|13
+|inactive|1LDK has 90 seconds left.
+|
+|t:|1677857674
+|switch|p2a: Cristaline|Buzzwole, shiny|61/100 par
+|-damage|p2a: Cristaline|48/100 par|[from] Stealth Rock
+|move|p1a: Urshifu|U-turn|p2a: Cristaline
+|-resisted|p2a: Cristaline
+|-damage|p2a: Cristaline|38/100 par
+|-damage|p1a: Urshifu|84/100|[from] item: Rocky Helmet|[of] p2a: Cristaline
+|inactive|1LDK has 90 seconds left.
+|
+|t:|1677857682
+|switch|p1a: Zapdos|Zapdos|91/100|[from] U-turn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|85/100|[from] Sandstorm
+|-damage|p2a: Cristaline|32/100 par|[from] Sandstorm
+|upkeep
+|turn|14
+|
+|t:|1677857690
+|switch|p2a: Badoit|Zapdos, shiny|100/100
+|move|p1a: Zapdos|Hurricane|p2a: Badoit
+|-resisted|p2a: Badoit
+|-damage|p2a: Badoit|79/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|79/100|[from] Sandstorm
+|-damage|p2a: Badoit|73/100|[from] Sandstorm
+|upkeep
+|turn|15
+|
+|t:|1677857701
+|move|p1a: Zapdos|Volt Switch|p2a: Badoit
+|-damage|p2a: Badoit|47/100
+|
+|t:|1677857704
+|switch|p1a: Landorus|Landorus-Therian, M|87/100|[from] Volt Switch
+|-damage|p1a: Landorus|74/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Badoit|atk|1
+|move|p2a: Badoit|Volt Switch|p1a: Landorus
+|-immune|p1a: Landorus
+|
+|-weather|none
+|-heal|p1a: Landorus|80/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1677857715
+|move|p2a: Badoit|Roost|p2a: Badoit
+|-heal|p2a: Badoit|97/100
+|-singleturn|p2a: Badoit|move: Roost
+|move|p1a: Landorus|Toxic|p2a: Badoit
+|-status|p2a: Badoit|tox
+|
+|-heal|p1a: Landorus|86/100|[from] item: Leftovers
+|-damage|p2a: Badoit|91/100 tox|[from] psn
+|upkeep
+|turn|17
+|inactive|1LDK has 120 seconds left.
+|
+|t:|1677857730
+|switch|p2a: Volvic|Hippowdon, M, shiny|68/100 tox
+|-damage|p2a: Volvic|62/100 tox|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Volvic
+|move|p1a: Landorus|Knock Off|p2a: Volvic
+|-damage|p2a: Volvic|51/100 tox
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Landorus|92/100|[from] item: Leftovers
+|-damage|p2a: Volvic|45/100 tox|[from] psn
+|upkeep
+|turn|18
+|inactive|1LDK has 120 seconds left.
+|
+|t:|1677857743
+|move|p1a: Landorus|Earthquake|p2a: Volvic
+|-damage|p2a: Volvic|21/100 tox
+|move|p2a: Volvic|Whirlwind|p1a: Landorus
+|drag|p1a: Zapdos|Zapdos|79/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|73/100|[from] Sandstorm
+|-damage|p2a: Volvic|9/100 tox|[from] psn
+|upkeep
+|turn|19
+|inactive|1LDK has 120 seconds left.
+|
+|t:|1677857755
+|move|p1a: Zapdos|Hurricane|p2a: Volvic
+|-damage|p2a: Volvic|0 fnt
+|faint|p2a: Volvic
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|67/100|[from] Sandstorm
+|upkeep
+|
+|t:|1677857768
+|switch|p2a: Hépar|Dracozolt, shiny|100/100
+|-damage|p2a: Hépar|88/100|[from] Stealth Rock
+|turn|20
+|inactive|1LDK has 120 seconds left.
+|
+|t:|1677857796
+|switch|p1a: Landorus|Landorus-Therian, M|92/100
+|-damage|p1a: Landorus|80/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Hépar|atk|1
+|move|p2a: Hépar|Draco Meteor|p1a: Landorus|[miss]
+|-miss|p2a: Hépar|p1a: Landorus
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Landorus|86/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1677857811
+|switch|p2a: Cristaline|Buzzwole, shiny|32/100 par
+|-damage|p2a: Cristaline|19/100 par|[from] Stealth Rock
+|move|p1a: Landorus|Toxic||[still]
+|-fail|p1a: Landorus
+|
+|-weather|none
+|-heal|p1a: Landorus|92/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1677857842
+|switch|p1a: Jirachi|Jirachi|71/100
+|-damage|p1a: Jirachi|65/100|[from] Stealth Rock
+|cant|p2a: Cristaline|par
+|
+|-heal|p1a: Jirachi|71/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1677857853
+|switch|p2a: Vittel|Excadrill, F, shiny|100/100
+|-damage|p2a: Vittel|97/100|[from] Stealth Rock
+|move|p1a: Jirachi|Future Sight|p2a: Vittel
+|-start|p1a: Jirachi|move: Future Sight
+|
+|-heal|p2a: Vittel|100/100|[from] item: Leftovers
+|-heal|p1a: Jirachi|77/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1677857867
+|move|p2a: Vittel|Rapid Spin|p1a: Jirachi
+|-resisted|p1a: Jirachi
+|-damage|p1a: Jirachi|71/100
+|-boost|p2a: Vittel|spe|1
+|-sideend|p2: Hopopope|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Vittel
+|move|p1a: Jirachi|Wish|p1a: Jirachi
+|
+|-heal|p1a: Jirachi|77/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1677857878
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, F|84/100
+|-damage|p1a: Urshifu|78/100|[from] Stealth Rock
+|move|p2a: Vittel|Rock Slide|p1a: Urshifu
+|-resisted|p1a: Urshifu
+|-damage|p1a: Urshifu|63/100
+|
+|-end|p2a: Vittel|move: Future Sight
+|-resisted|p2a: Vittel
+|-damage|p2a: Vittel|75/100
+|-heal|p1a: Urshifu|100/100|[from] move: Wish|[wisher] Jirachi
+|-heal|p2a: Vittel|81/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1677857901
+|switch|p2a: Cristaline|Buzzwole, shiny|19/100 par
+|move|p1a: Urshifu|Aqua Jet|p2a: Cristaline
+|-damage|p2a: Cristaline|2/100 par
+|-damage|p1a: Urshifu|84/100|[from] item: Rocky Helmet|[of] p2a: Cristaline
+|
+|upkeep
+|turn|27
+|
+|t:|1677857912
+|move|p1a: Urshifu|Aqua Jet|p2a: Cristaline
+|-damage|p2a: Cristaline|0 fnt
+|-damage|p1a: Urshifu|68/100|[from] item: Rocky Helmet|[of] p2a: Cristaline
+|faint|p2a: Cristaline
+|
+|upkeep
+|
+|t:|1677857920
+|switch|p2a: Badoit|Zapdos, shiny|91/100 tox
+|turn|28
+|
+|t:|1677857932
+|switch|p1a: Jirachi|Jirachi|77/100
+|-damage|p1a: Jirachi|71/100|[from] Stealth Rock
+|move|p2a: Badoit|Hurricane|p1a: Jirachi
+|-resisted|p1a: Jirachi
+|-damage|p1a: Jirachi|46/100
+|
+|-heal|p1a: Jirachi|52/100|[from] item: Leftovers
+|-damage|p2a: Badoit|85/100 tox|[from] psn
+|upkeep
+|turn|29
+|
+|t:|1677857946
+|move|p1a: Jirachi|Wish|p1a: Jirachi
+|move|p2a: Badoit|Volt Switch|p1a: Jirachi
+|-damage|p1a: Jirachi|18/100
+|
+|t:|1677857955
+|switch|p2a: Evian|Tyranitar, F, shiny|64/100|[from] Volt Switch
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Evian
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Jirachi|24/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1677857973
+|switch|p2a: Badoit|Zapdos, shiny|85/100 tox
+|move|p1a: Jirachi|Protect||[still]
+|-fail|p1a: Jirachi
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Badoit|79/100 tox|[from] Sandstorm
+|-heal|p1a: Jirachi|74/100|[from] move: Wish|[wisher] Jirachi
+|-heal|p1a: Jirachi|80/100|[from] item: Leftovers
+|-damage|p2a: Badoit|73/100 tox|[from] psn
+|upkeep
+|turn|31
+|
+|t:|1677857982
+|move|p1a: Jirachi|Protect|p1a: Jirachi
+|-singleturn|p1a: Jirachi|Protect
+|move|p2a: Badoit|Heat Wave|p1a: Jirachi
+|-activate|p1a: Jirachi|move: Protect
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Badoit|67/100 tox|[from] Sandstorm
+|-heal|p1a: Jirachi|87/100|[from] item: Leftovers
+|-damage|p2a: Badoit|55/100 tox|[from] psn
+|upkeep
+|turn|32
+|
+|t:|1677858001
+|move|p1a: Jirachi|Future Sight|p2a: Badoit
+|-start|p1a: Jirachi|move: Future Sight
+|move|p2a: Badoit|Volt Switch|p1a: Jirachi
+|-damage|p1a: Jirachi|55/100
+|
+|t:|1677858018
+|switch|p2a: Vittel|Excadrill, F, shiny|81/100|[from] Volt Switch
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Vittel|87/100|[from] item: Leftovers
+|-heal|p1a: Jirachi|62/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1677858034
+|switch|p1a: Landorus|Landorus-Therian, M|92/100
+|-damage|p1a: Landorus|80/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Vittel|atk|1
+|move|p2a: Vittel|Earthquake|p1a: Landorus
+|-immune|p1a: Landorus
+|
+|-weather|none
+|-heal|p2a: Vittel|94/100|[from] item: Leftovers
+|-heal|p1a: Landorus|86/100|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1677858042
+|switch|p2a: Badoit|Zapdos, shiny|55/100 tox
+|move|p1a: Landorus|Earthquake|p2a: Badoit
+|-immune|p2a: Badoit
+|
+|-end|p2a: Badoit|move: Future Sight
+|-damage|p2a: Badoit|13/100 tox
+|-heal|p1a: Landorus|92/100|[from] item: Leftovers
+|-damage|p2a: Badoit|7/100 tox|[from] psn
+|upkeep
+|turn|35
+|inactive|1LDK has 120 seconds left.
+|
+|t:|1677858055
+|move|p2a: Badoit|Hurricane|p1a: Landorus|[miss]
+|-miss|p2a: Badoit|p1a: Landorus
+|move|p1a: Landorus|Knock Off|p2a: Badoit
+|-damage|p2a: Badoit|0 fnt
+|-status|p1a: Landorus|par|[from] ability: Static|[of] p2a: Badoit
+|-enditem|p2a: Badoit|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Landorus
+|faint|p2a: Badoit
+|
+|-heal|p1a: Landorus|98/100 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1677858070
+|switch|p2a: Evian|Tyranitar, F, shiny|64/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Evian
+|turn|36
+|inactive|1LDK has 120 seconds left.
+|
+|t:|1677858109
+|switch|p2a: Hépar|Dracozolt, shiny|88/100
+|move|p1a: Landorus|Earthquake|p2a: Hépar
+|-supereffective|p2a: Hépar
+|-damage|p2a: Hépar|0 fnt
+|faint|p2a: Hépar
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Landorus|100/100 par|[from] item: Leftovers
+|upkeep
+|-message|Hopopope forfeited.
+|
+|win|1LDK
+|raw|1LDK's rating: 1430 &rarr; <strong>1456</strong><br />(+26 for winning)
+|raw|Hopopope's rating: 1536 &rarr; <strong>1510</strong><br />(-26 for losing)
+|l|☆Hopopope
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

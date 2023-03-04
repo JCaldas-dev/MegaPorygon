@@ -1,0 +1,895 @@
+|j|☆vivaeloim
+|j|☆Crasher Of Wakes
+|t:|1677794843
+|gametype|singles
+|player|p1|vivaeloim|norman|1233
+|player|p2|Crasher Of Wakes|crasherwake|1183
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Aegislash, M|
+|poke|p1|Toxapex, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Rillaboom, F|
+|poke|p1|Zapdos|
+|poke|p1|Blacephalon|
+|poke|p2|Diancie|
+|poke|p2|Garchomp, M|
+|poke|p2|Toxapex, M|
+|poke|p2|Charizard, M|
+|poke|p2|Cobalion|
+|poke|p2|Celesteela|
+|teampreview
+|
+|t:|1677794856
+|start
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|switch|p2a: King of Spades|Garchomp, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: King of Spades|atk|1
+|turn|1
+|
+|t:|1677794866
+|move|p2a: King of Spades|Stealth Rock|p1a: Landorus
+|-sidestart|p1: vivaeloim|move: Stealth Rock
+|move|p1a: Landorus|Stealth Rock|p2a: King of Spades
+|-sidestart|p2: Crasher Of Wakes|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1677794872
+|move|p2a: King of Spades|Swords Dance|p2a: King of Spades
+|-boost|p2a: King of Spades|atk|2
+|move|p1a: Landorus|Toxic|p2a: King of Spades
+|-status|p2a: King of Spades|tox
+|
+|-damage|p2a: King of Spades|94/100 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1677794879
+|move|p2a: King of Spades|Stone Edge|p1a: Landorus|[miss]
+|-miss|p2a: King of Spades|p1a: Landorus
+|move|p1a: Landorus|U-turn|p2a: King of Spades
+|-damage|p2a: King of Spades|73/100 tox
+|-damage|p1a: Landorus|88/100|[from] ability: Rough Skin|[of] p2a: King of Spades
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Crasher Of Wakes)
+|
+|t:|1677794888
+|switch|p1a: Toxapex|Toxapex, F|100/100|[from] U-turn
+|-damage|p1a: Toxapex|88/100|[from] Stealth Rock
+|
+|-heal|p2a: King of Spades|79/100 tox|[from] item: Leftovers
+|-heal|p1a: Toxapex|94/100|[from] item: Black Sludge
+|-damage|p2a: King of Spades|67/100 tox|[from] psn
+|upkeep
+|turn|4
+|inactive|vivaeloim has 120 seconds left.
+|
+|t:|1677794932
+|switch|p2a: 7 of Clubs|Toxapex, M|100/100
+|-damage|p2a: 7 of Clubs|88/100|[from] Stealth Rock
+|move|p1a: Toxapex|Haze|p1a: Toxapex
+|-clearallboost
+|
+|-heal|p1a: Toxapex|100/100|[from] item: Black Sludge
+|upkeep
+|turn|5
+|
+|t:|1677794948
+|switch|p1a: Landorus|Landorus-Therian, M|88/100
+|-damage|p1a: Landorus|76/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: 7 of Clubs|atk|1
+|move|p2a: 7 of Clubs|Knock Off|p1a: Landorus
+|-damage|p1a: Landorus|68/100
+|-enditem|p1a: Landorus|Leftovers|[from] move: Knock Off|[of] p2a: 7 of Clubs
+|
+|upkeep
+|turn|6
+|
+|t:|1677794960
+|switch|p2a: Ace of Hearts|Charizard, M|100/100
+|move|p1a: Landorus|Earthquake|p2a: Ace of Hearts
+|-immune|p2a: Ace of Hearts
+|
+|upkeep
+|turn|7
+|
+|t:|1677794972
+|switch|p2a: Celesteela|Celesteela|100/100
+|-damage|p2a: Celesteela|88/100|[from] Stealth Rock
+|move|p1a: Landorus|Earthquake|p2a: Celesteela
+|-immune|p2a: Celesteela
+|
+|-heal|p2a: Celesteela|94/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1677794982
+|move|p1a: Landorus|U-turn|p2a: Celesteela
+|-resisted|p2a: Celesteela
+|-damage|p2a: Celesteela|89/100
+|
+|t:|1677794986
+|switch|p1a: Zapdos|Zapdos|100/100|[from] U-turn
+|move|p2a: Celesteela|Substitute|p2a: Celesteela
+|-start|p2a: Celesteela|Substitute
+|-damage|p2a: Celesteela|64/100
+|
+|-heal|p2a: Celesteela|70/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|inactive|vivaeloim has 120 seconds left.
+|
+|t:|1677794994
+|move|p1a: Zapdos|Discharge|p2a: Celesteela
+|-supereffective|p2a: Celesteela
+|-end|p2a: Celesteela|Substitute
+|move|p2a: Celesteela|Leech Seed|p1a: Zapdos
+|-start|p1a: Zapdos|move: Leech Seed
+|
+|-heal|p2a: Celesteela|77/100|[from] item: Leftovers
+|-damage|p1a: Zapdos|88/100|[from] Leech Seed|[of] p2a: Celesteela
+|-heal|p2a: Celesteela|89/100|[silent]
+|upkeep
+|turn|10
+|inactive|vivaeloim has 120 seconds left.
+|
+|t:|1677795006
+|switch|p2a: Queen of Diamond|Diancie|100/100
+|-damage|p2a: Queen of Diamond|88/100|[from] Stealth Rock
+|move|p1a: Zapdos|Defog|p2a: Queen of Diamond
+|-fail|p2a: Queen of Diamond|unboost|[from] ability: Clear Body|[of] p2a: Queen of Diamond
+|-sideend|p2: Crasher Of Wakes|Stealth Rock|[from] move: Defog|[of] p1a: Zapdos
+|-sideend|p1: vivaeloim|Stealth Rock|[from] move: Defog|[of] p1a: Zapdos
+|
+|-damage|p1a: Zapdos|76/100|[from] Leech Seed|[of] p2a: Queen of Diamond
+|-heal|p2a: Queen of Diamond|100/100|[silent]
+|upkeep
+|turn|11
+|inactive|vivaeloim has 120 seconds left.
+|
+|t:|1677795018
+|switch|p1a: Aegislash|Aegislash, M|100/100
+|move|p2a: Queen of Diamond|Mystical Fire|p1a: Aegislash
+|-supereffective|p1a: Aegislash
+|-damage|p1a: Aegislash|75/100
+|-unboost|p1a: Aegislash|spa|1
+|
+|-heal|p1a: Aegislash|81/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|inactive|vivaeloim has 120 seconds left.
+|
+|t:|1677795030
+|switch|p2a: 8 of Spades|Cobalion|100/100
+|move|p1a: Aegislash|Swords Dance|p1a: Aegislash
+|-boost|p1a: Aegislash|atk|2
+|
+|-heal|p1a: Aegislash|87/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1677795038
+|move|p1a: Aegislash|King's Shield|p1a: Aegislash
+|-singleturn|p1a: Aegislash|Protect
+|move|p2a: 8 of Spades|Stealth Rock|p1a: Aegislash
+|-sidestart|p1: vivaeloim|move: Stealth Rock
+|
+|-heal|p1a: Aegislash|93/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1677795044
+|switch|p2a: 7 of Clubs|Toxapex, M|100/100
+|move|p1a: Aegislash|Swords Dance|p1a: Aegislash
+|-boost|p1a: Aegislash|atk|2
+|
+|-heal|p1a: Aegislash|99/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1677795052
+|-formechange|p1a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p1a: Aegislash|Shadow Sneak|p2a: 7 of Clubs
+|-damage|p2a: 7 of Clubs|59/100
+|-damage|p1a: Aegislash|83/100|[from] item: Rocky Helmet|[of] p2a: 7 of Clubs
+|move|p2a: 7 of Clubs|Haze|p2a: 7 of Clubs
+|-clearallboost
+|
+|-heal|p1a: Aegislash|89/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1677795061
+|-formechange|p1a: Aegislash|Aegislash||[from] ability: Stance Change
+|move|p1a: Aegislash|King's Shield|p1a: Aegislash
+|-singleturn|p1a: Aegislash|Protect
+|move|p2a: 7 of Clubs|Knock Off|p1a: Aegislash
+|-activate|p1a: Aegislash|move: Protect
+|-unboost|p2a: 7 of Clubs|atk|1
+|
+|-heal|p1a: Aegislash|95/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1677795082
+|switch|p1a: Zapdos|Zapdos|76/100
+|move|p2a: 7 of Clubs|Toxic Spikes|p1a: Zapdos
+|-sidestart|p1: vivaeloim|move: Toxic Spikes
+|
+|upkeep
+|turn|18
+|
+|t:|1677795091
+|move|p1a: Zapdos|Defog|p2a: 7 of Clubs
+|-unboost|p2a: 7 of Clubs|evasion|1
+|-sideend|p1: vivaeloim|Toxic Spikes|[from] move: Defog|[of] p1a: Zapdos
+|-sideend|p1: vivaeloim|Stealth Rock|[from] move: Defog|[of] p1a: Zapdos
+|move|p2a: 7 of Clubs|Recover|p2a: 7 of Clubs
+|-heal|p2a: 7 of Clubs|100/100
+|
+|upkeep
+|turn|19
+|
+|t:|1677795099
+|switch|p2a: Queen of Diamond|Diancie|100/100
+|move|p1a: Zapdos|Discharge|p2a: Queen of Diamond
+|-damage|p2a: Queen of Diamond|81/100
+|
+|upkeep
+|turn|20
+|
+|t:|1677795108
+|switch|p1a: Aegislash|Aegislash, M|95/100
+|move|p2a: Queen of Diamond|Diamond Storm|p1a: Aegislash
+|-resisted|p1a: Aegislash
+|-damage|p1a: Aegislash|76/100
+|-boost|p2a: Queen of Diamond|def|2
+|
+|-heal|p1a: Aegislash|82/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1677795117
+|move|p1a: Aegislash|King's Shield|p1a: Aegislash
+|-singleturn|p1a: Aegislash|Protect
+|move|p2a: Queen of Diamond|Mystical Fire|p1a: Aegislash
+|-activate|p1a: Aegislash|move: Protect
+|
+|-heal|p1a: Aegislash|88/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1677795126
+|switch|p2a: 7 of Clubs|Toxapex, M|100/100
+|-formechange|p1a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p1a: Aegislash|Flash Cannon|p2a: 7 of Clubs
+|-resisted|p2a: 7 of Clubs
+|-damage|p2a: 7 of Clubs|88/100
+|
+|-heal|p1a: Aegislash|95/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1677795135
+|switch|p2a: King of Spades|Garchomp, M|67/100 tox
+|-formechange|p1a: Aegislash|Aegislash||[from] ability: Stance Change
+|move|p1a: Aegislash|King's Shield||[still]
+|-fail|p1a: Aegislash
+|
+|-heal|p2a: King of Spades|73/100 tox|[from] item: Leftovers
+|-heal|p1a: Aegislash|100/100|[from] item: Leftovers
+|-damage|p2a: King of Spades|67/100 tox|[from] psn
+|upkeep
+|turn|24
+|inactive|vivaeloim has 120 seconds left.
+|
+|t:|1677795165
+|switch|p2a: Ace of Hearts|Charizard, M|100/100
+|switch|p1a: Landorus|Landorus-Therian, M|68/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Ace of Hearts|atk|1
+|
+|upkeep
+|turn|25
+|
+|t:|1677795172
+|move|p2a: Ace of Hearts|Flamethrower|p1a: Landorus
+|-damage|p1a: Landorus|23/100
+|move|p1a: Landorus|U-turn|p2a: Ace of Hearts
+|-resisted|p2a: Ace of Hearts
+|-damage|p2a: Ace of Hearts|92/100
+|
+|t:|1677795178
+|switch|p1a: Toxapex|Toxapex, F|100/100|[from] U-turn
+|
+|upkeep
+|turn|26
+|
+|t:|1677795184
+|switch|p2a: 7 of Clubs|Toxapex, M|100/100
+|move|p1a: Toxapex|Scald|p2a: 7 of Clubs
+|-resisted|p2a: 7 of Clubs
+|-crit|p2a: 7 of Clubs
+|-damage|p2a: 7 of Clubs|90/100
+|-status|p2a: 7 of Clubs|brn
+|
+|-damage|p2a: 7 of Clubs|84/100 brn|[from] brn
+|upkeep
+|turn|27
+|inactive|vivaeloim has 120 seconds left.
+|
+|t:|1677795208
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: 7 of Clubs|Toxic Spikes|p1a: Rillaboom
+|-sidestart|p1: vivaeloim|move: Toxic Spikes
+|
+|-heal|p2a: 7 of Clubs|90/100 brn|[from] Grassy Terrain
+|-damage|p2a: 7 of Clubs|84/100 brn|[from] brn
+|upkeep
+|turn|28
+|inactive|vivaeloim has 120 seconds left.
+|
+|t:|1677795221
+|move|p1a: Rillaboom|Knock Off|p2a: 7 of Clubs
+|-damage|p2a: 7 of Clubs|58/100 brn
+|-damage|p1a: Rillaboom|84/100|[from] item: Rocky Helmet|[of] p2a: 7 of Clubs
+|-enditem|p2a: 7 of Clubs|Rocky Helmet|[from] move: Knock Off|[of] p1a: Rillaboom
+|-damage|p1a: Rillaboom|74/100|[from] item: Life Orb
+|move|p2a: 7 of Clubs|Knock Off|p1a: Rillaboom
+|-damage|p1a: Rillaboom|66/100
+|-enditem|p1a: Rillaboom|Life Orb|[from] move: Knock Off|[of] p2a: 7 of Clubs
+|
+|-heal|p1a: Rillaboom|72/100|[from] Grassy Terrain
+|-heal|p2a: 7 of Clubs|64/100 brn|[from] Grassy Terrain
+|-damage|p2a: 7 of Clubs|58/100 brn|[from] brn
+|upkeep
+|turn|29
+|inactive|vivaeloim has 120 seconds left.
+|
+|t:|1677795234
+|switch|p2a: Ace of Hearts|Charizard, M|92/100
+|move|p1a: Rillaboom|Swords Dance|p1a: Rillaboom
+|-boost|p1a: Rillaboom|atk|2
+|
+|-heal|p1a: Rillaboom|78/100|[from] Grassy Terrain
+|upkeep
+|turn|30
+|inactive|vivaeloim has 120 seconds left.
+|
+|t:|1677795249
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|-sideend|p1: vivaeloim|move: Toxic Spikes|[of] p1a: Toxapex
+|move|p2a: Ace of Hearts|Air Slash|p1a: Toxapex
+|-damage|p1a: Toxapex|74/100
+|
+|-heal|p1a: Toxapex|80/100|[from] Grassy Terrain
+|-heal|p1a: Toxapex|87/100|[from] item: Black Sludge
+|upkeep
+|turn|31
+|inactive|vivaeloim has 120 seconds left.
+|
+|t:|1677795263
+|switch|p2a: 7 of Clubs|Toxapex, M|92/100 brn
+|switch|p1a: Rillaboom|Rillaboom, F|78/100
+|
+|-heal|p1a: Rillaboom|84/100|[from] Grassy Terrain
+|-heal|p2a: 7 of Clubs|98/100 brn|[from] Grassy Terrain
+|-damage|p2a: 7 of Clubs|92/100 brn|[from] brn
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|32
+|inactive|vivaeloim has 120 seconds left.
+|
+|t:|1677795273
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|move|p2a: 7 of Clubs|Toxic Spikes|p1a: Toxapex
+|-sidestart|p1: vivaeloim|move: Toxic Spikes
+|
+|-damage|p2a: 7 of Clubs|86/100 brn|[from] brn
+|upkeep
+|turn|33
+|
+|t:|1677795280
+|move|p2a: 7 of Clubs|Knock Off|p1a: Toxapex
+|-damage|p1a: Toxapex|95/100
+|-enditem|p1a: Toxapex|Black Sludge|[from] move: Knock Off|[of] p2a: 7 of Clubs
+|move|p1a: Toxapex|Haze|p1a: Toxapex
+|-clearallboost
+|
+|-damage|p2a: 7 of Clubs|80/100 brn|[from] brn
+|upkeep
+|turn|34
+|inactive|vivaeloim has 120 seconds left.
+|
+|t:|1677795297
+|switch|p1a: Aegislash|Aegislash, M|100/100
+|move|p2a: 7 of Clubs|Knock Off|p1a: Aegislash
+|-supereffective|p1a: Aegislash
+|-damage|p1a: Aegislash|89/100
+|-enditem|p1a: Aegislash|Leftovers|[from] move: Knock Off|[of] p2a: 7 of Clubs
+|
+|-damage|p2a: 7 of Clubs|74/100 brn|[from] brn
+|upkeep
+|turn|35
+|inactive|vivaeloim has 120 seconds left.
+|
+|t:|1677795309
+|switch|p2a: King of Spades|Garchomp, M|67/100 tox
+|move|p1a: Aegislash|Swords Dance|p1a: Aegislash
+|-boost|p1a: Aegislash|atk|2
+|
+|-heal|p2a: King of Spades|73/100 tox|[from] item: Leftovers
+|-damage|p2a: King of Spades|67/100 tox|[from] psn
+|upkeep
+|turn|36
+|
+|t:|1677795317
+|move|p1a: Aegislash|King's Shield|p1a: Aegislash
+|-singleturn|p1a: Aegislash|Protect
+|move|p2a: King of Spades|Earthquake|p1a: Aegislash
+|-activate|p1a: Aegislash|move: Protect
+|
+|-heal|p2a: King of Spades|73/100 tox|[from] item: Leftovers
+|-damage|p2a: King of Spades|60/100 tox|[from] psn
+|upkeep
+|turn|37
+|
+|t:|1677795325
+|switch|p1a: Zapdos|Zapdos|76/100
+|move|p2a: King of Spades|Stealth Rock|p1a: Zapdos
+|-sidestart|p1: vivaeloim|move: Stealth Rock
+|
+|-heal|p2a: King of Spades|67/100 tox|[from] item: Leftovers
+|-damage|p2a: King of Spades|48/100 tox|[from] psn
+|upkeep
+|turn|38
+|
+|t:|1677795333
+|move|p2a: King of Spades|Stone Edge|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|18/100
+|move|p1a: Zapdos|Defog|p2a: King of Spades
+|-unboost|p2a: King of Spades|evasion|1
+|-sideend|p1: vivaeloim|Toxic Spikes|[from] move: Defog|[of] p1a: Zapdos
+|-sideend|p1: vivaeloim|Stealth Rock|[from] move: Defog|[of] p1a: Zapdos
+|
+|-heal|p2a: King of Spades|54/100 tox|[from] item: Leftovers
+|-damage|p2a: King of Spades|30/100 tox|[from] psn
+|upkeep
+|turn|39
+|
+|t:|1677795353
+|switch|p1a: Aegislash|Aegislash, M|89/100
+|move|p2a: King of Spades|Stealth Rock|p1a: Aegislash
+|-sidestart|p1: vivaeloim|move: Stealth Rock
+|
+|-heal|p2a: King of Spades|36/100 tox|[from] item: Leftovers
+|-damage|p2a: King of Spades|5/100 tox|[from] psn
+|upkeep
+|turn|40
+|
+|t:|1677795361
+|switch|p2a: Ace of Hearts|Charizard, M|92/100
+|move|p1a: Aegislash|King's Shield||[still]
+|-fail|p1a: Aegislash
+|
+|upkeep
+|turn|41
+|
+|t:|1677795366
+|move|p1a: Aegislash|King's Shield|p1a: Aegislash
+|-singleturn|p1a: Aegislash|Protect
+|move|p2a: Ace of Hearts|Flamethrower|p1a: Aegislash
+|-activate|p1a: Aegislash|move: Protect
+|
+|upkeep
+|turn|42
+|
+|t:|1677795372
+|move|p2a: Ace of Hearts|Flamethrower|p1a: Aegislash
+|-supereffective|p1a: Aegislash
+|-damage|p1a: Aegislash|25/100
+|move|p1a: Aegislash|Swords Dance|p1a: Aegislash
+|-boost|p1a: Aegislash|atk|2
+|
+|upkeep
+|turn|43
+|
+|t:|1677795378
+|move|p1a: Aegislash|King's Shield|p1a: Aegislash
+|-singleturn|p1a: Aegislash|Protect
+|move|p2a: Ace of Hearts|Roost|p2a: Ace of Hearts
+|-heal|p2a: Ace of Hearts|100/100
+|-singleturn|p2a: Ace of Hearts|move: Roost
+|
+|upkeep
+|turn|44
+|
+|t:|1677795387
+|-formechange|p1a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p1a: Aegislash|Shadow Sneak|p2a: Ace of Hearts
+|-damage|p2a: Ace of Hearts|26/100
+|move|p2a: Ace of Hearts|Air Slash|p1a: Aegislash
+|-resisted|p1a: Aegislash
+|-damage|p1a: Aegislash|0 fnt
+|faint|p1a: Aegislash
+|
+|upkeep
+|
+|t:|1677795403
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|-damage|p1a: Toxapex|88/100|[from] Stealth Rock
+|turn|45
+|
+|t:|1677795408
+|switch|p2a: Celesteela|Celesteela|89/100
+|switch|p1a: Zapdos|Zapdos|18/100
+|
+|-heal|p2a: Celesteela|96/100|[from] item: Leftovers
+|upkeep
+|turn|46
+|
+|t:|1677795415
+|move|p1a: Zapdos|Discharge|p2a: Celesteela
+|-supereffective|p2a: Celesteela
+|-damage|p2a: Celesteela|45/100
+|move|p2a: Celesteela|Substitute|p2a: Celesteela
+|-start|p2a: Celesteela|Substitute
+|-damage|p2a: Celesteela|20/100
+|
+|-heal|p2a: Celesteela|27/100|[from] item: Leftovers
+|upkeep
+|turn|47
+|
+|t:|1677795425
+|move|p1a: Zapdos|Discharge|p2a: Celesteela
+|-supereffective|p2a: Celesteela
+|-end|p2a: Celesteela|Substitute
+|move|p2a: Celesteela|Leech Seed|p1a: Zapdos
+|-start|p1a: Zapdos|move: Leech Seed
+|
+|-heal|p2a: Celesteela|33/100|[from] item: Leftovers
+|-damage|p1a: Zapdos|6/100|[from] Leech Seed|[of] p2a: Celesteela
+|-heal|p2a: Celesteela|46/100|[silent]
+|upkeep
+|turn|48
+|
+|t:|1677795438
+|move|p2a: Celesteela|Protect|p2a: Celesteela
+|-singleturn|p2a: Celesteela|Protect
+|move|p1a: Zapdos|Defog|p2a: Celesteela
+|-activate|p2a: Celesteela|move: Protect
+|
+|-heal|p2a: Celesteela|52/100|[from] item: Leftovers
+|-damage|p1a: Zapdos|0 fnt|[from] Leech Seed|[of] p2a: Celesteela
+|-heal|p2a: Celesteela|57/100|[silent]
+|faint|p1a: Zapdos
+|upkeep
+|
+|t:|1677795448
+|switch|p1a: Blacephalon|Blacephalon|100/100
+|-damage|p1a: Blacephalon|76/100|[from] Stealth Rock
+|turn|49
+|
+|t:|1677795466
+|switch|p2a: 7 of Clubs|Toxapex, M|100/100 brn
+|move|p1a: Blacephalon|Trick|p2a: 7 of Clubs
+|-activate|p1a: Blacephalon|move: Trick|[of] p2a: 7 of Clubs
+|-item|p2a: 7 of Clubs|Choice Specs|[from] move: Trick
+|-enditem|p1a: Blacephalon|Choice Specs|[silent]|[from] move: Trick
+|
+|-damage|p2a: 7 of Clubs|95/100 brn|[from] brn
+|upkeep
+|turn|50
+|
+|t:|1677795487
+|move|p1a: Blacephalon|Shadow Ball|p2a: 7 of Clubs
+|-damage|p2a: 7 of Clubs|57/100 brn
+|-unboost|p2a: 7 of Clubs|spd|1
+|move|p2a: 7 of Clubs|Toxic Spikes|p1a: Blacephalon
+|-sidestart|p1: vivaeloim|move: Toxic Spikes
+|
+|-damage|p2a: 7 of Clubs|51/100 brn|[from] brn
+|upkeep
+|turn|51
+|
+|t:|1677795495
+|switch|p2a: Queen of Diamond|Diancie|81/100
+|move|p1a: Blacephalon|Shadow Ball|p2a: Queen of Diamond
+|-damage|p2a: Queen of Diamond|58/100
+|
+|upkeep
+|turn|52
+|
+|t:|1677795506
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|-damage|p1a: Toxapex|88/100|[from] Stealth Rock
+|-sideend|p1: vivaeloim|move: Toxic Spikes|[of] p1a: Toxapex
+|move|p2a: Queen of Diamond|Diamond Storm|p1a: Toxapex
+|-crit|p1a: Toxapex
+|-damage|p1a: Toxapex|42/100
+|
+|upkeep
+|turn|53
+|
+|t:|1677795519
+|move|p2a: Queen of Diamond|Diamond Storm|p1a: Toxapex
+|-damage|p1a: Toxapex|9/100
+|-boost|p2a: Queen of Diamond|def|2
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|59/100
+|
+|upkeep
+|turn|54
+|
+|t:|1677795528
+|move|p2a: Queen of Diamond|Diamond Storm|p1a: Toxapex|[miss]
+|-miss|p2a: Queen of Diamond|p1a: Toxapex
+|move|p1a: Toxapex|Toxic|p2a: Queen of Diamond
+|-status|p2a: Queen of Diamond|tox
+|
+|-damage|p2a: Queen of Diamond|52/100 tox|[from] psn
+|upkeep
+|turn|55
+|
+|t:|1677795540
+|switch|p2a: Celesteela|Celesteela|57/100
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|100/100
+|
+|-heal|p2a: Celesteela|63/100|[from] item: Leftovers
+|upkeep
+|turn|56
+|
+|t:|1677795554
+|switch|p1a: Blacephalon|Blacephalon|76/100
+|-damage|p1a: Blacephalon|51/100|[from] Stealth Rock
+|move|p2a: Celesteela|Substitute|p2a: Celesteela
+|-start|p2a: Celesteela|Substitute
+|-damage|p2a: Celesteela|39/100
+|
+|-heal|p2a: Celesteela|45/100|[from] item: Leftovers
+|upkeep
+|turn|57
+|
+|t:|1677795562
+|move|p1a: Blacephalon|Flamethrower|p2a: Celesteela
+|-supereffective|p2a: Celesteela
+|-end|p2a: Celesteela|Substitute
+|move|p2a: Celesteela|Heavy Slam|p1a: Blacephalon
+|-resisted|p1a: Blacephalon
+|-damage|p1a: Blacephalon|0 fnt
+|faint|p1a: Blacephalon
+|-ability|p2a: Celesteela|Beast Boost|boost
+|-boost|p2a: Celesteela|spd|1
+|
+|-heal|p2a: Celesteela|51/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1677795573
+|switch|p1a: Rillaboom|Rillaboom, F|84/100
+|-damage|p1a: Rillaboom|72/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|58
+|
+|t:|1677795578
+|move|p1a: Rillaboom|Swords Dance|p1a: Rillaboom
+|-boost|p1a: Rillaboom|atk|2
+|move|p2a: Celesteela|Substitute|p2a: Celesteela
+|-start|p2a: Celesteela|Substitute
+|-damage|p2a: Celesteela|26/100
+|
+|-heal|p1a: Rillaboom|78/100|[from] Grassy Terrain
+|-heal|p2a: Celesteela|32/100|[from] item: Leftovers
+|upkeep
+|turn|59
+|
+|t:|1677795587
+|move|p1a: Rillaboom|Knock Off|p2a: Celesteela
+|-end|p2a: Celesteela|Substitute
+|move|p2a: Celesteela|Heavy Slam|p1a: Rillaboom
+|-damage|p1a: Rillaboom|32/100
+|
+|-heal|p1a: Rillaboom|38/100|[from] Grassy Terrain
+|-heal|p2a: Celesteela|39/100|[from] item: Leftovers
+|upkeep
+|turn|60
+|
+|t:|1677795595
+|move|p2a: Celesteela|Protect|p2a: Celesteela
+|-singleturn|p2a: Celesteela|Protect
+|move|p1a: Rillaboom|Knock Off|p2a: Celesteela
+|-activate|p2a: Celesteela|move: Protect
+|
+|-heal|p1a: Rillaboom|44/100|[from] Grassy Terrain
+|-heal|p2a: Celesteela|45/100|[from] item: Leftovers
+|upkeep
+|turn|61
+|
+|t:|1677795603
+|move|p1a: Rillaboom|Knock Off|p2a: Celesteela
+|-damage|p2a: Celesteela|0 fnt
+|-enditem|p2a: Celesteela|Leftovers|[from] move: Knock Off|[of] p1a: Rillaboom
+|faint|p2a: Celesteela
+|
+|-heal|p1a: Rillaboom|50/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1677795607
+|switch|p2a: Ace of Hearts|Charizard, M|26/100
+|turn|62
+|
+|t:|1677795611
+|move|p1a: Rillaboom|Grassy Glide|p2a: Ace of Hearts
+|-resisted|p2a: Ace of Hearts
+|-damage|p2a: Ace of Hearts|0 fnt
+|faint|p2a: Ace of Hearts
+|
+|-heal|p1a: Rillaboom|57/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1677795620
+|switch|p2a: 8 of Spades|Cobalion|100/100
+|turn|63
+|
+|t:|1677795626
+|move|p2a: 8 of Spades|Close Combat|p1a: Rillaboom
+|-damage|p1a: Rillaboom|13/100
+|-unboost|p2a: 8 of Spades|def|1
+|-unboost|p2a: 8 of Spades|spd|1
+|move|p1a: Rillaboom|Superpower|p2a: 8 of Spades
+|-supereffective|p2a: 8 of Spades
+|-damage|p2a: 8 of Spades|0 fnt
+|-unboost|p1a: Rillaboom|atk|1
+|-unboost|p1a: Rillaboom|def|1
+|faint|p2a: 8 of Spades
+|
+|upkeep
+|
+|t:|1677795639
+|switch|p2a: King of Spades|Garchomp, M|5/100 tox
+|turn|64
+|
+|t:|1677795642
+|move|p2a: King of Spades|Stone Edge|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|faint|p1a: Rillaboom
+|
+|-heal|p2a: King of Spades|11/100 tox|[from] item: Leftovers
+|-damage|p2a: King of Spades|5/100 tox|[from] psn
+|upkeep
+|
+|t:|1677795651
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|-damage|p1a: Toxapex|88/100|[from] Stealth Rock
+|turn|65
+|
+|t:|1677795658
+|switch|p2a: 7 of Clubs|Toxapex, M|84/100 brn
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|100/100
+|
+|-damage|p2a: 7 of Clubs|78/100 brn|[from] brn
+|upkeep
+|turn|66
+|
+|t:|1677795669
+|move|p1a: Toxapex|Scald|p2a: 7 of Clubs
+|-resisted|p2a: 7 of Clubs
+|-damage|p2a: 7 of Clubs|70/100 brn
+|move|p2a: 7 of Clubs|Knock Off|p1a: Toxapex
+|-damage|p1a: Toxapex|97/100
+|
+|-damage|p2a: 7 of Clubs|65/100 brn|[from] brn
+|upkeep
+|turn|67
+|
+|t:|1677795677
+|move|p1a: Toxapex|Scald|p2a: 7 of Clubs
+|-resisted|p2a: 7 of Clubs
+|-damage|p2a: 7 of Clubs|58/100 brn
+|move|p2a: 7 of Clubs|Knock Off|p1a: Toxapex
+|-damage|p1a: Toxapex|94/100
+|
+|-damage|p2a: 7 of Clubs|52/100 brn|[from] brn
+|upkeep
+|turn|68
+|
+|t:|1677795688
+|switch|p2a: Queen of Diamond|Diancie|52/100 tox
+|move|p1a: Toxapex|Scald|p2a: Queen of Diamond
+|-supereffective|p2a: Queen of Diamond
+|-crit|p2a: Queen of Diamond
+|-damage|p2a: Queen of Diamond|26/100 tox
+|
+|-damage|p2a: Queen of Diamond|20/100 tox|[from] psn
+|upkeep
+|turn|69
+|
+|t:|1677795698
+|move|p2a: Queen of Diamond|Diamond Storm|p1a: Toxapex
+|-damage|p1a: Toxapex|62/100
+|move|p1a: Toxapex|Scald|p2a: Queen of Diamond
+|-supereffective|p2a: Queen of Diamond
+|-damage|p2a: Queen of Diamond|2/100 tox
+|
+|-damage|p2a: Queen of Diamond|0 fnt|[from] psn
+|faint|p2a: Queen of Diamond
+|upkeep
+|
+|t:|1677795704
+|switch|p2a: King of Spades|Garchomp, M|5/100 tox
+|turn|70
+|
+|t:|1677795717
+|move|p2a: King of Spades|Earthquake|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|0 fnt
+|faint|p1a: Toxapex
+|
+|-heal|p2a: King of Spades|11/100 tox|[from] item: Leftovers
+|-damage|p2a: King of Spades|5/100 tox|[from] psn
+|upkeep
+|
+|t:|1677795724
+|switch|p1a: Landorus|Landorus-Therian, M|23/100
+|-damage|p1a: Landorus|11/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: King of Spades|atk|1
+|turn|71
+|
+|t:|1677795734
+|move|p2a: King of Spades|Stone Edge|p1a: Landorus|[miss]
+|-miss|p2a: King of Spades|p1a: Landorus
+|move|p1a: Landorus|Earthquake|p2a: King of Spades
+|-damage|p2a: King of Spades|0 fnt
+|faint|p2a: King of Spades
+|
+|upkeep
+|c|☆vivaeloim|gg
+|
+|t:|1677795738
+|switch|p2a: 7 of Clubs|Toxapex, M|86/100 brn
+|turn|72
+|
+|t:|1677795743
+|move|p1a: Landorus|Earthquake|p2a: 7 of Clubs
+|-supereffective|p2a: 7 of Clubs
+|-damage|p2a: 7 of Clubs|30/100 brn
+|move|p2a: 7 of Clubs|Knock Off|p1a: Landorus
+|-damage|p1a: Landorus|7/100
+|
+|-damage|p2a: 7 of Clubs|24/100 brn|[from] brn
+|upkeep
+|turn|73
+|
+|t:|1677795750
+|move|p1a: Landorus|Earthquake|p2a: 7 of Clubs
+|-supereffective|p2a: 7 of Clubs
+|-damage|p2a: 7 of Clubs|0 fnt
+|faint|p2a: 7 of Clubs
+|
+|win|vivaeloim
+|raw|vivaeloim's rating: 1233 &rarr; <strong>1254</strong><br />(+21 for winning)
+|raw|Crasher Of Wakes's rating: 1183 &rarr; <strong>1162</strong><br />(-21 for losing)
+|c|☆Crasher Of Wakes|gg
+|c|☆vivaeloim|gg
+|l|☆Crasher Of Wakes
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

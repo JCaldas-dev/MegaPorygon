@@ -1,0 +1,478 @@
+|j|☆Lambuh
+|j|☆doctor_monkeyman
+|t:|1677866805
+|gametype|singles
+|player|p1|Lambuh|cynthia|1121
+|player|p2|doctor_monkeyman|harlequin|1027
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Shuckle, M|
+|poke|p1|Metagross|
+|poke|p1|Garchomp, M|
+|poke|p1|Gardevoir, F|
+|poke|p1|Aggron, M|
+|poke|p1|Rotom-Wash|
+|poke|p2|Jirachi|
+|poke|p2|Aegislash, F|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Zeraora|
+|poke|p2|Lurantis, F|
+|poke|p2|Blissey, F|
+|teampreview
+|
+|t:|1677866810
+|start
+|switch|p1a: Shuckle|Shuckle, M|100/100
+|switch|p2a: Blissey|Blissey, F|100/100
+|turn|1
+|
+|t:|1677866816
+|move|p2a: Blissey|Ice Beam|p1a: Shuckle
+|-damage|p1a: Shuckle|87/100
+|move|p1a: Shuckle|Sticky Web|p2a: Blissey
+|-sidestart|p2: doctor_monkeyman|move: Sticky Web
+|
+|-heal|p1a: Shuckle|93/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1677866822
+|move|p2a: Blissey|Body Slam|p1a: Shuckle
+|-resisted|p1a: Shuckle
+|-damage|p1a: Shuckle|91/100
+|move|p1a: Shuckle|Stealth Rock|p2a: Blissey
+|-sidestart|p2: doctor_monkeyman|move: Stealth Rock
+|
+|-heal|p1a: Shuckle|98/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1677866829
+|move|p2a: Blissey|Body Slam|p1a: Shuckle
+|-resisted|p1a: Shuckle
+|-damage|p1a: Shuckle|96/100
+|-status|p1a: Shuckle|par
+|move|p1a: Shuckle|Infestation|p2a: Blissey
+|-crit|p2a: Blissey
+|-damage|p2a: Blissey|99/100
+|-activate|p2a: Blissey|move: Infestation|[of] p1a: Shuckle
+|
+|-heal|p1a: Shuckle|100/100 par|[from] item: Leftovers
+|-damage|p2a: Blissey|87/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|4
+|
+|t:|1677866847
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|move|p2a: Blissey|Drain Punch|p1a: Garchomp
+|-damage|p1a: Garchomp|96/100
+|-heal|p2a: Blissey|88/100|[from] drain|[of] p1a: Garchomp
+|-damage|p2a: Blissey|75/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|
+|-end|p2a: Blissey|Infestation|[partiallytrapped]|[silent]
+|upkeep
+|turn|5
+|
+|t:|1677866854
+|move|p1a: Garchomp|Swords Dance|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|move|p2a: Blissey|Ice Beam|p1a: Garchomp
+|-supereffective|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|
+|upkeep
+|
+|t:|1677866867
+|switch|p1a: Rotom|Rotom-Wash|100/100
+|turn|6
+|
+|t:|1677866871
+|move|p1a: Rotom|Thunder Wave|p2a: Blissey
+|-status|p2a: Blissey|par
+|cant|p2a: Blissey|par
+|
+|upkeep
+|turn|7
+|
+|t:|1677866877
+|switch|p1a: Shuckle|Shuckle, M|100/100 par
+|move|p2a: Blissey|Rock Slide|p1a: Shuckle
+|-supereffective|p1a: Shuckle
+|-damage|p1a: Shuckle|95/100 par
+|
+|-heal|p1a: Shuckle|100/100 par|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1677866884
+|cant|p2a: Blissey|par
+|move|p1a: Shuckle|Infestation|p2a: Blissey
+|-damage|p2a: Blissey|75/100 par
+|-activate|p2a: Blissey|move: Infestation|[of] p1a: Shuckle
+|
+|-damage|p2a: Blissey|62/100 par|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|9
+|
+|t:|1677866890
+|move|p2a: Blissey|Drain Punch|p1a: Shuckle
+|-damage|p1a: Shuckle|98/100 par
+|-heal|p2a: Blissey|63/100 par|[from] drain|[of] p1a: Shuckle
+|move|p1a: Shuckle|Encore|p2a: Blissey
+|-start|p2a: Blissey|Encore
+|
+|-heal|p1a: Shuckle|100/100 par|[from] item: Leftovers
+|-damage|p2a: Blissey|50/100 par|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|10
+|
+|t:|1677866899
+|move|p2a: Blissey|Drain Punch|p1a: Shuckle
+|-damage|p1a: Shuckle|98/100 par
+|-heal|p2a: Blissey|50/100 par|[from] drain|[of] p1a: Shuckle
+|move|p1a: Shuckle|Infestation|p2a: Blissey
+|-damage|p2a: Blissey|50/100 par
+|
+|-heal|p1a: Shuckle|100/100 par|[from] item: Leftovers
+|-damage|p2a: Blissey|37/100 par|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|11
+|
+|t:|1677866907
+|move|p2a: Blissey|Drain Punch|p1a: Shuckle
+|-damage|p1a: Shuckle|98/100 par
+|-heal|p2a: Blissey|38/100 par|[from] drain|[of] p1a: Shuckle
+|move|p1a: Shuckle|Infestation|p2a: Blissey
+|-damage|p2a: Blissey|37/100 par
+|
+|-heal|p1a: Shuckle|100/100 par|[from] item: Leftovers
+|-damage|p2a: Blissey|24/100 par|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|12
+|
+|t:|1677866916
+|move|p2a: Blissey|Drain Punch|p1a: Shuckle
+|-damage|p1a: Shuckle|98/100 par
+|-heal|p2a: Blissey|25/100 par|[from] drain|[of] p1a: Shuckle
+|move|p1a: Shuckle|Infestation|p2a: Blissey
+|-damage|p2a: Blissey|24/100 par
+|
+|-heal|p1a: Shuckle|100/100 par|[from] item: Leftovers
+|-end|p2a: Blissey|Infestation|[partiallytrapped]
+|-end|p2a: Blissey|Encore
+|upkeep
+|turn|13
+|
+|t:|1677866928
+|move|p2a: Blissey|Ice Beam|p1a: Shuckle
+|-damage|p1a: Shuckle|86/100 par
+|move|p1a: Shuckle|Encore|p2a: Blissey
+|-start|p2a: Blissey|Encore
+|
+|-heal|p1a: Shuckle|92/100 par|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1677866934
+|move|p2a: Blissey|Ice Beam|p1a: Shuckle
+|-damage|p1a: Shuckle|77/100 par
+|move|p1a: Shuckle|Infestation|p2a: Blissey
+|-damage|p2a: Blissey|23/100 par
+|-activate|p2a: Blissey|move: Infestation|[of] p1a: Shuckle
+|
+|-heal|p1a: Shuckle|83/100 par|[from] item: Leftovers
+|-damage|p2a: Blissey|11/100 par|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|15
+|
+|t:|1677866962
+|move|p2a: Blissey|Ice Beam|p1a: Shuckle
+|-damage|p1a: Shuckle|68/100 par
+|move|p1a: Shuckle|Infestation|p2a: Blissey
+|-damage|p2a: Blissey|10/100 par
+|
+|-heal|p1a: Shuckle|74/100 par|[from] item: Leftovers
+|-damage|p2a: Blissey|0 fnt|[from] move: Infestation|[partiallytrapped]
+|faint|p2a: Blissey
+|upkeep
+|
+|t:|1677866970
+|switch|p2a: Aegislash|Aegislash, F, shiny|100/100
+|turn|16
+|j| insertshitypunhere
+|c| insertshitypunhere|sup hoe cakes
+|
+|t:|1677866981
+|-formechange|p2a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p2a: Aegislash|Steel Beam|p1a: Shuckle
+|-supereffective|p1a: Shuckle
+|-damage|p1a: Shuckle|0 fnt
+|-damage|p2a: Aegislash|50/100|[from] steelbeam
+|faint|p1a: Shuckle
+|
+|upkeep
+|
+|t:|1677867003
+|switch|p1a: Aggron|Aggron, M|100/100
+|turn|17
+|
+|t:|1677867015
+|move|p2a: Aegislash|Rest|p2a: Aegislash
+|-status|p2a: Aegislash|slp|[from] move: Rest
+|-heal|p2a: Aegislash|100/100 slp|[silent]
+|move|p1a: Aggron|Earthquake|p2a: Aegislash
+|-supereffective|p2a: Aegislash
+|-damage|p2a: Aegislash|12/100 slp
+|
+|upkeep
+|turn|18
+|
+|t:|1677867027
+|cant|p2a: Aegislash|slp
+|move|p1a: Aggron|Earthquake|p2a: Aegislash
+|-supereffective|p2a: Aegislash
+|-damage|p2a: Aegislash|0 fnt
+|faint|p2a: Aegislash
+|
+|upkeep
+|
+|t:|1677867043
+|switch|p2a: Lurantis|Lurantis, F|100/100
+|-activate|p2a: Lurantis|move: Sticky Web
+|-boost|p2a: Lurantis|spe|1
+|-damage|p2a: Lurantis|88/100|[from] Stealth Rock
+|turn|19
+|c| insertshitypunhere|ya monkey kick his ass
+|
+|t:|1677867065
+|move|p2a: Lurantis|Superpower|p1a: Aggron
+|-supereffective|p1a: Aggron
+|-damage|p1a: Aggron|21/100
+|-boost|p2a: Lurantis|atk|1
+|-boost|p2a: Lurantis|def|1
+|move|p1a: Aggron|Heavy Slam|p2a: Lurantis
+|-damage|p2a: Lurantis|55/100
+|
+|-heal|p1a: Aggron|27/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1677867074
+|move|p2a: Lurantis|Superpower|p1a: Aggron
+|-supereffective|p1a: Aggron
+|-damage|p1a: Aggron|0 fnt
+|-boost|p2a: Lurantis|atk|1
+|-boost|p2a: Lurantis|def|1
+|faint|p1a: Aggron
+|
+|upkeep
+|c| insertshitypunhere|that loratis is scary
+|
+|t:|1677867089
+|switch|p1a: Metagross|Metagross|100/100
+|turn|21
+|
+|t:|1677867099
+|move|p2a: Lurantis|Leaf Storm|p1a: Metagross
+|-resisted|p1a: Metagross
+|-damage|p1a: Metagross|78/100
+|-boost|p2a: Lurantis|spa|2
+|move|p1a: Metagross|Zen Headbutt|p2a: Lurantis
+|-damage|p2a: Lurantis|19/100
+|-damage|p1a: Metagross|68/100|[from] item: Life Orb
+|
+|upkeep
+|turn|22
+|
+|t:|1677867109
+|move|p2a: Lurantis|Superpower|p1a: Metagross
+|-damage|p1a: Metagross|16/100
+|-boost|p2a: Lurantis|atk|1
+|-boost|p2a: Lurantis|def|1
+|move|p1a: Metagross|Zen Headbutt|p2a: Lurantis
+|-damage|p2a: Lurantis|0 fnt
+|faint|p2a: Lurantis
+|-damage|p1a: Metagross|6/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1677867118
+|switch|p2a: Jirachi|Jirachi|100/100
+|-activate|p2a: Jirachi|move: Sticky Web
+|-unboost|p2a: Jirachi|spe|1
+|-damage|p2a: Jirachi|94/100|[from] Stealth Rock
+|turn|23
+|c| insertshitypunhere|bro you sold
+|
+|t:|1677867126
+|move|p1a: Metagross|Earthquake|p2a: Jirachi
+|-supereffective|p2a: Jirachi
+|-damage|p2a: Jirachi|4/100
+|-damage|p1a: Metagross|0 fnt|[from] item: Life Orb
+|faint|p1a: Metagross
+|move|p2a: Jirachi|Ancient Power|p1: Metagross|[notarget]
+|-fail|p2a: Jirachi
+|
+|upkeep
+|c| insertshitypunhere|you could have swept with the mmantis
+|c|☆doctor_monkeyman|no
+|
+|t:|1677867139
+|switch|p1a: Gardevoir|Gardevoir, F|100/100
+|-ability|p1a: Gardevoir|Serene Grace|[from] ability: Trace|[of] p2a: Jirachi
+|turn|24
+|c|☆doctor_monkeyman|i didnt out speed gardevoir
+|
+|t:|1677867149
+|move|p1a: Gardevoir|Moonblast|p2a: Jirachi
+|-resisted|p2a: Jirachi
+|-damage|p2a: Jirachi|0 fnt
+|faint|p2a: Jirachi
+|
+|upkeep
+|
+|t:|1677867154
+|switch|p2a: Ferrothorn|Ferrothorn, M, shiny|100/100
+|-activate|p2a: Ferrothorn|move: Sticky Web
+|-unboost|p2a: Ferrothorn|spe|1
+|-damage|p2a: Ferrothorn|94/100|[from] Stealth Rock
+|turn|25
+|c| insertshitypunhere|i uess
+|
+|t:|1677867159
+|move|p1a: Gardevoir|Moonblast|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|75/100
+|move|p2a: Ferrothorn|Iron Defense|p2a: Ferrothorn
+|-boost|p2a: Ferrothorn|def|2
+|
+|upkeep
+|turn|26
+|c| insertshitypunhere|well you def loose now
+|
+|t:|1677867164
+|switch|p1a: Rotom|Rotom-Wash|100/100
+|move|p2a: Ferrothorn|Iron Defense|p2a: Ferrothorn
+|-boost|p2a: Ferrothorn|def|2
+|
+|upkeep
+|turn|27
+|
+|t:|1677867172
+|move|p1a: Rotom|Thunder Wave|p2a: Ferrothorn
+|-status|p2a: Ferrothorn|par
+|move|p2a: Ferrothorn|Energy Ball|p1a: Rotom
+|-supereffective|p1a: Rotom
+|-damage|p1a: Rotom|62/100
+|-unboost|p1a: Rotom|spd|1
+|
+|-heal|p1a: Rotom|69/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|c| insertshitypunhere|its sp atcker
+|
+|t:|1677867180
+|move|p1a: Rotom|Pain Split|p2a: Ferrothorn
+|-sethp|p2a: Ferrothorn|67/100 par|[from] move: Pain Split|[silent]
+|-sethp|p1a: Rotom|78/100|[from] move: Pain Split
+|move|p2a: Ferrothorn|Energy Ball|p1a: Rotom
+|-supereffective|p1a: Rotom
+|-damage|p1a: Rotom|22/100
+|
+|-heal|p1a: Rotom|28/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1677867188
+|move|p1a: Rotom|Pain Split|p2a: Ferrothorn
+|-sethp|p2a: Ferrothorn|46/100 par|[from] move: Pain Split|[silent]
+|-sethp|p1a: Rotom|53/100|[from] move: Pain Split
+|cant|p2a: Ferrothorn|par
+|
+|-heal|p1a: Rotom|59/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|c|☆doctor_monkeyman|fr spaming pain split
+|
+|t:|1677867197
+|move|p1a: Rotom|Hydro Pump|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|27/100 par
+|move|p2a: Ferrothorn|Energy Ball|p1a: Rotom
+|-supereffective|p1a: Rotom
+|-damage|p1a: Rotom|2/100
+|
+|-heal|p1a: Rotom|8/100|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1677867206
+|move|p1a: Rotom|Pain Split|p2a: Ferrothorn
+|-sethp|p2a: Ferrothorn|17/100 par|[from] move: Pain Split|[silent]
+|-sethp|p1a: Rotom|20/100|[from] move: Pain Split
+|move|p2a: Ferrothorn|Energy Ball|p1a: Rotom
+|-supereffective|p1a: Rotom
+|-damage|p1a: Rotom|0 fnt
+|faint|p1a: Rotom
+|
+|upkeep
+|
+|t:|1677867214
+|switch|p1a: Gardevoir|Gardevoir, F|100/100
+|-ability|p1a: Gardevoir|Iron Barbs|[from] ability: Trace|[of] p2a: Ferrothorn
+|turn|32
+|c|☆doctor_monkeyman|L mans tbh
+|
+|t:|1677867227
+|move|p1a: Gardevoir|Moonblast|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|faint|p2a: Ferrothorn
+|
+|upkeep
+|
+|t:|1677867232
+|switch|p2a: Zeraora|Zeraora|100/100
+|-activate|p2a: Zeraora|move: Sticky Web
+|-unboost|p2a: Zeraora|spe|1
+|-damage|p2a: Zeraora|88/100|[from] Stealth Rock
+|turn|33
+|
+|t:|1677867238
+|move|p1a: Gardevoir|Moonblast|p2a: Zeraora
+|-damage|p2a: Zeraora|37/100
+|move|p2a: Zeraora|Plasma Fists|p1a: Gardevoir
+|-damage|p1a: Gardevoir|38/100
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|-damage|p2a: Zeraora|25/100|[from] ability: Iron Barbs|[of] p1a: Gardevoir
+|
+|upkeep
+|turn|34
+|
+|t:|1677867248
+|move|p1a: Gardevoir|Moonblast|p2a: Zeraora
+|-damage|p2a: Zeraora|0 fnt
+|faint|p2a: Zeraora
+|
+|win|Lambuh
+|raw|Lambuh's rating: 1121 &rarr; <strong>1139</strong><br />(+18 for winning)
+|raw|doctor_monkeyman's rating: 1027 &rarr; <strong>1017</strong><br />(-10 for losing)
+|c| insertshitypunhere|you looose
+|l|☆doctor_monkeyman
+|c|☆Lambuh|gg
+|l| insertshitypunhere
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

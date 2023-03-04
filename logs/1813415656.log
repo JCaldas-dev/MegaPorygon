@@ -1,0 +1,143 @@
+|j|☆sniperghoost
+|j|☆Red violet blue
+|t:|1677867826
+|gametype|singles
+|player|p1|sniperghoost|red|1279
+|player|p2|Red violet blue|1|1448
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Rillaboom, F|
+|poke|p1|Heatran, M|
+|poke|p1|Slowking, F|
+|poke|p1|Dragapult, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Bisharp, M|
+|poke|p2|Mew|
+|poke|p2|Dragapult, M|
+|poke|p2|Kartana|
+|poke|p2|Tapu Koko|
+|poke|p2|Hawlucha, M|
+|poke|p2|Bisharp, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Red violet blue)
+|
+|t:|1677867833
+|start
+|switch|p1a: Slowking|Slowking, F, shiny|100/100
+|switch|p2a: Mewse|Mew|100/100
+|turn|1
+|
+|t:|1677867840
+|move|p2a: Mewse|Stealth Rock|p1a: Slowking
+|-sidestart|p1: sniperghoost|move: Stealth Rock
+|move|p1a: Slowking|Teleport|p1a: Slowking
+|
+|t:|1677867845
+|switch|p1a: Bisharp|Bisharp, M, shiny|100/100|[from] Teleport
+|-damage|p1a: Bisharp|94/100|[from] Stealth Rock
+|
+|upkeep
+|turn|2
+|inactive|Red violet blue has 120 seconds left.
+|inactive|Red violet blue has 90 seconds left.
+|inactive|Red violet blue has 60 seconds left.
+|
+|t:|1677867944
+|move|p2a: Mewse|Taunt|p1a: Bisharp
+|-start|p1a: Bisharp|move: Taunt
+|move|p1a: Bisharp|Knock Off|p2a: Mewse
+|-supereffective|p2a: Mewse
+|-damage|p2a: Mewse|0 fnt
+|-enditem|p2a: Mewse|Red Card|[from] move: Knock Off|[of] p1a: Bisharp
+|faint|p2a: Mewse
+|
+|upkeep
+|
+|t:|1677867951
+|switch|p2a: The Handler|Kartana|100/100
+|turn|3
+|inactive|Red violet blue has 60 seconds left.
+|
+|t:|1677867971
+|move|p1a: Bisharp|Sucker Punch||[still]
+|-fail|p1a: Bisharp
+|move|p2a: The Handler|Swords Dance|p2a: The Handler
+|-boost|p2a: The Handler|atk|2
+|
+|upkeep
+|turn|4
+|inactive|Red violet blue has 60 seconds left.
+|
+|t:|1677867999
+|move|p2a: The Handler|Sacred Sword|p1a: Bisharp
+|-supereffective|p1a: Bisharp
+|-damage|p1a: Bisharp|0 fnt
+|faint|p1a: Bisharp
+|-ability|p2a: The Handler|Beast Boost|boost
+|-boost|p2a: The Handler|spe|1
+|-damage|p2a: The Handler|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1677868011
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-damage|p1a: Landorus|88/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: The Handler|atk|1
+|turn|5
+|
+|t:|1677868019
+|move|p2a: The Handler|Swords Dance|p2a: The Handler
+|-boost|p2a: The Handler|atk|2
+|move|p1a: Landorus|Earthquake|p2a: The Handler
+|-damage|p2a: The Handler|51/100
+|
+|-heal|p1a: Landorus|94/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1677868027
+|move|p2a: The Handler|Leaf Blade|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|-ability|p2a: The Handler|Beast Boost|boost
+|-boost|p2a: The Handler|spe|1
+|-damage|p2a: The Handler|41/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1677868036
+|switch|p1a: Dragapult|Dragapult, F, shiny|100/100
+|-damage|p1a: Dragapult|88/100|[from] Stealth Rock
+|turn|7
+|
+|t:|1677868041
+|move|p2a: The Handler|Knock Off|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|-enditem|p1a: Dragapult|Choice Specs|[from] move: Knock Off|[of] p2a: The Handler
+|faint|p1a: Dragapult
+|-ability|p2a: The Handler|Beast Boost|boost
+|-boost|p2a: The Handler|spe|1
+|-damage|p2a: The Handler|32/100|[from] item: Life Orb
+|
+|upkeep
+|-message|sniperghoost forfeited.
+|
+|win|Red violet blue
+|raw|sniperghoost's rating: 1279 &rarr; <strong>1265</strong><br />(-14 for losing)
+|raw|Red violet blue's rating: 1448 &rarr; <strong>1459</strong><br />(+11 for winning)
+|l|☆sniperghoost
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

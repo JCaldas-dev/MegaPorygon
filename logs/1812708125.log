@@ -1,0 +1,619 @@
+|j|☆GuitarheroVGC
+|j|☆pokemonkorea co kr
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1677789511
+|gametype|singles
+|player|p1|GuitarheroVGC|psychicf-gen4|
+|player|p2|pokemonkorea co kr|wally|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|Tournament battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|clearpoke
+|poke|p1|Urshifu-*, M|
+|poke|p1|Tyranitar, F|
+|poke|p1|Excadrill, M|
+|poke|p1|Zapdos|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Tapu Lele|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Clefable, F|
+|poke|p2|Slowbro, F|
+|poke|p2|Blissey, F|
+|poke|p2|Zapdos|
+|poke|p2|Dragapult, M|
+|teampreview
+|j|*Lady Monita
+|
+|t:|1677789527
+|start
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|switch|p2a: Clefable|Clefable, F|100/100
+|turn|1
+|
+|t:|1677789551
+|move|p2a: Clefable|Stealth Rock|p1a: Ferrothorn
+|-sidestart|p1: GuitarheroVGC|move: Stealth Rock
+|move|p1a: Ferrothorn|Stealth Rock|p2a: Clefable
+|-sidestart|p2: pokemonkorea co kr|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1677789558
+|move|p2a: Clefable|Knock Off|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|91/100
+|-activate|p1a: Ferrothorn|ability: Iron Barbs
+|-enditem|p1a: Ferrothorn|Leftovers|[from] move: Knock Off|[of] p2a: Clefable
+|move|p1a: Ferrothorn|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|92/100
+|-enditem|p2a: Clefable|Leftovers|[from] move: Knock Off|[of] p1a: Ferrothorn
+|
+|upkeep
+|turn|3
+|
+|t:|1677789566
+|switch|p1a: Excadrill|Excadrill, M|100/100
+|-damage|p1a: Excadrill|97/100|[from] Stealth Rock
+|move|p2a: Clefable|Moonblast|p1a: Excadrill
+|-resisted|p1a: Excadrill
+|-damage|p1a: Excadrill|77/100
+|
+|upkeep
+|turn|4
+|
+|t:|1677789574
+|switch|p2a: Slowbro|Slowbro, F|100/100
+|-damage|p2a: Slowbro|88/100|[from] Stealth Rock
+|move|p1a: Excadrill|Rapid Spin|p2a: Slowbro
+|-damage|p2a: Slowbro|71/100
+|-boost|p1a: Excadrill|spe|1
+|-damage|p1a: Excadrill|60/100|[from] item: Rocky Helmet|[of] p2a: Slowbro
+|-sideend|p1: GuitarheroVGC|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Excadrill
+|
+|upkeep
+|turn|5
+|
+|t:|1677789583
+|switch|p1a: Ferrothorn|Ferrothorn, M|91/100
+|move|p2a: Slowbro|Future Sight|p1a: Ferrothorn
+|-start|p2a: Slowbro|move: Future Sight
+|
+|upkeep
+|turn|6
+|
+|t:|1677789591
+|move|p1a: Ferrothorn|Leech Seed|p2a: Slowbro
+|-start|p2a: Slowbro|move: Leech Seed
+|move|p2a: Slowbro|Teleport|p2a: Slowbro
+|
+|t:|1677789594
+|switch|p2a: Zapdos|Zapdos|100/100|[from] Teleport
+|
+|upkeep
+|turn|7
+|
+|t:|1677789598
+|switch|p1a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Zapdos|Defog|p1a: Tyranitar
+|-unboost|p1a: Tyranitar|evasion|1
+|-sideend|p2: pokemonkorea co kr|Stealth Rock|[from] move: Defog|[of] p2a: Zapdos
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|94/100|[from] Sandstorm
+|-end|p1a: Tyranitar|move: Future Sight
+|-immune|p1a: Tyranitar
+|upkeep
+|turn|8
+|
+|t:|1677789604
+|switch|p2a: Slowbro|Slowbro, F|100/100
+|move|p1a: Tyranitar|Stone Edge|p2a: Slowbro
+|-damage|p2a: Slowbro|48/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Slowbro|42/100|[from] Sandstorm
+|upkeep
+|turn|9
+|
+|t:|1677789619
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Tyranitar|atk|1
+|move|p1a: Tyranitar|Stone Edge|p2a: Landorus
+|-damage|p2a: Landorus|32/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1677789625
+|move|p2a: Landorus|Stone Edge|p1a: Tyranitar
+|-damage|p1a: Tyranitar|51/100
+|-damage|p2a: Landorus|22/100|[from] item: Life Orb
+|move|p1a: Tyranitar|Stone Edge|p2a: Landorus|[miss]
+|-miss|p1a: Tyranitar|p2a: Landorus
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1677789629
+|move|p2a: Landorus|Earthquake|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|-damage|p2a: Landorus|12/100|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|
+|t:|1677789634
+|switch|p1a: rshifu|Urshifu-Rapid-Strike, M|100/100
+|turn|12
+|
+|t:|1677789652
+|switch|p2a: Slowbro|Slowbro, F|76/100
+|move|p1a: rshifu|U-turn|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|48/100
+|
+|t:|1677789656
+|switch|p1a: Zapdos|Zapdos|100/100|[from] U-turn
+|
+|upkeep
+|turn|13
+|
+|t:|1677789660
+|switch|p2a: Blissey|Blissey, F|100/100
+|move|p1a: Zapdos|Hurricane|p2a: Blissey
+|-damage|p2a: Blissey|85/100
+|
+|upkeep
+|turn|14
+|
+|t:|1677789664
+|move|p1a: Zapdos|Volt Switch|p2a: Blissey
+|-damage|p2a: Blissey|75/100
+|
+|t:|1677789666
+|switch|p1a: rshifu|Urshifu-Rapid-Strike, M|100/100|[from] Volt Switch
+|move|p2a: Blissey|Teleport|p2a: Blissey
+|
+|t:|1677789683
+|switch|p2a: Clefable|Clefable, F|92/100|[from] Teleport
+|
+|upkeep
+|turn|15
+|
+|t:|1677789689
+|move|p1a: rshifu|U-turn|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|82/100
+|
+|t:|1677789691
+|switch|p1a: Excadrill|Excadrill, M|60/100|[from] U-turn
+|move|p2a: Clefable|Stealth Rock|p1a: Excadrill
+|-sidestart|p1: GuitarheroVGC|move: Stealth Rock
+|
+|upkeep
+|turn|16
+|
+|t:|1677789700
+|switch|p2a: Zapdos|Zapdos|94/100
+|move|p1a: Excadrill|Rapid Spin|p2a: Zapdos
+|-crit|p2a: Zapdos
+|-damage|p2a: Zapdos|61/100
+|-boost|p1a: Excadrill|spe|1
+|-sideend|p1: GuitarheroVGC|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Excadrill
+|
+|upkeep
+|turn|17
+|
+|t:|1677789719
+|-start|p1a: Excadrill|Dynamax|
+|-heal|p1a: Excadrill|60/100|[silent]
+|move|p1a: Excadrill|Max Rockfall|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|-weather|Sandstorm
+|faint|p2a: Zapdos
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1677789724
+|switch|p2a: Landorus|Landorus-Therian, M|12/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Excadrill|atk|1
+|turn|18
+|
+|t:|1677789730
+|switch|p2a: Slowbro|Slowbro, F|81/100
+|move|p1a: Excadrill|Max Steelspike|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|65/100
+|-boost|p1a: Excadrill|def|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Slowbro|59/100|[from] Sandstorm
+|upkeep
+|turn|19
+|
+|t:|1677789740
+|move|p1a: Excadrill|Max Quake|p2a: Slowbro
+|-damage|p2a: Slowbro|31/100
+|-boost|p1a: Excadrill|spd|1
+|move|p2a: Slowbro|Teleport|p2a: Slowbro
+|
+|t:|1677789745
+|switch|p2a: Landorus|Landorus-Therian, M|12/100|[from] Teleport
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Excadrill|atk|1
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|-end|p1a: Excadrill|Dynamax
+|-heal|p1a: Excadrill|60/100|[silent]
+|turn|20
+|
+|t:|1677789751
+|switch|p1a: Zapdos|Zapdos|100/100
+|switch|p2a: Slowbro|Slowbro, F|64/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|94/100|[from] Sandstorm
+|-damage|p2a: Slowbro|58/100|[from] Sandstorm
+|upkeep
+|turn|21
+|
+|t:|1677789755
+|switch|p2a: Blissey|Blissey, F|75/100
+|move|p1a: Zapdos|Volt Switch|p2a: Blissey
+|-damage|p2a: Blissey|66/100
+|
+|t:|1677789763
+|switch|p1a: Excadrill|Excadrill, M|60/100|[from] Volt Switch
+|
+|-weather|none
+|upkeep
+|turn|22
+|
+|t:|1677789781
+|switch|p2a: Slowbro|Slowbro, F|91/100
+|move|p1a: Excadrill|Iron Head|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|72/100
+|-damage|p1a: Excadrill|43/100|[from] item: Rocky Helmet|[of] p2a: Slowbro
+|
+|upkeep
+|turn|23
+|
+|t:|1677789787
+|switch|p1a: Zapdos|Zapdos|94/100
+|move|p2a: Slowbro|Teleport|p2a: Slowbro
+|
+|t:|1677789795
+|switch|p2a: Blissey|Blissey, F|66/100|[from] Teleport
+|
+|upkeep
+|turn|24
+|
+|t:|1677789799
+|move|p1a: Zapdos|Volt Switch|p2a: Blissey
+|-damage|p2a: Blissey|55/100
+|
+|t:|1677789802
+|switch|p1a: Tapu Lele|Tapu Lele, shiny|100/100|[from] Volt Switch
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|move|p2a: Blissey|Soft-Boiled|p2a: Blissey
+|-heal|p2a: Blissey|100/100
+|
+|upkeep
+|turn|25
+|inactive|pokemonkorea co kr has 120 seconds left.
+|inactive|pokemonkorea co kr has 90 seconds left.
+|
+|t:|1677789871
+|move|p1a: Tapu Lele|Psyshock|p2a: Blissey
+|-damage|p2a: Blissey|46/100
+|move|p2a: Blissey|Seismic Toss|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|65/100
+|
+|upkeep
+|turn|26
+|
+|t:|1677789877
+|switch|p2a: Slowbro|Slowbro, F|100/100
+|move|p1a: Tapu Lele|Psyshock|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|85/100
+|
+|upkeep
+|turn|27
+|
+|t:|1677789891
+|switch|p1a: Ferrothorn|Ferrothorn, M|91/100
+|move|p2a: Slowbro|Teleport|p2a: Slowbro
+|
+|t:|1677789893
+|switch|p2a: Clefable|Clefable, F|82/100|[from] Teleport
+|
+|upkeep
+|turn|28
+|
+|t:|1677789905
+|switch|p1a: rshifu|Urshifu-Rapid-Strike, M|100/100
+|move|p2a: Clefable|Stealth Rock|p1a: rshifu
+|-sidestart|p1: GuitarheroVGC|move: Stealth Rock
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|29
+|
+|t:|1677789922
+|move|p1a: rshifu|U-turn|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|73/100
+|
+|t:|1677789933
+|switch|p1a: Excadrill|Excadrill, M|43/100|[from] U-turn
+|-damage|p1a: Excadrill|40/100|[from] Stealth Rock
+|move|p2a: Clefable|Moonblast|p1a: Excadrill
+|-resisted|p1a: Excadrill
+|-damage|p1a: Excadrill|19/100
+|
+|upkeep
+|turn|30
+|
+|t:|1677789952
+|switch|p2a: Slowbro|Slowbro, F|100/100
+|move|p1a: Excadrill|Rapid Spin|p2a: Slowbro
+|-damage|p2a: Slowbro|84/100
+|-boost|p1a: Excadrill|spe|1
+|-damage|p1a: Excadrill|2/100|[from] item: Rocky Helmet|[of] p2a: Slowbro
+|-sideend|p1: GuitarheroVGC|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Excadrill
+|
+|upkeep
+|turn|31
+|
+|t:|1677789964
+|switch|p1a: Ferrothorn|Ferrothorn, M|91/100
+|move|p2a: Slowbro|Future Sight|p1a: Ferrothorn
+|-start|p2a: Slowbro|move: Future Sight
+|
+|upkeep
+|turn|32
+|inactive|pokemonkorea co kr has 120 seconds left.
+|
+|t:|1677789971
+|switch|p2a: Clefable|Clefable, F|73/100
+|move|p1a: Ferrothorn|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|67/100
+|
+|upkeep
+|turn|33
+|
+|t:|1677789976
+|move|p2a: Clefable|Stealth Rock|p1a: Ferrothorn
+|-sidestart|p1: GuitarheroVGC|move: Stealth Rock
+|move|p1a: Ferrothorn|Stealth Rock|p2a: Clefable
+|-sidestart|p2: pokemonkorea co kr|move: Stealth Rock
+|
+|-end|p1a: Ferrothorn|move: Future Sight
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|76/100
+|upkeep
+|turn|34
+|inactive|pokemonkorea co kr has 120 seconds left.
+|
+|t:|1677790012
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|100/100
+|move|p1a: Ferrothorn|Body Press|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|92/100
+|
+|upkeep
+|turn|35
+|
+|t:|1677790022
+|move|p2a: Clefable|Moonblast|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|66/100
+|move|p1a: Ferrothorn|Body Press|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|82/100
+|
+|upkeep
+|turn|36
+|inactive|pokemonkorea co kr has 120 seconds left.
+|inactive|pokemonkorea co kr has 90 seconds left.
+|
+|t:|1677790085
+|move|p2a: Clefable|Moonblast|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|55/100
+|-unboost|p1a: Ferrothorn|spa|1
+|move|p1a: Ferrothorn|Body Press|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|72/100
+|
+|upkeep
+|turn|37
+|inactive|pokemonkorea co kr has 60 seconds left.
+|inactive|pokemonkorea co kr has 30 seconds left.
+|
+|t:|1677790133
+|move|p2a: Clefable|Moonblast|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|44/100
+|move|p1a: Ferrothorn|Body Press|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|63/100
+|
+|upkeep
+|turn|38
+|
+|t:|1677790153
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|100/100
+|move|p1a: Ferrothorn|Body Press|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|90/100
+|
+|upkeep
+|turn|39
+|
+|t:|1677790159
+|move|p2a: Clefable|Moonblast|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-crit|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|28/100
+|move|p1a: Ferrothorn|Body Press|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|80/100
+|
+|upkeep
+|turn|40
+|
+|t:|1677790166
+|move|p2a: Clefable|Moonblast|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|17/100
+|move|p1a: Ferrothorn|Body Press|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|70/100
+|
+|upkeep
+|turn|41
+|
+|t:|1677790170
+|move|p2a: Clefable|Moonblast|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|6/100
+|move|p1a: Ferrothorn|Body Press|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|59/100
+|
+|upkeep
+|turn|42
+|
+|t:|1677790172
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|100/100
+|move|p1a: Ferrothorn|Body Press|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|91/100
+|
+|upkeep
+|turn|43
+|
+|t:|1677790175
+|move|p2a: Clefable|Moonblast|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|faint|p1a: Ferrothorn
+|
+|upkeep
+|
+|t:|1677790186
+|switch|p1a: Tapu Lele|Tapu Lele, shiny|65/100
+|-damage|p1a: Tapu Lele|52/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|44
+|inactive|pokemonkorea co kr has 90 seconds left.
+|
+|t:|1677790202
+|switch|p2a: Landorus|Landorus-Therian, M|12/100
+|-damage|p2a: Landorus|0 fnt|[from] Stealth Rock
+|faint|p2a: Landorus
+|move|p1a: Tapu Lele|Thunderbolt|p2: Landorus|[notarget]
+|-fail|p1a: Tapu Lele
+|
+|upkeep
+|
+|t:|1677790206
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|-damage|p2a: Dragapult|88/100|[from] Stealth Rock
+|turn|45
+|inactive|pokemonkorea co kr has 90 seconds left.
+|
+|t:|1677790218
+|switch|p1a: Excadrill|Excadrill, M|2/100
+|-damage|p1a: Excadrill|0 fnt|[from] Stealth Rock
+|faint|p1a: Excadrill
+|move|p2a: Dragapult|Dragon Dance|p2a: Dragapult
+|-boost|p2a: Dragapult|atk|1
+|-boost|p2a: Dragapult|spe|1
+|
+|upkeep
+|
+|t:|1677790221
+|switch|p1a: Tapu Lele|Tapu Lele, shiny|52/100
+|-damage|p1a: Tapu Lele|40/100|[from] Stealth Rock
+|turn|46
+|
+|t:|1677790226
+|move|p2a: Dragapult|Steel Wing|p1a: Tapu Lele
+|-supereffective|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|0 fnt
+|faint|p1a: Tapu Lele
+|-damage|p2a: Dragapult|78/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1677790229
+|switch|p1a: Zapdos|Zapdos|94/100
+|turn|47
+|
+|t:|1677790234
+|-start|p2a: Dragapult|Dynamax|
+|-heal|p2a: Dragapult|78/100|[silent]
+|move|p2a: Dragapult|Max Phantasm|p1a: Zapdos
+|-damage|p1a: Zapdos|7/100
+|-unboost|p1a: Zapdos|def|1
+|-damage|p2a: Dragapult|74/100|[from] item: Life Orb
+|move|p1a: Zapdos|Hurricane|p2a: Dragapult
+|-damage|p2a: Dragapult|45/100
+|
+|upkeep
+|turn|48
+|
+|t:|1677790238
+|move|p2a: Dragapult|Max Steelspike|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|-boost|p2a: Dragapult|def|1
+|faint|p1a: Zapdos
+|-damage|p2a: Dragapult|40/100|[from] item: Life Orb
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1677790241
+|switch|p1a: rshifu|Urshifu-Rapid-Strike, M|100/100
+|-damage|p1a: rshifu|94/100|[from] Stealth Rock
+|turn|49
+|
+|t:|1677790243
+|move|p2a: Dragapult|Max Wyrmwind|p1a: rshifu
+|-damage|p1a: rshifu|0 fnt
+|faint|p1a: rshifu
+|-damage|p2a: Dragapult|35/100|[from] item: Life Orb
+|
+|win|pokemonkorea co kr
+|n|☆GuitarheroVGC|guitarherovgc
+|n|☆pokemonkorea co kr|pokemonkoreacokr
+|n|*Lady Monita|ladymonita

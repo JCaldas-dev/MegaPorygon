@@ -1,0 +1,1081 @@
+|j|☆IC1
+|j|‽sawada natsu
+|t:|1677794970
+|gametype|singles
+|player|p1|IC1|marshal|1278
+|player|p2|sawada natsu|swimmerf-gen4dp|1043
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Urshifu-*, M|
+|poke|p1|Dragapult, M|
+|poke|p1|Zapdos|
+|poke|p1|Heatran, M|
+|poke|p2|Clefable, M|
+|poke|p2|Corviknight, F|
+|poke|p2|Hippowdon, F|
+|poke|p2|Mew|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Toxapex, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by sawada natsu)
+|
+|t:|1677794980
+|start
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Tornadus|atk|1
+|turn|1
+|j| brianortegachoice
+|
+|t:|1677794995
+|move|p2a: Tornadus|Toxic|p1a: Landorus
+|-status|p1a: Landorus|tox
+|move|p1a: Landorus|Knock Off|p2a: Tornadus
+|-damage|p2a: Tornadus|68/100
+|-enditem|p2a: Tornadus|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Landorus
+|
+|-damage|p1a: Landorus|94/100 tox|[from] psn
+|upkeep
+|turn|2
+|c| brianortegachoice|here comes a new challenger
+|c|☆IC1|punk
+|
+|t:|1677795007
+|move|p2a: Tornadus|U-turn|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|90/100 tox
+|
+|t:|1677795009
+|switch|p2a: Corviknight|Corviknight, F|100/100|[from] U-turn
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Landorus|Stealth Rock|p2a: Corviknight
+|-sidestart|p2: sawada natsu|move: Stealth Rock
+|
+|-heal|p1a: Landorus|96/100 tox|[from] item: Leftovers
+|-damage|p1a: Landorus|84/100 tox|[from] psn
+|upkeep
+|turn|3
+|c|☆IC1|balle]free sr
+|c|☆IC1|set up
+|c| brianortegachoice|fuck
+|c| brianortegachoice|not a staller
+|
+|t:|1677795018
+|switch|p1a: Heatran|Heatran, M|100/100
+|move|p2a: Corviknight|Defog|p1a: Heatran
+|-unboost|p1a: Heatran|evasion|1
+|-sideend|p2: sawada natsu|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|
+|upkeep
+|turn|4
+|c|☆IC1|thts fine
+|c|☆IC1|ill take him down
+|
+|t:|1677795026
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|move|p1a: Heatran|Magma Storm|p2a: Toxapex|[miss]
+|-miss|p1a: Heatran|p2a: Toxapex
+|
+|upkeep
+|turn|5
+|c|☆IC1|ez
+|c|☆IC1|fuck
+|
+|t:|1677795032
+|move|p1a: Heatran|Taunt|p2a: Toxapex
+|-start|p2a: Toxapex|move: Taunt
+|move|p2a: Toxapex|Scald|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|81/100
+|
+|-heal|p1a: Heatran|88/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1677795037
+|move|p1a: Heatran|Magma Storm|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|84/100
+|-activate|p2a: Toxapex|move: Magma Storm|[of] p1a: Heatran
+|move|p2a: Toxapex|Scald|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|69/100
+|
+|-heal|p1a: Heatran|75/100|[from] item: Leftovers
+|-damage|p2a: Toxapex|71/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|7
+|c|☆IC1|balle
+|c|☆IC1|now ur mine
+|c|☆IC1|juicy
+|
+|t:|1677795047
+|switch|p2a: Hippowdon|Hippowdon, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Heatran|Earth Power|p2a: Hippowdon
+|-damage|p2a: Hippowdon|80/100
+|-unboost|p2a: Hippowdon|spd|1
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Heatran|81/100|[from] item: Leftovers
+|-heal|p2a: Hippowdon|86/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|c|☆IC1|fuck
+|
+|t:|1677795057
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|move|p1a: Heatran|Toxic|p2a: Toxapex
+|-immune|p2a: Toxapex
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Toxapex|94/100|[from] Sandstorm
+|-heal|p1a: Heatran|88/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1677795060
+|move|p1a: Heatran|Magma Storm|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|78/100
+|-activate|p2a: Toxapex|move: Magma Storm|[of] p1a: Heatran
+|move|p2a: Toxapex|Scald|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|67/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Toxapex|72/100|[from] Sandstorm
+|-heal|p1a: Heatran|74/100|[from] item: Leftovers
+|-damage|p2a: Toxapex|59/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|10
+|c|☆IC1|fuck
+|
+|t:|1677795070
+|switch|p2a: Hippowdon|Hippowdon, F|86/100
+|move|p1a: Heatran|Earth Power|p2a: Hippowdon
+|-damage|p2a: Hippowdon|67/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Heatran|80/100|[from] item: Leftovers
+|-heal|p2a: Hippowdon|73/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1677795075
+|move|p1a: Heatran|Magma Storm|p2a: Hippowdon|[miss]
+|-miss|p1a: Heatran|p2a: Hippowdon
+|move|p2a: Hippowdon|Earthquake|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|-weather|none
+|-heal|p2a: Hippowdon|79/100|[from] item: Leftovers
+|upkeep
+|c|☆IC1|shit
+|
+|t:|1677795085
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|turn|12
+|
+|t:|1677795092
+|switch|p2a: Toxapex|Toxapex, M|93/100
+|move|p1a: Urshifu|Close Combat|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|61/100
+|-unboost|p1a: Urshifu|def|1
+|-unboost|p1a: Urshifu|spd|1
+|
+|upkeep
+|turn|13
+|
+|t:|1677795100
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Toxapex|Toxic Spikes|p1a: Zapdos
+|-sidestart|p1: IC1|move: Toxic Spikes
+|
+|upkeep
+|turn|14
+|
+|t:|1677795105
+|switch|p2a: Hippowdon|Hippowdon, F|79/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Zapdos|Hurricane|p2a: Hippowdon|[miss]
+|-miss|p1a: Zapdos|p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|94/100|[from] Sandstorm
+|-heal|p2a: Hippowdon|85/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1677795107
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|100/100
+|-singleturn|p1a: Zapdos|move: Roost
+|move|p2a: Hippowdon|Stealth Rock|p1a: Zapdos
+|-sidestart|p1: IC1|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|94/100|[from] Sandstorm
+|-heal|p2a: Hippowdon|92/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|c| brianortegachoice|damn
+|c| brianortegachoice|those stallers
+|
+|t:|1677795128
+|switch|p2a: Toxapex|Toxapex, M|94/100
+|move|p1a: Zapdos|Defog|p2a: Toxapex
+|-unboost|p2a: Toxapex|evasion|1
+|-sideend|p1: IC1|Toxic Spikes|[from] move: Defog|[of] p1a: Zapdos
+|-sideend|p1: IC1|Stealth Rock|[from] move: Defog|[of] p1a: Zapdos
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|88/100|[from] Sandstorm
+|-damage|p2a: Toxapex|88/100|[from] Sandstorm
+|upkeep
+|turn|17
+|
+|t:|1677795135
+|move|p1a: Zapdos|Volt Switch|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|48/100
+|c| brianortegachoice|nice
+|
+|t:|1677795140
+|switch|p1a: Dragapult|Dragapult, M|100/100|[from] Volt Switch
+|move|p2a: Toxapex|Toxic|p1a: Dragapult
+|-status|p1a: Dragapult|tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dragapult|95/100 tox|[from] Sandstorm
+|-damage|p2a: Toxapex|42/100|[from] Sandstorm
+|-damage|p1a: Dragapult|89/100 tox|[from] psn
+|upkeep
+|turn|18
+|c|☆IC1|too ez
+|c| brianortegachoice|shit
+|c|☆IC1|little fucker
+|
+|t:|1677795150
+|switch|p2a: Hippowdon|Hippowdon, F|92/100
+|move|p1a: Dragapult|Draco Meteor|p2a: Hippowdon
+|-damage|p2a: Hippowdon|28/100
+|-unboost|p1a: Dragapult|spa|2
+|
+|-weather|none
+|-heal|p2a: Hippowdon|34/100|[from] item: Leftovers
+|-damage|p1a: Dragapult|77/100 tox|[from] psn
+|upkeep
+|turn|19
+|c|☆IC1|ballw
+|
+|t:|1677795156
+|move|p2a: Hippowdon|Protect|p2a: Hippowdon
+|-singleturn|p2a: Hippowdon|Protect
+|move|p1a: Dragapult|Draco Meteor|p2a: Hippowdon
+|-activate|p2a: Hippowdon|move: Protect
+|
+|-heal|p2a: Hippowdon|40/100|[from] item: Leftovers
+|-damage|p1a: Dragapult|59/100 tox|[from] psn
+|upkeep
+|turn|20
+|c| brianortegachoice|nice
+|c|☆IC1|no
+|c| brianortegachoice|be careful though
+|
+|t:|1677795164
+|switch|p2a: Clefable|Clefable, M|100/100
+|move|p1a: Dragapult|Draco Meteor|p2a: Clefable
+|-immune|p2a: Clefable
+|
+|-damage|p1a: Dragapult|35/100 tox|[from] psn
+|upkeep
+|turn|21
+|c|☆IC1|oops
+|
+|t:|1677795171
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|switch|p2a: Hippowdon|Hippowdon, F|40/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Hippowdon|46/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|c| brianortegachoice|dude
+|c| brianortegachoice|switch
+|c|☆IC1|ball
+|c|☆IC1|s
+|c| brianortegachoice|took you long enough
+|
+|t:|1677795182
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|96/100
+|move|p1a: Ferrothorn|Spikes|p2a: Hippowdon
+|-sidestart|p2: sawada natsu|Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Hippowdon|100/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1677795189
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|move|p1a: Ferrothorn|Gyro Ball|p2a: Tornadus
+|-damage|p2a: Tornadus|55/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Tornadus|49/100|[from] Sandstorm
+|upkeep
+|turn|24
+|c|☆IC1|got cqarried away like u lol
+|
+|t:|1677795198
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Ferrothorn|Gyro Ball|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|95/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Corviknight|100/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1677795202
+|switch|p1a: Zapdos|Zapdos|88/100
+|move|p2a: Corviknight|Defog|p1a: Zapdos
+|-unboost|p1a: Zapdos|evasion|1
+|-sideend|p2: sawada natsu|Spikes|[from] move: Defog|[of] p2a: Corviknight
+|
+|-weather|none
+|upkeep
+|turn|26
+|
+|t:|1677795207
+|switch|p2a: Hippowdon|Hippowdon, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Zapdos|Hurricane|p2a: Hippowdon
+|-damage|p2a: Hippowdon|68/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|82/100|[from] Sandstorm
+|-heal|p2a: Hippowdon|74/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|c|☆IC1|come on
+|c|☆IC1|fucking confuse
+|
+|t:|1677795223
+|move|p2a: Hippowdon|Protect|p2a: Hippowdon
+|-singleturn|p2a: Hippowdon|Protect
+|move|p1a: Zapdos|Hurricane|p2a: Hippowdon
+|-activate|p2a: Hippowdon|move: Protect
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|75/100|[from] Sandstorm
+|-heal|p2a: Hippowdon|80/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1677795232
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Zapdos|Hurricane|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|77/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|69/100|[from] Sandstorm
+|-heal|p2a: Corviknight|83/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1677795239
+|move|p1a: Zapdos|Volt Switch|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|29/100
+|
+|t:|1677795243
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100|[from] Volt Switch
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|79/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Urshifu|94/100|[from] Sandstorm
+|-heal|p2a: Corviknight|85/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1677795256
+|move|p1a: Urshifu|Close Combat|p2a: Corviknight
+|-damage|p2a: Corviknight|30/100
+|-unboost|p1a: Urshifu|def|1
+|-unboost|p1a: Urshifu|spd|1
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|80/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-weather|none
+|-heal|p2a: Corviknight|86/100|[from] item: Leftovers
+|upkeep
+|turn|31
+|c| brianortegachoice|if this was me he'd have already forfeited
+|c| brianortegachoice|my team shits on stall
+|
+|t:|1677795274
+|switch|p2a: Toxapex|Toxapex, M|75/100
+|move|p1a: Urshifu|Close Combat|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|46/100
+|-unboost|p1a: Urshifu|def|1
+|-unboost|p1a: Urshifu|spd|1
+|
+|upkeep
+|turn|32
+|c| brianortegachoice|now
+|
+|t:|1677795284
+|switch|p1a: Zapdos|Zapdos|69/100
+|move|p2a: Toxapex|Toxic|p1a: Zapdos
+|-status|p1a: Zapdos|tox
+|
+|-damage|p1a: Zapdos|63/100 tox|[from] psn
+|upkeep
+|turn|33
+|c| brianortegachoice|ATTACK
+|c| brianortegachoice|no
+|c|☆IC1|stallers dk when to goive up
+|
+|t:|1677795292
+|switch|p2a: Hippowdon|Hippowdon, F|80/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Zapdos|Hurricane|p2a: Hippowdon|[miss]
+|-miss|p1a: Zapdos|p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|57/100 tox|[from] Sandstorm
+|-heal|p2a: Hippowdon|86/100|[from] item: Leftovers
+|-damage|p1a: Zapdos|44/100 tox|[from] psn
+|upkeep
+|turn|34
+|c| brianortegachoice|why did you switch bro
+|c|☆IC1|cuz cc wouldnt do enough
+|c|☆IC1|and he ahs recover
+|c|☆IC1|has
+|
+|t:|1677795304
+|move|p1a: Zapdos|Hurricane|p2a: Hippowdon
+|-damage|p2a: Hippowdon|55/100
+|-start|p2a: Hippowdon|confusion
+|-activate|p2a: Hippowdon|confusion
+|move|p2a: Hippowdon|Stealth Rock|p1a: Zapdos
+|-sidestart|p1: IC1|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|38/100 tox|[from] Sandstorm
+|-heal|p2a: Hippowdon|61/100|[from] item: Leftovers
+|-damage|p1a: Zapdos|19/100 tox|[from] psn
+|upkeep
+|turn|35
+|c| brianortegachoice|nice
+|c|☆IC1|get in
+|
+|t:|1677795314
+|switch|p2a: Corviknight|Corviknight, F|86/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Zapdos|Defog|p2a: Corviknight
+|-unboost|p2a: Corviknight|evasion|1
+|-sideend|p1: IC1|Stealth Rock|[from] move: Defog|[of] p1a: Zapdos
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|13/100 tox|[from] Sandstorm
+|-heal|p2a: Corviknight|92/100|[from] item: Leftovers
+|-damage|p1a: Zapdos|0 fnt|[from] psn
+|faint|p1a: Zapdos
+|upkeep
+|
+|t:|1677795317
+|switch|p1a: Dragapult|Dragapult, M|35/100 tox
+|turn|36
+|c|☆IC1|fuck
+|
+|t:|1677795322
+|switch|p2a: Clefable|Clefable, M|100/100
+|move|p1a: Dragapult|Flamethrower|p2a: Clefable
+|-damage|p2a: Clefable|66/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dragapult|29/100 tox|[from] Sandstorm
+|-damage|p2a: Clefable|60/100|[from] Sandstorm
+|-heal|p2a: Clefable|66/100|[from] item: Leftovers
+|-damage|p1a: Dragapult|23/100 tox|[from] psn
+|upkeep
+|turn|37
+|
+|t:|1677795328
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|94/100
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|100/100
+|
+|-weather|none
+|upkeep
+|turn|38
+|
+|t:|1677795334
+|switch|p2a: Toxapex|Toxapex, M|79/100
+|move|p1a: Urshifu|Close Combat|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|48/100
+|-unboost|p1a: Urshifu|def|1
+|-unboost|p1a: Urshifu|spd|1
+|
+|upkeep
+|turn|39
+|c|☆IC1|ite
+|
+|t:|1677795343
+|move|p1a: Urshifu|Close Combat|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|15/100
+|-unboost|p1a: Urshifu|def|1
+|-unboost|p1a: Urshifu|spd|1
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|65/100
+|
+|upkeep
+|turn|40
+|c|☆IC1|sigh
+|
+|t:|1677795351
+|switch|p1a: Dragapult|Dragapult, M|23/100 tox
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|100/100
+|
+|-damage|p1a: Dragapult|17/100 tox|[from] psn
+|upkeep
+|turn|41
+|
+|t:|1677795359
+|move|p1a: Dragapult|Shadow Ball|p2a: Toxapex
+|-damage|p2a: Toxapex|61/100
+|-unboost|p2a: Toxapex|spd|1
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|100/100
+|
+|-damage|p1a: Dragapult|5/100 tox|[from] psn
+|upkeep
+|turn|42
+|
+|t:|1677795366
+|move|p1a: Dragapult|Shadow Ball|p2a: Toxapex
+|-damage|p2a: Toxapex|46/100
+|-unboost|p2a: Toxapex|spd|1
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|96/100
+|
+|-damage|p1a: Dragapult|0 fnt|[from] psn
+|faint|p1a: Dragapult
+|upkeep
+|
+|t:|1677795373
+|switch|p1a: Landorus|Landorus-Therian, M|84/100 tox
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Toxapex|atk|1
+|turn|43
+|c| brianortegachoice|I hate losers who use stall
+|c|☆IC1|sigh
+|
+|t:|1677795379
+|switch|p2a: Corviknight|Corviknight, F|92/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Landorus|Earthquake|p2a: Corviknight
+|-immune|p2a: Corviknight
+|
+|-heal|p1a: Landorus|90/100 tox|[from] item: Leftovers
+|-heal|p2a: Corviknight|99/100|[from] item: Leftovers
+|-damage|p1a: Landorus|84/100 tox|[from] psn
+|upkeep
+|turn|44
+|
+|t:|1677795382
+|move|p1a: Landorus|Knock Off|p2a: Corviknight
+|-damage|p2a: Corviknight|82/100
+|-enditem|p2a: Corviknight|Leftovers|[from] move: Knock Off|[of] p1a: Landorus
+|move|p2a: Corviknight|Body Press|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|72/100 tox
+|
+|-heal|p1a: Landorus|78/100 tox|[from] item: Leftovers
+|-damage|p1a: Landorus|66/100 tox|[from] psn
+|upkeep
+|turn|45
+|
+|t:|1677795386
+|move|p1a: Landorus|U-turn|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|79/100
+|
+|t:|1677795389
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|94/100|[from] U-turn
+|move|p2a: Corviknight|Body Press|p1a: Urshifu
+|-damage|p1a: Urshifu|66/100
+|
+|upkeep
+|turn|46
+|c| brianortegachoice|sawada natsu why don't you fight like a man
+|
+|t:|1677795394
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|move|p1a: Urshifu|Close Combat|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|70/100
+|-unboost|p1a: Urshifu|def|1
+|-unboost|p1a: Urshifu|spd|1
+|
+|upkeep
+|turn|47
+|
+|t:|1677795403
+|move|p1a: Urshifu|Close Combat|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|40/100
+|-unboost|p1a: Urshifu|def|1
+|-unboost|p1a: Urshifu|spd|1
+|move|p2a: Toxapex|Toxic|p1a: Urshifu
+|-status|p1a: Urshifu|tox
+|
+|-damage|p1a: Urshifu|60/100 tox|[from] psn
+|upkeep
+|turn|48
+|
+|t:|1677795421
+|switch|p1a: Landorus|Landorus-Therian, M|66/100 tox
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Toxapex|atk|1
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|90/100
+|
+|-heal|p1a: Landorus|72/100 tox|[from] item: Leftovers
+|-damage|p1a: Landorus|66/100 tox|[from] psn
+|upkeep
+|turn|49
+|c|☆IC1|fuck
+|
+|t:|1677795429
+|switch|p2a: Tornadus|Tornadus-Therian, M|82/100
+|move|p1a: Landorus|U-turn|p2a: Tornadus
+|-resisted|p2a: Tornadus
+|-damage|p2a: Tornadus|70/100
+|
+|t:|1677795441
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100|[from] U-turn
+|
+|upkeep
+|turn|50
+|
+|t:|1677795446
+|move|p2a: Tornadus|Knock Off|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|89/100
+|-damage|p2a: Tornadus|57/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-enditem|p1a: Ferrothorn|Leftovers|[from] move: Knock Off|[of] p2a: Tornadus
+|move|p1a: Ferrothorn|Gyro Ball|p2a: Tornadus
+|-damage|p2a: Tornadus|14/100
+|
+|upkeep
+|turn|51
+|inactive|IC1 has 120 seconds left.
+|
+|t:|1677795488
+|switch|p2a: Corviknight|Corviknight, F|79/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Ferrothorn|Gyro Ball|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|73/100
+|
+|upkeep
+|turn|52
+|
+|t:|1677795510
+|move|p2a: Corviknight|Body Press|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|57/100
+|-damage|p2a: Corviknight|60/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|move|p1a: Ferrothorn|Gyro Ball|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|54/100
+|
+|upkeep
+|turn|53
+|
+|t:|1677795518
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Ferrothorn|Leech Seed|p2a: Corviknight
+|-start|p2a: Corviknight|move: Leech Seed
+|
+|-damage|p2a: Corviknight|88/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|72/100|[silent]
+|upkeep
+|turn|54
+|
+|t:|1677795542
+|switch|p2a: Tornadus|Tornadus-Therian, M|47/100
+|move|p1a: Ferrothorn|Leech Seed|p2a: Tornadus
+|-start|p2a: Tornadus|move: Leech Seed
+|
+|-damage|p2a: Tornadus|35/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|84/100|[silent]
+|upkeep
+|turn|55
+|
+|t:|1677795557
+|switch|p2a: Corviknight|Corviknight, F|88/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Ferrothorn|Spikes|p2a: Corviknight
+|-sidestart|p2: sawada natsu|Spikes
+|
+|upkeep
+|turn|56
+|
+|t:|1677795562
+|move|p2a: Corviknight|Body Press|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|51/100
+|-damage|p2a: Corviknight|75/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|move|p1a: Ferrothorn|Leech Seed|p2a: Corviknight
+|-start|p2a: Corviknight|move: Leech Seed
+|
+|-damage|p2a: Corviknight|63/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|65/100|[silent]
+|upkeep
+|turn|57
+|
+|t:|1677795566
+|switch|p2a: Tornadus|Tornadus-Therian, M|68/100
+|move|p1a: Ferrothorn|Leech Seed|p2a: Tornadus
+|-start|p2a: Tornadus|move: Leech Seed
+|
+|-damage|p2a: Tornadus|55/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|78/100|[silent]
+|upkeep
+|turn|58
+|
+|t:|1677795574
+|switch|p2a: Corviknight|Corviknight, F|63/100
+|-ability|p2a: Corviknight|Pressure
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|60/100 tox
+|
+|-damage|p1a: Urshifu|54/100 tox|[from] psn
+|upkeep
+|turn|59
+|
+|t:|1677795582
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|-damage|p2a: Toxapex|88/100|[from] Spikes
+|move|p1a: Urshifu|Surging Strikes|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-crit|p2a: Toxapex
+|-damage|p2a: Toxapex|77/100
+|-resisted|p2a: Toxapex
+|-crit|p2a: Toxapex
+|-damage|p2a: Toxapex|68/100
+|-resisted|p2a: Toxapex
+|-crit|p2a: Toxapex
+|-damage|p2a: Toxapex|58/100
+|-hitcount|p2a: Toxapex|3
+|
+|-damage|p1a: Urshifu|41/100 tox|[from] psn
+|upkeep
+|turn|60
+|c| brianortegachoice|don't worry IC1
+|c| brianortegachoice|losing is nothing
+|c| brianortegachoice|winning is everything
+|
+|t:|1677795597
+|move|p1a: Urshifu|Surging Strikes|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-crit|p2a: Toxapex
+|-damage|p2a: Toxapex|48/100
+|-resisted|p2a: Toxapex
+|-crit|p2a: Toxapex
+|-damage|p2a: Toxapex|39/100
+|-resisted|p2a: Toxapex
+|-crit|p2a: Toxapex
+|-damage|p2a: Toxapex|29/100
+|-hitcount|p2a: Toxapex|3
+|move|p2a: Toxapex|Scald|p1a: Urshifu
+|-resisted|p1a: Urshifu
+|-damage|p1a: Urshifu|31/100 tox
+|
+|-damage|p1a: Urshifu|12/100 tox|[from] psn
+|upkeep
+|turn|61
+|c|☆IC1|ikr
+|
+|t:|1677795608
+|move|p1a: Urshifu|Surging Strikes|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-crit|p2a: Toxapex
+|-damage|p2a: Toxapex|19/100
+|-resisted|p2a: Toxapex
+|-crit|p2a: Toxapex
+|-damage|p2a: Toxapex|8/100
+|-resisted|p2a: Toxapex
+|-crit|p2a: Toxapex
+|-damage|p2a: Toxapex|0 fnt
+|faint|p2a: Toxapex
+|-hitcount|p2: Toxapex|3
+|
+|-damage|p1a: Urshifu|0 fnt|[from] psn
+|faint|p1a: Urshifu
+|upkeep
+|c|☆IC1|get in
+|c| brianortegachoice|YES
+|c|☆IC1|no 6/0
+|
+|t:|1677795620
+|switch|p1a: Landorus|Landorus-Therian, M|66/100 tox
+|switch|p2a: Corviknight|Corviknight, F|63/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Corviknight|atk|1
+|-ability|p2a: Corviknight|Pressure
+|turn|62
+|c|☆IC1|u little runner
+|
+|t:|1677795627
+|move|p1a: Landorus|Knock Off|p2a: Corviknight
+|-damage|p2a: Corviknight|50/100
+|move|p2a: Corviknight|U-turn|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|61/100 tox
+|c| brianortegachoice|Moral victory right there
+|
+|t:|1677795629
+|switch|p2a: Tornadus|Tornadus-Therian, M|89/100|[from] U-turn
+|
+|-heal|p1a: Landorus|67/100 tox|[from] item: Leftovers
+|-damage|p1a: Landorus|61/100 tox|[from] psn
+|upkeep
+|turn|63
+|c|☆IC1|balle
+|
+|t:|1677795636
+|move|p2a: Tornadus|Hurricane|p1a: Landorus
+|-damage|p1a: Landorus|30/100 tox
+|move|p1a: Landorus|Knock Off|p2a: Tornadus
+|-damage|p2a: Tornadus|65/100
+|
+|-heal|p1a: Landorus|36/100 tox|[from] item: Leftovers
+|-damage|p1a: Landorus|24/100 tox|[from] psn
+|upkeep
+|turn|64
+|
+|t:|1677795650
+|move|p2a: Tornadus|Hurricane|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|upkeep
+|
+|t:|1677795652
+|switch|p1a: Ferrothorn|Ferrothorn, M|78/100
+|turn|65
+|c|☆IC1|gg
+|c|☆IC1|a moral defeat
+|c|☆IC1|cuz no 6/0 hehe
+|
+|t:|1677795661
+|move|p2a: Tornadus|Hurricane|p1a: Ferrothorn|[miss]
+|-miss|p2a: Tornadus|p1a: Ferrothorn
+|move|p1a: Ferrothorn|Leech Seed|p2a: Tornadus
+|-start|p2a: Tornadus|move: Leech Seed
+|
+|-damage|p2a: Tornadus|52/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|91/100|[silent]
+|upkeep
+|turn|66
+|
+|t:|1677795667
+|switch|p2a: Corviknight|Corviknight, F|50/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Ferrothorn|Power Whip|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|45/100
+|
+|upkeep
+|turn|67
+|
+|t:|1677795689
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|95/100
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Ferrothorn|Leech Seed|p2a: Corviknight
+|-start|p2a: Corviknight|move: Leech Seed
+|
+|-damage|p2a: Corviknight|83/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|100/100|[silent]
+|upkeep
+|turn|68
+|
+|t:|1677795698
+|move|p2a: Corviknight|Body Press|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|68/100
+|-damage|p2a: Corviknight|70/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|move|p1a: Ferrothorn|Leech Seed||[still]
+|-fail|p1a: Ferrothorn
+|
+|-damage|p2a: Corviknight|58/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|82/100|[silent]
+|upkeep
+|turn|69
+|c| brianortegachoice|70 turn game...
+|c|☆IC1|ikr
+|
+|t:|1677795707
+|switch|p2a: Tornadus|Tornadus-Therian, M|85/100
+|move|p1a: Ferrothorn|Power Whip|p2a: Tornadus
+|-resisted|p2a: Tornadus
+|-damage|p2a: Tornadus|65/100
+|
+|upkeep
+|turn|70
+|
+|t:|1677795711
+|switch|p2a: Corviknight|Corviknight, F|58/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Ferrothorn|Leech Seed|p2a: Corviknight
+|-start|p2a: Corviknight|move: Leech Seed
+|
+|-damage|p2a: Corviknight|45/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|97/100|[silent]
+|upkeep
+|turn|71
+|c|☆IC1|im out of gyro ball too rn
+|c| brianortegachoice|leech seed now
+|
+|t:|1677795720
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|95/100
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Ferrothorn|Spikes|p2a: Corviknight
+|-sidestart|p2: sawada natsu|Spikes
+|
+|-damage|p2a: Corviknight|83/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|100/100|[silent]
+|upkeep
+|turn|72
+|c|☆IC1|ccan i make it 80
+|
+|t:|1677795731
+|move|p2a: Corviknight|Body Press|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|71/100
+|-damage|p2a: Corviknight|70/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|move|p1a: Ferrothorn|Power Whip|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|65/100
+|
+|-damage|p2a: Corviknight|52/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|85/100|[silent]
+|upkeep
+|turn|73
+|c| brianortegachoice|we don't know the meaning of the word
+|c| brianortegachoice|giving up
+|c|☆IC1|or 100?
+|c|☆IC1|balle
+|c| brianortegachoice|heck 200
+|c| brianortegachoice|500
+|
+|t:|1677795742
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Ferrothorn|Leech Seed||[still]
+|-fail|p1a: Ferrothorn
+|
+|-damage|p2a: Corviknight|88/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|99/100|[silent]
+|upkeep
+|turn|74
+|c| brianortegachoice|break the limit
+|
+|t:|1677795753
+|switch|p2a: Tornadus|Tornadus-Therian, M|98/100
+|move|p1a: Ferrothorn|Power Whip|p2a: Tornadus
+|-resisted|p2a: Tornadus
+|-damage|p2a: Tornadus|77/100
+|
+|upkeep
+|turn|75
+|
+|t:|1677795759
+|move|p2a: Tornadus|Hurricane|p1a: Ferrothorn|[miss]
+|-miss|p2a: Tornadus|p1a: Ferrothorn
+|move|p1a: Ferrothorn|Leech Seed|p2a: Tornadus|[miss]
+|-miss|p1a: Ferrothorn|p2a: Tornadus
+|
+|upkeep
+|turn|76
+|
+|t:|1677795765
+|move|p2a: Tornadus|Hurricane|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|61/100
+|-start|p1a: Ferrothorn|confusion
+|-activate|p1a: Ferrothorn|confusion
+|move|p1a: Ferrothorn|Spikes|p2a: Tornadus
+|-sidestart|p2: sawada natsu|Spikes
+|
+|upkeep
+|turn|77
+|c|☆IC1|fucj
+|c|☆IC1|no mre leech now
+|c|☆IC1|ok
+|
+|t:|1677795772
+|move|p2a: Tornadus|Hurricane|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|24/100
+|-activate|p1a: Ferrothorn|confusion
+|move|p1a: Ferrothorn|Power Whip|p2a: Tornadus
+|-resisted|p2a: Tornadus
+|-damage|p2a: Tornadus|55/100
+|
+|upkeep
+|turn|78
+|
+|t:|1677795779
+|move|p2a: Tornadus|Hurricane|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|faint|p1a: Ferrothorn
+|
+|win|sawada natsu
+|raw|IC1's rating: 1278 &rarr; <strong>1238</strong><br />(-40 for losing)
+|raw|sawada natsu's rating: 1043 &rarr; <strong>1096</strong><br />(+53 for winning)
+|l|‽sawada natsu
+|c|☆IC1|gg
+|c|☆IC1|sigh
+|c| brianortegachoice|gg
+|c|☆IC1|so close to 80
+|c| brianortegachoice|you did great
+|c| brianortegachoice|alright my turn

@@ -1,0 +1,92 @@
+|j|☆Malicking
+|j|☆GoodGuyAlan
+|t:|1677862362
+|gametype|singles
+|player|p1|Malicking|silver|1310
+|player|p2|GoodGuyAlan|red|1282
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Excadrill, F|
+|poke|p1|Tyranitar, F|
+|poke|p1|Dracozolt|
+|poke|p1|Clefable, M|
+|poke|p1|Slowbro, M|
+|poke|p1|Tornadus-Therian, M|
+|poke|p2|Pelipper, F|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Barraskewda, M|
+|poke|p2|Garchomp, F|
+|poke|p2|Zapdos|
+|poke|p2|Crawdaunt, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by GoodGuyAlan)
+|inactive|Malicking has 120 seconds left.
+|inactive|Malicking has 90 seconds left.
+|
+|t:|1677862437
+|start
+|switch|p1a: Excadrill|Excadrill, F|100/100
+|switch|p2a: Crawdaunt|Crawdaunt, F|100/100
+|turn|1
+|
+|t:|1677862454
+|move|p1a: Excadrill|Iron Head|p2a: Crawdaunt
+|-resisted|p2a: Crawdaunt
+|-damage|p2a: Crawdaunt|59/100
+|-damage|p1a: Excadrill|91/100|[from] item: Life Orb
+|move|p2a: Crawdaunt|Swords Dance|p2a: Crawdaunt
+|-boost|p2a: Crawdaunt|atk|2
+|
+|upkeep
+|turn|2
+|
+|t:|1677862466
+|move|p2a: Crawdaunt|Aqua Jet|p1a: Excadrill
+|-supereffective|p1a: Excadrill
+|-damage|p1a: Excadrill|0 fnt
+|faint|p1a: Excadrill
+|-damage|p2a: Crawdaunt|50/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1677862475
+|switch|p1a: Slowbro|Slowbro, M|100/100
+|turn|3
+|
+|t:|1677862482
+|switch|p1a: Clefable|Clefable, M|100/100
+|move|p2a: Crawdaunt|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|14/100
+|-enditem|p1a: Clefable|Leftovers|[from] move: Knock Off|[of] p2a: Crawdaunt
+|-damage|p2a: Crawdaunt|40/100|[from] item: Life Orb
+|
+|upkeep
+|turn|4
+|
+|t:|1677862494
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|move|p2a: Crawdaunt|Aqua Jet|p1a: Tornadus
+|-damage|p1a: Tornadus|15/100
+|-damage|p2a: Crawdaunt|30/100|[from] item: Life Orb
+|
+|upkeep
+|turn|5
+|-message|Malicking forfeited.
+|
+|win|GoodGuyAlan
+|raw|Malicking's rating: 1310 &rarr; <strong>1288</strong><br />(-22 for losing)
+|raw|GoodGuyAlan's rating: 1282 &rarr; <strong>1309</strong><br />(+27 for winning)
+|l|☆Malicking

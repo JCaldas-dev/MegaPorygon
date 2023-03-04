@@ -1,0 +1,330 @@
+|j|☆NOOBSLAYERSTARLORD
+|j|☆sniperghoost
+|t:|1677789179
+|gametype|singles
+|player|p1|NOOBSLAYERSTARLORD|hilbert|1180
+|player|p2|sniperghoost|red|1209
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Zapdos|
+|poke|p1|Melmetal|
+|poke|p1|Polteageist|
+|poke|p1|Suicune|
+|poke|p1|Nidoking, M|
+|poke|p1|Gardevoir, M|
+|poke|p2|Rillaboom, F|
+|poke|p2|Heatran, M|
+|poke|p2|Slowking, M|
+|poke|p2|Dragapult, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Bisharp, F|
+|teampreview
+|
+|t:|1677789201
+|start
+|switch|p1a: Melmetal|Melmetal|100/100
+|switch|p2a: Slowking|Slowking, M, shiny|100/100
+|turn|1
+|
+|t:|1677789219
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Melmetal|atk|1
+|move|p1a: Melmetal|Thunder|p2a: Landorus
+|-immune|p2a: Landorus
+|
+|upkeep
+|turn|2
+|
+|t:|1677789228
+|move|p2a: Landorus|Knock Off|p1a: Melmetal
+|-damage|p1a: Melmetal|86/100
+|-enditem|p1a: Melmetal|Leftovers|[from] move: Knock Off|[of] p2a: Landorus
+|move|p1a: Melmetal|Ice Beam|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|16/100
+|
+|-heal|p2a: Landorus|22/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1677789237
+|move|p2a: Landorus|U-turn|p1a: Melmetal
+|-resisted|p1a: Melmetal
+|-damage|p1a: Melmetal|80/100
+|
+|t:|1677789244
+|switch|p2a: Slowking|Slowking, M, shiny|100/100|[from] U-turn
+|move|p1a: Melmetal|Ice Beam|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|95/100
+|
+|upkeep
+|turn|4
+|
+|t:|1677789250
+|move|p1a: Melmetal|Thunder|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|66/100
+|-status|p2a: Slowking|par
+|move|p2a: Slowking|Teleport|p2a: Slowking
+|
+|t:|1677789257
+|switch|p2a: Heatran|Heatran, M|100/100|[from] Teleport
+|
+|upkeep
+|turn|5
+|
+|t:|1677789261
+|move|p2a: Heatran|Eruption|p1a: Melmetal
+|-supereffective|p1a: Melmetal
+|-damage|p1a: Melmetal|0 fnt
+|faint|p1a: Melmetal
+|
+|upkeep
+|
+|t:|1677789269
+|switch|p1a: Suicune|Suicune|100/100
+|-ability|p1a: Suicune|Pressure
+|turn|6
+|
+|t:|1677789274
+|switch|p2a: Rillaboom|Rillaboom, F, shiny|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Suicune|Scald|p2a: Rillaboom
+|-resisted|p2a: Rillaboom
+|-damage|p2a: Rillaboom|84/100
+|-status|p2a: Rillaboom|brn
+|
+|-heal|p2a: Rillaboom|90/100 brn|[from] Grassy Terrain
+|-damage|p2a: Rillaboom|84/100 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1677789286
+|switch|p1a: Zapdos|Zapdos|100/100
+|-ability|p1a: Zapdos|Pressure
+|move|p2a: Rillaboom|Knock Off|p1a: Zapdos
+|-damage|p1a: Zapdos|77/100
+|-enditem|p1a: Zapdos|Leftovers|[from] move: Knock Off|[of] p2a: Rillaboom
+|
+|-heal|p2a: Rillaboom|90/100 brn|[from] Grassy Terrain
+|-damage|p2a: Rillaboom|84/100 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1677789297
+|switch|p2a: Landorus|Landorus-Therian, M|22/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Zapdos|atk|1
+|move|p1a: Zapdos|Heat Wave|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|upkeep
+|
+|t:|1677789305
+|switch|p2a: Heatran|Heatran, M|100/100
+|turn|9
+|
+|t:|1677789309
+|move|p2a: Heatran|Eruption|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|upkeep
+|
+|t:|1677789318
+|switch|p1a: Suicune|Suicune|100/100
+|-ability|p1a: Suicune|Pressure
+|turn|10
+|
+|t:|1677789323
+|switch|p2a: Slowking|Slowking, M, shiny|99/100 par
+|move|p1a: Suicune|Scald|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|91/100 par
+|
+|-heal|p2a: Slowking|97/100 par|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|11
+|
+|t:|1677789332
+|switch|p1a: Gardevoir|Gardevoir, M|100/100
+|move|p2a: Slowking|Future Sight|p1a: Gardevoir
+|-start|p2a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|12
+|
+|t:|1677789337
+|move|p1a: Gardevoir|Light Screen|p1a: Gardevoir
+|-sidestart|p1: NOOBSLAYERSTARLORD|move: Light Screen
+|move|p2a: Slowking|Teleport|p2a: Slowking
+|
+|t:|1677789343
+|switch|p2a: Bisharp|Bisharp, F, shiny|100/100|[from] Teleport
+|
+|upkeep
+|turn|13
+|
+|t:|1677789350
+|move|p2a: Bisharp|Knock Off|p1a: Gardevoir
+|-damage|p1a: Gardevoir|18/100
+|-enditem|p1a: Gardevoir|Leftovers|[from] move: Knock Off|[of] p2a: Bisharp
+|move|p1a: Gardevoir|Reflect|p1a: Gardevoir
+|-sidestart|p1: NOOBSLAYERSTARLORD|Reflect
+|
+|-end|p1a: Gardevoir|move: Future Sight
+|-resisted|p1a: Gardevoir
+|-damage|p1a: Gardevoir|8/100
+|upkeep
+|turn|14
+|
+|t:|1677789358
+|move|p2a: Bisharp|Knock Off|p1a: Gardevoir
+|-damage|p1a: Gardevoir|0 fnt
+|faint|p1a: Gardevoir
+|
+|upkeep
+|
+|t:|1677789362
+|switch|p1a: Polteageist|Polteageist|100/100
+|turn|15
+|
+|t:|1677789371
+|move|p2a: Bisharp|Sucker Punch||[still]
+|-fail|p2a: Bisharp
+|move|p1a: Polteageist|Shell Smash|p1a: Polteageist
+|-unboost|p1a: Polteageist|def|1
+|-unboost|p1a: Polteageist|spd|1
+|-boost|p1a: Polteageist|atk|2
+|-boost|p1a: Polteageist|spa|2
+|-boost|p1a: Polteageist|spe|2
+|-enditem|p1a: Polteageist|White Herb
+|-clearnegativeboost|p1a: Polteageist|[silent]
+|
+|upkeep
+|turn|16
+|
+|t:|1677789381
+|move|p2a: Bisharp|Sucker Punch|p1a: Polteageist
+|-supereffective|p1a: Polteageist
+|-damage|p1a: Polteageist|33/100
+|-start|p2a: Bisharp|Disable|Sucker Punch|[from] ability: Cursed Body|[of] p1a: Polteageist
+|move|p1a: Polteageist|Shadow Ball|p2a: Bisharp
+|-resisted|p2a: Bisharp
+|-damage|p2a: Bisharp|50/100
+|
+|-sideend|p1: NOOBSLAYERSTARLORD|move: Light Screen
+|upkeep
+|turn|17
+|
+|t:|1677789393
+|switch|p2a: Dragapult|Dragapult, F, shiny|100/100
+|move|p1a: Polteageist|Shadow Ball|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|-sideend|p1: NOOBSLAYERSTARLORD|Reflect
+|upkeep
+|
+|t:|1677789401
+|switch|p2a: Bisharp|Bisharp, F, shiny|50/100
+|turn|18
+|
+|t:|1677789404
+|move|p2a: Bisharp|Sucker Punch|p1a: Polteageist
+|-supereffective|p1a: Polteageist
+|-damage|p1a: Polteageist|0 fnt
+|faint|p1a: Polteageist
+|
+|upkeep
+|
+|t:|1677789408
+|switch|p1a: Suicune|Suicune|100/100
+|-ability|p1a: Suicune|Pressure
+|turn|19
+|
+|t:|1677789412
+|move|p2a: Bisharp|Knock Off|p1a: Suicune
+|-damage|p1a: Suicune|59/100
+|-enditem|p1a: Suicune|Chesto Berry|[from] move: Knock Off|[of] p2a: Bisharp
+|move|p1a: Suicune|Scald|p2a: Bisharp
+|-damage|p2a: Bisharp|10/100
+|-status|p2a: Bisharp|brn
+|
+|-damage|p2a: Bisharp|4/100 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1677789422
+|move|p2a: Bisharp|Sucker Punch||[still]
+|-fail|p2a: Bisharp
+|move|p1a: Suicune|Calm Mind|p1a: Suicune
+|-boost|p1a: Suicune|spa|1
+|-boost|p1a: Suicune|spd|1
+|
+|-damage|p2a: Bisharp|0 fnt|[from] brn
+|faint|p2a: Bisharp
+|upkeep
+|
+|t:|1677789430
+|switch|p2a: Rillaboom|Rillaboom, F, shiny|84/100 brn
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|21
+|
+|t:|1677789445
+|switch|p1a: Nidoking|Nidoking, M|100/100
+|move|p2a: Rillaboom|Wood Hammer|p1a: Nidoking
+|-damage|p1a: Nidoking|32/100
+|-enditem|p1a: Nidoking|Sitrus Berry|[eat]
+|-heal|p1a: Nidoking|57/100|[from] item: Sitrus Berry
+|-damage|p2a: Rillaboom|64/100 brn|[from] Recoil
+|
+|-heal|p2a: Rillaboom|70/100 brn|[from] Grassy Terrain
+|-heal|p1a: Nidoking|63/100|[from] Grassy Terrain
+|-damage|p2a: Rillaboom|64/100 brn|[from] brn
+|upkeep
+|turn|22
+|
+|t:|1677789459
+|move|p2a: Rillaboom|Wood Hammer|p1a: Nidoking
+|-damage|p1a: Nidoking|0 fnt
+|faint|p1a: Nidoking
+|-damage|p2a: Rillaboom|46/100 brn|[from] Recoil
+|
+|-heal|p2a: Rillaboom|52/100 brn|[from] Grassy Terrain
+|-damage|p2a: Rillaboom|46/100 brn|[from] brn
+|upkeep
+|
+|t:|1677789467
+|switch|p1a: Suicune|Suicune|59/100
+|-ability|p1a: Suicune|Pressure
+|turn|23
+|
+|t:|1677789471
+|move|p2a: Rillaboom|Wood Hammer|p1a: Suicune
+|-supereffective|p1a: Suicune
+|-damage|p1a: Suicune|0 fnt
+|faint|p1a: Suicune
+|-damage|p2a: Rillaboom|27/100 brn|[from] Recoil
+|
+|win|sniperghoost
+|raw|NOOBSLAYERSTARLORD's rating: 1180 &rarr; <strong>1157</strong><br />(-23 for losing)
+|raw|sniperghoost's rating: 1209 &rarr; <strong>1232</strong><br />(+23 for winning)
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

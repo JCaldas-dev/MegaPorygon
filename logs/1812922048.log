@@ -1,0 +1,241 @@
+|j|☆QueenOfScare
+|j|☆JamInAJar
+|t:|1677810495
+|gametype|singles
+|player|p1|QueenOfScare|elesa|1099
+|player|p2|JamInAJar|preschooler|1142
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Mr. Mime-Galar, M|
+|poke|p1|Alakazam, F|
+|poke|p1|Blacephalon|
+|poke|p1|Mr. Rime, F|
+|poke|p1|Hatterene, F|
+|poke|p2|Aggron, M|
+|poke|p2|Doublade, F|
+|poke|p2|Galvantula, F|
+|poke|p2|Corsola, M|
+|poke|p2|Comfey, F|
+|poke|p2|Gigalith, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by JamInAJar)
+|inactive|QueenOfScare has 120 seconds left.
+|
+|t:|1677810529
+|start
+|switch|p1a: La Clown|Alakazam, F, shiny|100/100
+|switch|p2a: Galvantula|Galvantula, F|100/100
+|turn|1
+|c|☆QueenOfScare|I got some clowns
+|c|☆JamInAJar|ok
+|c|☆QueenOfScare|They want ur money
+|c|☆JamInAJar|cool
+|c|☆JamInAJar|i got a pu team
+|
+|t:|1677810547
+|move|p1a: La Clown|Night Shade|p2a: Galvantula
+|-damage|p2a: Galvantula|65/100
+|move|p2a: Galvantula|Bug Buzz|p1a: La Clown
+|-supereffective|p1a: La Clown
+|-damage|p1a: La Clown|0 fnt
+|faint|p1a: La Clown
+|
+|upkeep
+|c|☆QueenOfScare|Gonna cast some shade on u
+|c|☆QueenOfScare|Before I die
+|
+|t:|1677810560
+|switch|p1a: Zi Clown|Blacephalon, shiny|100/100
+|turn|2
+|
+|t:|1677810566
+|move|p1a: Zi Clown|Heat Wave|p2a: Galvantula
+|-supereffective|p2a: Galvantula
+|-damage|p2a: Galvantula|0 fnt
+|faint|p2a: Galvantula
+|-ability|p1a: Zi Clown|Beast Boost|boost
+|-boost|p1a: Zi Clown|spa|1
+|
+|upkeep
+|
+|t:|1677810570
+|switch|p2a: Gigalith|Gigalith, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Gigalith
+|turn|3
+|
+|t:|1677810595
+|switch|p1a: Ze Clown|Slowking-Galar, F, shiny|100/100
+|move|p2a: Gigalith|Earthquake|p1a: Ze Clown
+|-supereffective|p1a: Ze Clown
+|-damage|p1a: Ze Clown|26/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Ze Clown|19/100|[from] Sandstorm
+|upkeep
+|turn|4
+|
+|t:|1677810608
+|move|p1a: Ze Clown|Hydro Pump|p2a: Gigalith|[miss]
+|-miss|p1a: Ze Clown|p2a: Gigalith
+|move|p2a: Gigalith|Earthquake|p1a: Ze Clown
+|-supereffective|p1a: Ze Clown
+|-damage|p1a: Ze Clown|0 fnt
+|faint|p1a: Ze Clown
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|inactive|QueenOfScare has 120 seconds left.
+|inactive|QueenOfScare has 90 seconds left.
+|
+|t:|1677810656
+|switch|p1a: Za Clown|Mr. Mime-Galar, M, shiny|100/100
+|turn|5
+|
+|t:|1677810667
+|move|p1a: Za Clown|Freeze-Dry|p2a: Gigalith
+|-damage|p2a: Gigalith|79/100
+|move|p2a: Gigalith|Stealth Rock|p1a: Za Clown
+|-sidestart|p1: QueenOfScare|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Za Clown|94/100|[from] Sandstorm
+|-heal|p2a: Gigalith|85/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1677810687
+|move|p1a: Za Clown|Encore|p2a: Gigalith
+|-start|p2a: Gigalith|Encore
+|move|p2a: Gigalith|Stealth Rock||[still]
+|-fail|p2a: Gigalith
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Za Clown|88/100|[from] Sandstorm
+|-heal|p2a: Gigalith|91/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|inactive|QueenOfScare has 90 seconds left.
+|
+|t:|1677810703
+|switch|p1a: Ha Clown|Hatterene, F, shiny|100/100
+|-damage|p1a: Ha Clown|88/100|[from] Stealth Rock
+|switch|p2a: Corsola|Corsola, M|100/100
+|
+|-weather|none
+|upkeep
+|turn|8
+|inactive|QueenOfScare has 90 seconds left.
+|
+|t:|1677810723
+|switch|p1a: Da Clown|Mr. Rime, F|100/100
+|move|p2a: Corsola|Head Smash|p1a: Da Clown
+|-supereffective|p1a: Da Clown
+|-damage|p1a: Da Clown|0 fnt
+|faint|p1a: Da Clown
+|-damage|p2a: Corsola|46/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1677810732
+|switch|p1a: Ha Clown|Hatterene, F, shiny|88/100
+|-damage|p1a: Ha Clown|76/100|[from] Stealth Rock
+|turn|9
+|
+|t:|1677810738
+|move|p2a: Corsola|Head Smash|p1a: Ha Clown
+|-crit|p1a: Ha Clown
+|-damage|p1a: Ha Clown|0 fnt
+|faint|p1a: Ha Clown
+|-damage|p2a: Corsola|10/100|[from] Recoil
+|
+|upkeep
+|c|☆QueenOfScare|Darn, getting clowned on
+|c|☆QueenOfScare|Gg
+|
+|t:|1677810745
+|switch|p1a: Za Clown|Mr. Mime-Galar, M, shiny|88/100
+|turn|10
+|inactive|QueenOfScare has 90 seconds left.
+|
+|t:|1677810757
+|move|p1a: Za Clown|Freeze-Dry|p2a: Corsola
+|-supereffective|p2a: Corsola
+|-damage|p2a: Corsola|0 fnt
+|faint|p2a: Corsola
+|
+|upkeep
+|
+|t:|1677810766
+|switch|p2a: Doublade|Doublade, F|100/100
+|turn|11
+|
+|t:|1677810775
+|move|p1a: Za Clown|Encore||[still]
+|-fail|p1a: Za Clown
+|move|p2a: Doublade|Iron Head|p1a: Za Clown
+|-supereffective|p1a: Za Clown
+|-crit|p1a: Za Clown
+|-damage|p1a: Za Clown|0 fnt
+|faint|p1a: Za Clown
+|
+|upkeep
+|
+|t:|1677810781
+|switch|p1a: Zi Clown|Blacephalon, shiny|100/100
+|-damage|p1a: Zi Clown|76/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1677810789
+|move|p2a: Doublade|Shadow Sneak|p1a: Zi Clown
+|-supereffective|p1a: Zi Clown
+|-damage|p1a: Zi Clown|1/100
+|move|p1a: Zi Clown|Heat Wave|p2a: Doublade
+|-supereffective|p2a: Doublade
+|-damage|p2a: Doublade|0 fnt
+|faint|p2a: Doublade
+|-ability|p1a: Zi Clown|Beast Boost|boost
+|-boost|p1a: Zi Clown|spa|1
+|
+|upkeep
+|c|☆QueenOfScare|Gg you beat my clowns
+|c|☆QueenOfScare|They got sent out of town.
+|inactive|JamInAJar has 120 seconds left.
+|l|☆JamInAJar
+|inactive|JamInAJar disconnected and has a minute to reconnect!
+|player|p2|
+|j|☆JamInAJar
+|inactive|JamInAJar reconnected and has 100 seconds left.
+|player|p2|JamInAJar|preschooler
+|
+|t:|1677810847
+|switch|p2a: Comfey|Comfey, F|100/100
+|turn|13
+|c|☆QueenOfScare|Gg you did well
+|c|☆JamInAJar|ty
+|c|☆JamInAJar|u did too
+|c|☆JamInAJar|gg
+|
+|t:|1677810868
+|move|p2a: Comfey|Draining Kiss|p1a: Zi Clown
+|-resisted|p1a: Zi Clown
+|-damage|p1a: Zi Clown|0 fnt
+|faint|p1a: Zi Clown
+|-damage|p2a: Comfey|91/100|[from] item: Life Orb
+|
+|win|JamInAJar
+|raw|QueenOfScare's rating: 1099 &rarr; <strong>1077</strong><br />(-22 for losing)
+|raw|JamInAJar's rating: 1142 &rarr; <strong>1164</strong><br />(+22 for winning)
+|c|☆QueenOfScare|Ehhh

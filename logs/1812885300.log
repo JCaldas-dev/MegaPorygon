@@ -1,0 +1,514 @@
+|j|☆PhantomFreakout101
+|j|☆Zzzsantes2
+|t:|1677806373
+|gametype|singles
+|player|p1|PhantomFreakout101|twins-gen4|1079
+|player|p2|Zzzsantes2|169|1125
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Zapdos|
+|poke|p1|Dragapult, M|
+|poke|p1|Clefable, F|
+|poke|p1|Scizor, M|
+|poke|p1|Blacephalon|
+|poke|p1|Melmetal|
+|poke|p2|Sawk, M|
+|poke|p2|Swoobat, F|
+|poke|p2|Absol, F|
+|poke|p2|Clawitzer, M|
+|poke|p2|Avalugg, F|
+|poke|p2|Lanturn, M|
+|teampreview
+|
+|t:|1677806387
+|start
+|switch|p1a: Melmetal|Melmetal|100/100
+|switch|p2a: Mini Vlad|Swoobat, F|100/100
+|turn|1
+|
+|t:|1677806405
+|switch|p2a: The FBI's coming|Lanturn, M|100/100
+|move|p1a: Melmetal|Thunder Punch|p2a: The FBI's coming
+|-immune|p2a: The FBI's coming|[from] ability: Volt Absorb
+|
+|upkeep
+|turn|2
+|
+|t:|1677806428
+|switch|p1a: Clefable|Clefable, F|100/100
+|move|p2a: The FBI's coming|Scald|p1a: Clefable
+|-damage|p1a: Clefable|80/100
+|-status|p1a: Clefable|brn
+|
+|-damage|p1a: Clefable|74/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1677806481
+|move|p2a: The FBI's coming|Confuse Ray|p1a: Clefable
+|-start|p1a: Clefable|confusion
+|-activate|p1a: Clefable|confusion
+|move|p1a: Clefable|Moonblast|p2a: The FBI's coming
+|-damage|p2a: The FBI's coming|73/100
+|
+|-heal|p2a: The FBI's coming|79/100|[from] item: Leftovers
+|-damage|p1a: Clefable|68/100 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1677806492
+|move|p2a: The FBI's coming|Volt Switch|p1a: Clefable
+|-damage|p1a: Clefable|49/100 brn
+|
+|t:|1677806502
+|switch|p2a: Mmm 7u7|Clawitzer, M|100/100|[from] Volt Switch
+|-end|p1a: Clefable|confusion
+|move|p1a: Clefable|Heal Bell|p1a: Clefable
+|-activate|p1a: Clefable|move: Heal Bell
+|-curestatus|p1a: Clefable|brn|[msg]
+|
+|upkeep
+|turn|5
+|
+|t:|1677806519
+|switch|p1a: Zapdos|Zapdos, shiny|100/100
+|move|p2a: Mmm 7u7|Water Pulse|p1a: Zapdos
+|-damage|p1a: Zapdos|27/100
+|
+|upkeep
+|turn|6
+|
+|t:|1677806527
+|switch|p2a: The FBI's coming|Lanturn, M|79/100
+|move|p1a: Zapdos|Volt Switch|p2a: The FBI's coming
+|-heal|p2a: The FBI's coming|100/100|[from] ability: Volt Absorb|[of] p1a: Zapdos
+|
+|upkeep
+|turn|7
+|
+|t:|1677806535
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|77/100
+|-singleturn|p1a: Zapdos|move: Roost
+|move|p2a: The FBI's coming|Scald|p1a: Zapdos
+|-damage|p1a: Zapdos|55/100
+|-status|p1a: Zapdos|brn
+|
+|-damage|p1a: Zapdos|49/100 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1677806546
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|99/100 brn
+|-singleturn|p1a: Zapdos|move: Roost
+|move|p2a: The FBI's coming|Scald|p1a: Zapdos
+|-damage|p1a: Zapdos|78/100 brn
+|
+|-damage|p1a: Zapdos|72/100 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1677806564
+|switch|p1a: Dragapult|Dragapult, M, shiny|100/100
+|move|p2a: The FBI's coming|Volt Switch|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|87/100
+|
+|t:|1677806571
+|switch|p2a: Mega... :(|Absol, F|100/100|[from] Volt Switch
+|
+|upkeep
+|turn|10
+|
+|t:|1677806579
+|move|p2a: Mega... :(|Sucker Punch||[still]
+|-fail|p2a: Mega... :(
+|move|p1a: Dragapult|Thunder Wave|p2a: Mega... :(
+|-status|p2a: Mega... :(|par
+|
+|upkeep
+|turn|11
+|
+|t:|1677806584
+|move|p1a: Dragapult|Hex|p2a: Mega... :(
+|-resisted|p2a: Mega... :(
+|-damage|p2a: Mega... :(|42/100 par
+|move|p2a: Mega... :(|Night Slash|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-crit|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|upkeep
+|
+|t:|1677806601
+|switch|p1a: Clefable|Clefable, F|49/100
+|turn|12
+|
+|t:|1677806614
+|switch|p2a: The FBI's coming|Lanturn, M|100/100
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|99/100
+|
+|upkeep
+|turn|13
+|
+|t:|1677806623
+|move|p2a: The FBI's coming|Scald|p1a: Clefable
+|-crit|p1a: Clefable
+|-damage|p1a: Clefable|68/100
+|move|p1a: Clefable|Moonblast|p2a: The FBI's coming
+|-damage|p2a: The FBI's coming|74/100
+|
+|-heal|p2a: The FBI's coming|80/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1677806633
+|move|p2a: The FBI's coming|Volt Switch|p1a: Clefable
+|-damage|p1a: Clefable|49/100
+|
+|t:|1677806637
+|switch|p2a: John Cena|Sawk, M|100/100|[from] Volt Switch
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|99/100
+|
+|upkeep
+|turn|15
+|
+|t:|1677806655
+|move|p2a: John Cena|Poison Jab|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|42/100
+|move|p1a: Clefable|Moonblast|p2a: John Cena
+|-supereffective|p2a: John Cena
+|-ability|p2a: John Cena|Sturdy
+|-damage|p2a: John Cena|1/100
+|
+|upkeep
+|turn|16
+|
+|t:|1677806670
+|switch|p1a: Melmetal|Melmetal|100/100
+|move|p2a: John Cena|Poison Jab|p1a: Melmetal
+|-immune|p1a: Melmetal
+|
+|upkeep
+|turn|17
+|
+|t:|1677806683
+|switch|p2a: Mega... :(|Absol, F|42/100 par
+|move|p1a: Melmetal|Double Iron Bash|p2a: Mega... :(
+|-damage|p2a: Mega... :(|0 fnt
+|faint|p2a: Mega... :(
+|-hitcount|p2: Mega... :(|1
+|
+|upkeep
+|
+|t:|1677806693
+|switch|p2a: John Cena|Sawk, M|1/100
+|turn|18
+|
+|t:|1677806697
+|move|p2a: John Cena|Close Combat|p1a: Melmetal
+|-supereffective|p1a: Melmetal
+|-damage|p1a: Melmetal|32/100
+|-unboost|p2a: John Cena|def|1
+|-unboost|p2a: John Cena|spd|1
+|move|p1a: Melmetal|Double Iron Bash|p2a: John Cena
+|-damage|p2a: John Cena|0 fnt
+|faint|p2a: John Cena
+|-hitcount|p2: John Cena|1
+|
+|upkeep
+|
+|t:|1677806706
+|switch|p2a: Mmm 7u7|Clawitzer, M|100/100
+|turn|19
+|
+|t:|1677806709
+|move|p2a: Mmm 7u7|Water Pulse|p1a: Melmetal
+|-crit|p1a: Melmetal
+|-damage|p1a: Melmetal|0 fnt
+|faint|p1a: Melmetal
+|
+|upkeep
+|
+|t:|1677806718
+|switch|p1a: Zapdos|Zapdos, shiny|72/100 brn
+|turn|20
+|
+|t:|1677806728
+|switch|p2a: The FBI's coming|Lanturn, M|80/100
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|100/100 brn
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|-heal|p2a: The FBI's coming|86/100|[from] item: Leftovers
+|-damage|p1a: Zapdos|94/100 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1677806744
+|move|p1a: Zapdos|Hurricane|p2a: The FBI's coming
+|-resisted|p2a: The FBI's coming
+|-damage|p2a: The FBI's coming|70/100
+|move|p2a: The FBI's coming|Confuse Ray|p1a: Zapdos
+|-start|p1a: Zapdos|confusion
+|
+|-heal|p2a: The FBI's coming|76/100|[from] item: Leftovers
+|-damage|p1a: Zapdos|88/100 brn|[from] brn
+|upkeep
+|turn|22
+|
+|t:|1677806756
+|switch|p1a: Clefable|Clefable, F|42/100
+|move|p2a: The FBI's coming|Volt Switch|p1a: Clefable
+|-damage|p1a: Clefable|24/100
+|
+|t:|1677806763
+|switch|p2a: Mmm 7u7|Clawitzer, M|100/100|[from] Volt Switch
+|
+|upkeep
+|turn|23
+|
+|t:|1677806771
+|move|p1a: Clefable|Heal Bell|p1a: Clefable
+|-activate|p1a: Clefable|move: Heal Bell
+|-curestatus|p1: Zapdos|brn|[msg]
+|move|p2a: Mmm 7u7|Water Pulse|p1a: Clefable
+|-crit|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|
+|upkeep
+|
+|t:|1677806781
+|switch|p1a: Scizor|Scizor, M|100/100
+|turn|24
+|
+|t:|1677806788
+|move|p1a: Scizor|Knock Off|p2a: Mmm 7u7
+|-damage|p2a: Mmm 7u7|56/100
+|-enditem|p2a: Mmm 7u7|Choice Specs|[from] move: Knock Off|[of] p1a: Scizor
+|move|p2a: Mmm 7u7|Water Pulse|p1a: Scizor
+|-damage|p1a: Scizor|50/100
+|
+|upkeep
+|turn|25
+|
+|t:|1677806798
+|move|p1a: Scizor|Roost|p1a: Scizor
+|-heal|p1a: Scizor|100/100
+|-singleturn|p1a: Scizor|move: Roost
+|move|p2a: Mmm 7u7|Water Pulse|p1a: Scizor
+|-damage|p1a: Scizor|55/100
+|
+|upkeep
+|turn|26
+|
+|t:|1677806807
+|move|p1a: Scizor|Roost|p1a: Scizor
+|-heal|p1a: Scizor|100/100
+|-singleturn|p1a: Scizor|move: Roost
+|move|p2a: Mmm 7u7|Water Pulse|p1a: Scizor
+|-damage|p1a: Scizor|53/100
+|
+|upkeep
+|turn|27
+|
+|t:|1677806820
+|move|p1a: Scizor|Bullet Punch|p2a: Mmm 7u7
+|-resisted|p2a: Mmm 7u7
+|-damage|p2a: Mmm 7u7|37/100
+|move|p2a: Mmm 7u7|Water Pulse|p1a: Scizor
+|-damage|p1a: Scizor|7/100
+|
+|upkeep
+|turn|28
+|
+|t:|1677806828
+|move|p1a: Scizor|Roost|p1a: Scizor
+|-heal|p1a: Scizor|57/100
+|-singleturn|p1a: Scizor|move: Roost
+|move|p2a: Mmm 7u7|Water Pulse|p1a: Scizor
+|-damage|p1a: Scizor|10/100
+|
+|upkeep
+|turn|29
+|
+|t:|1677806838
+|move|p1a: Scizor|Roost|p1a: Scizor
+|-heal|p1a: Scizor|60/100
+|-singleturn|p1a: Scizor|move: Roost
+|move|p2a: Mmm 7u7|Water Pulse|p1a: Scizor
+|-damage|p1a: Scizor|13/100
+|
+|upkeep
+|turn|30
+|
+|t:|1677806845
+|move|p1a: Scizor|Knock Off|p2a: Mmm 7u7
+|-damage|p2a: Mmm 7u7|7/100
+|move|p2a: Mmm 7u7|Water Pulse|p1a: Scizor
+|-damage|p1a: Scizor|0 fnt
+|faint|p1a: Scizor
+|
+|upkeep
+|
+|t:|1677806858
+|switch|p1a: Zapdos|Zapdos, shiny|88/100
+|turn|31
+|
+|t:|1677806871
+|move|p1a: Zapdos|Hurricane|p2a: Mmm 7u7
+|-damage|p2a: Mmm 7u7|0 fnt
+|faint|p2a: Mmm 7u7
+|
+|upkeep
+|
+|t:|1677806885
+|switch|p2a: The FBI's coming|Lanturn, M|76/100
+|turn|32
+|
+|t:|1677806895
+|move|p1a: Zapdos|Hurricane|p2a: The FBI's coming
+|-resisted|p2a: The FBI's coming
+|-damage|p2a: The FBI's coming|62/100
+|move|p2a: The FBI's coming|Confuse Ray|p1a: Zapdos
+|-start|p1a: Zapdos|confusion
+|
+|-heal|p2a: The FBI's coming|69/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1677806905
+|-activate|p1a: Zapdos|confusion
+|-damage|p1a: Zapdos|83/100|[from] confusion
+|move|p2a: The FBI's coming|Scald|p1a: Zapdos
+|-damage|p1a: Zapdos|62/100
+|
+|-heal|p2a: The FBI's coming|75/100|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1677806913
+|-activate|p1a: Zapdos|confusion
+|-damage|p1a: Zapdos|57/100|[from] confusion
+|move|p2a: The FBI's coming|Volt Switch|p1a: Zapdos
+|-damage|p1a: Zapdos|39/100
+|
+|t:|1677806920
+|switch|p2a: Mini Vlad|Swoobat, F|100/100|[from] Volt Switch
+|
+|upkeep
+|turn|35
+|
+|t:|1677806928
+|switch|p2a: The FBI's coming|Lanturn, M|75/100
+|switch|p1a: Blacephalon|Blacephalon|100/100
+|
+|-heal|p2a: The FBI's coming|81/100|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1677806937
+|switch|p1a: Zapdos|Zapdos, shiny|39/100
+|move|p2a: The FBI's coming|Scald|p1a: Zapdos
+|-damage|p1a: Zapdos|19/100
+|
+|-heal|p2a: The FBI's coming|87/100|[from] item: Leftovers
+|upkeep
+|turn|37
+|
+|t:|1677806944
+|move|p1a: Zapdos|Hurricane|p2a: The FBI's coming
+|-resisted|p2a: The FBI's coming
+|-damage|p2a: The FBI's coming|72/100
+|move|p2a: The FBI's coming|Confuse Ray|p1a: Zapdos
+|-start|p1a: Zapdos|confusion
+|
+|-heal|p2a: The FBI's coming|78/100|[from] item: Leftovers
+|upkeep
+|turn|38
+|
+|t:|1677806954
+|switch|p1a: Blacephalon|Blacephalon|100/100
+|move|p2a: The FBI's coming|Volt Switch|p1a: Blacephalon
+|-damage|p1a: Blacephalon|67/100
+|
+|t:|1677806961
+|switch|p2a: Mini Vlad|Swoobat, F|100/100|[from] Volt Switch
+|
+|upkeep
+|turn|39
+|
+|t:|1677806974
+|move|p2a: Mini Vlad|Heat Wave|p1a: Blacephalon
+|-resisted|p1a: Blacephalon
+|-damage|p1a: Blacephalon|48/100
+|move|p1a: Blacephalon|Trick|p2a: Mini Vlad
+|-activate|p1a: Blacephalon|move: Trick|[of] p2a: Mini Vlad
+|-item|p2a: Mini Vlad|Choice Specs|[from] move: Trick
+|-item|p1a: Blacephalon|Sitrus Berry|[from] move: Trick
+|-enditem|p1a: Blacephalon|Sitrus Berry|[eat]
+|-heal|p1a: Blacephalon|73/100|[from] item: Sitrus Berry
+|
+|upkeep
+|turn|40
+|
+|t:|1677806991
+|move|p2a: Mini Vlad|Heat Wave|p1a: Blacephalon|[miss]
+|-miss|p2a: Mini Vlad|p1a: Blacephalon
+|move|p1a: Blacephalon|Shadow Ball|p2a: Mini Vlad
+|-supereffective|p2a: Mini Vlad
+|-damage|p2a: Mini Vlad|0 fnt
+|faint|p2a: Mini Vlad
+|-ability|p1a: Blacephalon|Beast Boost|boost
+|-boost|p1a: Blacephalon|spa|1
+|
+|upkeep
+|
+|t:|1677806999
+|switch|p2a: The FBI's coming|Lanturn, M|78/100
+|turn|41
+|
+|t:|1677807006
+|move|p1a: Blacephalon|Shadow Ball|p2a: The FBI's coming
+|-damage|p2a: The FBI's coming|36/100
+|move|p2a: The FBI's coming|Scald|p1a: Blacephalon
+|-supereffective|p1a: Blacephalon
+|-damage|p1a: Blacephalon|0 fnt
+|faint|p1a: Blacephalon
+|
+|-heal|p2a: The FBI's coming|42/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1677807015
+|switch|p1a: Zapdos|Zapdos, shiny|19/100
+|turn|42
+|
+|t:|1677807019
+|move|p1a: Zapdos|Hurricane|p2a: The FBI's coming
+|-resisted|p2a: The FBI's coming
+|-damage|p2a: The FBI's coming|26/100
+|move|p2a: The FBI's coming|Scald|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|win|Zzzsantes2
+|raw|PhantomFreakout101's rating: 1079 &rarr; <strong>1060</strong><br />(-19 for losing)
+|raw|Zzzsantes2's rating: 1125 &rarr; <strong>1147</strong><br />(+22 for winning)

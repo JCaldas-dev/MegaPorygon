@@ -1,0 +1,568 @@
+|j|‽mysticgardevoir113
+|j|☆PR1TTY1
+|t:|1677792015
+|gametype|singles
+|player|p1|mysticgardevoir113|2|1122
+|player|p2|PR1TTY1|parasollady|1185
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Zapdos|
+|poke|p1|Gastrodon, M|
+|poke|p1|Rillaboom, M|
+|poke|p1|Corviknight, F|
+|poke|p1|Garchomp, M|
+|poke|p1|Blacephalon|
+|poke|p2|Hatterene, F|
+|poke|p2|Dragapult, F|
+|poke|p2|Dragonite, F|
+|poke|p2|Melmetal|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Pyukumuku, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by PR1TTY1)
+|
+|t:|1677792029
+|start
+|switch|p1a: Corviknight|Corviknight, F|100/100
+|switch|p2a: ImmaHexU|Dragapult, F|100/100
+|turn|1
+|
+|t:|1677792037
+|move|p2a: ImmaHexU|Flamethrower|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-damage|p1a: Corviknight|38/100
+|move|p1a: Corviknight|Iron Defense|p1a: Corviknight
+|-boost|p1a: Corviknight|def|2
+|
+|-heal|p1a: Corviknight|44/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1677792042
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|move|p2a: ImmaHexU|Flamethrower|p1a: Garchomp
+|-resisted|p1a: Garchomp
+|-damage|p1a: Garchomp|86/100
+|
+|upkeep
+|turn|3
+|
+|t:|1677792049
+|switch|p2a: Nah|Hatterene, F|100/100
+|move|p1a: Garchomp|Dragon Pulse|p2a: Nah
+|-immune|p2a: Nah
+|
+|upkeep
+|turn|4
+|
+|t:|1677792056
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Nah|Draining Kiss|p1a: Zapdos
+|-damage|p1a: Zapdos|79/100
+|
+|-heal|p1a: Zapdos|85/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1677792066
+|move|p1a: Zapdos|Heat Wave|p2a: Nah
+|-damage|p2a: Nah|75/100
+|move|p2a: Nah|Mystical Fire|p1a: Zapdos
+|-damage|p1a: Zapdos|65/100
+|-unboost|p1a: Zapdos|spa|1
+|
+|-heal|p1a: Zapdos|71/100|[from] item: Leftovers
+|-heal|p2a: Nah|81/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1677792082
+|switch|p1a: Blacephalon|Blacephalon|100/100
+|move|p2a: Nah|Mystical Fire|p1a: Blacephalon
+|-resisted|p1a: Blacephalon
+|-damage|p1a: Blacephalon|82/100
+|-unboost|p1a: Blacephalon|spa|1
+|
+|-heal|p2a: Nah|87/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1677792087
+|switch|p2a: Jonathan|Pyukumuku, M, shiny|100/100
+|move|p1a: Blacephalon|Trick|p2a: Jonathan
+|-activate|p1a: Blacephalon|move: Trick|[of] p2a: Jonathan
+|-item|p2a: Jonathan|Choice Scarf|[from] move: Trick
+|-item|p1a: Blacephalon|Rocky Helmet|[from] move: Trick
+|
+|upkeep
+|turn|8
+|
+|t:|1677792101
+|switch|p1a: Gastrodon|Gastrodon, M|100/100
+|move|p2a: Jonathan|Toxic|p1a: Gastrodon
+|-status|p1a: Gastrodon|tox
+|
+|-damage|p1a: Gastrodon|94/100 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1677792106
+|switch|p1a: Corviknight|Corviknight, F|44/100
+|switch|p2a: Nah|Hatterene, F|87/100
+|
+|-heal|p1a: Corviknight|51/100|[from] item: Leftovers
+|-heal|p2a: Nah|93/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1677792120
+|switch|p1a: Blacephalon|Blacephalon|82/100
+|move|p2a: Nah|Mystical Fire|p1a: Blacephalon
+|-resisted|p1a: Blacephalon
+|-damage|p1a: Blacephalon|64/100
+|-unboost|p1a: Blacephalon|spa|1
+|
+|-heal|p2a: Nah|99/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1677792126
+|move|p1a: Blacephalon|Shadow Ball|p2a: Nah
+|-supereffective|p2a: Nah
+|-damage|p2a: Nah|55/100
+|move|p2a: Nah|Draining Kiss|p1a: Blacephalon
+|-resisted|p1a: Blacephalon
+|-damage|p1a: Blacephalon|45/100
+|-heal|p2a: Nah|67/100|[from] drain|[of] p1a: Blacephalon
+|-damage|p2a: Nah|50/100|[from] item: Rocky Helmet|[of] p1a: Blacephalon
+|
+|-heal|p2a: Nah|56/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1677792138
+|move|p1a: Blacephalon|Shadow Ball|p2a: Nah
+|-supereffective|p2a: Nah
+|-damage|p2a: Nah|6/100
+|move|p2a: Nah|Draining Kiss|p1a: Blacephalon
+|-resisted|p1a: Blacephalon
+|-damage|p1a: Blacephalon|27/100
+|-heal|p2a: Nah|17/100|[from] drain|[of] p1a: Blacephalon
+|-damage|p2a: Nah|0 fnt|[from] item: Rocky Helmet|[of] p1a: Blacephalon
+|faint|p2a: Nah
+|
+|upkeep
+|
+|t:|1677792145
+|switch|p2a: ImmaHexU|Dragapult, F|100/100
+|turn|13
+|
+|t:|1677792148
+|move|p2a: ImmaHexU|Shadow Ball|p1a: Blacephalon
+|-supereffective|p1a: Blacephalon
+|-damage|p1a: Blacephalon|0 fnt
+|faint|p1a: Blacephalon
+|
+|upkeep
+|
+|t:|1677792168
+|switch|p1a: Garchomp|Garchomp, M|86/100
+|turn|14
+|
+|t:|1677792173
+|switch|p2a: SteelyBoi|Melmetal|100/100
+|move|p1a: Garchomp|Dragon Pulse|p2a: SteelyBoi
+|-resisted|p2a: SteelyBoi
+|-damage|p2a: SteelyBoi|81/100
+|
+|upkeep
+|turn|15
+|
+|t:|1677792181
+|switch|p1a: Zapdos|Zapdos|71/100
+|move|p2a: SteelyBoi|Ice Punch|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|upkeep
+|
+|t:|1677792187
+|switch|p1a: Garchomp|Garchomp, M|86/100
+|turn|16
+|
+|t:|1677792191
+|move|p1a: Garchomp|Scorching Sands|p2a: SteelyBoi
+|-supereffective|p2a: SteelyBoi
+|-damage|p2a: SteelyBoi|17/100
+|-status|p2a: SteelyBoi|brn
+|move|p2a: SteelyBoi|Ice Punch|p1a: Garchomp
+|-supereffective|p1a: Garchomp
+|-damage|p1a: Garchomp|18/100
+|-activate|p1a: Garchomp|ability: Rough Skin
+|-activate|p2a: SteelyBoi|item: Protective Pads
+|
+|-damage|p2a: SteelyBoi|11/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1677792204
+|switch|p2a: Lando|Landorus-Therian, M|100/100
+|-ability|p2a: Lando|Intimidate|boost
+|-unboost|p1a: Garchomp|atk|1
+|move|p1a: Garchomp|Scorching Sands|p2a: Lando
+|-immune|p2a: Lando
+|
+|upkeep
+|turn|18
+|
+|t:|1677792210
+|switch|p1a: Gastrodon|Gastrodon, M|94/100 tox
+|move|p2a: Lando|Smack Down|p1a: Gastrodon
+|-resisted|p1a: Gastrodon
+|-damage|p1a: Gastrodon|87/100 tox
+|
+|-heal|p1a: Gastrodon|93/100 tox|[from] item: Leftovers
+|-damage|p1a: Gastrodon|87/100 tox|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1677792219
+|switch|p2a: Jonathan|Pyukumuku, M, shiny|100/100
+|move|p1a: Gastrodon|Ice Beam|p2a: Jonathan
+|-resisted|p2a: Jonathan
+|-damage|p2a: Jonathan|94/100
+|
+|-heal|p1a: Gastrodon|93/100 tox|[from] item: Leftovers
+|-damage|p1a: Gastrodon|81/100 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1677792232
+|move|p1a: Gastrodon|Scald|p2a: Jonathan
+|-resisted|p2a: Jonathan
+|-damage|p2a: Jonathan|86/100
+|-status|p2a: Jonathan|brn
+|move|p2a: Jonathan|Curse|p2a: Jonathan
+|-unboost|p2a: Jonathan|spe|1
+|-boost|p2a: Jonathan|atk|1
+|-boost|p2a: Jonathan|def|1
+|
+|-heal|p1a: Gastrodon|87/100 tox|[from] item: Leftovers
+|-damage|p1a: Gastrodon|69/100 tox|[from] psn
+|-damage|p2a: Jonathan|79/100 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1677792240
+|move|p1a: Gastrodon|Clear Smog|p2a: Jonathan
+|-damage|p2a: Jonathan|72/100 brn
+|-clearboost|p2a: Jonathan
+|move|p2a: Jonathan|Curse|p2a: Jonathan
+|-unboost|p2a: Jonathan|spe|1
+|-boost|p2a: Jonathan|atk|1
+|-boost|p2a: Jonathan|def|1
+|
+|-heal|p1a: Gastrodon|75/100 tox|[from] item: Leftovers
+|-damage|p1a: Gastrodon|50/100 tox|[from] psn
+|-damage|p2a: Jonathan|66/100 brn|[from] brn
+|upkeep
+|turn|22
+|
+|t:|1677792252
+|move|p1a: Gastrodon|Clear Smog|p2a: Jonathan
+|-damage|p2a: Jonathan|59/100 brn
+|-clearboost|p2a: Jonathan
+|move|p2a: Jonathan|Curse|p2a: Jonathan
+|-unboost|p2a: Jonathan|spe|1
+|-boost|p2a: Jonathan|atk|1
+|-boost|p2a: Jonathan|def|1
+|
+|-heal|p1a: Gastrodon|56/100 tox|[from] item: Leftovers
+|-damage|p1a: Gastrodon|26/100 tox|[from] psn
+|-damage|p2a: Jonathan|53/100 brn|[from] brn
+|upkeep
+|turn|23
+|
+|t:|1677792261
+|move|p1a: Gastrodon|Clear Smog|p2a: Jonathan
+|-damage|p2a: Jonathan|46/100 brn
+|-clearboost|p2a: Jonathan
+|move|p2a: Jonathan|Curse|p2a: Jonathan
+|-unboost|p2a: Jonathan|spe|1
+|-boost|p2a: Jonathan|atk|1
+|-boost|p2a: Jonathan|def|1
+|
+|-heal|p1a: Gastrodon|32/100 tox|[from] item: Leftovers
+|-damage|p1a: Gastrodon|0 fnt|[from] psn
+|faint|p1a: Gastrodon
+|-damage|p2a: Jonathan|40/100 brn|[from] brn
+|upkeep
+|
+|t:|1677792267
+|switch|p1a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|24
+|
+|t:|1677792271
+|switch|p2a: Astrid|Dragonite, F, shiny|100/100
+|move|p1a: Rillaboom|Grassy Glide|p2a: Astrid
+|-resisted|p2a: Astrid
+|-damage|p2a: Astrid|91/100
+|
+|-heal|p2a: Astrid|97/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1677792277
+|switch|p1a: Corviknight|Corviknight, F|51/100
+|move|p2a: Astrid|Dragon Dance|p2a: Astrid
+|-boost|p2a: Astrid|atk|1
+|-boost|p2a: Astrid|spe|1
+|
+|-heal|p2a: Astrid|100/100|[from] item: Leftovers
+|-heal|p1a: Corviknight|57/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1677792283
+|move|p2a: Astrid|Dragon Dance|p2a: Astrid
+|-boost|p2a: Astrid|atk|1
+|-boost|p2a: Astrid|spe|1
+|move|p1a: Corviknight|Iron Defense|p1a: Corviknight
+|-boost|p1a: Corviknight|def|2
+|
+|-heal|p1a: Corviknight|63/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1677792293
+|switch|p2a: Lando|Landorus-Therian, M|100/100
+|-ability|p2a: Lando|Intimidate|boost
+|-ability|p1a: Corviknight|Mirror Armor
+|-unboost|p2a: Lando|atk|1
+|move|p1a: Corviknight|Iron Defense|p1a: Corviknight
+|-boost|p1a: Corviknight|def|2
+|
+|-heal|p1a: Corviknight|69/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1677792302
+|move|p2a: Lando|Smack Down|p1a: Corviknight
+|-damage|p1a: Corviknight|66/100
+|-start|p1a: Corviknight|Smack Down
+|move|p1a: Corviknight|Iron Defense|p1a: Corviknight
+|-boost|p1a: Corviknight|def|2
+|
+|-heal|p1a: Corviknight|72/100|[from] Grassy Terrain
+|-heal|p1a: Corviknight|78/100|[from] item: Leftovers
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|29
+|
+|t:|1677792313
+|move|p2a: Lando|Earthquake|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-damage|p1a: Corviknight|66/100
+|move|p1a: Corviknight|Body Press|p2a: Lando
+|-resisted|p2a: Lando
+|-damage|p2a: Lando|39/100
+|
+|-heal|p2a: Lando|45/100|[from] item: Leftovers
+|-heal|p1a: Corviknight|72/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1677792323
+|move|p2a: Lando|Earthquake|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-damage|p1a: Corviknight|60/100
+|move|p1a: Corviknight|Body Press|p2a: Lando
+|-resisted|p2a: Lando
+|-damage|p2a: Lando|0 fnt
+|faint|p2a: Lando
+|
+|-heal|p1a: Corviknight|66/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1677792326
+|switch|p2a: Jonathan|Pyukumuku, M, shiny|40/100 brn
+|turn|31
+|
+|t:|1677792334
+|move|p1a: Corviknight|Body Press|p2a: Jonathan
+|-damage|p2a: Jonathan|19/100 brn
+|move|p2a: Jonathan|Recover|p2a: Jonathan
+|-heal|p2a: Jonathan|69/100 brn
+|
+|-heal|p1a: Corviknight|72/100|[from] item: Leftovers
+|-damage|p2a: Jonathan|63/100 brn|[from] brn
+|upkeep
+|turn|32
+|
+|t:|1677792340
+|move|p1a: Corviknight|Body Press|p2a: Jonathan
+|-crit|p2a: Jonathan
+|-damage|p2a: Jonathan|30/100 brn
+|move|p2a: Jonathan|Recover|p2a: Jonathan
+|-heal|p2a: Jonathan|80/100 brn
+|
+|-heal|p1a: Corviknight|78/100|[from] item: Leftovers
+|-damage|p2a: Jonathan|74/100 brn|[from] brn
+|upkeep
+|turn|33
+|
+|t:|1677792346
+|move|p1a: Corviknight|Drill Peck|p2a: Jonathan
+|-damage|p2a: Jonathan|50/100 brn
+|move|p2a: Jonathan|Recover|p2a: Jonathan
+|-heal|p2a: Jonathan|100/100 brn
+|
+|-heal|p1a: Corviknight|85/100|[from] item: Leftovers
+|-damage|p2a: Jonathan|94/100 brn|[from] brn
+|upkeep
+|turn|34
+|
+|t:|1677792354
+|switch|p2a: ImmaHexU|Dragapult, F|100/100
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|100/100
+|-singleturn|p1a: Corviknight|move: Roost
+|
+|upkeep
+|turn|35
+|
+|t:|1677792363
+|switch|p2a: Jonathan|Pyukumuku, M, shiny|94/100 brn
+|move|p1a: Corviknight|Drill Peck|p2a: Jonathan
+|-crit|p2a: Jonathan
+|-damage|p2a: Jonathan|59/100 brn
+|
+|-damage|p2a: Jonathan|53/100 brn|[from] brn
+|upkeep
+|turn|36
+|
+|t:|1677792371
+|move|p1a: Corviknight|Body Press|p2a: Jonathan
+|-damage|p2a: Jonathan|31/100 brn
+|move|p2a: Jonathan|Soak|p1a: Corviknight
+|-start|p1a: Corviknight|typechange|Water
+|
+|-damage|p2a: Jonathan|25/100 brn|[from] brn
+|upkeep
+|turn|37
+|
+|t:|1677792379
+|switch|p2a: ImmaHexU|Dragapult, F|100/100
+|move|p1a: Corviknight|Body Press|p2a: ImmaHexU
+|-immune|p2a: ImmaHexU
+|
+|upkeep
+|turn|38
+|
+|t:|1677792385
+|move|p2a: ImmaHexU|Thunderbolt|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-damage|p1a: Corviknight|39/100
+|move|p1a: Corviknight|Drill Peck|p2a: ImmaHexU
+|-damage|p2a: ImmaHexU|76/100
+|
+|-heal|p1a: Corviknight|45/100|[from] item: Leftovers
+|upkeep
+|turn|39
+|
+|t:|1677792392
+|switch|p1a: Garchomp|Garchomp, M|18/100
+|move|p2a: ImmaHexU|Thunderbolt|p1a: Garchomp
+|-immune|p1a: Garchomp
+|
+|upkeep
+|turn|40
+|
+|t:|1677792405
+|switch|p2a: Astrid|Dragonite, F, shiny|100/100
+|move|p1a: Garchomp|Dragon Pulse|p2a: Astrid
+|-supereffective|p2a: Astrid
+|-damage|p2a: Astrid|51/100
+|
+|-heal|p2a: Astrid|57/100|[from] item: Leftovers
+|upkeep
+|turn|41
+|
+|t:|1677792412
+|move|p1a: Garchomp|Dragon Pulse|p2a: Astrid
+|-supereffective|p2a: Astrid
+|-damage|p2a: Astrid|0 fnt
+|faint|p2a: Astrid
+|
+|upkeep
+|
+|t:|1677792415
+|switch|p2a: ImmaHexU|Dragapult, F|76/100
+|turn|42
+|
+|t:|1677792418
+|move|p2a: ImmaHexU|Shadow Ball|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|
+|upkeep
+|
+|t:|1677792421
+|switch|p1a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|43
+|
+|t:|1677792424
+|move|p1a: Rillaboom|Grassy Glide|p2a: ImmaHexU
+|-resisted|p2a: ImmaHexU
+|-damage|p2a: ImmaHexU|30/100
+|move|p2a: ImmaHexU|Shadow Ball|p1a: Rillaboom
+|-damage|p1a: Rillaboom|54/100
+|
+|-heal|p2a: ImmaHexU|36/100|[from] Grassy Terrain
+|-heal|p1a: Rillaboom|61/100|[from] Grassy Terrain
+|upkeep
+|turn|44
+|
+|t:|1677792430
+|move|p1a: Rillaboom|Grassy Glide|p2a: ImmaHexU
+|-resisted|p2a: ImmaHexU
+|-damage|p2a: ImmaHexU|0 fnt
+|faint|p2a: ImmaHexU
+|
+|-heal|p1a: Rillaboom|67/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1677792433
+|switch|p2a: SteelyBoi|Melmetal|11/100 brn
+|turn|45
+|
+|t:|1677792438
+|move|p1a: Rillaboom|Grassy Glide|p2a: SteelyBoi
+|-resisted|p2a: SteelyBoi
+|-damage|p2a: SteelyBoi|0 fnt
+|faint|p2a: SteelyBoi
+|
+|-heal|p1a: Rillaboom|73/100|[from] Grassy Terrain
+|upkeep
+|-message|PR1TTY1 forfeited.
+|
+|win|mysticgardevoir113
+|raw|mysticgardevoir113's rating: 1122 &rarr; <strong>1151</strong><br />(+29 for winning)
+|raw|PR1TTY1's rating: 1185 &rarr; <strong>1156</strong><br />(-29 for losing)
+|l|☆PR1TTY1
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

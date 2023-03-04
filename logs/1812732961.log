@@ -1,0 +1,212 @@
+|j|☆brianortegachoice
+|j|☆BlackVorteXx
+|t:|1677791598
+|gametype|singles
+|player|p1|brianortegachoice|170|1174
+|player|p2|BlackVorteXx|steven|1111
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Ferrothorn, F|
+|poke|p1|Grimmsnarl, M|
+|poke|p1|Dragapult, F|
+|poke|p1|Gyarados, M|
+|poke|p1|Garchomp, F|
+|poke|p1|Blaziken, F|
+|poke|p2|Volcanion|
+|poke|p2|Azelf|
+|poke|p2|Kommo-o, M|
+|poke|p2|Tapu Lele|
+|poke|p2|Zeraora|
+|poke|p2|Weavile, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by BlackVorteXx)
+|c|☆brianortegachoice|gg, I win
+|
+|t:|1677791620
+|start
+|switch|p1a: Gyarados|Gyarados, M|100/100
+|switch|p2a: Azelf|Azelf|100/100
+|turn|1
+|j| IC1
+|
+|t:|1677791631
+|switch|p1a: Grimmsnarl|Grimmsnarl, M|100/100
+|move|p2a: Azelf|Nasty Plot|p2a: Azelf
+|-boost|p2a: Azelf|spa|2
+|
+|upkeep
+|turn|2
+|
+|t:|1677791635
+|move|p1a: Grimmsnarl|Taunt|p2a: Azelf
+|-start|p2a: Azelf|move: Taunt
+|move|p2a: Azelf|Draining Kiss|p1a: Grimmsnarl
+|-supereffective|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|45/100
+|
+|upkeep
+|turn|3
+|
+|t:|1677791639
+|move|p1a: Grimmsnarl|Reflect|p1a: Grimmsnarl
+|-sidestart|p1: brianortegachoice|Reflect
+|move|p2a: Azelf|Draining Kiss|p1a: Grimmsnarl
+|-supereffective|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|0 fnt
+|faint|p1a: Grimmsnarl
+|
+|upkeep
+|c|☆brianortegachoice|fuck
+|c|☆brianortegachoice|misclick
+|
+|t:|1677791651
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|turn|4
+|
+|t:|1677791657
+|move|p2a: Azelf|Flamethrower|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|faint|p1a: Ferrothorn
+|
+|-end|p2a: Azelf|move: Taunt
+|upkeep
+|c| IC1|sigh
+|c| IC1|pult
+|
+|t:|1677791668
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|turn|5
+|c| IC1|cough totally sucker punch
+|c|☆brianortegachoice|coach in DMs dude
+|c| IC1|ok
+|c|☆brianortegachoice|now he knows what we will do
+|c|☆brianortegachoice|dumbass
+|c|☆brianortegachoice|and I don't even have sucker punch)
+|inactive|brianortegachoice has 120 seconds left.
+|c| IC1|ik
+|
+|t:|1677791706
+|move|p1a: Dragapult|Dragon Darts|p2a: Azelf
+|-damage|p2a: Azelf|65/100
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Azelf
+|-damage|p2a: Azelf|32/100
+|move|p2a: Azelf|Draining Kiss|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|12/100
+|-heal|p2a: Azelf|100/100|[from] drain|[of] p1a: Dragapult
+|-enditem|p1a: Dragapult|Weakness Policy
+|-boost|p1a: Dragapult|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Dragapult|spa|2|[from] item: Weakness Policy
+|
+|upkeep
+|turn|6
+|c| IC1|bruh'
+|inactive|brianortegachoice has 120 seconds left.
+|c|☆brianortegachoice|VICTORY
+|
+|t:|1677791724
+|move|p1a: Dragapult|Shadow Ball|p2a: Azelf
+|-supereffective|p2a: Azelf
+|-damage|p2a: Azelf|0 fnt
+|faint|p2a: Azelf
+|
+|upkeep
+|
+|t:|1677791737
+|switch|p2a: Weavile|Weavile, F|100/100
+|-ability|p2a: Weavile|Pressure
+|turn|7
+|inactive|brianortegachoice has 120 seconds left.
+|c|☆brianortegachoice|ferrothorn living sounded good rn
+|
+|t:|1677791763
+|move|p2a: Weavile|Ice Shard|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|upkeep
+|
+|t:|1677791768
+|switch|p1a: Gyarados|Gyarados, M|100/100
+|turn|8
+|
+|t:|1677791772
+|move|p2a: Weavile|Swords Dance|p2a: Weavile
+|-boost|p2a: Weavile|atk|2
+|move|p1a: Gyarados|Dragon Dance|p1a: Gyarados
+|-boost|p1a: Gyarados|atk|1
+|-boost|p1a: Gyarados|spe|1
+|
+|upkeep
+|turn|9
+|inactive|brianortegachoice has 120 seconds left.
+|
+|t:|1677791784
+|move|p1a: Gyarados|Dragon Dance|p1a: Gyarados
+|-boost|p1a: Gyarados|atk|1
+|-boost|p1a: Gyarados|spe|1
+|move|p2a: Weavile|Night Slash|p1a: Gyarados
+|-damage|p1a: Gyarados|55/100
+|
+|upkeep
+|turn|10
+|
+|t:|1677791789
+|move|p1a: Gyarados|Waterfall|p2a: Weavile
+|-enditem|p2a: Weavile|Focus Sash
+|-damage|p2a: Weavile|1/100
+|cant|p2a: Weavile|flinch
+|
+|-sideend|p1: brianortegachoice|Reflect
+|upkeep
+|turn|11
+|
+|t:|1677791795
+|move|p2a: Weavile|Ice Shard|p1a: Gyarados
+|-damage|p1a: Gyarados|7/100
+|move|p1a: Gyarados|Waterfall|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|faint|p2a: Weavile
+|-ability|p1a: Gyarados|Moxie|boost
+|-boost|p1a: Gyarados|atk|1
+|
+|upkeep
+|c|☆brianortegachoice|nice
+|
+|t:|1677791813
+|switch|p2a: Volcanion|Volcanion|100/100
+|turn|12
+|c| IC1|carefu;
+|
+|t:|1677791821
+|move|p1a: Gyarados|Earthquake|p2a: Volcanion
+|-supereffective|p2a: Volcanion
+|-damage|p2a: Volcanion|0 fnt
+|faint|p2a: Volcanion
+|-ability|p1a: Gyarados|Moxie|boost
+|-boost|p1a: Gyarados|atk|1
+|
+|upkeep
+|c| IC1|balle
+|-message|BlackVorteXx forfeited.
+|
+|win|brianortegachoice
+|raw|brianortegachoice's rating: 1174 &rarr; <strong>1195</strong><br />(+21 for winning)
+|raw|BlackVorteXx's rating: 1111 &rarr; <strong>1090</strong><br />(-21 for losing)
+|l|☆BlackVorteXx
+|c|☆brianortegachoice|gg ez
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

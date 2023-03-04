@@ -1,0 +1,520 @@
+|j|☆yylove
+|j|☆cocoasobrino
+|t:|1677817664
+|gametype|singles
+|player|p1|yylove|proton|1440
+|player|p2|cocoasobrino|gentleman|1380
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Mew|
+|poke|p1|Blaziken, F|
+|poke|p1|Garchomp, F|
+|poke|p1|Melmetal|
+|poke|p1|Nihilego|
+|poke|p1|Celesteela|
+|poke|p2|Toxapex, M|
+|poke|p2|Corsola-Galar, F|
+|poke|p2|Ditto|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Hydreigon, F|
+|poke|p2|Hatterene, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by cocoasobrino)
+|
+|t:|1677817692
+|start
+|switch|p1a: Mew|Mew, shiny|100/100
+|switch|p2a: AIDS|Ditto, shiny|100/100
+|-transform|p2a: AIDS|p1a: Mew|[from] ability: Imposter
+|turn|1
+|inactive|yylove has 120 seconds left.
+|
+|t:|1677817726
+|switch|p2a: GONORRHEA|Hatterene, F, shiny|100/100
+|switch|p1a: Nihilego|Nihilego, shiny|100/100
+|
+|upkeep
+|turn|2
+|inactive|yylove has 120 seconds left.
+|inactive|cocoasobrino has 120 seconds left.
+|
+|t:|1677817750
+|switch|p2a: HERPES|Ferrothorn, F, shiny|100/100
+|move|p1a: Nihilego|Meteor Beam||[still]
+|-prepare|p1a: Nihilego|Meteor Beam
+|-boost|p1a: Nihilego|spa|1
+|-enditem|p1a: Nihilego|Power Herb
+|-anim|p1a: Nihilego|Meteor Beam|p2a: HERPES
+|-resisted|p2a: HERPES
+|-damage|p2a: HERPES|63/100
+|
+|-heal|p2a: HERPES|70/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|inactive|yylove has 120 seconds left.
+|inactive|cocoasobrino has 120 seconds left.
+|
+|t:|1677817772
+|move|p1a: Nihilego|Thunderbolt|p2a: HERPES
+|-resisted|p2a: HERPES
+|-damage|p2a: HERPES|52/100
+|move|p2a: HERPES|Leech Seed|p1a: Nihilego
+|-start|p1a: Nihilego|move: Leech Seed
+|
+|-heal|p2a: HERPES|59/100|[from] item: Leftovers
+|-damage|p1a: Nihilego|88/100|[from] Leech Seed|[of] p2a: HERPES
+|-heal|p2a: HERPES|72/100|[silent]
+|upkeep
+|turn|4
+|inactive|cocoasobrino has 120 seconds left.
+|
+|t:|1677817785
+|switch|p1a: Celesteela|Celesteela, shiny|100/100
+|move|p2a: HERPES|Knock Off|p1a: Celesteela
+|-damage|p1a: Celesteela|81/100
+|-enditem|p1a: Celesteela|Power Herb|[from] move: Knock Off|[of] p2a: HERPES
+|
+|-heal|p2a: HERPES|78/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|inactive|cocoasobrino has 120 seconds left.
+|
+|t:|1677817810
+|switch|p1a: Mew|Mew, shiny|100/100
+|move|p2a: HERPES|Protect||[still]
+|-fail|p2a: HERPES
+|
+|-heal|p2a: HERPES|84/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1677817818
+|switch|p2a: GONORRHEA|Hatterene, F, shiny|100/100
+|move|p1a: Mew|Stealth Rock|p2a: GONORRHEA
+|move|p2a: GONORRHEA|Stealth Rock|p1a: Mew|[from]ability: Magic Bounce
+|-sidestart|p1: yylove|move: Stealth Rock
+|
+|upkeep
+|turn|7
+|inactive|yylove has 90 seconds left.
+|
+|t:|1677817845
+|switch|p1a: Melmetal|Melmetal|100/100
+|-damage|p1a: Melmetal|94/100|[from] Stealth Rock
+|move|p2a: GONORRHEA|Mystical Fire|p1a: Melmetal
+|-supereffective|p1a: Melmetal
+|-crit|p1a: Melmetal
+|-damage|p1a: Melmetal|44/100
+|-unboost|p1a: Melmetal|spa|1
+|
+|upkeep
+|turn|8
+|inactive|yylove has 90 seconds left.
+|
+|t:|1677817856
+|switch|p2a: CANCER|Toxapex, M, shiny|100/100
+|move|p1a: Melmetal|Double Iron Bash|p2a: CANCER
+|-resisted|p2a: CANCER
+|-damage|p2a: CANCER|90/100
+|-resisted|p2a: CANCER
+|-damage|p2a: CANCER|78/100
+|-hitcount|p2a: CANCER|2
+|
+|-heal|p2a: CANCER|85/100|[from] item: Black Sludge
+|upkeep
+|turn|9
+|inactive|yylove has 90 seconds left.
+|
+|t:|1677817871
+|move|p2a: CANCER|Baneful Bunker|p2a: CANCER
+|-singleturn|p2a: CANCER|move: Protect
+|move|p1a: Melmetal|Double Iron Bash|p2a: CANCER
+|-activate|p2a: CANCER|move: Protect
+|
+|-heal|p2a: CANCER|91/100|[from] item: Black Sludge
+|upkeep
+|turn|10
+|
+|t:|1677817882
+|move|p2a: CANCER|Scald|p1a: Melmetal
+|-damage|p1a: Melmetal|33/100
+|move|p1a: Melmetal|Earthquake|p2a: CANCER
+|-supereffective|p2a: CANCER
+|-damage|p2a: CANCER|46/100
+|
+|-heal|p2a: CANCER|52/100|[from] item: Black Sludge
+|upkeep
+|turn|11
+|
+|t:|1677817899
+|switch|p1a: Nihilego|Nihilego, shiny|88/100
+|-damage|p1a: Nihilego|76/100|[from] Stealth Rock
+|move|p2a: CANCER|Baneful Bunker||[still]
+|-fail|p2a: CANCER
+|
+|-heal|p2a: CANCER|58/100|[from] item: Black Sludge
+|upkeep
+|turn|12
+|inactive|yylove has 90 seconds left.
+|inactive|cocoasobrino has 120 seconds left.
+|
+|t:|1677817941
+|switch|p1a: Celesteela|Celesteela, shiny|81/100
+|-damage|p1a: Celesteela|69/100|[from] Stealth Rock
+|switch|p2a: HERPES|Ferrothorn, F, shiny|84/100
+|
+|-heal|p2a: HERPES|91/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|inactive|cocoasobrino has 120 seconds left.
+|
+|t:|1677817951
+|move|p2a: HERPES|Protect|p2a: HERPES
+|-singleturn|p2a: HERPES|Protect
+|move|p1a: Celesteela|Flamethrower|p2a: HERPES
+|-activate|p2a: HERPES|move: Protect
+|
+|-heal|p2a: HERPES|97/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|inactive|cocoasobrino has 120 seconds left.
+|
+|t:|1677817966
+|switch|p2a: HEPATITIS|Hydreigon, F|100/100
+|move|p1a: Celesteela|Autotomize|p1a: Celesteela
+|-boost|p1a: Celesteela|spe|2
+|-start|p1a: Celesteela|Autotomize
+|
+|upkeep
+|turn|15
+|
+|t:|1677817982
+|move|p1a: Celesteela|Air Slash|p2a: HEPATITIS
+|-crit|p2a: HEPATITIS
+|-damage|p2a: HEPATITIS|64/100
+|move|p2a: HEPATITIS|Flamethrower|p1a: Celesteela
+|-supereffective|p1a: Celesteela
+|-damage|p1a: Celesteela|2/100
+|
+|upkeep
+|turn|16
+|inactive|cocoasobrino has 120 seconds left.
+|
+|t:|1677818003
+|move|p1a: Celesteela|Flamethrower|p2a: HEPATITIS
+|-resisted|p2a: HEPATITIS
+|-damage|p2a: HEPATITIS|55/100
+|move|p2a: HEPATITIS|Dragon Pulse|p1a: Celesteela
+|-resisted|p1a: Celesteela
+|-damage|p1a: Celesteela|0 fnt
+|faint|p1a: Celesteela
+|
+|upkeep
+|inactive|yylove has 60 seconds left.
+|
+|t:|1677818025
+|switch|p1a: Blaziken|Blaziken, F, shiny|100/100
+|-damage|p1a: Blaziken|88/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1677818036
+|switch|p2a: CANCER|Toxapex, M, shiny|91/100
+|move|p1a: Blaziken|Swords Dance|p1a: Blaziken
+|-boost|p1a: Blaziken|atk|2
+|
+|-heal|p2a: CANCER|98/100|[from] item: Black Sludge
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|18
+|
+|t:|1677818045
+|move|p1a: Blaziken|Swords Dance|p1a: Blaziken
+|-boost|p1a: Blaziken|atk|2
+|move|p2a: CANCER|Haze|p2a: CANCER
+|-clearallboost
+|
+|-heal|p2a: CANCER|100/100|[from] item: Black Sludge
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|19
+|
+|t:|1677818055
+|move|p1a: Blaziken|Swords Dance|p1a: Blaziken
+|-boost|p1a: Blaziken|atk|2
+|move|p2a: CANCER|Scald|p1a: Blaziken
+|-supereffective|p1a: Blaziken
+|-damage|p1a: Blaziken|36/100
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|20
+|
+|t:|1677818065
+|move|p1a: Blaziken|Thunder Punch|p2a: CANCER
+|-supereffective|p2a: CANCER
+|-damage|p2a: CANCER|23/100
+|-damage|p1a: Blaziken|26/100|[from] item: Life Orb
+|move|p2a: CANCER|Scald|p1a: Blaziken
+|-supereffective|p1a: Blaziken
+|-damage|p1a: Blaziken|0 fnt
+|faint|p1a: Blaziken
+|
+|-heal|p2a: CANCER|29/100|[from] item: Black Sludge
+|upkeep
+|
+|t:|1677818075
+|switch|p1a: Mew|Mew, shiny|100/100
+|-damage|p1a: Mew|88/100|[from] Stealth Rock
+|turn|21
+|
+|t:|1677818081
+|switch|p1a: Nihilego|Nihilego, shiny|76/100
+|-damage|p1a: Nihilego|64/100|[from] Stealth Rock
+|switch|p2a: GONORRHEA|Hatterene, F, shiny|100/100
+|
+|upkeep
+|turn|22
+|inactive|yylove has 90 seconds left.
+|
+|t:|1677818092
+|switch|p1a: Melmetal|Melmetal|33/100
+|-damage|p1a: Melmetal|27/100|[from] Stealth Rock
+|switch|p2a: HERPES|Ferrothorn, F, shiny|97/100
+|
+|-heal|p2a: HERPES|100/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1677818106
+|move|p2a: HERPES|Protect|p2a: HERPES
+|-singleturn|p2a: HERPES|Protect
+|move|p1a: Melmetal|Superpower|p2a: HERPES
+|-activate|p2a: HERPES|move: Protect
+|
+|upkeep
+|turn|24
+|
+|t:|1677818114
+|switch|p2a: SYPHILIS|Corsola-Galar, F, shiny|100/100
+|move|p1a: Melmetal|Earthquake|p2a: SYPHILIS
+|-damage|p2a: SYPHILIS|82/100
+|
+|upkeep
+|turn|25
+|
+|t:|1677818131
+|move|p1a: Melmetal|Double Iron Bash|p2a: SYPHILIS
+|-damage|p2a: SYPHILIS|61/100
+|-crit|p2a: SYPHILIS
+|-damage|p2a: SYPHILIS|27/100
+|-hitcount|p2a: SYPHILIS|2
+|cant|p2a: SYPHILIS|flinch
+|
+|upkeep
+|turn|26
+|inactive|cocoasobrino has 120 seconds left.
+|
+|t:|1677818172
+|move|p1a: Melmetal|Double Iron Bash|p2a: SYPHILIS
+|-damage|p2a: SYPHILIS|9/100
+|-damage|p2a: SYPHILIS|0 fnt
+|-start|p1a: Melmetal|Disable|Double Iron Bash|[from] ability: Cursed Body|[of] p2a: SYPHILIS
+|faint|p2a: SYPHILIS
+|-hitcount|p2: SYPHILIS|2
+|
+|upkeep
+|
+|t:|1677818186
+|switch|p2a: AIDS|Ditto, shiny|100/100
+|-transform|p2a: AIDS|p1a: Melmetal|[from] ability: Imposter
+|turn|27
+|
+|t:|1677818199
+|move|p2a: AIDS|Earthquake|p1a: Melmetal
+|-supereffective|p1a: Melmetal
+|-damage|p1a: Melmetal|0 fnt
+|faint|p1a: Melmetal
+|
+|upkeep
+|
+|t:|1677818210
+|switch|p1a: Garchomp|Garchomp, F, shiny|100/100
+|-damage|p1a: Garchomp|94/100|[from] Stealth Rock
+|turn|28
+|
+|t:|1677818222
+|switch|p2a: HERPES|Ferrothorn, F, shiny|100/100
+|move|p1a: Garchomp|Scale Shot|p2a: HERPES|[miss]
+|-miss|p1a: Garchomp|p2a: HERPES
+|
+|-heal|p1a: Garchomp|100/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|inactive|cocoasobrino has 120 seconds left.
+|
+|t:|1677818232
+|switch|p1a: Mew|Mew, shiny|88/100
+|-damage|p1a: Mew|76/100|[from] Stealth Rock
+|move|p2a: HERPES|Leech Seed|p1a: Mew
+|-start|p1a: Mew|move: Leech Seed
+|
+|-damage|p1a: Mew|63/100|[from] Leech Seed|[of] p2a: HERPES
+|upkeep
+|turn|30
+|inactive|cocoasobrino has 120 seconds left.
+|
+|t:|1677818243
+|switch|p1a: Nihilego|Nihilego, shiny|64/100
+|-damage|p1a: Nihilego|51/100|[from] Stealth Rock
+|switch|p2a: GONORRHEA|Hatterene, F, shiny|100/100
+|
+|upkeep
+|turn|31
+|inactive|cocoasobrino has 120 seconds left.
+|
+|t:|1677818255
+|switch|p2a: HERPES|Ferrothorn, F, shiny|100/100
+|move|p1a: Nihilego|Meteor Beam||[still]
+|-prepare|p1a: Nihilego|Meteor Beam
+|-boost|p1a: Nihilego|spa|1
+|
+|upkeep
+|turn|32
+|
+|t:|1677818265
+|move|p2a: HERPES|Protect|p2a: HERPES
+|-singleturn|p2a: HERPES|Protect
+|move|p1a: Nihilego|Meteor Beam|p2a: HERPES|[from]lockedmove
+|-activate|p2a: HERPES|move: Protect
+|
+|upkeep
+|turn|33
+|inactive|yylove has 120 seconds left.
+|
+|t:|1677818279
+|move|p1a: Nihilego|Grass Knot|p2a: HERPES
+|-resisted|p2a: HERPES
+|-damage|p2a: HERPES|90/100
+|-damage|p1a: Nihilego|39/100|[from] ability: Iron Barbs|[of] p2a: HERPES
+|move|p2a: HERPES|Spikes|p1a: Nihilego
+|-sidestart|p1: yylove|Spikes
+|
+|-heal|p2a: HERPES|96/100|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1677818287
+|switch|p1a: Garchomp|Garchomp, F, shiny|100/100
+|-damage|p1a: Garchomp|94/100|[from] Stealth Rock
+|-damage|p1a: Garchomp|82/100|[from] Spikes
+|move|p2a: HERPES|Spikes|p1a: Garchomp
+|-sidestart|p1: yylove|Spikes
+|
+|-heal|p1a: Garchomp|88/100|[from] item: Leftovers
+|-heal|p2a: HERPES|100/100|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1677818296
+|move|p1a: Garchomp|Swords Dance|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|move|p2a: HERPES|Leech Seed|p1a: Garchomp
+|-start|p1a: Garchomp|move: Leech Seed
+|
+|-heal|p1a: Garchomp|94/100|[from] item: Leftovers
+|-damage|p1a: Garchomp|82/100|[from] Leech Seed|[of] p2a: HERPES
+|upkeep
+|turn|36
+|
+|t:|1677818304
+|move|p1a: Garchomp|Swords Dance|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|move|p2a: HERPES|Knock Off|p1a: Garchomp
+|-damage|p1a: Garchomp|61/100
+|-damage|p2a: HERPES|88/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-enditem|p1a: Garchomp|Leftovers|[from] move: Knock Off|[of] p2a: HERPES
+|
+|-heal|p2a: HERPES|94/100|[from] item: Leftovers
+|-damage|p1a: Garchomp|49/100|[from] Leech Seed|[of] p2a: HERPES
+|-heal|p2a: HERPES|100/100|[silent]
+|upkeep
+|turn|37
+|
+|t:|1677818315
+|move|p2a: HERPES|Protect|p2a: HERPES
+|-singleturn|p2a: HERPES|Protect
+|move|p1a: Garchomp|Earthquake|p2a: HERPES
+|-activate|p2a: HERPES|move: Protect
+|
+|-damage|p1a: Garchomp|37/100|[from] Leech Seed|[of] p2a: HERPES
+|upkeep
+|turn|38
+|
+|t:|1677818322
+|switch|p2a: HEPATITIS|Hydreigon, F|55/100
+|move|p1a: Garchomp|Scale Shot|p2a: HEPATITIS
+|-supereffective|p2a: HEPATITIS
+|-damage|p2a: HEPATITIS|0 fnt
+|faint|p2a: HEPATITIS
+|-hitcount|p2: HEPATITIS|1
+|-unboost|p1a: Garchomp|def|1
+|-boost|p1a: Garchomp|spe|1
+|
+|upkeep
+|
+|t:|1677818335
+|switch|p2a: AIDS|Ditto, shiny|100/100
+|-transform|p2a: AIDS|p1a: Garchomp|[from] ability: Imposter
+|turn|39
+|
+|t:|1677818340
+|move|p2a: AIDS|Earthquake|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|
+|upkeep
+|
+|t:|1677818343
+|switch|p1a: Nihilego|Nihilego, shiny|39/100
+|-damage|p1a: Nihilego|27/100|[from] Stealth Rock
+|-damage|p1a: Nihilego|10/100|[from] Spikes
+|turn|40
+|
+|t:|1677818348
+|move|p2a: AIDS|Earthquake|p1a: Nihilego
+|-supereffective|p1a: Nihilego
+|-damage|p1a: Nihilego|0 fnt
+|faint|p1a: Nihilego
+|
+|upkeep
+|
+|t:|1677818350
+|switch|p1a: Mew|Mew, shiny|63/100
+|-damage|p1a: Mew|51/100|[from] Stealth Rock
+|-damage|p1a: Mew|34/100|[from] Spikes
+|turn|41
+|
+|t:|1677818356
+|move|p2a: AIDS|Earthquake|p1a: Mew
+|-damage|p1a: Mew|0 fnt
+|faint|p1a: Mew
+|
+|win|cocoasobrino
+|raw|yylove's rating: 1440 &rarr; <strong>1417</strong><br />(-23 for losing)
+|raw|cocoasobrino's rating: 1380 &rarr; <strong>1403</strong><br />(+23 for winning)
+|l|☆yylove

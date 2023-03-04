@@ -1,0 +1,412 @@
+|j|☆El sharkie
+|j|☆sniperghoost
+|t:|1677798583
+|gametype|singles
+|player|p1|El sharkie|cynthia-gen4|1119
+|player|p2|sniperghoost|red|1246
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Spiritomb, M|
+|poke|p1|Roserade, F|
+|poke|p1|Gastrodon, F|
+|poke|p1|Garchomp, M|
+|poke|p1|Togekiss, F|
+|poke|p1|Lucario, M|
+|poke|p2|Rillaboom, F|
+|poke|p2|Heatran, M|
+|poke|p2|Slowking, F|
+|poke|p2|Dragapult, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Bisharp, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by sniperghoost)
+|c|☆El sharkie|Have you been keeping well
+|c|☆El sharkie|Together, you and your Pokemon overcome all the challenges you faced, however difficult
+|c|☆El sharkie|It means that you've triumphed ovet any personal weaknesses, too.
+|c|☆El sharkie|the power you learned... I can feel it emanating from you.
+|c|☆El sharkie|but that's enough talk. let's get on with why you're here.
+|c|☆El sharkie|As Pokemon Leauge Champion
+|c|☆El sharkie|I Accept your Challenge
+|
+|t:|1677798619
+|start
+|switch|p1a: Your Toxic EX|Gastrodon, F|100/100
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Your Toxic EX|atk|1
+|turn|1
+|inactive|sniperghoost has 120 seconds left.
+|
+|t:|1677798650
+|move|p2a: Landorus|Knock Off|p1a: Your Toxic EX
+|-damage|p1a: Your Toxic EX|80/100
+|-enditem|p1a: Your Toxic EX|Leftovers|[from] move: Knock Off|[of] p2a: Landorus
+|move|p1a: Your Toxic EX|Toxic|p2a: Landorus|[miss]
+|-miss|p1a: Your Toxic EX|p2a: Landorus
+|
+|upkeep
+|turn|2
+|
+|t:|1677798656
+|move|p2a: Landorus|U-turn|p1a: Your Toxic EX
+|-damage|p1a: Your Toxic EX|62/100
+|
+|t:|1677798663
+|switch|p2a: Slowking|Slowking, F, shiny|100/100|[from] U-turn
+|move|p1a: Your Toxic EX|Toxic|p2a: Slowking
+|-status|p2a: Slowking|tox
+|
+|-damage|p2a: Slowking|94/100 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1677798671
+|move|p1a: Your Toxic EX|Recover|p1a: Your Toxic EX
+|-heal|p1a: Your Toxic EX|100/100
+|move|p2a: Slowking|Future Sight|p1a: Your Toxic EX
+|-start|p2a: Slowking|move: Future Sight
+|
+|-damage|p2a: Slowking|82/100 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1677798677
+|switch|p1a: The Tank|Spiritomb, M|100/100
+|move|p2a: Slowking|Teleport|p2a: Slowking
+|
+|t:|1677798686
+|switch|p2a: Dragapult|Dragapult, M, shiny|100/100|[from] Teleport
+|
+|upkeep
+|turn|5
+|
+|t:|1677798690
+|move|p1a: The Tank|Sucker Punch|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|39/100
+|move|p2a: Dragapult|Shadow Ball|p1a: The Tank
+|-damage|p1a: The Tank|58/100
+|-unboost|p1a: The Tank|spd|1
+|
+|-end|p1a: The Tank|move: Future Sight
+|-immune|p1a: The Tank
+|-heal|p1a: The Tank|64/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1677798702
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: The Tank|atk|1
+|move|p1a: The Tank|Sucker Punch||[still]
+|-fail|p1a: The Tank
+|
+|-heal|p1a: The Tank|70/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1677798710
+|move|p1a: The Tank|Protect|p1a: The Tank
+|-singleturn|p1a: The Tank|Protect
+|move|p2a: Landorus|Knock Off|p1a: The Tank
+|-activate|p1a: The Tank|move: Protect
+|
+|-heal|p1a: The Tank|76/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1677798716
+|switch|p1a: Your Toxic EX|Gastrodon, F|100/100
+|move|p2a: Landorus|Knock Off|p1a: Your Toxic EX
+|-damage|p1a: Your Toxic EX|85/100
+|
+|upkeep
+|turn|9
+|
+|t:|1677798720
+|move|p2a: Landorus|U-turn|p1a: Your Toxic EX
+|-damage|p1a: Your Toxic EX|69/100
+|
+|t:|1677798724
+|switch|p2a: Slowking|Slowking, F, shiny|100/100 tox|[from] U-turn
+|move|p1a: Your Toxic EX|Scald|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|93/100 tox
+|
+|-damage|p2a: Slowking|87/100 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1677798734
+|switch|p1a: The Tank|Spiritomb, M|76/100
+|move|p2a: Slowking|Scald|p1a: The Tank
+|-damage|p1a: The Tank|56/100
+|-status|p1a: The Tank|brn
+|
+|-heal|p1a: The Tank|63/100 brn|[from] item: Leftovers
+|-damage|p2a: Slowking|75/100 tox|[from] psn
+|-damage|p1a: The Tank|56/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1677798744
+|move|p1a: The Tank|Pain Split|p2a: Slowking
+|-sethp|p2a: Slowking|59/100 tox|[from] move: Pain Split|[silent]
+|-sethp|p1a: The Tank|77/100 brn|[from] move: Pain Split
+|move|p2a: Slowking|Teleport|p2a: Slowking
+|
+|t:|1677798751
+|switch|p2a: Landorus|Landorus-Therian, M|100/100|[from] Teleport
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: The Tank|atk|1
+|
+|-heal|p1a: The Tank|83/100 brn|[from] item: Leftovers
+|-damage|p1a: The Tank|77/100 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1677798758
+|switch|p1a: Your Toxic EX|Gastrodon, F|69/100
+|move|p2a: Landorus|Earthquake|p1a: Your Toxic EX
+|-damage|p1a: Your Toxic EX|32/100
+|
+|upkeep
+|turn|13
+|
+|t:|1677798762
+|move|p2a: Landorus|Earthquake|p1a: Your Toxic EX
+|-damage|p1a: Your Toxic EX|0 fnt
+|faint|p1a: Your Toxic EX
+|
+|upkeep
+|
+|t:|1677798773
+|switch|p1a: The Devil Himseilf|Garchomp, M|100/100
+|turn|14
+|
+|t:|1677798776
+|move|p1a: The Devil Himseilf|Swords Dance|p1a: The Devil Himseilf
+|-boost|p1a: The Devil Himseilf|atk|2
+|move|p2a: Landorus|Knock Off|p1a: The Devil Himseilf
+|-damage|p1a: The Devil Himseilf|71/100
+|-damage|p2a: Landorus|88/100|[from] ability: Rough Skin|[of] p1a: The Devil Himseilf
+|-enditem|p1a: The Devil Himseilf|Yache Berry|[from] move: Knock Off|[of] p2a: Landorus
+|
+|-heal|p2a: Landorus|94/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1677798789
+|switch|p2a: Slowking|Slowking, F, shiny|93/100 tox
+|move|p1a: The Devil Himseilf|Dragon Rush|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|
+|upkeep
+|
+|t:|1677798795
+|switch|p2a: Landorus|Landorus-Therian, M|94/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: The Devil Himseilf|atk|1
+|turn|16
+|
+|t:|1677798803
+|move|p1a: The Devil Himseilf|Swords Dance|p1a: The Devil Himseilf
+|-boost|p1a: The Devil Himseilf|atk|2
+|move|p2a: Landorus|Earthquake|p1a: The Devil Himseilf
+|-damage|p1a: The Devil Himseilf|23/100
+|
+|-heal|p2a: Landorus|99/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1677798809
+|move|p1a: The Devil Himseilf|Dragon Rush|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|upkeep
+|
+|t:|1677798816
+|switch|p2a: Dragapult|Dragapult, M, shiny|39/100
+|turn|18
+|inactive|El sharkie has 120 seconds left.
+|
+|t:|1677798846
+|switch|p1a: The Tank|Spiritomb, M|77/100 brn
+|move|p2a: Dragapult|Shadow Ball|p1a: The Tank
+|-damage|p1a: The Tank|36/100 brn
+|
+|-heal|p1a: The Tank|43/100 brn|[from] item: Leftovers
+|-damage|p1a: The Tank|36/100 brn|[from] brn
+|upkeep
+|turn|19
+|inactive|El sharkie has 120 seconds left.
+|
+|t:|1677798859
+|switch|p2a: Rillaboom|Rillaboom, F, shiny|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: The Tank|Sucker Punch||[still]
+|-fail|p1a: The Tank
+|
+|-heal|p1a: The Tank|43/100 brn|[from] Grassy Terrain
+|-heal|p1a: The Tank|49/100 brn|[from] item: Leftovers
+|-damage|p1a: The Tank|43/100 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1677798868
+|switch|p1a: Dragon Killer|Togekiss, F|100/100
+|move|p2a: Rillaboom|Knock Off|p1a: Dragon Killer
+|-resisted|p1a: Dragon Killer
+|-damage|p1a: Dragon Killer|76/100
+|-enditem|p1a: Dragon Killer|Leftovers|[from] move: Knock Off|[of] p2a: Rillaboom
+|
+|upkeep
+|turn|21
+|
+|t:|1677798876
+|switch|p2a: Heatran|Heatran, M|100/100
+|-item|p2a: Heatran|Air Balloon
+|move|p1a: Dragon Killer|Heal Bell|p1a: Dragon Killer
+|-activate|p1a: Dragon Killer|move: Heal Bell
+|-curestatus|p1: The Tank|brn|[msg]
+|
+|upkeep
+|turn|22
+|
+|t:|1677798882
+|move|p2a: Heatran|Eruption|p1a: Dragon Killer
+|-damage|p1a: Dragon Killer|9/100
+|move|p1a: Dragon Killer|Air Slash|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|81/100
+|-enditem|p2a: Heatran|Air Balloon
+|
+|-heal|p2a: Heatran|87/100|[from] Grassy Terrain
+|upkeep
+|turn|23
+|
+|t:|1677798898
+|move|p2a: Heatran|Eruption|p1a: Dragon Killer
+|-damage|p1a: Dragon Killer|0 fnt
+|faint|p1a: Dragon Killer
+|
+|-heal|p2a: Heatran|94/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1677798900
+|switch|p1a: The Tank|Spiritomb, M|43/100
+|turn|24
+|
+|t:|1677798907
+|move|p1a: The Tank|Protect|p1a: The Tank
+|-singleturn|p1a: The Tank|Protect
+|move|p2a: Heatran|Eruption|p1a: The Tank
+|-activate|p1a: The Tank|move: Protect
+|
+|-heal|p1a: The Tank|49/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1677798913
+|move|p2a: Heatran|Eruption|p1a: The Tank
+|-damage|p1a: The Tank|0 fnt
+|faint|p1a: The Tank
+|
+|upkeep
+|
+|t:|1677798922
+|switch|p1a: The Devil Himseilf|Garchomp, M|23/100
+|turn|26
+|
+|t:|1677798926
+|switch|p2a: Rillaboom|Rillaboom, F, shiny|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: The Devil Himseilf|Dragon Rush|p2a: Rillaboom
+|-damage|p2a: Rillaboom|43/100
+|
+|-heal|p1a: The Devil Himseilf|29/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|49/100|[from] Grassy Terrain
+|upkeep
+|turn|27
+|
+|t:|1677798937
+|move|p1a: The Devil Himseilf|Fire Fang|p2a: Rillaboom
+|-supereffective|p2a: Rillaboom
+|-damage|p2a: Rillaboom|1/100
+|-status|p2a: Rillaboom|brn
+|move|p2a: Rillaboom|Knock Off|p1a: The Devil Himseilf
+|-damage|p1a: The Devil Himseilf|12/100
+|-damage|p2a: Rillaboom|0 fnt|[from] ability: Rough Skin|[of] p1a: The Devil Himseilf
+|faint|p2a: Rillaboom
+|
+|-heal|p1a: The Devil Himseilf|18/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1677798947
+|switch|p2a: Dragapult|Dragapult, M, shiny|39/100
+|turn|28
+|
+|t:|1677798954
+|move|p2a: Dragapult|Shadow Ball|p1a: The Devil Himseilf
+|-damage|p1a: The Devil Himseilf|0 fnt
+|faint|p1a: The Devil Himseilf
+|
+|-heal|p2a: Dragapult|45/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1677798956
+|switch|p1a: The Bodygard|Lucario, M|100/100
+|turn|29
+|
+|t:|1677798962
+|move|p2a: Dragapult|Shadow Ball|p1a: The Bodygard
+|-damage|p1a: The Bodygard|21/100
+|move|p1a: The Bodygard|Flash Cannon|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|-heal|p1a: The Bodygard|27/100|[from] Grassy Terrain
+|-heal|p1a: The Bodygard|33/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1677798970
+|switch|p2a: Bisharp|Bisharp, M, shiny|100/100
+|turn|30
+|
+|t:|1677798975
+|move|p2a: Bisharp|Sucker Punch|p1a: The Bodygard
+|-resisted|p1a: The Bodygard
+|-damage|p1a: The Bodygard|0 fnt
+|faint|p1a: The Bodygard
+|
+|-fieldend|move: Grassy Terrain
+|upkeep
+|l|☆El sharkie
+|inactive|El sharkie disconnected and has a minute to reconnect!
+|player|p1|
+|inactive|El sharkie has 30 seconds to reconnect!
+|inactive|El sharkie has 20 seconds to reconnect!
+|inactive|El sharkie has 15 seconds to reconnect!
+|inactive|El sharkie has 10 seconds to reconnect!
+|inactive|El sharkie has 5 seconds to reconnect!
+|-message|El sharkie lost due to inactivity.
+|
+|win|sniperghoost
+|raw|El sharkie's rating: 1119 &rarr; <strong>1103</strong><br />(-16 for losing)
+|raw|sniperghoost's rating: 1246 &rarr; <strong>1262</strong><br />(+16 for winning)
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

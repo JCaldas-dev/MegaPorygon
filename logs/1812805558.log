@@ -1,0 +1,301 @@
+|j|☆paddlerSuisse
+|j|☆PruebasPKMN
+|t:|1677798176
+|gametype|singles
+|player|p1|paddlerSuisse|dawn-gen4pt|1492
+|player|p2|PruebasPKMN|169|1449
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Pelipper, M|
+|poke|p1|Volcanion|
+|poke|p1|Thundurus-Therian, M|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Barraskewda, M|
+|poke|p1|Moltres-Galar|
+|poke|p2|Corviknight, M|
+|poke|p2|Clefable, F|
+|poke|p2|Heatran, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Rotom-Wash|
+|poke|p2|Dragonite, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by paddlerSuisse)
+|inactive|PruebasPKMN has 120 seconds left.
+|
+|t:|1677798214
+|start
+|switch|p1a: Pelipper|Pelipper, M|100/100
+|switch|p2a: Rotom|Rotom-Wash|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|1
+|
+|t:|1677798227
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|move|p2a: Rotom|Hydro Pump|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|80/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Ferrothorn|86/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1677798237
+|switch|p2a: Heatran|Heatran, F, shiny|100/100
+|move|p1a: Ferrothorn|Stealth Rock|p2a: Heatran
+|-sidestart|p2: PruebasPKMN|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Ferrothorn|93/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1677798253
+|switch|p1a: Volcanion|Volcanion|100/100
+|move|p2a: Heatran|Magma Storm|p1a: Volcanion
+|-resisted|p1a: Volcanion
+|-damage|p1a: Volcanion|94/100
+|-activate|p1a: Volcanion|move: Magma Storm|[of] p2a: Heatran
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Volcanion|82/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|4
+|
+|t:|1677798272
+|switch|p2a: Rotom|Rotom-Wash|100/100
+|-damage|p2a: Rotom|88/100|[from] Stealth Rock
+|move|p1a: Volcanion|Steam Eruption|p2a: Rotom
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|19/100
+|
+|-weather|RainDance|[upkeep]
+|-end|p1a: Volcanion|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|turn|5
+|
+|t:|1677798288
+|switch|p1a: Thundurus|Thundurus-Therian, M|100/100
+|move|p2a: Rotom|Discharge|p1a: Thundurus
+|-immune|p1a: Thundurus|[from] ability: Volt Absorb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1677798297
+|switch|p2a: Landorus|Landorus-Therian, M, shiny|100/100
+|-damage|p2a: Landorus|88/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Thundurus|atk|1
+|move|p1a: Thundurus|Weather Ball|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|inactive|PruebasPKMN has 120 seconds left.
+|
+|t:|1677798312
+|switch|p2a: Clefable|Clefable, F|100/100
+|-damage|p2a: Clefable|88/100|[from] Stealth Rock
+|turn|7
+|
+|t:|1677798319
+|switch|p1a: Volcanion|Volcanion|82/100
+|move|p2a: Clefable|Wish|p2a: Clefable
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1677798325
+|switch|p2a: Dragonite|Dragonite, M|100/100
+|move|p1a: Volcanion|Steam Eruption|p2a: Dragonite
+|-resisted|p2a: Dragonite
+|-damage|p2a: Dragonite|62/100
+|-status|p2a: Dragonite|brn
+|
+|-weather|none
+|-heal|p2a: Dragonite|100/100 brn|[from] move: Wish|[wisher] Clefable
+|-damage|p2a: Dragonite|94/100 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1677798338
+|switch|p2a: Clefable|Clefable, F|88/100
+|-damage|p2a: Clefable|76/100|[from] Stealth Rock
+|switch|p1a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1677798348
+|move|p1a: Pelipper|U-turn|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|71/100
+|
+|t:|1677798351
+|switch|p1a: Volcanion|Volcanion|82/100|[from] U-turn
+|move|p2a: Clefable|Aromatherapy|p2a: Clefable
+|-activate|p2a: Clefable|move: Aromatherapy
+|-curestatus|p2: Dragonite|brn|[msg]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1677798360
+|move|p1a: Volcanion|Steam Eruption|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1677798366
+|switch|p2a: Dragonite|Dragonite, M|94/100
+|turn|12
+|
+|t:|1677798369
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|move|p1a: Volcanion|Steam Eruption|p2a: Dragonite
+|-resisted|p2a: Dragonite
+|-damage|p2a: Dragonite|14/100
+|-status|p2a: Dragonite|brn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Dragonite|8/100 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1677798380
+|move|p2a: Dragonite|Dual Wingbeat|p1a: Volcanion
+|-damage|p1a: Volcanion|67/100
+|-damage|p1a: Volcanion|51/100
+|-hitcount|p1a: Volcanion|2
+|move|p1a: Volcanion|Steam Eruption|p2a: Dragonite
+|-resisted|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|faint|p2a: Dragonite
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|inactive|PruebasPKMN has 120 seconds left.
+|
+|t:|1677798408
+|switch|p2a: Rotom|Rotom-Wash|19/100
+|-damage|p2a: Rotom|7/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1677798414
+|switch|p1a: Thundurus|Thundurus-Therian, M|100/100
+|move|p2a: Rotom|Pain Split|p1a: Thundurus
+|-sethp|p1a: Thundurus|54/100|[from] move: Pain Split|[silent]
+|-sethp|p2a: Rotom|53/100|[from] move: Pain Split
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1677798422
+|move|p1a: Thundurus|Thunder|p2a: Rotom
+|-damage|p2a: Rotom|0 fnt
+|faint|p2a: Rotom
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1677798430
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-damage|p2a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|turn|16
+|
+|t:|1677798435
+|switch|p2a: Heatran|Heatran, F, shiny|100/100
+|-damage|p2a: Heatran|88/100|[from] Stealth Rock
+|move|p1a: Thundurus|Thunder|p2a: Heatran
+|-damage|p2a: Heatran|52/100
+|-status|p2a: Heatran|par
+|
+|-weather|none
+|-heal|p2a: Heatran|58/100 par|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1677798450
+|switch|p1a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Heatran|Toxic|p1a: Pelipper
+|-status|p1a: Pelipper|tox
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Heatran|64/100 par|[from] item: Leftovers
+|-damage|p1a: Pelipper|94/100 tox|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1677798460
+|move|p1a: Pelipper|U-turn|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|62/100 par
+|
+|t:|1677798463
+|switch|p1a: Volcanion|Volcanion|51/100|[from] U-turn
+|move|p2a: Heatran|Magma Storm|p1a: Volcanion
+|-resisted|p1a: Volcanion
+|-damage|p1a: Volcanion|45/100
+|-activate|p1a: Volcanion|move: Magma Storm|[of] p2a: Heatran
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Heatran|69/100 par|[from] item: Leftovers
+|-damage|p1a: Volcanion|33/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|19
+|
+|t:|1677798475
+|move|p1a: Volcanion|Steam Eruption|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|-weather|RainDance|[upkeep]
+|-end|p1a: Volcanion|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|
+|t:|1677798481
+|switch|p2a: Corviknight|Corviknight, M|88/100
+|-damage|p2a: Corviknight|75/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|turn|20
+|
+|t:|1677798487
+|move|p1a: Volcanion|Steam Eruption|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|win|paddlerSuisse
+|raw|paddlerSuisse's rating: 1492 &rarr; <strong>1510</strong><br />(+18 for winning)
+|raw|PruebasPKMN's rating: 1449 &rarr; <strong>1431</strong><br />(-18 for losing)
+|c|☆paddlerSuisse|gg
+|l|☆PruebasPKMN
+|c|☆paddlerSuisse|I am lucky
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

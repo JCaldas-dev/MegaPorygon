@@ -1,0 +1,77 @@
+|j|‽blanched
+|j|☆pokemonkorea co kr
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1677797800
+|gametype|singles
+|player|p1|blanched|adaman|
+|player|p2|pokemonkorea co kr|wally|
+|teamsize|p1|4
+|teamsize|p2|4
+|gen|8
+|tier|[Gen 8] OU
+|rated|Tournament battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Dragonite, F|
+|poke|p1|Naganadel|
+|poke|p1|Genesect|
+|poke|p1|Corviknight, F|
+|poke|p2|Celesteela|
+|poke|p2|Mimikyu, M|
+|poke|p2|Dragonite, F|
+|poke|p2|Gastrodon, F|
+|teampreview|2
+|j|*Lady Monita
+|c|☆pokemonkorea co kr|gl
+|
+|t:|1677797816
+|start
+|switch|p1a: Genesect|Genesect, shiny|100/100
+|switch|p2a: Dragonite|Dragonite, F|100/100
+|-ability|p1a: Genesect|Download|boost
+|-boost|p1a: Genesect|atk|1
+|turn|1
+|
+|t:|1677797821
+|move|p1a: Genesect|Ice Beam|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|48/100
+|move|p2a: Dragonite|Fire Punch|p1a: Genesect
+|-supereffective|p1a: Genesect
+|-damage|p1a: Genesect|0 fnt
+|faint|p1a: Genesect
+|
+|upkeep
+|
+|t:|1677797826
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|turn|2
+|
+|t:|1677797831
+|move|p2a: Dragonite|Outrage|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|41/100
+|move|p1a: Dragonite|Dual Wingbeat|p2a: Dragonite
+|-crit|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|faint|p2a: Dragonite
+|-hitcount|p2: Dragonite|1
+|
+|upkeep
+|
+|t:|1677797833
+|switch|p2a: Celesteela|Celesteela|100/100
+|turn|3
+|-message|blanched forfeited.
+|
+|win|pokemonkorea co kr
+|n|‽blanched|blanched
+|n|☆pokemonkorea co kr|pokemonkoreacokr
+|n|*Lady Monita|ladymonita

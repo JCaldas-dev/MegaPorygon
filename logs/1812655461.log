@@ -1,0 +1,234 @@
+|j|☆Geroniminho
+|j|☆i ♡ maia
+|t:|1677785289
+|gametype|singles
+|player|p1|Geroniminho|169|1053
+|player|p2|i ♡ maia|dancer|1124
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Rapidash, M|
+|poke|p1|Jynx, F|
+|poke|p1|Regieleki|
+|poke|p1|Slowbro, F|
+|poke|p1|Slurpuff, M|
+|poke|p1|Accelgor, F|
+|poke|p2|Latias, F|
+|poke|p2|Weavile, F|
+|poke|p2|Rotom-Heat|
+|poke|p2|Jirachi|
+|poke|p2|Kartana|
+|poke|p2|Keldeo-Resolute|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Geroniminho)
+|
+|t:|1677785299
+|start
+|switch|p1a: Accelgor|Accelgor, F|100/100
+|switch|p2a: the goat (drake)|Jirachi|100/100
+|turn|1
+|
+|t:|1677785311
+|move|p1a: Accelgor|Knock Off|p2a: the goat (drake)
+|-supereffective|p2a: the goat (drake)
+|-damage|p2a: the goat (drake)|75/100
+|-enditem|p2a: the goat (drake)|Leftovers|[from] move: Knock Off|[of] p1a: Accelgor
+|move|p2a: the goat (drake)|Cosmic Power|p2a: the goat (drake)
+|-boost|p2a: the goat (drake)|def|1
+|-boost|p2a: the goat (drake)|spd|1
+|
+|upkeep
+|turn|2
+|
+|t:|1677785319
+|move|p1a: Accelgor|Acid Armor|p1a: Accelgor
+|-boost|p1a: Accelgor|def|2
+|move|p2a: the goat (drake)|Ancient Power|p1a: Accelgor
+|-supereffective|p1a: Accelgor
+|-damage|p1a: Accelgor|75/100
+|
+|-heal|p1a: Accelgor|81/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1677785327
+|move|p1a: Accelgor|Toxic Spikes|p2a: the goat (drake)
+|-sidestart|p2: i ♡ maia|move: Toxic Spikes
+|move|p2a: the goat (drake)|Ancient Power|p1a: Accelgor
+|-supereffective|p1a: Accelgor
+|-damage|p1a: Accelgor|54/100
+|
+|-heal|p1a: Accelgor|60/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1677785335
+|move|p1a: Accelgor|Spikes|p2a: the goat (drake)
+|-sidestart|p2: i ♡ maia|Spikes
+|move|p2a: the goat (drake)|Ancient Power|p1a: Accelgor
+|-supereffective|p1a: Accelgor
+|-damage|p1a: Accelgor|33/100
+|
+|-heal|p1a: Accelgor|39/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1677785344
+|switch|p1a: Slowbro|Slowbro, F|100/100
+|move|p2a: the goat (drake)|Ancient Power|p1a: Slowbro
+|-damage|p1a: Slowbro|91/100
+|
+|-heal|p1a: Slowbro|97/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1677785351
+|move|p2a: the goat (drake)|Ancient Power|p1a: Slowbro
+|-damage|p1a: Slowbro|88/100
+|move|p1a: Slowbro|Yawn|p2a: the goat (drake)
+|-start|p2a: the goat (drake)|move: Yawn|[of] p1a: Slowbro
+|
+|-heal|p1a: Slowbro|94/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1677785364
+|switch|p2a: individual|Kartana, shiny|100/100
+|-damage|p2a: individual|88/100|[from] Spikes
+|move|p1a: Slowbro|Calm Mind|p1a: Slowbro
+|-boost|p1a: Slowbro|spa|1
+|-boost|p1a: Slowbro|spd|1
+|
+|-heal|p1a: Slowbro|99/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1677785378
+|switch|p1a: Regieleki|Regieleki|100/100
+|-item|p1a: Regieleki|Air Balloon
+|move|p2a: individual|Knock Off|p1a: Regieleki
+|-damage|p1a: Regieleki|33/100
+|-enditem|p1a: Regieleki|Air Balloon
+|
+|upkeep
+|turn|9
+|
+|t:|1677785389
+|move|p2a: individual|Knock Off|p1a: Regieleki
+|-damage|p1a: Regieleki|0 fnt
+|faint|p1a: Regieleki
+|-ability|p2a: individual|Beast Boost|boost
+|-boost|p2a: individual|atk|1
+|
+|upkeep
+|
+|t:|1677785396
+|switch|p1a: Rapidash|Rapidash, M|100/100
+|turn|10
+|
+|t:|1677785399
+|move|p2a: individual|Knock Off|p1a: Rapidash
+|-damage|p1a: Rapidash|0 fnt
+|-enditem|p1a: Rapidash|Choice Band|[from] move: Knock Off|[of] p2a: individual
+|faint|p1a: Rapidash
+|-ability|p2a: individual|Beast Boost|boost
+|-boost|p2a: individual|atk|1
+|
+|upkeep
+|
+|t:|1677785414
+|switch|p1a: Accelgor|Accelgor, F|39/100
+|turn|11
+|
+|t:|1677785418
+|move|p2a: individual|Knock Off|p1a: Accelgor
+|-crit|p1a: Accelgor
+|-damage|p1a: Accelgor|0 fnt
+|-enditem|p1a: Accelgor|Leftovers|[from] move: Knock Off|[of] p2a: individual
+|faint|p1a: Accelgor
+|-ability|p2a: individual|Beast Boost|boost
+|-boost|p2a: individual|atk|1
+|
+|upkeep
+|c|☆i ♡ maia|lmaoooo
+|
+|t:|1677785426
+|switch|p1a: Slurpuff|Slurpuff, M|100/100
+|turn|12
+|
+|t:|1677785432
+|move|p2a: individual|Knock Off|p1a: Slurpuff
+|-resisted|p1a: Slurpuff
+|-damage|p1a: Slurpuff|34/100
+|-enditem|p1a: Slurpuff|Expert Belt|[from] move: Knock Off|[of] p2a: individual
+|move|p1a: Slurpuff|Cotton Guard|p1a: Slurpuff
+|-boost|p1a: Slurpuff|def|3
+|
+|upkeep
+|turn|13
+|
+|t:|1677785439
+|move|p2a: individual|Knock Off|p1a: Slurpuff
+|-resisted|p1a: Slurpuff
+|-damage|p1a: Slurpuff|17/100
+|move|p1a: Slurpuff|Cotton Guard|p1a: Slurpuff
+|-boost|p1a: Slurpuff|def|3
+|
+|upkeep
+|turn|14
+|
+|t:|1677785445
+|move|p2a: individual|Knock Off|p1a: Slurpuff
+|-resisted|p1a: Slurpuff
+|-crit|p1a: Slurpuff
+|-damage|p1a: Slurpuff|0 fnt
+|faint|p1a: Slurpuff
+|-ability|p2a: individual|Beast Boost|boost
+|-boost|p2a: individual|atk|1
+|
+|upkeep
+|
+|t:|1677785452
+|switch|p1a: Jynx|Jynx, F|100/100
+|turn|15
+|c|☆i ♡ maia|theres no way
+|
+|t:|1677785459
+|move|p2a: individual|Knock Off|p1a: Jynx
+|-supereffective|p1a: Jynx
+|-damage|p1a: Jynx|0 fnt
+|-enditem|p1a: Jynx|Sitrus Berry|[from] move: Knock Off|[of] p2a: individual
+|faint|p1a: Jynx
+|-ability|p2a: individual|Beast Boost|boost
+|-boost|p2a: individual|atk|1
+|
+|upkeep
+|c|☆i ♡ maia|its happening
+|
+|t:|1677785466
+|switch|p1a: Slowbro|Slowbro, F|100/100
+|turn|16
+|
+|t:|1677785470
+|move|p2a: individual|Knock Off|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|0 fnt
+|-enditem|p1a: Slowbro|Leftovers|[from] move: Knock Off|[of] p2a: individual
+|faint|p1a: Slowbro
+|
+|win|i ♡ maia
+|raw|Geroniminho's rating: 1053 &rarr; <strong>1039</strong><br />(-14 for losing)
+|raw|i ♡ maia's rating: 1124 &rarr; <strong>1144</strong><br />(+20 for winning)
+|l|☆Geroniminho
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

@@ -1,0 +1,400 @@
+|j|☆Gamewolf378
+|j|☆Limsoyou
+|t:|1677864212
+|gametype|singles
+|player|p1|Gamewolf378|101|1126
+|player|p2|Limsoyou|266|1152
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Corviknight, F|
+|poke|p1|Bisharp, F|
+|poke|p1|Volcarona, M|
+|poke|p1|Excadrill, F|
+|poke|p1|Tapu Koko|
+|poke|p1|Pelipper, M|
+|poke|p2|Heatran, F|
+|poke|p2|Urshifu-*, M|
+|poke|p2|Kartana|
+|poke|p2|Zapdos|
+|poke|p2|Garchomp, M|
+|poke|p2|Tapu Fini|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Gamewolf378)
+|
+|t:|1677864250
+|start
+|switch|p1a: Lance|Corviknight, F|100/100
+|switch|p2a: Zapdos|Zapdos, shiny|100/100
+|-ability|p2a: Zapdos|Pressure
+|-ability|p1a: Lance|Pressure
+|turn|1
+|inactive|Gamewolf378 has 120 seconds left.
+|
+|t:|1677864282
+|move|p2a: Zapdos|Thunder Wave|p1a: Lance
+|-status|p1a: Lance|par
+|cant|p1a: Lance|par
+|
+|upkeep
+|turn|2
+|
+|t:|1677864291
+|move|p2a: Zapdos|Discharge|p1a: Lance
+|-supereffective|p1a: Lance
+|-damage|p1a: Lance|48/100 par
+|-enditem|p1a: Lance|Maranga Berry|[eat]
+|-boost|p1a: Lance|spd|1|[from] item: Maranga Berry
+|move|p1a: Lance|Agility|p1a: Lance
+|-boost|p1a: Lance|spe|2
+|
+|upkeep
+|turn|3
+|
+|t:|1677864305
+|move|p2a: Zapdos|Volt Switch|p1a: Lance
+|-supereffective|p1a: Lance
+|-damage|p1a: Lance|20/100 par
+|
+|t:|1677864314
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|100/100|[from] Volt Switch
+|move|p1a: Lance|Agility|p1a: Lance
+|-boost|p1a: Lance|spe|2
+|
+|upkeep
+|turn|4
+|
+|t:|1677864323
+|move|p2a: Urshifu|Aqua Jet|p1a: Lance
+|-damage|p1a: Lance|5/100 par
+|cant|p1a: Lance|par
+|
+|upkeep
+|turn|5
+|
+|t:|1677864353
+|move|p2a: Urshifu|Aqua Jet|p1a: Lance
+|-damage|p1a: Lance|0 fnt
+|faint|p1a: Lance
+|
+|upkeep
+|
+|t:|1677864359
+|switch|p1a: Lifebringer|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Lifebringer
+|turn|6
+|
+|t:|1677864369
+|switch|p2a: Zapdos|Zapdos, shiny|100/100
+|-ability|p2a: Zapdos|Pressure
+|move|p1a: Lifebringer|Hurricane|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|75/100
+|-start|p2a: Zapdos|confusion
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Zapdos|81/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1677864377
+|-activate|p2a: Zapdos|confusion
+|move|p2a: Zapdos|Discharge|p1a: Lifebringer
+|-supereffective|p1a: Lifebringer
+|-damage|p1a: Lifebringer|0 fnt
+|faint|p1a: Lifebringer
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Zapdos|87/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1677864383
+|switch|p1a: Shinespark|Tapu Koko, shiny|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Shinespark
+|turn|8
+|
+|t:|1677864390
+|move|p1a: Shinespark|Calm Mind|p1a: Shinespark
+|-boost|p1a: Shinespark|spa|1
+|-boost|p1a: Shinespark|spd|1
+|-end|p2a: Zapdos|confusion
+|move|p2a: Zapdos|Volt Switch|p1a: Shinespark
+|-resisted|p1a: Shinespark
+|-crit|p1a: Shinespark
+|-damage|p1a: Shinespark|62/100
+|
+|t:|1677864403
+|switch|p2a: Heatran|Heatran, F, shiny|100/100|[from] Volt Switch
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1677864419
+|move|p1a: Shinespark|Thunder|p2a: Heatran
+|-damage|p2a: Heatran|20/100
+|move|p2a: Heatran|Earth Power|p1a: Shinespark
+|-supereffective|p1a: Shinespark
+|-damage|p1a: Shinespark|5/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Heatran|26/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1677864438
+|move|p1a: Shinespark|Thunder|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1677864444
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|turn|11
+|
+|t:|1677864450
+|move|p2a: Urshifu|Aqua Jet|p1a: Shinespark
+|-damage|p1a: Shinespark|0 fnt
+|faint|p1a: Shinespark
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1677864458
+|switch|p1a: Susie|Bisharp, F, shiny|100/100
+|turn|12
+|
+|t:|1677864465
+|switch|p2a: Zapdos|Zapdos, shiny|87/100
+|-ability|p2a: Zapdos|Pressure
+|move|p1a: Susie|Swords Dance|p1a: Susie
+|-boost|p1a: Susie|atk|2
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Zapdos|93/100|[from] item: Leftovers
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|13
+|
+|t:|1677864482
+|move|p2a: Zapdos|Thunder Wave|p1a: Susie
+|-status|p1a: Susie|par
+|move|p1a: Susie|Swords Dance|p1a: Susie
+|-boost|p1a: Susie|atk|2
+|
+|-weather|none
+|-heal|p2a: Zapdos|99/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1677864491
+|move|p2a: Zapdos|Discharge|p1a: Susie
+|-damage|p1a: Susie|54/100 par
+|cant|p1a: Susie|par
+|
+|-heal|p2a: Zapdos|100/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1677864499
+|move|p2a: Zapdos|Discharge|p1a: Susie
+|-damage|p1a: Susie|9/100 par
+|cant|p1a: Susie|par
+|
+|upkeep
+|turn|16
+|
+|t:|1677864505
+|move|p1a: Susie|Sucker Punch|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|upkeep
+|
+|t:|1677864515
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|turn|17
+|
+|t:|1677864518
+|move|p2a: Urshifu|Aqua Jet|p1a: Susie
+|-damage|p1a: Susie|0 fnt
+|faint|p1a: Susie
+|
+|upkeep
+|
+|t:|1677864528
+|switch|p1a: Apollo|Volcarona, M|100/100
+|turn|18
+|
+|t:|1677864536
+|move|p2a: Urshifu|Aqua Jet|p1a: Apollo
+|-supereffective|p1a: Apollo
+|-damage|p1a: Apollo|65/100
+|move|p1a: Apollo|Quiver Dance|p1a: Apollo
+|-boost|p1a: Apollo|spa|1
+|-boost|p1a: Apollo|spd|1
+|-boost|p1a: Apollo|spe|1
+|
+|upkeep
+|turn|19
+|inactive|Gamewolf378 has 120 seconds left.
+|
+|t:|1677864569
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|move|p1a: Apollo|Bug Buzz|p2a: Garchomp
+|-damage|p2a: Garchomp|60/100
+|
+|upkeep
+|turn|20
+|
+|t:|1677864584
+|move|p1a: Apollo|Bug Buzz|p2a: Garchomp
+|-damage|p2a: Garchomp|17/100
+|move|p2a: Garchomp|Dragon Claw|p1a: Apollo
+|-damage|p1a: Apollo|33/100
+|
+|upkeep
+|turn|21
+|
+|t:|1677864595
+|move|p1a: Apollo|Roost|p1a: Apollo
+|-heal|p1a: Apollo|83/100
+|-singleturn|p1a: Apollo|move: Roost
+|move|p2a: Garchomp|Dragon Claw|p1a: Apollo
+|-damage|p1a: Apollo|51/100
+|-status|p2a: Garchomp|brn|[from] ability: Flame Body|[of] p1a: Apollo
+|
+|-damage|p2a: Garchomp|11/100 brn|[from] brn
+|upkeep
+|turn|22
+|
+|t:|1677864608
+|move|p1a: Apollo|Quiver Dance|p1a: Apollo
+|-boost|p1a: Apollo|spa|1
+|-boost|p1a: Apollo|spd|1
+|-boost|p1a: Apollo|spe|1
+|move|p2a: Garchomp|Flamethrower|p1a: Apollo
+|-damage|p1a: Apollo|42/100
+|
+|-damage|p2a: Garchomp|5/100 brn|[from] brn
+|upkeep
+|turn|23
+|
+|t:|1677864626
+|move|p1a: Apollo|Roost|p1a: Apollo
+|-heal|p1a: Apollo|92/100
+|-singleturn|p1a: Apollo|move: Roost
+|move|p2a: Garchomp|Earthquake|p1a: Apollo
+|-damage|p1a: Apollo|73/100
+|
+|-damage|p2a: Garchomp|0 fnt|[from] brn
+|faint|p2a: Garchomp
+|upkeep
+|
+|t:|1677864633
+|switch|p2a: Tapu Fini|Tapu Fini, shiny|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|turn|24
+|
+|t:|1677864637
+|move|p1a: Apollo|Quiver Dance|p1a: Apollo
+|-boost|p1a: Apollo|spa|1
+|-boost|p1a: Apollo|spd|1
+|-boost|p1a: Apollo|spe|1
+|move|p2a: Tapu Fini|Scald|p1a: Apollo
+|-supereffective|p1a: Apollo
+|-damage|p1a: Apollo|53/100
+|
+|upkeep
+|turn|25
+|
+|t:|1677864654
+|move|p1a: Apollo|Quiver Dance|p1a: Apollo
+|-boost|p1a: Apollo|spa|1
+|-boost|p1a: Apollo|spd|1
+|-boost|p1a: Apollo|spe|1
+|move|p2a: Tapu Fini|Moonblast|p1a: Apollo
+|-resisted|p1a: Apollo
+|-damage|p1a: Apollo|48/100
+|
+|upkeep
+|turn|26
+|
+|t:|1677864663
+|move|p1a: Apollo|Quiver Dance|p1a: Apollo
+|-boost|p1a: Apollo|spa|1
+|-boost|p1a: Apollo|spd|1
+|-boost|p1a: Apollo|spe|1
+|move|p2a: Tapu Fini|Moonblast|p1a: Apollo
+|-resisted|p1a: Apollo
+|-damage|p1a: Apollo|44/100
+|-unboost|p1a: Apollo|spa|1
+|
+|upkeep
+|turn|27
+|
+|t:|1677864669
+|move|p1a: Apollo|Quiver Dance|p1a: Apollo
+|-boost|p1a: Apollo|spa|1
+|-boost|p1a: Apollo|spd|1
+|-boost|p1a: Apollo|spe|1
+|move|p2a: Tapu Fini|Moonblast|p1a: Apollo
+|-resisted|p1a: Apollo
+|-damage|p1a: Apollo|40/100
+|
+|upkeep
+|turn|28
+|
+|t:|1677864677
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|move|p1a: Apollo|Roost|p1a: Apollo
+|-heal|p1a: Apollo|90/100
+|-singleturn|p1a: Apollo|move: Roost
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|29
+|
+|t:|1677864692
+|move|p1a: Apollo|Bug Buzz|p2a: Urshifu
+|-resisted|p2a: Urshifu
+|-damage|p2a: Urshifu|0 fnt
+|faint|p2a: Urshifu
+|
+|upkeep
+|
+|t:|1677864699
+|switch|p2a: Kartana|Kartana|100/100
+|turn|30
+|
+|t:|1677864713
+|move|p1a: Apollo|Fiery Dance|p2a: Kartana
+|-supereffective|p2a: Kartana
+|-crit|p2a: Kartana
+|-damage|p2a: Kartana|0 fnt
+|-boost|p1a: Apollo|spa|1
+|faint|p2a: Kartana
+|
+|upkeep
+|-message|Limsoyou forfeited.
+|
+|win|Gamewolf378
+|raw|Gamewolf378's rating: 1126 &rarr; <strong>1153</strong><br />(+27 for winning)
+|raw|Limsoyou's rating: 1152 &rarr; <strong>1125</strong><br />(-27 for losing)
+|l|☆Limsoyou
+|c|☆Gamewolf378|gg...
+|c|☆Gamewolf378|Would've wanted to kill fini though
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

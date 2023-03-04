@@ -1,0 +1,251 @@
+|j|☆Unshx
+|j|☆Shalzar69
+|t:|1677805985
+|gametype|singles
+|player|p1|Unshx|hiker-gen4|1050
+|player|p2|Shalzar69|169|1078
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Cursola, F|
+|poke|p1|Venusaur, M|
+|poke|p1|Torkoal, F|
+|poke|p1|Cramorant, M|
+|poke|p1|Hatterene, F|
+|poke|p1|Duraludon, M|
+|poke|p2|Aerodactyl, F|
+|poke|p2|Conkeldurr, F|
+|poke|p2|Bisharp, M|
+|poke|p2|Volcarona, F|
+|poke|p2|Rotom-Wash|
+|poke|p2|Dragonite, F|
+|teampreview
+|
+|t:|1677806010
+|start
+|switch|p1a: Cursola|Cursola, F|100/100
+|switch|p2a: Aerodactyl|Aerodactyl, F|100/100
+|turn|1
+|
+|t:|1677806025
+|move|p2a: Aerodactyl|Earthquake|p1a: Cursola
+|-damage|p1a: Cursola|47/100
+|move|p1a: Cursola|Will-O-Wisp|p2a: Aerodactyl
+|-status|p2a: Aerodactyl|brn
+|
+|-damage|p2a: Aerodactyl|95/100 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1677806034
+|move|p2a: Aerodactyl|Earthquake|p1a: Cursola
+|-damage|p1a: Cursola|22/100
+|move|p1a: Cursola|Shadow Ball|p2a: Aerodactyl
+|-damage|p2a: Aerodactyl|28/100 brn
+|-unboost|p2a: Aerodactyl|spd|1
+|
+|-damage|p2a: Aerodactyl|22/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1677806043
+|move|p2a: Aerodactyl|Earthquake|p1a: Cursola
+|-damage|p1a: Cursola|0 fnt
+|faint|p1a: Cursola
+|
+|-damage|p2a: Aerodactyl|16/100 brn|[from] brn
+|upkeep
+|
+|t:|1677806049
+|switch|p1a: Torkoal|Torkoal, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|turn|4
+|
+|t:|1677806057
+|move|p2a: Aerodactyl|Earthquake|p1a: Torkoal
+|-supereffective|p1a: Torkoal
+|-damage|p1a: Torkoal|77/100
+|move|p1a: Torkoal|Body Press|p2a: Aerodactyl
+|-crit|p2a: Aerodactyl
+|-damage|p2a: Aerodactyl|0 fnt
+|faint|p2a: Aerodactyl
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1677806076
+|switch|p2a: Rotom|Rotom-Wash|100/100
+|turn|5
+|
+|t:|1677806081
+|move|p2a: Rotom|Hydro Pump|p1a: Torkoal
+|-supereffective|p1a: Torkoal
+|-damage|p1a: Torkoal|41/100
+|move|p1a: Torkoal|Yawn|p2a: Rotom
+|-start|p2a: Rotom|move: Yawn|[of] p1a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1677806089
+|move|p2a: Rotom|Hydro Pump|p1a: Torkoal
+|-supereffective|p1a: Torkoal
+|-damage|p1a: Torkoal|4/100
+|move|p1a: Torkoal|Body Press|p2a: Rotom
+|-damage|p2a: Rotom|81/100
+|
+|-weather|SunnyDay|[upkeep]
+|-end|p2a: Rotom|move: Yawn|[silent]
+|-status|p2a: Rotom|slp
+|upkeep
+|turn|7
+|
+|t:|1677806109
+|switch|p2a: Bisharp|Bisharp, M|100/100
+|switch|p1a: Duraludon|Duraludon, M|100/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1677806124
+|move|p1a: Duraludon|Stealth Rock|p2a: Bisharp
+|-sidestart|p2: Shalzar69|move: Stealth Rock
+|move|p2a: Bisharp|Iron Head|p1a: Duraludon
+|-resisted|p1a: Duraludon
+|-damage|p1a: Duraludon|71/100
+|-damage|p2a: Bisharp|91/100|[from] item: Life Orb
+|
+|-weather|none
+|-heal|p1a: Duraludon|77/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1677806141
+|move|p1a: Duraludon|Dragon Pulse|p2a: Bisharp
+|-resisted|p2a: Bisharp
+|-damage|p2a: Bisharp|54/100
+|move|p2a: Bisharp|Swords Dance|p2a: Bisharp
+|-boost|p2a: Bisharp|atk|2
+|
+|-heal|p1a: Duraludon|83/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1677806150
+|move|p1a: Duraludon|Dragon Pulse|p2a: Bisharp
+|-resisted|p2a: Bisharp
+|-damage|p2a: Bisharp|19/100
+|move|p2a: Bisharp|Knock Off|p1a: Duraludon
+|-damage|p1a: Duraludon|0 fnt
+|-enditem|p1a: Duraludon|Leftovers|[from] move: Knock Off|[of] p2a: Bisharp
+|faint|p1a: Duraludon
+|-damage|p2a: Bisharp|9/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1677806159
+|switch|p1a: Torkoal|Torkoal, F|4/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|turn|11
+|
+|t:|1677806165
+|move|p2a: Bisharp|Sucker Punch||[still]
+|-fail|p2a: Bisharp
+|move|p1a: Torkoal|Yawn|p2a: Bisharp
+|-start|p2a: Bisharp|move: Yawn|[of] p1a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1677806172
+|move|p2a: Bisharp|Sucker Punch||[still]
+|-fail|p2a: Bisharp
+|move|p1a: Torkoal|Will-O-Wisp|p2a: Bisharp
+|-status|p2a: Bisharp|brn
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Bisharp|3/100 brn|[from] brn
+|-end|p2a: Bisharp|move: Yawn|[silent]
+|upkeep
+|turn|13
+|
+|t:|1677806185
+|switch|p1a: Cramorant|Cramorant, M|100/100
+|move|p2a: Bisharp|Iron Head|p1a: Cramorant
+|-resisted|p1a: Cramorant
+|-damage|p1a: Cramorant|40/100
+|-damage|p2a: Bisharp|0 fnt|[from] item: Life Orb
+|faint|p2a: Bisharp
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1677806213
+|switch|p2a: Volcarona|Volcarona, F|100/100
+|-damage|p2a: Volcarona|51/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1677806225
+|move|p2a: Volcarona|Giga Drain|p1a: Cramorant
+|-damage|p1a: Cramorant|9/100
+|-heal|p2a: Volcarona|65/100|[from] drain|[of] p1a: Cramorant
+|move|p1a: Cramorant|Brave Bird|p2a: Volcarona
+|-supereffective|p2a: Volcarona
+|-damage|p2a: Volcarona|0 fnt
+|faint|p2a: Volcarona
+|-damage|p1a: Cramorant|0 fnt|[from] Recoil
+|faint|p1a: Cramorant
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1677806237
+|switch|p2a: Dragonite|Dragonite, F|100/100
+|switch|p1a: Torkoal|Torkoal, F|4/100
+|-damage|p2a: Dragonite|76/100|[from] Stealth Rock
+|turn|15
+|
+|t:|1677806244
+|move|p2a: Dragonite|Extreme Speed|p1a: Torkoal
+|-damage|p1a: Torkoal|0 fnt
+|-damage|p2a: Dragonite|59/100|[from] item: Rocky Helmet|[of] p1a: Torkoal
+|faint|p1a: Torkoal
+|
+|-weather|none
+|upkeep
+|
+|t:|1677806251
+|switch|p1a: Venusaur|Venusaur, M|100/100
+|turn|16
+|
+|t:|1677806263
+|move|p2a: Dragonite|Extreme Speed|p1a: Venusaur
+|-damage|p1a: Venusaur|42/100
+|move|p1a: Venusaur|Energy Ball|p2a: Dragonite
+|-resisted|p2a: Dragonite
+|-damage|p2a: Dragonite|46/100
+|-damage|p1a: Venusaur|32/100|[from] item: Life Orb
+|
+|upkeep
+|turn|17
+|-message|Unshx forfeited.
+|
+|win|Shalzar69
+|raw|Unshx's rating: 1050 &rarr; <strong>1034</strong><br />(-16 for losing)
+|raw|Shalzar69's rating: 1078 &rarr; <strong>1104</strong><br />(+26 for winning)
+|l|☆Unshx
+|c|☆Shalzar69|ggs

@@ -1,0 +1,286 @@
+|j|☆charjabugfan
+|j|☆woodmind
+|t:|1677781223
+|gametype|singles
+|player|p1|charjabugfan|bugsy|
+|player|p2|woodmind|170|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|Tournament battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Urshifu-*, M|
+|poke|p1|Heatran, M|
+|poke|p1|Rotom-Wash|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Tapu Lele|
+|poke|p1|Kartana|
+|poke|p2|Pelipper, M|
+|poke|p2|Seismitoad, F|
+|poke|p2|Zapdos|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Barraskewda, F|
+|poke|p2|Crawdaunt, F|
+|teampreview
+|j| BB-8-NU
+|
+|t:|1677781245
+|start
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|switch|p2a: Let's in the rain|Pelipper, M|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Let's in the rain
+|turn|1
+|j|#Links
+|
+|t:|1677781254
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|move|p1a: Tapu Lele|Future Sight|p2a: Ferrothorn
+|-start|p1a: Tapu Lele|move: Future Sight
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1677781260
+|switch|p1a: Kartana|Kartana, shiny|100/100
+|move|p2a: Ferrothorn|Stealth Rock|p1a: Kartana
+|-sidestart|p1: charjabugfan|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1677781268
+|move|p1a: Kartana|Swords Dance|p1a: Kartana
+|-boost|p1a: Kartana|atk|2
+|move|p2a: Ferrothorn|Knock Off|p1a: Kartana
+|-damage|p1a: Kartana|77/100
+|-enditem|p1a: Kartana|Protective Pads|[from] move: Knock Off|[of] p2a: Ferrothorn
+|
+|-weather|RainDance|[upkeep]
+|-end|p2a: Ferrothorn|move: Future Sight
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|69/100
+|-heal|p2a: Ferrothorn|75/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|j| igiveuponaname
+|
+|t:|1677781307
+|move|p1a: Kartana|Sacred Sword|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|-damage|p1a: Kartana|65/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|faint|p2a: Ferrothorn
+|-ability|p1a: Kartana|Beast Boost|boost
+|-boost|p1a: Kartana|atk|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1677781321
+|switch|p2a: Barraskewda|Barraskewda, F|100/100
+|turn|5
+|
+|t:|1677781331
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|-damage|p1a: Tapu Lele|88/100|[from] Stealth Rock
+|move|p2a: Barraskewda|Close Combat|p1a: Tapu Lele
+|-resisted|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|63/100
+|-unboost|p2a: Barraskewda|def|1
+|-unboost|p2a: Barraskewda|spd|1
+|
+|-weather|RainDance|[upkeep]
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|6
+|
+|t:|1677781357
+|switch|p2a: Seismitoad|Seismitoad, F|100/100
+|move|p1a: Tapu Lele|Future Sight|p2a: Seismitoad
+|-start|p1a: Tapu Lele|move: Future Sight
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1677781367
+|switch|p1a: Rotom|Rotom-Wash, shiny|100/100
+|-damage|p1a: Rotom|88/100|[from] Stealth Rock
+|move|p2a: Seismitoad|Weather Ball|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|55/100
+|-damage|p2a: Seismitoad|91/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Rotom|61/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1677781378
+|move|p2a: Seismitoad|Weather Ball|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|28/100
+|-damage|p2a: Seismitoad|81/100|[from] item: Life Orb
+|move|p1a: Rotom|Pain Split|p2a: Seismitoad
+|-sethp|p2a: Seismitoad|53/100|[from] move: Pain Split|[silent]
+|-sethp|p1a: Rotom|61/100|[from] move: Pain Split
+|
+|-weather|none
+|-end|p2a: Seismitoad|move: Future Sight
+|-damage|p2a: Seismitoad|0 fnt
+|faint|p2a: Seismitoad
+|-heal|p1a: Rotom|67/100|[from] item: Leftovers
+|upkeep
+|j| Wrathoftheleopard
+|
+|t:|1677781389
+|switch|p2a: Let's in the rain|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Let's in the rain
+|turn|9
+|
+|t:|1677781393
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Rotom|Thunder Wave|p2a: Zapdos
+|-immune|p2a: Zapdos
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Rotom|73/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1677781414
+|move|p2a: Zapdos|Thunder|p1a: Rotom
+|-damage|p1a: Rotom|31/100
+|move|p1a: Rotom|Pain Split|p2a: Zapdos
+|-sethp|p2a: Zapdos|65/100|[from] move: Pain Split|[silent]
+|-sethp|p1a: Rotom|69/100|[from] move: Pain Split
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Rotom|75/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1677781423
+|move|p2a: Zapdos|Thunder|p1a: Rotom
+|-crit|p1a: Rotom
+|-damage|p1a: Rotom|9/100
+|move|p1a: Rotom|Hydro Pump|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Rotom|16/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1677781438
+|switch|p2a: Barraskewda|Barraskewda, F|100/100
+|turn|12
+|
+|t:|1677781442
+|move|p2a: Barraskewda|Liquidation|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|0 fnt
+|faint|p1a: Rotom
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1677781455
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|-damage|p1a: Urshifu|94/100|[from] Stealth Rock
+|turn|13
+|
+|t:|1677781464
+|move|p2a: Barraskewda|Liquidation|p1a: Urshifu
+|-resisted|p1a: Urshifu
+|-crit|p1a: Urshifu
+|-damage|p1a: Urshifu|11/100
+|move|p1a: Urshifu|Close Combat|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|-unboost|p1a: Urshifu|def|1
+|-unboost|p1a: Urshifu|spd|1
+|faint|p2a: Barraskewda
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|j| papaganz
+|
+|t:|1677781469
+|switch|p2a: Crawdaunt|Crawdaunt, F|100/100
+|turn|14
+|l| papaganz
+|
+|t:|1677781477
+|move|p2a: Crawdaunt|Aqua Jet|p1a: Urshifu
+|-resisted|p1a: Urshifu
+|-damage|p1a: Urshifu|0 fnt
+|faint|p1a: Urshifu
+|-damage|p2a: Crawdaunt|91/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1677781480
+|switch|p1a: Kartana|Kartana, shiny|65/100
+|-damage|p1a: Kartana|58/100|[from] Stealth Rock
+|turn|15
+|
+|t:|1677781485
+|move|p2a: Crawdaunt|Aqua Jet|p1a: Kartana
+|-resisted|p1a: Kartana
+|-damage|p1a: Kartana|30/100
+|-damage|p2a: Crawdaunt|81/100|[from] item: Life Orb
+|move|p1a: Kartana|Leaf Blade|p2a: Crawdaunt
+|-supereffective|p2a: Crawdaunt
+|-damage|p2a: Crawdaunt|0 fnt
+|faint|p2a: Crawdaunt
+|-ability|p1a: Kartana|Beast Boost|boost
+|-boost|p1a: Kartana|atk|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1677781488
+|switch|p2a: Let's in the rain|Pelipper, M|100/100
+|turn|16
+|
+|t:|1677781490
+|move|p1a: Kartana|Leaf Blade|p2a: Let's in the rain
+|-damage|p2a: Let's in the rain|2/100
+|move|p2a: Let's in the rain|Hurricane|p1a: Kartana
+|-damage|p1a: Kartana|0 fnt
+|faint|p1a: Kartana
+|
+|-weather|none
+|upkeep
+|
+|t:|1677781494
+|switch|p1a: Tapu Lele|Tapu Lele|63/100
+|-damage|p1a: Tapu Lele|51/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|17
+|
+|t:|1677781499
+|move|p1a: Tapu Lele|Psyshock|p2a: Let's in the rain
+|-damage|p2a: Let's in the rain|0 fnt
+|faint|p2a: Let's in the rain
+|
+|win|charjabugfan
+|n|☆charjabugfan|charjabugfan
+|n|☆woodmind|woodmind
+|n| BB-8-NU|bb8nu
+|n|%Links|links
+|n| igiveuponaname|igiveuponaname
+|n| Wrathoftheleopard|wrathoftheleopard

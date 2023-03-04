@@ -1,0 +1,455 @@
+|j|☆RST4
+|j|☆zenesthyl
+|t:|1677820033
+|gametype|singles
+|player|p1|RST4|hilbert-wonderlauncher|1426
+|player|p2|zenesthyl|170|1351
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Inteleon, M|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Togekiss, F|
+|poke|p1|Dragapult, M|
+|poke|p1|Diggersby, F|
+|poke|p1|Toxapex, F|
+|poke|p2|Rillaboom, F|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Blaziken, M|
+|poke|p2|Melmetal|
+|poke|p2|Garchomp, M|
+|poke|p2|Slowbro, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by RST4)
+|
+|t:|1677820046
+|start
+|switch|p1a: Diggersby|Diggersby, F|100/100
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|1
+|
+|t:|1677820055
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|move|p2a: Rillaboom|Drain Punch|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|68/100
+|-damage|p2a: Rillaboom|88/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-damage|p2a: Rillaboom|71/100|[from] item: Rocky Helmet|[of] p1a: Ferrothorn
+|
+|-heal|p2a: Rillaboom|78/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|84/100|[from] item: Leftovers
+|-heal|p1a: Ferrothorn|74/100|[from] Grassy Terrain
+|upkeep
+|turn|2
+|
+|t:|1677820068
+|move|p2a: Rillaboom|Knock Off|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|53/100
+|-damage|p2a: Rillaboom|71/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-damage|p2a: Rillaboom|55/100|[from] item: Rocky Helmet|[of] p1a: Ferrothorn
+|-enditem|p1a: Ferrothorn|Rocky Helmet|[from] move: Knock Off|[of] p2a: Rillaboom
+|move|p1a: Ferrothorn|Stealth Rock|p2a: Rillaboom
+|-sidestart|p2: zenesthyl|move: Stealth Rock
+|
+|-heal|p2a: Rillaboom|61/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|67/100|[from] item: Leftovers
+|-heal|p1a: Ferrothorn|59/100|[from] Grassy Terrain
+|upkeep
+|turn|3
+|
+|t:|1677820080
+|move|p2a: Rillaboom|Drain Punch|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|28/100
+|-heal|p2a: Rillaboom|81/100|[from] drain|[of] p1a: Ferrothorn
+|-damage|p2a: Rillaboom|69/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|move|p1a: Ferrothorn|Gyro Ball|p2a: Rillaboom
+|-damage|p2a: Rillaboom|32/100
+|
+|-heal|p2a: Rillaboom|39/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|45/100|[from] item: Leftovers
+|-heal|p1a: Ferrothorn|34/100|[from] Grassy Terrain
+|upkeep
+|turn|4
+|
+|t:|1677820096
+|switch|p1a: Togekiss|Togekiss, F|100/100
+|move|p2a: Rillaboom|Drain Punch|p1a: Togekiss
+|-resisted|p1a: Togekiss
+|-damage|p1a: Togekiss|93/100
+|-heal|p2a: Rillaboom|48/100|[from] drain|[of] p1a: Togekiss
+|
+|-heal|p2a: Rillaboom|55/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|61/100|[from] item: Leftovers
+|-heal|p1a: Togekiss|99/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1677820115
+|switch|p2a: Melmetal|Melmetal|100/100
+|-damage|p2a: Melmetal|94/100|[from] Stealth Rock
+|move|p1a: Togekiss|Air Slash|p2a: Melmetal
+|-resisted|p2a: Melmetal
+|-damage|p2a: Melmetal|76/100
+|
+|-heal|p1a: Togekiss|100/100|[from] item: Leftovers
+|-heal|p2a: Melmetal|82/100|[from] Grassy Terrain
+|-heal|p2a: Melmetal|88/100|[from] item: Leftovers
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1677820126
+|switch|p1a: Ferrothorn|Ferrothorn, M|34/100
+|move|p2a: Melmetal|Thunder Punch|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|24/100
+|-status|p1a: Ferrothorn|par
+|-damage|p2a: Melmetal|76/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|
+|-heal|p2a: Melmetal|82/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1677820138
+|move|p2a: Melmetal|Superpower|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|-unboost|p2a: Melmetal|atk|1
+|-unboost|p2a: Melmetal|def|1
+|-damage|p2a: Melmetal|69/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|faint|p1a: Ferrothorn
+|
+|-heal|p2a: Melmetal|76/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1677820147
+|switch|p1a: Diggersby|Diggersby, F|100/100
+|turn|8
+|
+|t:|1677820153
+|switch|p2a: Rillaboom|Rillaboom, F|61/100
+|-damage|p2a: Rillaboom|48/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Diggersby|Fire Punch|p2a: Rillaboom
+|-supereffective|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|
+|upkeep
+|c|☆zenesthyl|oh
+|c|☆zenesthyl|n1
+|
+|t:|1677820173
+|switch|p2a: Slowbro|Slowbro, F|100/100
+|-damage|p2a: Slowbro|88/100|[from] Stealth Rock
+|turn|9
+|
+|t:|1677820178
+|switch|p1a: Togekiss|Togekiss, F|100/100
+|move|p2a: Slowbro|Future Sight|p1a: Togekiss
+|-start|p2a: Slowbro|move: Future Sight
+|
+|-heal|p2a: Slowbro|94/100|[from] Grassy Terrain
+|upkeep
+|turn|10
+|
+|t:|1677820185
+|move|p1a: Togekiss|Air Slash|p2a: Slowbro
+|-damage|p2a: Slowbro|55/100
+|cant|p2a: Slowbro|flinch
+|
+|-heal|p2a: Slowbro|61/100|[from] Grassy Terrain
+|upkeep
+|turn|11
+|
+|t:|1677820197
+|move|p1a: Togekiss|Air Slash|p2a: Slowbro
+|-damage|p2a: Slowbro|22/100
+|cant|p2a: Slowbro|flinch
+|
+|-end|p1a: Togekiss|move: Future Sight
+|-damage|p1a: Togekiss|68/100
+|-heal|p1a: Togekiss|75/100|[from] item: Leftovers
+|-heal|p2a: Slowbro|28/100|[from] Grassy Terrain
+|upkeep
+|turn|12
+|
+|t:|1677820208
+|switch|p2a: Melmetal|Melmetal|76/100
+|-damage|p2a: Melmetal|69/100|[from] Stealth Rock
+|move|p1a: Togekiss|Dazzling Gleam|p2a: Melmetal
+|-resisted|p2a: Melmetal
+|-damage|p2a: Melmetal|50/100
+|
+|-heal|p1a: Togekiss|81/100|[from] item: Leftovers
+|-heal|p2a: Melmetal|57/100|[from] Grassy Terrain
+|-heal|p2a: Melmetal|63/100|[from] item: Leftovers
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|13
+|
+|t:|1677820223
+|move|p1a: Togekiss|Air Slash|p2a: Melmetal
+|-resisted|p2a: Melmetal
+|-crit|p2a: Melmetal
+|-damage|p2a: Melmetal|37/100
+|cant|p2a: Melmetal|flinch
+|
+|-heal|p1a: Togekiss|87/100|[from] item: Leftovers
+|-heal|p2a: Melmetal|44/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|c|☆zenesthyl|hmm
+|
+|t:|1677820239
+|move|p1a: Togekiss|Air Slash|p2a: Melmetal
+|-resisted|p2a: Melmetal
+|-damage|p2a: Melmetal|25/100
+|cant|p2a: Melmetal|flinch
+|
+|-heal|p1a: Togekiss|93/100|[from] item: Leftovers
+|-heal|p2a: Melmetal|32/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1677820249
+|move|p1a: Togekiss|Air Slash|p2a: Melmetal
+|-resisted|p2a: Melmetal
+|-damage|p2a: Melmetal|13/100
+|move|p2a: Melmetal|Double Iron Bash|p1a: Togekiss
+|-supereffective|p1a: Togekiss
+|-damage|p1a: Togekiss|3/100
+|-supereffective|p1a: Togekiss
+|-damage|p1a: Togekiss|0 fnt
+|faint|p1a: Togekiss
+|-hitcount|p1: Togekiss|2
+|
+|-heal|p2a: Melmetal|19/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1677820255
+|switch|p1a: Inteleon|Inteleon, M|100/100
+|turn|16
+|
+|t:|1677820264
+|move|p2a: Melmetal|Protect|p2a: Melmetal
+|-singleturn|p2a: Melmetal|Protect
+|move|p1a: Inteleon|Surf|p2a: Melmetal
+|-activate|p2a: Melmetal|move: Protect
+|
+|-heal|p2a: Melmetal|26/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1677820278
+|switch|p2a: Slowbro|Slowbro, F|61/100
+|-damage|p2a: Slowbro|49/100|[from] Stealth Rock
+|move|p1a: Inteleon|Surf|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|18/100
+|-damage|p1a: Inteleon|91/100|[from] item: Life Orb
+|
+|upkeep
+|turn|18
+|
+|t:|1677820296
+|switch|p2a: Melmetal|Melmetal|26/100
+|-damage|p2a: Melmetal|19/100|[from] Stealth Rock
+|move|p1a: Inteleon|Surf|p2a: Melmetal
+|-damage|p2a: Melmetal|0 fnt
+|faint|p2a: Melmetal
+|-damage|p1a: Inteleon|81/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1677820305
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|turn|19
+|
+|t:|1677820311
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|move|p2a: Tornadus|Defog|p1a: Toxapex
+|-unboost|p1a: Toxapex|evasion|1
+|-sideend|p2: zenesthyl|Stealth Rock|[from] move: Defog|[of] p2a: Tornadus
+|
+|upkeep
+|turn|20
+|
+|t:|1677820319
+|move|p2a: Tornadus|Knock Off|p1a: Toxapex
+|-damage|p1a: Toxapex|84/100
+|-enditem|p1a: Toxapex|Black Sludge|[from] move: Knock Off|[of] p2a: Tornadus
+|move|p1a: Toxapex|Toxic|p2a: Tornadus
+|-status|p2a: Tornadus|tox
+|
+|-damage|p2a: Tornadus|94/100 tox|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1677820331
+|move|p2a: Tornadus|U-turn|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|78/100
+|
+|t:|1677820337
+|switch|p2a: Slowbro|Slowbro, F|52/100|[from] U-turn
+|move|p1a: Toxapex|Scald|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|43/100
+|-status|p2a: Slowbro|brn
+|
+|-damage|p2a: Slowbro|37/100 brn|[from] brn
+|upkeep
+|turn|22
+|
+|t:|1677820347
+|switch|p1a: Diggersby|Diggersby, F|100/100
+|move|p2a: Slowbro|Future Sight|p1a: Diggersby
+|-start|p2a: Slowbro|move: Future Sight
+|
+|-damage|p2a: Slowbro|30/100 brn|[from] brn
+|upkeep
+|turn|23
+|
+|t:|1677820355
+|move|p1a: Diggersby|Knock Off|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|0 fnt
+|-damage|p1a: Diggersby|84/100|[from] item: Rocky Helmet|[of] p2a: Slowbro
+|-enditem|p2a: Slowbro|Rocky Helmet|[from] move: Knock Off|[of] p1a: Diggersby
+|faint|p2a: Slowbro
+|
+|upkeep
+|
+|t:|1677820362
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100 tox
+|turn|24
+|
+|t:|1677820369
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|move|p2a: Tornadus|Knock Off|p1a: Toxapex
+|-damage|p1a: Toxapex|90/100
+|
+|-end|p1a: Toxapex|move: Future Sight
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|35/100
+|-damage|p2a: Tornadus|94/100 tox|[from] psn
+|upkeep
+|turn|25
+|
+|t:|1677820385
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|85/100
+|
+|upkeep
+|turn|26
+|
+|t:|1677820392
+|move|p2a: Garchomp|Protect|p2a: Garchomp
+|-singleturn|p2a: Garchomp|Protect
+|move|p1a: Toxapex|Toxic|p2a: Garchomp
+|-activate|p2a: Garchomp|move: Protect
+|
+|upkeep
+|turn|27
+|
+|t:|1677820398
+|move|p2a: Garchomp|Earthquake|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|22/100
+|move|p1a: Toxapex|Toxic|p2a: Garchomp
+|-status|p2a: Garchomp|tox
+|
+|-damage|p2a: Garchomp|94/100 tox|[from] psn
+|upkeep
+|turn|28
+|
+|t:|1677820406
+|move|p1a: Toxapex|Baneful Bunker|p1a: Toxapex
+|-singleturn|p1a: Toxapex|move: Protect
+|move|p2a: Garchomp|Earthquake|p1a: Toxapex
+|-activate|p1a: Toxapex|move: Protect
+|
+|-heal|p2a: Garchomp|100/100 tox|[from] item: Leftovers
+|-damage|p2a: Garchomp|88/100 tox|[from] psn
+|upkeep
+|turn|29
+|
+|t:|1677820410
+|move|p2a: Garchomp|Earthquake|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|0 fnt
+|faint|p1a: Toxapex
+|
+|-heal|p2a: Garchomp|94/100 tox|[from] item: Leftovers
+|-damage|p2a: Garchomp|76/100 tox|[from] psn
+|upkeep
+|
+|t:|1677820417
+|switch|p1a: Inteleon|Inteleon, M|81/100
+|turn|30
+|
+|t:|1677820425
+|move|p1a: Inteleon|Ice Beam|p2a: Garchomp
+|-supereffective|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|faint|p2a: Garchomp
+|-damage|p1a: Inteleon|71/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1677820431
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100 tox
+|turn|31
+|
+|t:|1677820435
+|move|p1a: Inteleon|Ice Beam|p2a: Tornadus
+|-supereffective|p2a: Tornadus
+|-damage|p2a: Tornadus|21/100 tox
+|-damage|p1a: Inteleon|61/100|[from] item: Life Orb
+|move|p2a: Tornadus|Knock Off|p1a: Inteleon
+|-damage|p1a: Inteleon|27/100
+|-enditem|p1a: Inteleon|Life Orb|[from] move: Knock Off|[of] p2a: Tornadus
+|
+|-damage|p2a: Tornadus|15/100 tox|[from] psn
+|upkeep
+|turn|32
+|
+|t:|1677820446
+|switch|p2a: Blaziken|Blaziken, M|100/100
+|move|p1a: Inteleon|Surf|p2a: Blaziken
+|-supereffective|p2a: Blaziken
+|-damage|p2a: Blaziken|0 fnt
+|faint|p2a: Blaziken
+|
+|upkeep
+|c|☆zenesthyl|gg
+|c|☆RST4|gg
+|
+|t:|1677820455
+|switch|p2a: Tornadus|Tornadus-Therian, M|49/100 tox
+|turn|33
+|
+|t:|1677820460
+|move|p1a: Inteleon|Ice Beam|p2a: Tornadus
+|-supereffective|p2a: Tornadus
+|-damage|p2a: Tornadus|0 fnt
+|faint|p2a: Tornadus
+|
+|win|RST4
+|raw|RST4's rating: 1426 &rarr; <strong>1442</strong><br />(+16 for winning)
+|raw|zenesthyl's rating: 1351 &rarr; <strong>1335</strong><br />(-16 for losing)

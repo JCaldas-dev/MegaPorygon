@@ -1,0 +1,408 @@
+|j|☆Bluesnowflakes
+|j|☆SirPops
+|t:|1677815569
+|gametype|singles
+|player|p1|Bluesnowflakes|1|1093
+|player|p2|SirPops|red|1119
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Arctozolt|
+|poke|p1|Aurorus, F|
+|poke|p1|Volcarona, F|
+|poke|p1|Garchomp, F|
+|poke|p1|Drifblim, M|
+|poke|p1|Blissey, F|
+|poke|p2|Decidueye, M|
+|poke|p2|Cramorant, M|
+|poke|p2|Braviary, M|
+|poke|p2|Bellossom, F|
+|poke|p2|Torkoal, F|
+|poke|p2|Magneton|
+|teampreview
+|
+|t:|1677815575
+|start
+|switch|p1a: Aurorus|Aurorus, F|100/100
+|switch|p2a: ughhhh|Torkoal, F|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Aurorus
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: ughhhh
+|turn|1
+|
+|t:|1677815609
+|switch|p1a: Volcarona|Volcarona, F|100/100
+|move|p2a: ughhhh|Ancient Power|p1a: Volcarona
+|-supereffective|p1a: Volcarona
+|-damage|p1a: Volcarona|37/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1677815631
+|switch|p1a: Aurorus|Aurorus, F|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Aurorus
+|move|p2a: ughhhh|Ancient Power|p1a: Aurorus
+|-supereffective|p1a: Aurorus
+|-damage|p1a: Aurorus|84/100
+|-boost|p2a: ughhhh|atk|1
+|-boost|p2a: ughhhh|def|1
+|-boost|p2a: ughhhh|spa|1
+|-boost|p2a: ughhhh|spd|1
+|-boost|p2a: ughhhh|spe|1
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: ughhhh|94/100|[from] Hail
+|upkeep
+|turn|3
+|
+|t:|1677815639
+|move|p1a: Aurorus|Aurora Veil|p1a: Aurorus
+|-sidestart|p1: Bluesnowflakes|move: Aurora Veil
+|move|p2a: ughhhh|Ancient Power|p1a: Aurorus
+|-supereffective|p1a: Aurorus
+|-damage|p1a: Aurorus|71/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: ughhhh|88/100|[from] Hail
+|upkeep
+|turn|4
+|
+|t:|1677815660
+|switch|p1a: Arctozolt|Arctozolt|100/100
+|move|p2a: ughhhh|Ancient Power|p1a: Arctozolt
+|-supereffective|p1a: Arctozolt
+|-damage|p1a: Arctozolt|79/100
+|-boost|p2a: ughhhh|atk|1
+|-boost|p2a: ughhhh|def|1
+|-boost|p2a: ughhhh|spa|1
+|-boost|p2a: ughhhh|spd|1
+|-boost|p2a: ughhhh|spe|1
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: ughhhh|82/100|[from] Hail
+|upkeep
+|turn|5
+|
+|t:|1677815665
+|move|p1a: Arctozolt|Bolt Beak|p2a: ughhhh
+|-damage|p2a: ughhhh|39/100
+|-damage|p1a: Arctozolt|69/100|[from] item: Life Orb
+|move|p2a: ughhhh|Fire Blast|p1a: Arctozolt|[miss]
+|-miss|p2a: ughhhh|p1a: Arctozolt
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: ughhhh|33/100|[from] Hail
+|upkeep
+|turn|6
+|
+|t:|1677815677
+|move|p1a: Arctozolt|Bolt Beak|p2a: ughhhh
+|-damage|p2a: ughhhh|0 fnt
+|faint|p2a: ughhhh
+|-damage|p1a: Arctozolt|59/100|[from] item: Life Orb
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|
+|t:|1677815683
+|switch|p2a: fartinmyass|Magneton|100/100
+|turn|7
+|
+|t:|1677815691
+|move|p1a: Arctozolt|Stone Edge|p2a: fartinmyass
+|-resisted|p2a: fartinmyass
+|-damage|p2a: fartinmyass|86/100
+|-damage|p1a: Arctozolt|49/100|[from] item: Life Orb
+|move|p2a: fartinmyass|Flash Cannon|p1a: Arctozolt
+|-damage|p1a: Arctozolt|26/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: fartinmyass|80/100|[from] Hail
+|-sideend|p1: Bluesnowflakes|move: Aurora Veil
+|upkeep
+|turn|8
+|
+|t:|1677815711
+|switch|p1a: Blissey|Blissey, F|100/100
+|move|p2a: fartinmyass|Flash Cannon|p1a: Blissey
+|-damage|p1a: Blissey|83/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: fartinmyass|74/100|[from] Hail
+|-damage|p1a: Blissey|77/100|[from] Hail
+|-heal|p1a: Blissey|83/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1677815716
+|switch|p2a: hmm|Decidueye, M|100/100
+|move|p1a: Blissey|Wish|p1a: Blissey
+|
+|-weather|none
+|-heal|p1a: Blissey|89/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1677815732
+|switch|p1a: Arctozolt|Arctozolt|26/100
+|move|p2a: hmm|Seed Bomb|p1a: Arctozolt
+|-damage|p1a: Arctozolt|0 fnt
+|faint|p1a: Arctozolt
+|
+|upkeep
+|
+|t:|1677815738
+|switch|p1a: Aurorus|Aurorus, F|71/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Aurorus
+|turn|11
+|
+|t:|1677815745
+|move|p2a: hmm|Seed Bomb|p1a: Aurorus
+|-supereffective|p1a: Aurorus
+|-damage|p1a: Aurorus|0 fnt
+|faint|p1a: Aurorus
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: hmm|94/100|[from] Hail
+|upkeep
+|
+|t:|1677815747
+|switch|p1a: Volcarona|Volcarona, F|37/100
+|turn|12
+|
+|t:|1677815761
+|switch|p1a: Drifblim|Drifblim, M|100/100
+|move|p2a: hmm|Brave Bird|p1a: Drifblim
+|-damage|p1a: Drifblim|31/100
+|-damage|p2a: hmm|66/100|[from] Recoil
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Drifblim|25/100|[from] Hail
+|-damage|p2a: hmm|60/100|[from] Hail
+|-status|p1a: Drifblim|brn|[from] item: Flame Orb
+|upkeep
+|turn|13
+|
+|t:|1677815771
+|move|p2a: hmm|Sucker Punch||[still]
+|-fail|p2a: hmm
+|move|p1a: Drifblim|Strength Sap|p2a: hmm
+|-unboost|p2a: hmm|atk|1
+|-heal|p1a: Drifblim|100/100 brn
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Drifblim|94/100 brn|[from] Hail
+|-damage|p2a: hmm|54/100|[from] Hail
+|-damage|p1a: Drifblim|88/100 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1677815785
+|move|p1a: Drifblim|Knock Off|p2a: hmm
+|-supereffective|p2a: hmm
+|-damage|p2a: hmm|30/100
+|-enditem|p2a: hmm|Muscle Band|[from] move: Knock Off|[of] p1a: Drifblim
+|move|p2a: hmm|Spirit Shackle|p1a: Drifblim
+|-supereffective|p1a: Drifblim
+|-damage|p1a: Drifblim|0 fnt
+|faint|p1a: Drifblim
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: hmm|24/100|[from] Hail
+|upkeep
+|
+|t:|1677815797
+|switch|p1a: Blissey|Blissey, F|89/100
+|turn|15
+|
+|t:|1677815808
+|move|p2a: hmm|Seed Bomb|p1a: Blissey
+|-damage|p1a: Blissey|55/100
+|move|p1a: Blissey|Wish|p1a: Blissey
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: hmm|18/100|[from] Hail
+|-damage|p1a: Blissey|49/100|[from] Hail
+|-heal|p1a: Blissey|55/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1677815831
+|switch|p1a: Volcarona|Volcarona, F|37/100
+|move|p2a: hmm|Seed Bomb|p1a: Volcarona
+|-resisted|p1a: Volcarona
+|-damage|p1a: Volcarona|23/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Volcarona|17/100|[from] Hail
+|-damage|p2a: hmm|12/100|[from] Hail
+|-heal|p1a: Volcarona|100/100|[from] move: Wish|[wisher] Blissey
+|upkeep
+|turn|17
+|
+|t:|1677815847
+|switch|p1a: Blissey|Blissey, F|55/100
+|move|p2a: hmm|Brave Bird|p1a: Blissey
+|-damage|p1a: Blissey|33/100
+|-damage|p2a: hmm|0 fnt|[from] Recoil
+|faint|p2a: hmm
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Blissey|27/100|[from] Hail
+|-heal|p1a: Blissey|33/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1677815854
+|switch|p2a: AMWERICAFFYEAHH|Braviary, M|100/100
+|turn|18
+|
+|t:|1677815861
+|move|p2a: AMWERICAFFYEAHH|Bulk Up|p2a: AMWERICAFFYEAHH
+|-boost|p2a: AMWERICAFFYEAHH|atk|1
+|-boost|p2a: AMWERICAFFYEAHH|def|1
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|83/100
+|
+|-weather|none
+|-heal|p1a: Blissey|89/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1677815871
+|switch|p1a: Garchomp|Garchomp, F|100/100
+|move|p2a: AMWERICAFFYEAHH|Bulk Up|p2a: AMWERICAFFYEAHH
+|-boost|p2a: AMWERICAFFYEAHH|atk|1
+|-boost|p2a: AMWERICAFFYEAHH|def|1
+|
+|upkeep
+|turn|20
+|
+|t:|1677815883
+|move|p2a: AMWERICAFFYEAHH|Brave Bird|p1a: Garchomp
+|-damage|p1a: Garchomp|8/100
+|-damage|p2a: AMWERICAFFYEAHH|88/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-damage|p2a: AMWERICAFFYEAHH|72/100|[from] item: Rocky Helmet|[of] p1a: Garchomp
+|-damage|p2a: AMWERICAFFYEAHH|45/100|[from] Recoil
+|move|p1a: Garchomp|Dragon Tail|p2a: AMWERICAFFYEAHH
+|-damage|p2a: AMWERICAFFYEAHH|31/100
+|drag|p2a: fartinmyass|Magneton|74/100
+|
+|upkeep
+|turn|21
+|
+|t:|1677815888
+|switch|p2a: blepblepblep|Cramorant, M|100/100
+|move|p1a: Garchomp|Earthquake|p2a: blepblepblep
+|-immune|p2a: blepblepblep
+|
+|upkeep
+|turn|22
+|
+|t:|1677815895
+|move|p2a: blepblepblep|Icy Wind|p1a: Garchomp|[miss]
+|-miss|p2a: blepblepblep|p1a: Garchomp
+|move|p1a: Garchomp|Dragon Tail|p2a: blepblepblep
+|-damage|p2a: blepblepblep|62/100
+|drag|p2a: AMWERICAFFYEAHH|Braviary, M|31/100
+|
+|upkeep
+|turn|23
+|
+|t:|1677815901
+|move|p2a: AMWERICAFFYEAHH|Brave Bird|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|-damage|p2a: AMWERICAFFYEAHH|19/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-damage|p2a: AMWERICAFFYEAHH|2/100|[from] item: Rocky Helmet|[of] p1a: Garchomp
+|-enditem|p2a: AMWERICAFFYEAHH|Iapapa Berry|[eat]
+|-heal|p2a: AMWERICAFFYEAHH|35/100|[from] item: Iapapa Berry
+|faint|p1a: Garchomp
+|-damage|p2a: AMWERICAFFYEAHH|33/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1677815909
+|switch|p1a: Blissey|Blissey, F|89/100
+|turn|24
+|
+|t:|1677815913
+|move|p2a: AMWERICAFFYEAHH|Close Combat|p1a: Blissey
+|-supereffective|p1a: Blissey
+|-damage|p1a: Blissey|30/100
+|-unboost|p2a: AMWERICAFFYEAHH|def|1
+|-unboost|p2a: AMWERICAFFYEAHH|spd|1
+|move|p1a: Blissey|Wish|p1a: Blissey
+|
+|-heal|p1a: Blissey|36/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1677815921
+|switch|p1a: Volcarona|Volcarona, F|100/100
+|move|p2a: AMWERICAFFYEAHH|Close Combat|p1a: Volcarona
+|-resisted|p1a: Volcarona
+|-damage|p1a: Volcarona|74/100
+|-unboost|p2a: AMWERICAFFYEAHH|def|1
+|-unboost|p2a: AMWERICAFFYEAHH|spd|1
+|
+|-heal|p1a: Volcarona|100/100|[from] move: Wish|[wisher] Blissey
+|upkeep
+|turn|26
+|
+|t:|1677815928
+|switch|p2a: blepblepblep|Cramorant, M|62/100
+|move|p1a: Volcarona|Fiery Dance|p2a: blepblepblep
+|-resisted|p2a: blepblepblep
+|-damage|p2a: blepblepblep|33/100
+|-boost|p1a: Volcarona|spa|1
+|
+|upkeep
+|turn|27
+|
+|t:|1677815934
+|move|p1a: Volcarona|Giga Drain|p2a: blepblepblep
+|-damage|p2a: blepblepblep|0 fnt
+|faint|p2a: blepblepblep
+|
+|upkeep
+|
+|t:|1677815941
+|switch|p2a: AMWERICAFFYEAHH|Braviary, M|33/100
+|turn|28
+|
+|t:|1677815948
+|move|p1a: Volcarona|Fiery Dance|p2a: AMWERICAFFYEAHH
+|-damage|p2a: AMWERICAFFYEAHH|0 fnt
+|faint|p2a: AMWERICAFFYEAHH
+|
+|upkeep
+|
+|t:|1677815954
+|switch|p2a: missnewbooty|Bellossom, F|100/100
+|turn|29
+|
+|t:|1677815962
+|move|p1a: Volcarona|Fiery Dance|p2a: missnewbooty
+|-supereffective|p2a: missnewbooty
+|-damage|p2a: missnewbooty|0 fnt
+|-boost|p1a: Volcarona|spa|1
+|faint|p2a: missnewbooty
+|
+|upkeep
+|-message|SirPops forfeited.
+|
+|win|Bluesnowflakes
+|raw|Bluesnowflakes's rating: 1093 &rarr; <strong>1123</strong><br />(+30 for winning)
+|raw|SirPops's rating: 1140 &rarr; <strong>1112</strong><br />(-28 for losing)
+|l|☆SirPops

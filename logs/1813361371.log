@@ -1,0 +1,347 @@
+|j|☆tunechinhobr
+|j|☆Gamewolf378
+|t:|1677863023
+|gametype|singles
+|player|p1|tunechinhobr|2|1124
+|player|p2|Gamewolf378|101|1108
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Slowking, F|
+|poke|p1|Marowak-Alola, F|
+|poke|p1|Exeggutor-Alola, F|
+|poke|p1|Conkeldurr, F|
+|poke|p1|Celesteela|
+|poke|p1|Hippowdon, M|
+|poke|p2|Corviknight, F|
+|poke|p2|Bisharp, F|
+|poke|p2|Volcarona, M|
+|poke|p2|Excadrill, F|
+|poke|p2|Tapu Koko|
+|poke|p2|Pelipper, M|
+|teampreview
+|
+|t:|1677863050
+|start
+|switch|p1a: Slowking|Slowking, F|100/100
+|switch|p2a: Lance|Corviknight, F|100/100
+|-ability|p2a: Lance|Pressure
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Gamewolf378)
+|
+|t:|1677863073
+|move|p2a: Lance|Iron Defense|p2a: Lance
+|-boost|p2a: Lance|def|2
+|move|p1a: Slowking|Trick Room|p1a: Slowking
+|-fieldstart|move: Trick Room|[of] p1a: Slowking
+|
+|upkeep
+|turn|2
+|
+|t:|1677863081
+|switch|p1a: Celesteela|Celesteela|100/100
+|move|p2a: Lance|Iron Defense|p2a: Lance
+|-boost|p2a: Lance|def|2
+|
+|upkeep
+|turn|3
+|
+|t:|1677863098
+|move|p1a: Celesteela|Flamethrower|p2a: Lance
+|-supereffective|p2a: Lance
+|-damage|p2a: Lance|59/100
+|-enditem|p2a: Lance|Maranga Berry|[eat]
+|-boost|p2a: Lance|spd|1|[from] item: Maranga Berry
+|move|p2a: Lance|Iron Defense|p2a: Lance
+|-boost|p2a: Lance|def|2
+|
+|upkeep
+|turn|4
+|
+|t:|1677863116
+|move|p1a: Celesteela|Flamethrower|p2a: Lance
+|-supereffective|p2a: Lance
+|-damage|p2a: Lance|30/100
+|move|p2a: Lance|Roost|p2a: Lance
+|-heal|p2a: Lance|80/100
+|-singleturn|p2a: Lance|move: Roost
+|
+|upkeep
+|turn|5
+|
+|t:|1677863131
+|move|p1a: Celesteela|Flamethrower|p2a: Lance
+|-supereffective|p2a: Lance
+|-damage|p2a: Lance|50/100
+|move|p2a: Lance|Agility|p2a: Lance
+|-boost|p2a: Lance|spe|2
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|6
+|
+|t:|1677863152
+|move|p2a: Lance|Power Trip|p1a: Celesteela
+|-damage|p1a: Celesteela|66/100
+|move|p1a: Celesteela|Flamethrower|p2a: Lance
+|-supereffective|p2a: Lance
+|-damage|p2a: Lance|25/100
+|
+|-heal|p1a: Celesteela|72/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1677863163
+|move|p2a: Lance|Roost|p2a: Lance
+|-heal|p2a: Lance|75/100
+|-singleturn|p2a: Lance|move: Roost
+|move|p1a: Celesteela|Flamethrower|p2a: Lance
+|-supereffective|p2a: Lance
+|-damage|p2a: Lance|48/100
+|-status|p2a: Lance|brn
+|
+|-heal|p1a: Celesteela|78/100|[from] item: Leftovers
+|-damage|p2a: Lance|42/100 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1677863179
+|move|p2a: Lance|Agility|p2a: Lance
+|-boost|p2a: Lance|spe|2
+|move|p1a: Celesteela|Flamethrower|p2a: Lance
+|-supereffective|p2a: Lance
+|-damage|p2a: Lance|16/100 brn
+|
+|-heal|p1a: Celesteela|83/100|[from] item: Leftovers
+|-damage|p2a: Lance|10/100 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1677863192
+|move|p2a: Lance|Roost|p2a: Lance
+|-heal|p2a: Lance|60/100 brn
+|-singleturn|p2a: Lance|move: Roost
+|move|p1a: Celesteela|Flamethrower|p2a: Lance
+|-supereffective|p2a: Lance
+|-damage|p2a: Lance|34/100 brn
+|
+|-heal|p1a: Celesteela|89/100|[from] item: Leftovers
+|-damage|p2a: Lance|28/100 brn|[from] brn
+|upkeep
+|turn|10
+|inactive|tunechinhobr has 120 seconds left.
+|
+|t:|1677863214
+|move|p2a: Lance|Power Trip|p1a: Celesteela
+|-damage|p1a: Celesteela|67/100
+|move|p1a: Celesteela|Flamethrower|p2a: Lance
+|-supereffective|p2a: Lance
+|-damage|p2a: Lance|2/100 brn
+|
+|-heal|p1a: Celesteela|73/100|[from] item: Leftovers
+|-damage|p2a: Lance|0 fnt|[from] brn
+|faint|p2a: Lance
+|upkeep
+|inactive|Gamewolf378 has 120 seconds left.
+|
+|t:|1677863241
+|switch|p2a: Shinespark|Tapu Koko, shiny|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Shinespark
+|turn|11
+|
+|t:|1677863251
+|switch|p1a: Exeggutor|Exeggutor-Alola, F, shiny|100/100
+|move|p2a: Shinespark|Calm Mind|p2a: Shinespark
+|-boost|p2a: Shinespark|spa|1
+|-boost|p2a: Shinespark|spd|1
+|
+|upkeep
+|turn|12
+|
+|t:|1677863260
+|move|p2a: Shinespark|Dazzling Gleam|p1a: Exeggutor
+|-supereffective|p1a: Exeggutor
+|-damage|p1a: Exeggutor|0 fnt
+|faint|p1a: Exeggutor
+|
+|upkeep
+|
+|t:|1677863269
+|switch|p1a: Marowak|Marowak-Alola, F|100/100
+|turn|13
+|
+|t:|1677863284
+|move|p2a: Shinespark|Thunder|p1a: Marowak
+|-ability|p1a: Marowak|Lightning Rod|boost
+|-boost|p1a: Marowak|spa|1
+|move|p1a: Marowak|Poltergeist|p2a: Shinespark
+|-activate|p2a: Shinespark|move: Poltergeist|Magnet
+|-damage|p2a: Shinespark|0 fnt
+|faint|p2a: Shinespark
+|
+|upkeep
+|
+|t:|1677863298
+|switch|p2a: Lifebringer|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Lifebringer
+|turn|14
+|
+|t:|1677863307
+|switch|p1a: Slowking|Slowking, F|100/100
+|move|p2a: Lifebringer|Weather Ball|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|76/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1677863316
+|move|p2a: Lifebringer|Hurricane|p1a: Slowking
+|-damage|p1a: Slowking|41/100
+|move|p1a: Slowking|Trick Room|p1a: Slowking
+|-fieldstart|move: Trick Room|[of] p1a: Slowking
+|
+|-weather|RainDance|[upkeep]
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|16
+|
+|t:|1677863324
+|switch|p1a: Conkeldurr|Conkeldurr, F|100/100
+|move|p2a: Lifebringer|Hurricane|p1a: Conkeldurr
+|-supereffective|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|0 fnt
+|faint|p1a: Conkeldurr
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1677863336
+|switch|p1a: Hippowdon|Hippowdon, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|turn|17
+|
+|t:|1677863354
+|move|p1a: Hippowdon|Toxic|p2a: Lifebringer
+|-status|p2a: Lifebringer|tox
+|move|p2a: Lifebringer|Ice Beam|p1a: Hippowdon
+|-supereffective|p1a: Hippowdon
+|-damage|p1a: Hippowdon|50/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Lifebringer|94/100 tox|[from] Sandstorm
+|-heal|p1a: Hippowdon|57/100|[from] item: Leftovers
+|-damage|p2a: Lifebringer|88/100 tox|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1677863369
+|switch|p1a: Slowking|Slowking, F|74/100
+|move|p2a: Lifebringer|Ice Beam|p1a: Slowking
+|-resisted|p1a: Slowking
+|-crit|p1a: Slowking
+|-damage|p1a: Slowking|59/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Slowking|53/100|[from] Sandstorm
+|-damage|p2a: Lifebringer|82/100 tox|[from] Sandstorm
+|-damage|p2a: Lifebringer|70/100 tox|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1677863382
+|move|p1a: Slowking|Slack Off|p1a: Slowking
+|-heal|p1a: Slowking|100/100
+|move|p2a: Lifebringer|Hurricane|p1a: Slowking
+|-damage|p1a: Slowking|63/100
+|-start|p1a: Slowking|confusion
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Slowking|57/100|[from] Sandstorm
+|-damage|p2a: Lifebringer|63/100 tox|[from] Sandstorm
+|-damage|p2a: Lifebringer|45/100 tox|[from] psn
+|-fieldend|move: Trick Room
+|upkeep
+|turn|20
+|
+|t:|1677863400
+|switch|p2a: Susie|Bisharp, F, shiny|100/100
+|-activate|p1a: Slowking|confusion
+|move|p1a: Slowking|Slack Off|p1a: Slowking
+|-heal|p1a: Slowking|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Slowking|94/100|[from] Sandstorm
+|upkeep
+|turn|21
+|
+|t:|1677863413
+|move|p2a: Susie|Swords Dance|p2a: Susie
+|-boost|p2a: Susie|atk|2
+|-end|p1a: Slowking|confusion
+|move|p1a: Slowking|Trick Room|p1a: Slowking
+|-fieldstart|move: Trick Room|[of] p1a: Slowking
+|
+|-weather|none
+|upkeep
+|turn|22
+|
+|t:|1677863419
+|switch|p1a: Celesteela|Celesteela|73/100
+|move|p2a: Susie|Swords Dance|p2a: Susie
+|-boost|p2a: Susie|atk|2
+|
+|-heal|p1a: Celesteela|79/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1677863426
+|move|p1a: Celesteela|Flamethrower|p2a: Susie
+|-supereffective|p2a: Susie
+|-damage|p2a: Susie|22/100
+|move|p2a: Susie|Swords Dance|p2a: Susie
+|-boost|p2a: Susie|atk|2
+|
+|-heal|p1a: Celesteela|85/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1677863435
+|move|p2a: Susie|Sucker Punch|p1a: Celesteela
+|-damage|p1a: Celesteela|0 fnt
+|faint|p1a: Celesteela
+|
+|upkeep
+|
+|t:|1677863440
+|switch|p1a: Marowak|Marowak-Alola, F|100/100
+|turn|25
+|
+|t:|1677863446
+|move|p2a: Susie|Sucker Punch|p1a: Marowak
+|-supereffective|p1a: Marowak
+|-crit|p1a: Marowak
+|-damage|p1a: Marowak|0 fnt
+|faint|p1a: Marowak
+|
+|-fieldend|move: Trick Room
+|upkeep
+|-message|tunechinhobr forfeited.
+|
+|win|Gamewolf378
+|raw|tunechinhobr's rating: 1124 &rarr; <strong>1098</strong><br />(-26 for losing)
+|raw|Gamewolf378's rating: 1108 &rarr; <strong>1134</strong><br />(+26 for winning)
+|l|☆tunechinhobr
+|c|☆Gamewolf378|gg

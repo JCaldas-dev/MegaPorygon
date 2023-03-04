@@ -1,0 +1,330 @@
+|j|☆ei weiwei
+|j|☆Kabochaw
+|t:|1677883765
+|gametype|singles
+|player|p1|ei weiwei|pokekid|1086
+|player|p2|Kabochaw|2|1134
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Rapidash, F|
+|poke|p1|Decidueye, M|
+|poke|p1|Kingdra, F|
+|poke|p1|Rotom|
+|poke|p1|Togekiss, M|
+|poke|p1|Tapu Lele|
+|poke|p2|Zapdos|
+|poke|p2|Heatran, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Rillaboom, F|
+|poke|p2|Dragapult, M|
+|poke|p2|Urshifu-*, M|
+|teampreview
+|
+|t:|1677883780
+|start
+|switch|p1a: Rotom|Rotom|100/100
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|turn|1
+|
+|t:|1677883791
+|move|p1a: Rotom|Thunder Wave|p2a: Urshifu
+|-status|p2a: Urshifu|par
+|cant|p2a: Urshifu|par
+|
+|upkeep
+|turn|2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ei weiwei)
+|
+|t:|1677883813
+|switch|p1a: Kingdra|Kingdra, F|100/100
+|move|p2a: Urshifu|Surging Strikes|p1a: Kingdra
+|-resisted|p1a: Kingdra
+|-crit|p1a: Kingdra
+|-damage|p1a: Kingdra|93/100
+|-resisted|p1a: Kingdra
+|-crit|p1a: Kingdra
+|-damage|p1a: Kingdra|84/100
+|-resisted|p1a: Kingdra
+|-crit|p1a: Kingdra
+|-damage|p1a: Kingdra|77/100
+|-hitcount|p1a: Kingdra|3
+|
+|upkeep
+|turn|3
+|inactive|ei weiwei has 120 seconds left.
+|
+|t:|1677883844
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Kingdra|Laser Focus|p1a: Kingdra
+|-start|p1a: Kingdra|move: Laser Focus
+|
+|upkeep
+|turn|4
+|inactive|ei weiwei has 120 seconds left.
+|
+|t:|1677883859
+|move|p2a: Zapdos|Discharge|p1a: Kingdra
+|-damage|p1a: Kingdra|39/100
+|move|p1a: Kingdra|Ice Beam|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-crit|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|-end|p1a: Kingdra|move: Laser Focus|[silent]
+|upkeep
+|
+|t:|1677883870
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|turn|5
+|
+|t:|1677883876
+|switch|p1a: Vanilla bingqiling|Togekiss, M, shiny|100/100
+|move|p2a: Dragapult|Shadow Ball|p1a: Vanilla bingqiling
+|-damage|p1a: Vanilla bingqiling|53/100
+|
+|-heal|p1a: Vanilla bingqiling|59/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1677883883
+|move|p2a: Dragapult|Shadow Ball|p1a: Vanilla bingqiling
+|-damage|p1a: Vanilla bingqiling|10/100
+|move|p1a: Vanilla bingqiling|Tailwind|p1a: Vanilla bingqiling
+|-sidestart|p1: ei weiwei|move: Tailwind
+|
+|-heal|p1a: Vanilla bingqiling|16/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1677883889
+|switch|p2a: Heatran|Heatran, F|100/100
+|move|p1a: Vanilla bingqiling|Dazzling Gleam|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|94/100
+|
+|-heal|p1a: Vanilla bingqiling|22/100|[from] item: Leftovers
+|-heal|p2a: Heatran|100/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1677883906
+|switch|p1a: Kingdra|Kingdra, F|39/100
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|
+|upkeep
+|turn|9
+|inactive|ei weiwei has 120 seconds left.
+|
+|t:|1677883938
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Kingdra|Ice Beam|p2a: Rillaboom
+|-supereffective|p2a: Rillaboom
+|-damage|p2a: Rillaboom|28/100
+|
+|-heal|p1a: Kingdra|46/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|34/100|[from] Grassy Terrain
+|-sideend|p1: ei weiwei|move: Tailwind
+|upkeep
+|turn|10
+|inactive|ei weiwei has 120 seconds left.
+|
+|t:|1677883950
+|move|p2a: Rillaboom|Swords Dance|p2a: Rillaboom
+|-boost|p2a: Rillaboom|atk|2
+|move|p1a: Kingdra|Ice Beam|p2a: Rillaboom
+|-supereffective|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|
+|-heal|p1a: Kingdra|52/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1677883957
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|turn|11
+|
+|t:|1677883966
+|move|p2a: Dragapult|Shadow Ball|p1a: Kingdra
+|-damage|p1a: Kingdra|0 fnt
+|faint|p1a: Kingdra
+|
+|upkeep
+|inactive|ei weiwei has 120 seconds left.
+|
+|t:|1677883977
+|switch|p1a: Rotom|Rotom|100/100
+|turn|12
+|
+|t:|1677883980
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Rotom|atk|1
+|move|p1a: Rotom|Shadow Ball|p2a: Landorus
+|-damage|p2a: Landorus|60/100
+|
+|-heal|p2a: Landorus|66/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|inactive|ei weiwei has 120 seconds left.
+|
+|t:|1677884001
+|move|p1a: Rotom|Shadow Ball|p2a: Landorus
+|-damage|p2a: Landorus|26/100
+|move|p2a: Landorus|Stealth Rock|p1a: Rotom
+|-sidestart|p1: ei weiwei|move: Stealth Rock
+|
+|-heal|p2a: Landorus|32/100|[from] item: Leftovers
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|14
+|inactive|ei weiwei has 120 seconds left.
+|
+|t:|1677884016
+|move|p1a: Rotom|Shadow Ball|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|upkeep
+|
+|t:|1677884025
+|switch|p2a: Heatran|Heatran, F|100/100
+|turn|15
+|inactive|ei weiwei has 120 seconds left.
+|
+|t:|1677884050
+|move|p1a: Rotom|Shadow Ball|p2a: Heatran
+|-damage|p2a: Heatran|76/100
+|move|p2a: Heatran|Magma Storm|p1a: Rotom
+|-damage|p1a: Rotom|30/100
+|-activate|p1a: Rotom|move: Magma Storm|[of] p2a: Heatran
+|
+|-heal|p2a: Heatran|83/100|[from] item: Leftovers
+|-damage|p1a: Rotom|18/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|16
+|
+|t:|1677884058
+|move|p1a: Rotom|Shadow Ball|p2a: Heatran
+|-damage|p2a: Heatran|61/100
+|move|p2a: Heatran|Magma Storm|p1a: Rotom|[miss]
+|-miss|p2a: Heatran|p1a: Rotom
+|
+|-heal|p2a: Heatran|67/100|[from] item: Leftovers
+|-damage|p1a: Rotom|5/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|17
+|
+|t:|1677884067
+|move|p1a: Rotom|Shadow Ball|p2a: Heatran
+|-damage|p2a: Heatran|45/100
+|move|p2a: Heatran|Magma Storm|p1a: Rotom
+|-damage|p1a: Rotom|0 fnt
+|faint|p1a: Rotom
+|
+|-heal|p2a: Heatran|51/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1677884070
+|switch|p1a: Vanilla bingqiling|Togekiss, M, shiny|22/100
+|-damage|p1a: Vanilla bingqiling|0 fnt|[from] Stealth Rock
+|faint|p1a: Vanilla bingqiling
+|
+|t:|1677884080
+|switch|p1a: Yabadabadoo|Rapidash, F, shiny|100/100
+|-damage|p1a: Yabadabadoo|76/100|[from] Stealth Rock
+|turn|18
+|
+|t:|1677884085
+|move|p1a: Yabadabadoo|Drill Run|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|upkeep
+|
+|t:|1677884087
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|100/100 par
+|turn|19
+|
+|t:|1677884094
+|move|p1a: Yabadabadoo|Wild Charge|p2a: Urshifu
+|-supereffective|p2a: Urshifu
+|-damage|p2a: Urshifu|45/100 par
+|-damage|p1a: Yabadabadoo|62/100|[from] Recoil
+|move|p2a: Urshifu|Surging Strikes|p1a: Yabadabadoo
+|-supereffective|p1a: Yabadabadoo
+|-crit|p1a: Yabadabadoo
+|-damage|p1a: Yabadabadoo|0 fnt
+|faint|p1a: Yabadabadoo
+|-hitcount|p1: Yabadabadoo|1
+|
+|upkeep
+|
+|t:|1677884110
+|switch|p1a: Decidueye|Decidueye, M, shiny|100/100
+|-damage|p1a: Decidueye|88/100|[from] Stealth Rock
+|turn|20
+|
+|t:|1677884116
+|move|p1a: Decidueye|Poltergeist|p2a: Urshifu
+|-activate|p2a: Urshifu|move: Poltergeist|Choice Band
+|-damage|p2a: Urshifu|0 fnt
+|faint|p2a: Urshifu
+|
+|-heal|p1a: Decidueye|94/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1677884123
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|turn|21
+|inactive|ei weiwei has 120 seconds left.
+|
+|t:|1677884156
+|move|p2a: Dragapult|Shadow Ball|p1a: Decidueye
+|-supereffective|p1a: Decidueye
+|-damage|p1a: Decidueye|0 fnt
+|faint|p1a: Decidueye
+|
+|upkeep
+|
+|t:|1677884158
+|switch|p1a: Liquorice|Tapu Lele, shiny|100/100
+|-damage|p1a: Liquorice|88/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Liquorice
+|turn|22
+|
+|t:|1677884162
+|move|p2a: Dragapult|Shadow Ball|p1a: Liquorice
+|-supereffective|p1a: Liquorice
+|-damage|p1a: Liquorice|30/100
+|move|p1a: Liquorice|Moonblast|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|win|ei weiwei
+|raw|ei weiwei's rating: 1086 &rarr; <strong>1117</strong><br />(+31 for winning)
+|raw|Kabochaw's rating: 1134 &rarr; <strong>1106</strong><br />(-28 for losing)
+|c|☆ei weiwei|gg
+|c|☆ei weiwei|wp
+|l|☆Kabochaw
+|c|☆ei weiwei|u almost won woo
+|c|☆ei weiwei|too
+|c|☆ei weiwei|:(
+|c|☆ei weiwei|L
+|c|☆ei weiwei|L spelling
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

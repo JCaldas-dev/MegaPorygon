@@ -1,0 +1,308 @@
+|j|☆1APEfunny
+|j|☆das ddas
+|t:|1677792304
+|gametype|singles
+|player|p1|1APEfunny|n|1171
+|player|p2|das ddas|1|1169
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Torkoal, M|
+|poke|p1|Venusaur, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Garchomp, M|
+|poke|p1|Victini|
+|poke|p1|Clefable, F|
+|poke|p2|Azumarill, F|
+|poke|p2|Amoonguss, F|
+|poke|p2|Pincurchin, F|
+|poke|p2|Rotom-Wash|
+|poke|p2|Hawlucha, F|
+|poke|p2|Cloyster, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by 1APEfunny)
+|
+|t:|1677792332
+|start
+|switch|p1a: Torkoal|Torkoal, M|100/100
+|switch|p2a: Amoonguss|Amoonguss, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|turn|1
+|
+|t:|1677792341
+|switch|p2a: Pincurchin|Pincurchin, F|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Pincurchin
+|move|p1a: Torkoal|Lava Plume|p2a: Pincurchin
+|-damage|p2a: Pincurchin|55/100
+|-status|p2a: Pincurchin|brn
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Pincurchin|49/100 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1677792354
+|move|p1a: Torkoal|Lava Plume|p2a: Pincurchin
+|-damage|p2a: Pincurchin|0 fnt
+|faint|p2a: Pincurchin
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1677792361
+|switch|p2a: Rotom|Rotom-Wash|100/100
+|turn|3
+|
+|t:|1677792367
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|move|p2a: Rotom|Hydro Pump|p1a: Garchomp
+|-damage|p1a: Garchomp|79/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Garchomp|85/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1677792375
+|switch|p1a: Venusaur|Venusaur, M|100/100
+|move|p2a: Rotom|Will-O-Wisp|p1a: Venusaur
+|-status|p1a: Venusaur|brn
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Venusaur|95/100 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1677792391
+|switch|p2a: Amoonguss|Amoonguss, F|100/100
+|move|p1a: Venusaur|Growth|p1a: Venusaur
+|-boost|p1a: Venusaur|atk|2
+|-boost|p1a: Venusaur|spa|2
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Venusaur|89/100 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1677792407
+|move|p1a: Venusaur|Weather Ball|p2a: Amoonguss
+|-supereffective|p2a: Amoonguss
+|-damage|p2a: Amoonguss|0 fnt
+|faint|p2a: Amoonguss
+|-damage|p1a: Venusaur|79/100 brn|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Venusaur|73/100 brn|[from] brn
+|upkeep
+|
+|t:|1677792415
+|switch|p2a: Hawlucha|Hawlucha, F|100/100
+|-enditem|p2a: Hawlucha|Electric Seed
+|-boost|p2a: Hawlucha|def|1|[from] item: Electric Seed
+|turn|7
+|
+|t:|1677792431
+|move|p2a: Hawlucha|Fire Punch|p1a: Venusaur
+|-supereffective|p1a: Venusaur
+|-crit|p1a: Venusaur
+|-damage|p1a: Venusaur|0 fnt
+|faint|p1a: Venusaur
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1677792434
+|switch|p1a: V for vendetta|Victini|100/100
+|turn|8
+|
+|t:|1677792456
+|move|p2a: Hawlucha|Close Combat|p1a: V for vendetta
+|-resisted|p1a: V for vendetta
+|-damage|p1a: V for vendetta|75/100
+|-unboost|p2a: Hawlucha|def|1
+|-unboost|p2a: Hawlucha|spd|1
+|move|p1a: V for vendetta|Bolt Strike|p2a: Hawlucha
+|-supereffective|p2a: Hawlucha
+|-damage|p2a: Hawlucha|0 fnt
+|faint|p2a: Hawlucha
+|
+|-weather|none
+|-fieldend|move: Electric Terrain
+|upkeep
+|inactive|das ddas has 120 seconds left.
+|
+|t:|1677792489
+|switch|p2a: Azumarill|Azumarill, F|100/100
+|turn|9
+|inactive|das ddas has 90 seconds left.
+|
+|t:|1677792541
+|move|p1a: V for vendetta|Bolt Strike|p2a: Azumarill
+|-supereffective|p2a: Azumarill
+|-damage|p2a: Azumarill|27/100
+|-enditem|p2a: Azumarill|Sitrus Berry|[eat]
+|-heal|p2a: Azumarill|52/100|[from] item: Sitrus Berry
+|move|p2a: Azumarill|Belly Drum|p2a: Azumarill
+|-damage|p2a: Azumarill|2/100
+|-setboost|p2a: Azumarill|atk|6|[from] move: Belly Drum
+|
+|upkeep
+|turn|10
+|inactive|das ddas has 60 seconds left.
+|
+|t:|1677792562
+|switch|p1a: Torkoal|Torkoal, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|move|p2a: Azumarill|Aqua Jet|p1a: Torkoal
+|-supereffective|p1a: Torkoal
+|-damage|p1a: Torkoal|40/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|11
+|inactive|das ddas has 60 seconds left.
+|
+|t:|1677792571
+|move|p2a: Azumarill|Aqua Jet|p1a: Torkoal
+|-supereffective|p1a: Torkoal
+|-damage|p1a: Torkoal|0 fnt
+|faint|p1a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1677792574
+|switch|p1a: V for vendetta|Victini|75/100
+|turn|12
+|
+|t:|1677792582
+|move|p2a: Azumarill|Aqua Jet|p1a: V for vendetta
+|-supereffective|p1a: V for vendetta
+|-damage|p1a: V for vendetta|0 fnt
+|faint|p1a: V for vendetta
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1677792586
+|switch|p1a: Garchomp|Garchomp, M|85/100
+|turn|13
+|
+|t:|1677792589
+|move|p2a: Azumarill|Aqua Jet|p1a: Garchomp
+|-damage|p1a: Garchomp|33/100
+|-damage|p2a: Azumarill|0 fnt|[from] ability: Rough Skin|[of] p1a: Garchomp
+|faint|p2a: Azumarill
+|move|p1a: Garchomp|Earthquake|p2: Azumarill|[notarget]
+|-fail|p1a: Garchomp
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Garchomp|39/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1677792598
+|switch|p2a: Rotom|Rotom-Wash|100/100
+|turn|14
+|inactive|das ddas has 90 seconds left.
+|inactive|das ddas has 60 seconds left.
+|
+|t:|1677792646
+|switch|p1a: Clefable|Clefable, F|100/100
+|move|p2a: Rotom|Will-O-Wisp|p1a: Clefable|[miss]
+|-miss|p2a: Rotom|p1a: Clefable
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1677792662
+|move|p2a: Rotom|Will-O-Wisp|p1a: Clefable
+|-status|p1a: Clefable|brn
+|move|p1a: Clefable|Knock Off|p2a: Rotom
+|-damage|p2a: Rotom|94/100
+|-enditem|p2a: Rotom|Leftovers|[from] move: Knock Off|[of] p1a: Clefable
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1677792684
+|move|p2a: Rotom|Hydro Pump|p1a: Clefable
+|-damage|p1a: Clefable|84/100 brn
+|move|p1a: Clefable|Stealth Rock|p2a: Rotom
+|-sidestart|p2: das ddas|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Clefable|90/100 brn|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1677792695
+|move|p2a: Rotom|Hydro Pump|p1a: Clefable|[miss]
+|-miss|p2a: Rotom|p1a: Clefable
+|move|p1a: Clefable|Moonblast|p2a: Rotom
+|-damage|p2a: Rotom|61/100
+|-unboost|p2a: Rotom|spa|1
+|
+|-weather|none
+|-heal|p1a: Clefable|96/100 brn|[from] item: Leftovers
+|upkeep
+|turn|18
+|inactive|das ddas has 30 seconds left.
+|
+|t:|1677792710
+|move|p2a: Rotom|Hydro Pump|p1a: Clefable
+|-damage|p1a: Clefable|76/100 brn
+|move|p1a: Clefable|Moonblast|p2a: Rotom
+|-damage|p2a: Rotom|31/100
+|-unboost|p2a: Rotom|spa|1
+|
+|-heal|p1a: Clefable|82/100 brn|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1677792718
+|move|p2a: Rotom|Hydro Pump|p1a: Clefable|[miss]
+|-miss|p2a: Rotom|p1a: Clefable
+|move|p1a: Clefable|Moonblast|p2a: Rotom
+|-damage|p2a: Rotom|0 fnt
+|faint|p2a: Rotom
+|
+|-heal|p1a: Clefable|89/100 brn|[from] item: Leftovers
+|upkeep
+|inactive|das ddas has 30 seconds left.
+|
+|t:|1677792737
+|switch|p2a: Cloyster|Cloyster, F|100/100
+|-damage|p2a: Cloyster|76/100|[from] Stealth Rock
+|turn|20
+|inactive|das ddas has 30 seconds left.
+|
+|t:|1677792749
+|move|p2a: Cloyster|Shell Smash|p2a: Cloyster
+|-unboost|p2a: Cloyster|def|1
+|-unboost|p2a: Cloyster|spd|1
+|-boost|p2a: Cloyster|atk|2
+|-boost|p2a: Cloyster|spa|2
+|-boost|p2a: Cloyster|spe|2
+|move|p1a: Clefable|Moonblast|p2a: Cloyster
+|-damage|p2a: Cloyster|0 fnt
+|faint|p2a: Cloyster
+|
+|win|1APEfunny
+|inactive|das ddas has 30 seconds left this turn.
+|raw|1APEfunny's rating: 1171 &rarr; <strong>1196</strong><br />(+25 for winning)
+|raw|das ddas's rating: 1169 &rarr; <strong>1144</strong><br />(-25 for losing)
+|c|☆1APEfunny|gg
+|l|☆das ddas

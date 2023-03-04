@@ -1,0 +1,152 @@
+|j|☆Markolinho
+|j|☆paddlerSuisse
+|t:|1677883487
+|gametype|singles
+|player|p1|Markolinho|102|1452
+|player|p2|paddlerSuisse|dawn-gen4pt|1508
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Ferrothorn, F|
+|poke|p1|Toxapex, M|
+|poke|p1|Obstagoon, M|
+|poke|p1|Regieleki|
+|poke|p1|Garchomp, F|
+|poke|p1|Tornadus-Therian, M|
+|poke|p2|Pelipper, F|
+|poke|p2|Volcanion|
+|poke|p2|Thundurus-Therian, M|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Barraskewda, F|
+|poke|p2|Moltres-Galar|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Markolinho)
+|
+|t:|1677883521
+|start
+|switch|p1a: Endgame-Cleaner?|Regieleki|100/100
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|turn|1
+|
+|t:|1677883530
+|move|p1a: Endgame-Cleaner?|Volt Switch|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|81/100
+|
+|t:|1677883536
+|switch|p1a: I am Anti-Meta|Obstagoon, M|100/100|[from] Volt Switch
+|move|p2a: Ferrothorn|Stealth Rock|p1a: I am Anti-Meta
+|-sidestart|p1: Markolinho|move: Stealth Rock
+|
+|-heal|p2a: Ferrothorn|87/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1677883545
+|switch|p2a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: I am Anti-Meta|Knock Off|p2a: Pelipper
+|-damage|p2a: Pelipper|71/100
+|-enditem|p2a: Pelipper|Damp Rock|[from] move: Knock Off|[of] p1a: I am Anti-Meta
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1677883563
+|switch|p1a: Utility|Tornadus-Therian, M|100/100
+|move|p2a: Pelipper|U-turn|p1a: Utility
+|-resisted|p1a: Utility
+|-damage|p1a: Utility|96/100
+|
+|t:|1677883571
+|switch|p2a: Barraskewda|Barraskewda, F|100/100|[from] U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1677883579
+|switch|p1a: Universal-Check|Ferrothorn, F|100/100
+|-damage|p1a: Universal-Check|95/100|[from] Stealth Rock
+|move|p2a: Barraskewda|Flip Turn|p1a: Universal-Check
+|-resisted|p1a: Universal-Check
+|-damage|p1a: Universal-Check|81/100
+|-activate|p1a: Universal-Check|ability: Iron Barbs
+|-activate|p2a: Barraskewda|item: Protective Pads
+|
+|t:|1677883582
+|switch|p2a: Volcanion|Volcanion|100/100|[from] Flip Turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1677883595
+|switch|p1a: Win-Con|Toxapex, M|100/100
+|-damage|p1a: Win-Con|88/100|[from] Stealth Rock
+|move|p2a: Volcanion|Steam Eruption|p1a: Win-Con
+|-resisted|p1a: Win-Con
+|-damage|p1a: Win-Con|42/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Win-Con|48/100|[from] item: Black Sludge
+|upkeep
+|turn|6
+|
+|t:|1677883625
+|move|p2a: Volcanion|Steam Eruption|p1a: Win-Con
+|-resisted|p1a: Win-Con
+|-damage|p1a: Win-Con|3/100
+|move|p1a: Win-Con|Toxic|p2a: Volcanion
+|-status|p2a: Volcanion|tox
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Win-Con|9/100|[from] item: Black Sludge
+|-damage|p2a: Volcanion|95/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1677883634
+|move|p1a: Win-Con|Baneful Bunker|p1a: Win-Con
+|-singleturn|p1a: Win-Con|move: Protect
+|move|p2a: Volcanion|Steam Eruption|p1a: Win-Con
+|-activate|p1a: Win-Con|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Win-Con|15/100|[from] item: Black Sludge
+|-damage|p2a: Volcanion|83/100 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1677883645
+|switch|p1a: Universal-Check|Ferrothorn, F|81/100
+|-damage|p1a: Universal-Check|75/100|[from] Stealth Rock
+|move|p2a: Volcanion|Steam Eruption|p1a: Universal-Check
+|-resisted|p1a: Universal-Check
+|-damage|p1a: Universal-Check|12/100
+|-status|p1a: Universal-Check|brn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Volcanion|65/100 tox|[from] psn
+|-damage|p1a: Universal-Check|6/100 brn|[from] brn
+|upkeep
+|turn|9
+|-message|Markolinho forfeited.
+|
+|win|paddlerSuisse
+|raw|Markolinho's rating: 1452 &rarr; <strong>1435</strong><br />(-17 for losing)
+|raw|paddlerSuisse's rating: 1508 &rarr; <strong>1525</strong><br />(+17 for winning)
+|l|☆Markolinho
+|c|☆paddlerSuisse|gg

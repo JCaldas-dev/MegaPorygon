@@ -1,0 +1,376 @@
+|j|☆brianortegachoice
+|j|☆Aldoggydog
+|t:|1677795867
+|gametype|singles
+|player|p1|brianortegachoice|170|1157
+|player|p2|Aldoggydog|brawly|1364
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Ferrothorn, F|
+|poke|p1|Grimmsnarl, M|
+|poke|p1|Dragapult, M|
+|poke|p1|Gyarados, F|
+|poke|p1|Garchomp, F|
+|poke|p1|Blaziken, M|
+|poke|p2|Hydreigon, F|
+|poke|p2|Kartana|
+|poke|p2|Blacephalon|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Melmetal|
+|poke|p2|Toxapex, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Aldoggydog)
+|j| IC1
+|c| IC1|glhf
+|c|☆brianortegachoice|I don't reckon I'll lose this match
+|c|☆brianortegachoice|gg
+|inactive|brianortegachoice has 120 seconds left.
+|
+|t:|1677795907
+|start
+|switch|p1a: Garchomp|Garchomp, F|100/100
+|switch|p2a: Melmetal|Melmetal|100/100
+|turn|1
+|c|☆Aldoggydog|You too
+|c| IC1|ez
+|c|☆Aldoggydog|Gg
+|
+|t:|1677795929
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|move|p2a: Melmetal|Ice Punch|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|77/100
+|-damage|p2a: Melmetal|88/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-damage|p2a: Melmetal|72/100|[from] item: Rocky Helmet|[of] p1a: Ferrothorn
+|
+|upkeep
+|turn|2
+|c| IC1|wait
+|c| IC1|balle
+|c|☆brianortegachoice|finally someone who's confident back
+|c|☆brianortegachoice|hehe
+|
+|t:|1677795948
+|switch|p2a: Kartana|Kartana|100/100
+|move|p1a: Ferrothorn|Thunder Wave|p2a: Kartana
+|-status|p2a: Kartana|par
+|
+|upkeep
+|turn|3
+|c| IC1|watch it
+|inactive|Aldoggydog has 120 seconds left.
+|c|☆brianortegachoice|yessir
+|l|☆Aldoggydog
+|inactive|Aldoggydog disconnected and has a minute to reconnect!
+|player|p2|
+|c|☆brianortegachoice|nah, I liked the previous avi better
+|c|☆brianortegachoice|I might steal that one actually
+|inactive|Aldoggydog has 30 seconds to reconnect!
+|c| IC1|lol
+|j|☆Aldoggydog
+|inactive|Aldoggydog reconnected and has 80 seconds left.
+|player|p2|Aldoggydog|brawly
+|
+|t:|1677796008
+|move|p2a: Kartana|Sacred Sword|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|2/100
+|-damage|p2a: Kartana|88/100 par|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-damage|p2a: Kartana|72/100 par|[from] item: Rocky Helmet|[of] p1a: Ferrothorn
+|move|p1a: Ferrothorn|Iron Defense|p1a: Ferrothorn
+|-boost|p1a: Ferrothorn|def|2
+|
+|upkeep
+|turn|4
+|
+|t:|1677796020
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|move|p2a: Kartana|Sacred Sword|p1a: Dragapult
+|-immune|p1a: Dragapult
+|
+|upkeep
+|turn|5
+|c|☆brianortegachoice|nice try
+|c| IC1|waitt
+|
+|t:|1677796030
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Dragapult|atk|1
+|move|p1a: Dragapult|Flamethrower|p2a: Landorus
+|-damage|p2a: Landorus|84/100
+|
+|-heal|p2a: Landorus|90/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|c| IC1|u cld have acc sacked ferro
+|inactive|Aldoggydog has 90 seconds left.
+|
+|t:|1677796042
+|switch|p1a: Gyarados|Gyarados, F|100/100
+|move|p2a: Landorus|Stealth Rock|p1a: Gyarados
+|-sidestart|p1: brianortegachoice|move: Stealth Rock
+|
+|-heal|p2a: Landorus|96/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|c| IC1|dw
+|c|☆brianortegachoice|nah, I'm good
+|
+|t:|1677796049
+|move|p1a: Gyarados|Dragon Dance|p1a: Gyarados
+|-boost|p1a: Gyarados|atk|1
+|-boost|p1a: Gyarados|spe|1
+|move|p2a: Landorus|Explosion|p1a: Gyarados
+|-damage|p1a: Gyarados|1/100
+|faint|p2a: Landorus
+|
+|upkeep
+|
+|t:|1677796053
+|switch|p2a: Blacephalon|Blacephalon|100/100
+|turn|8
+|c|☆brianortegachoice|you see this god play
+|
+|t:|1677796060
+|move|p2a: Blacephalon|Shadow Ball|p1a: Gyarados
+|-damage|p1a: Gyarados|0 fnt
+|faint|p1a: Gyarados
+|-ability|p2a: Blacephalon|Beast Boost|boost
+|-boost|p2a: Blacephalon|spa|1
+|
+|upkeep
+|c|☆brianortegachoice|fuck
+|
+|t:|1677796070
+|switch|p1a: Grimmsnarl|Grimmsnarl, M|100/100
+|-damage|p1a: Grimmsnarl|88/100|[from] Stealth Rock
+|turn|9
+|
+|t:|1677796073
+|switch|p2a: Hydreigon|Hydreigon, F|100/100
+|move|p1a: Grimmsnarl|Light Screen|p1a: Grimmsnarl
+|-sidestart|p1: brianortegachoice|move: Light Screen
+|
+|upkeep
+|turn|10
+|c|☆brianortegachoice|lol
+|
+|t:|1677796089
+|switch|p1a: Ferrothorn|Ferrothorn, F|2/100
+|-damage|p1a: Ferrothorn|0 fnt|[from] Stealth Rock
+|faint|p1a: Ferrothorn
+|move|p2a: Hydreigon|Iron Tail|p1: Ferrothorn|[notarget]
+|-fail|p2a: Hydreigon
+|
+|upkeep
+|j| sniperghoost
+|
+|t:|1677796099
+|switch|p1a: Garchomp|Garchomp, F|100/100
+|-damage|p1a: Garchomp|94/100|[from] Stealth Rock
+|turn|11
+|
+|t:|1677796104
+|move|p1a: Garchomp|Scale Shot|p2a: Hydreigon
+|-supereffective|p2a: Hydreigon
+|-damage|p2a: Hydreigon|57/100
+|-supereffective|p2a: Hydreigon
+|-damage|p2a: Hydreigon|18/100
+|-supereffective|p2a: Hydreigon
+|-damage|p2a: Hydreigon|0 fnt
+|faint|p2a: Hydreigon
+|-hitcount|p2: Hydreigon|3
+|-unboost|p1a: Garchomp|def|1
+|-boost|p1a: Garchomp|spe|1
+|-damage|p1a: Garchomp|85/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1677796109
+|switch|p2a: Kartana|Kartana|72/100 par
+|turn|12
+|c|☆brianortegachoice|excellent
+|
+|t:|1677796126
+|switch|p1a: Grimmsnarl|Grimmsnarl, M|88/100
+|-damage|p1a: Grimmsnarl|76/100|[from] Stealth Rock
+|move|p2a: Kartana|Leaf Blade|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|0 fnt
+|faint|p1a: Grimmsnarl
+|-ability|p2a: Kartana|Beast Boost|boost
+|-boost|p2a: Kartana|atk|1
+|
+|upkeep
+|
+|t:|1677796134
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|-damage|p1a: Dragapult|88/100|[from] Stealth Rock
+|turn|13
+|
+|t:|1677796142
+|move|p1a: Dragapult|Flamethrower|p2a: Kartana
+|-supereffective|p2a: Kartana
+|-damage|p2a: Kartana|0 fnt
+|faint|p2a: Kartana
+|
+|upkeep
+|
+|t:|1677796148
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|turn|14
+|
+|t:|1677796152
+|move|p1a: Dragapult|Thunder|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|48/100
+|move|p2a: Toxapex|Knock Off|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|41/100
+|-enditem|p1a: Dragapult|Weakness Policy
+|-boost|p1a: Dragapult|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Dragapult|spa|2|[from] item: Weakness Policy
+|
+|upkeep
+|turn|15
+|c|☆brianortegachoice|VICTORY
+|
+|t:|1677796164
+|move|p1a: Dragapult|Shadow Ball|p2a: Toxapex
+|-damage|p2a: Toxapex|0 fnt
+|faint|p2a: Toxapex
+|
+|upkeep
+|
+|t:|1677796171
+|switch|p2a: Blacephalon|Blacephalon|100/100
+|turn|16
+|c|☆Aldoggydog|You got sp?
+|
+|t:|1677796193
+|switch|p1a: Garchomp|Garchomp, F|85/100
+|-damage|p1a: Garchomp|78/100|[from] Stealth Rock
+|move|p2a: Blacephalon|Shadow Ball|p1a: Garchomp
+|-damage|p1a: Garchomp|52/100
+|
+|-sideend|p1: brianortegachoice|move: Light Screen
+|upkeep
+|turn|17
+|c|☆brianortegachoice|yeah
+|c|☆brianortegachoice|lol
+|
+|t:|1677796203
+|switch|p2a: Melmetal|Melmetal|72/100
+|move|p1a: Garchomp|Earthquake|p2a: Melmetal
+|-supereffective|p2a: Melmetal
+|-damage|p2a: Melmetal|0 fnt
+|faint|p2a: Melmetal
+|-damage|p1a: Garchomp|43/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1677796205
+|switch|p2a: Blacephalon|Blacephalon|100/100
+|turn|18
+|c| IC1|lol
+|c|☆brianortegachoice|gg
+|c|☆brianortegachoice|wp
+|c| IC1|gg
+|
+|t:|1677796216
+|move|p2a: Blacephalon|Shadow Ball|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|-ability|p2a: Blacephalon|Beast Boost|boost
+|-boost|p2a: Blacephalon|spa|1
+|
+|upkeep
+|
+|t:|1677796227
+|switch|p1a: Blaziken|Blaziken, M, shiny|100/100
+|-damage|p1a: Blaziken|88/100|[from] Stealth Rock
+|-item|p1a: Blaziken|Air Balloon
+|turn|19
+|c|☆brianortegachoice|??
+|c| IC1|idkk  u switched before brianortegachoice
+|c| IC1|u shldve staued
+|c| IC1|and sballed
+|c|☆brianortegachoice|I meant gg the other way around just to be clean
+|c| IC1|i think ehs scarfed
+|
+|t:|1677796251
+|move|p2a: Blacephalon|Shadow Ball|p1a: Blaziken
+|-damage|p1a: Blaziken|0 fnt
+|-enditem|p1a: Blaziken|Air Balloon
+|faint|p1a: Blaziken
+|-ability|p2a: Blacephalon|Beast Boost|boost
+|-boost|p2a: Blacephalon|spa|1
+|
+|upkeep
+|c|☆Aldoggydog|Yeah scarf
+|c| IC1|fuck
+|c|☆brianortegachoice|shit
+|inactive|brianortegachoice has 120 seconds left.
+|c|☆brianortegachoice|wp
+|c|☆Aldoggydog|Gg
+|c| IC1|wait
+|c|☆brianortegachoice|weakness policy
+|c|☆Aldoggydog|Im the best
+|c|☆brianortegachoice|made me think I won
+|c| IC1|theres still a chance
+|c|☆brianortegachoice|xxpp
+|
+|t:|1677796281
+|switch|p1a: Dragapult|Dragapult, M|41/100
+|-damage|p1a: Dragapult|29/100|[from] Stealth Rock
+|turn|20
+|c| IC1|Aldoggydog ur the best?
+|c| IC1|battle me?.
+|c| IC1|after this
+|c|☆brianortegachoice|Dm ic1
+|c|☆Aldoggydog|Nope unless you have sucker
+|c|☆brianortegachoice|I like this guy's confidence ngl
+|inactive|brianortegachoice has 90 seconds left.
+|c| IC1|Aldoggydog ur vs me next
+|c| IC1|no running
+|
+|t:|1677796311
+|move|p2a: Blacephalon|Shadow Ball|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|win|Aldoggydog
+|raw|brianortegachoice's rating: 1157 &rarr; <strong>1145</strong><br />(-12 for losing)
+|raw|Aldoggydog's rating: 1364 &rarr; <strong>1373</strong><br />(+9 for winning)
+|c|☆Aldoggydog|Ok
+|c| IC1|sigh
+|c| IC1|gg
+|c| IC1|ok
+|c|☆brianortegachoice|gg
+|c| IC1|challenge me
+|c| IC1|gg
+|c| sniperghoost|gg xd
+|c| IC1|clutch ngl
+|c|☆Aldoggydog|Gg
+|c|☆brianortegachoice|gg
+|c|☆brianortegachoice|clutch yeah
+|c|☆brianortegachoice|I shit the bed
+|c| IC1|oop
+|c|☆brianortegachoice|link the battle once it starts
+|c| IC1|https://play.pokemonshowdown.com/battle-gen8ou-1812785993
+||Ladder isn't responding, score probably updated but might not have (Request timeout).
+|c| IC1|https://play.pokemonshowdown.com/battle-gen8ou-1812786270
+|l| sniperghoost
+|l| IC1

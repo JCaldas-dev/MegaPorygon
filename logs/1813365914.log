@@ -1,0 +1,324 @@
+|j|☆xdqr
+|j|☆FunDuelist
+|t:|1677863439
+|gametype|singles
+|player|p1|xdqr|lance|1000
+|player|p2|FunDuelist|102|1025
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Shuckle, F|
+|poke|p1|Pyukumuku, F|
+|poke|p1|Dragapult, F|
+|poke|p1|Dragonite, M|
+|poke|p1|Weavile, M|
+|poke|p1|Excadrill, M|
+|poke|p2|Pikachu, M|
+|poke|p2|Butterfree, M|
+|poke|p2|Flygon, M|
+|poke|p2|Meowstic, M|
+|poke|p2|Sylveon, F|
+|poke|p2|Marowak-Alola, M|
+|teampreview
+|c|☆xdqr|gl
+|
+|t:|1677863453
+|start
+|switch|p1a: Dragonite|Dragonite, M, shiny|100/100
+|switch|p2a: Steve|Meowstic, M|100/100
+|turn|1
+|
+|t:|1677863465
+|move|p2a: Steve|Reflect|p2a: Steve
+|-sidestart|p2: FunDuelist|Reflect
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|
+|upkeep
+|turn|2
+|
+|t:|1677863471
+|move|p2a: Steve|Thunder Wave|p1a: Dragonite
+|-status|p1a: Dragonite|par
+|move|p1a: Dragonite|Earthquake|p2a: Steve
+|-damage|p2a: Steve|74/100
+|
+|upkeep
+|turn|3
+|
+|t:|1677863481
+|switch|p2a: Stuart|Butterfree, M|100/100
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|
+|upkeep
+|turn|4
+|
+|t:|1677863489
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|move|p2a: Stuart|Sleep Powder||[still]
+|-fail|p2a: Stuart
+|
+|upkeep
+|turn|5
+|
+|t:|1677863506
+|switch|p2a: Sylph|Sylveon, F|100/100
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|
+|-sideend|p2: FunDuelist|Reflect
+|upkeep
+|turn|6
+|
+|t:|1677863518
+|cant|p1a: Dragonite|par
+|move|p2a: Sylph|Calm Mind|p2a: Sylph
+|-boost|p2a: Sylph|spa|1
+|-boost|p2a: Sylph|spd|1
+|
+|upkeep
+|turn|7
+|
+|t:|1677863525
+|move|p1a: Dragonite|Earthquake|p2a: Sylph
+|-damage|p2a: Sylph|0 fnt
+|faint|p2a: Sylph
+|
+|upkeep
+|
+|t:|1677863535
+|switch|p2a: Sam|Pikachu, M, shiny|100/100
+|turn|8
+|
+|t:|1677863542
+|cant|p1a: Dragonite|par
+|move|p2a: Sam|Knock Off|p1a: Dragonite
+|-damage|p1a: Dragonite|86/100 par
+|-enditem|p1a: Dragonite|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Sam
+|
+|upkeep
+|turn|9
+|
+|t:|1677863554
+|switch|p2a: Stuart|Butterfree, M|100/100
+|cant|p1a: Dragonite|par
+|
+|upkeep
+|turn|10
+|
+|t:|1677863567
+|move|p1a: Dragonite|Earthquake|p2a: Stuart
+|-immune|p2a: Stuart
+|move|p2a: Stuart|Hurricane|p1a: Dragonite
+|-damage|p1a: Dragonite|36/100 par
+|
+|upkeep
+|turn|11
+|
+|t:|1677863575
+|move|p1a: Dragonite|Roost|p1a: Dragonite
+|-heal|p1a: Dragonite|86/100 par
+|-singleturn|p1a: Dragonite|move: Roost
+|move|p2a: Stuart|Hurricane|p1a: Dragonite
+|-damage|p1a: Dragonite|42/100 par
+|
+|upkeep
+|turn|12
+|
+|t:|1677863586
+|switch|p1a: Weavile|Weavile, M, shiny|100/100
+|-ability|p1a: Weavile|Pressure
+|move|p2a: Stuart|Hurricane|p1a: Weavile
+|-damage|p1a: Weavile|38/100
+|
+|upkeep
+|turn|13
+|
+|t:|1677863600
+|switch|p2a: Sunny|Marowak-Alola, M|100/100
+|move|p1a: Weavile|Triple Axel|p2a: Sunny
+|-resisted|p2a: Sunny
+|-damage|p2a: Sunny|96/100
+|-resisted|p2a: Sunny
+|-damage|p2a: Sunny|88/100
+|-resisted|p2a: Sunny
+|-damage|p2a: Sunny|75/100
+|-hitcount|p2a: Sunny|3
+|
+|upkeep
+|turn|14
+|
+|t:|1677863623
+|move|p1a: Weavile|Knock Off|p2a: Sunny
+|-supereffective|p2a: Sunny
+|-damage|p2a: Sunny|0 fnt
+|-enditem|p2a: Sunny|Thick Club|[from] move: Knock Off|[of] p1a: Weavile
+|faint|p2a: Sunny
+|
+|upkeep
+|
+|t:|1677863636
+|switch|p2a: Sam|Pikachu, M, shiny|100/100
+|turn|15
+|
+|t:|1677863642
+|switch|p1a: Excadrill|Excadrill, M, shiny|100/100
+|move|p2a: Sam|Electro Ball|p1a: Excadrill
+|-immune|p1a: Excadrill
+|
+|upkeep
+|turn|16
+|
+|t:|1677863655
+|switch|p2a: Stuart|Butterfree, M|100/100
+|move|p1a: Excadrill|Swords Dance|p1a: Excadrill
+|-boost|p1a: Excadrill|atk|2
+|
+|upkeep
+|turn|17
+|
+|t:|1677863667
+|move|p1a: Excadrill|Iron Head|p2a: Stuart
+|-damage|p2a: Stuart|0 fnt
+|faint|p2a: Stuart
+|
+|upkeep
+|
+|t:|1677863676
+|switch|p2a: Steve|Meowstic, M|74/100
+|turn|18
+|
+|t:|1677863681
+|move|p2a: Steve|Reflect|p2a: Steve
+|-sidestart|p2: FunDuelist|Reflect
+|move|p1a: Excadrill|Earthquake|p2a: Steve
+|-damage|p2a: Steve|21/100
+|-enditem|p2a: Steve|Aguav Berry|[eat]
+|-heal|p2a: Steve|54/100|[from] item: Aguav Berry
+|
+|upkeep
+|turn|19
+|
+|t:|1677863693
+|switch|p2a: Starr|Flygon, M|100/100
+|move|p1a: Excadrill|Earthquake|p2a: Starr
+|-immune|p2a: Starr|[from] ability: Levitate
+|
+|upkeep
+|turn|20
+|
+|t:|1677863703
+|move|p1a: Excadrill|Iron Head|p2a: Starr
+|-damage|p2a: Starr|56/100
+|cant|p2a: Starr|flinch
+|
+|upkeep
+|turn|21
+|
+|t:|1677863712
+|move|p1a: Excadrill|Swords Dance|p1a: Excadrill
+|-boost|p1a: Excadrill|atk|2
+|move|p2a: Starr|Dragon Tail|p1a: Excadrill
+|-resisted|p1a: Excadrill
+|-damage|p1a: Excadrill|82/100
+|drag|p1a: Dragonite|Dragonite, M, shiny|42/100 par
+|
+|upkeep
+|turn|22
+|
+|t:|1677863727
+|move|p1a: Dragonite|Roost|p1a: Dragonite
+|-heal|p1a: Dragonite|92/100 par
+|-singleturn|p1a: Dragonite|move: Roost
+|move|p2a: Starr|Dragon Tail|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|31/100 par
+|drag|p1a: Excadrill|Excadrill, M, shiny|82/100
+|
+|-heal|p1a: Excadrill|88/100|[from] item: Leftovers
+|-sideend|p2: FunDuelist|Reflect
+|upkeep
+|turn|23
+|
+|t:|1677863744
+|move|p1a: Excadrill|Iron Head|p2a: Starr
+|-damage|p2a: Starr|6/100
+|-enditem|p2a: Starr|Aguav Berry|[eat]
+|-heal|p2a: Starr|40/100|[from] item: Aguav Berry
+|move|p2a: Starr|Bulldoze|p1a: Excadrill
+|-supereffective|p1a: Excadrill
+|-damage|p1a: Excadrill|18/100
+|-unboost|p1a: Excadrill|spe|1
+|
+|-heal|p1a: Excadrill|24/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1677863757
+|move|p2a: Starr|Bulldoze|p1a: Excadrill
+|-supereffective|p1a: Excadrill
+|-damage|p1a: Excadrill|0 fnt
+|faint|p1a: Excadrill
+|
+|upkeep
+|
+|t:|1677863771
+|switch|p1a: Dragapult|Dragapult, F, shiny|100/100
+|turn|25
+|
+|t:|1677863778
+|switch|p2a: Steve|Meowstic, M|54/100
+|move|p1a: Dragapult|Dragon Darts|p2a: Steve
+|-crit|p2a: Steve
+|-damage|p2a: Steve|11/100
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Steve
+|-damage|p2a: Steve|0 fnt
+|faint|p2a: Steve
+|-damage|p1a: Dragapult|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1677863790
+|switch|p2a: Sam|Pikachu, M, shiny|100/100
+|turn|26
+|
+|t:|1677863811
+|move|p1a: Dragapult|Fire Blast|p2a: Sam
+|-damage|p2a: Sam|0 fnt
+|faint|p2a: Sam
+|-damage|p1a: Dragapult|81/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1677863819
+|switch|p2a: Starr|Flygon, M|40/100
+|turn|27
+|c|☆xdqr|gg
+|
+|t:|1677863828
+|move|p1a: Dragapult|Dragon Darts|p2a: Starr
+|-supereffective|p2a: Starr
+|-damage|p2a: Starr|0 fnt
+|faint|p2a: Starr
+|-damage|p1a: Dragapult|71/100|[from] item: Life Orb
+|
+|win|xdqr
+|raw|xdqr's rating: 1000 &rarr; <strong>1043</strong><br />(+43 for winning)
+|raw|FunDuelist's rating: 1025 &rarr; <strong>1010</strong><br />(-15 for losing)

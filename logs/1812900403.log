@@ -1,0 +1,623 @@
+|j|☆RafaVila
+|j|☆Blazing Phantoms
+|t:|1677808050
+|gametype|singles
+|player|p1|RafaVila|morty|1168
+|player|p2|Blazing Phantoms|hugh|1178
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Latios, M|
+|poke|p1|Blissey, F|
+|poke|p1|Rotom-Wash|
+|poke|p1|Dragonite, M|
+|poke|p1|Skarmory, F|
+|poke|p1|Heatran, M|
+|poke|p2|Garchomp, M|
+|poke|p2|Corviknight, F|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Heatran, F|
+|poke|p2|Clefable, M|
+|poke|p2|Magnezone|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Blazing Phantoms)
+|
+|t:|1677808065
+|start
+|switch|p1a: Latios|Latios, M|100/100
+|switch|p2a: Maelstrom|Heatran, F|100/100
+|turn|1
+|
+|t:|1677808072
+|move|p1a: Latios|Surf|p2a: Maelstrom
+|-supereffective|p2a: Maelstrom
+|-damage|p2a: Maelstrom|44/100
+|move|p2a: Maelstrom|Toxic|p1a: Latios
+|-status|p1a: Latios|tox
+|
+|-heal|p2a: Maelstrom|50/100|[from] item: Leftovers
+|-damage|p1a: Latios|95/100 tox|[from] psn
+|upkeep
+|turn|2
+|
+|t:|1677808080
+|move|p2a: Maelstrom|Protect|p2a: Maelstrom
+|-singleturn|p2a: Maelstrom|Protect
+|move|p1a: Latios|Surf|p2a: Maelstrom
+|-activate|p2a: Maelstrom|move: Protect
+|
+|-heal|p2a: Maelstrom|56/100|[from] item: Leftovers
+|-damage|p1a: Latios|83/100 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1677808096
+|move|p1a: Latios|Surf|p2a: Maelstrom
+|-supereffective|p2a: Maelstrom
+|-damage|p2a: Maelstrom|0 fnt
+|faint|p2a: Maelstrom
+|
+|-damage|p1a: Latios|65/100 tox|[from] psn
+|upkeep
+|
+|t:|1677808101
+|switch|p2a: Pixie|Clefable, M|100/100
+|turn|4
+|
+|t:|1677808114
+|switch|p1a: Heatran|Heatran, M|100/100
+|move|p2a: Pixie|Knock Off|p1a: Heatran
+|-damage|p1a: Heatran|87/100
+|-enditem|p1a: Heatran|Leftovers|[from] move: Knock Off|[of] p2a: Pixie
+|
+|upkeep
+|turn|5
+|
+|t:|1677808126
+|move|p1a: Heatran|Taunt|p2a: Pixie
+|-start|p2a: Pixie|move: Taunt
+|cant|p2a: Pixie|move: Taunt|Wish
+|
+|upkeep
+|turn|6
+|
+|t:|1677808131
+|switch|p2a: Empress|Slowking-Galar, F|100/100
+|move|p1a: Heatran|Magma Storm|p2a: Empress|[miss]
+|-miss|p1a: Heatran|p2a: Empress
+|
+|upkeep
+|turn|7
+|
+|t:|1677808143
+|move|p1a: Heatran|Earth Power|p2a: Empress
+|-supereffective|p2a: Empress
+|-damage|p2a: Empress|80/100
+|move|p2a: Empress|Future Sight|p1a: Heatran
+|-start|p2a: Empress|move: Future Sight
+|
+|upkeep
+|turn|8
+|inactive|RafaVila has 120 seconds left.
+|
+|t:|1677808176
+|move|p1a: Heatran|Magma Storm|p2a: Empress
+|-crit|p2a: Empress
+|-damage|p2a: Empress|55/100
+|-activate|p2a: Empress|move: Magma Storm|[of] p1a: Heatran
+|move|p2a: Empress|Scald|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|62/100
+|
+|-damage|p2a: Empress|42/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|9
+|inactive|RafaVila has 120 seconds left.
+|
+|t:|1677808188
+|move|p1a: Heatran|Magma Storm|p2a: Empress
+|-damage|p2a: Empress|24/100
+|move|p2a: Empress|Scald|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|33/100
+|
+|-end|p1a: Heatran|move: Future Sight
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|18/100
+|-damage|p2a: Empress|11/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|10
+|inactive|RafaVila has 120 seconds left.
+|
+|t:|1677808207
+|move|p1a: Heatran|Earth Power|p2a: Empress
+|-supereffective|p2a: Empress
+|-damage|p2a: Empress|0 fnt
+|faint|p2a: Empress
+|
+|upkeep
+|
+|t:|1677808218
+|switch|p2a: Guardian|Garchomp, M|100/100
+|turn|11
+|
+|t:|1677808227
+|move|p2a: Guardian|Earthquake|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|upkeep
+|inactive|RafaVila has 120 seconds left.
+|
+|t:|1677808250
+|switch|p1a: Latios|Latios, M|65/100 tox
+|turn|12
+|
+|t:|1677808256
+|switch|p2a: Pixie|Clefable, M|100/100
+|move|p1a: Latios|Draco Meteor|p2a: Pixie
+|-immune|p2a: Pixie
+|
+|-damage|p1a: Latios|59/100 tox|[from] psn
+|upkeep
+|turn|13
+|inactive|RafaVila has 120 seconds left.
+|
+|t:|1677808265
+|switch|p1a: Blissey|Blissey, F|100/100
+|move|p2a: Pixie|Knock Off|p1a: Blissey
+|-damage|p1a: Blissey|87/100
+|-enditem|p1a: Blissey|Leftovers|[from] move: Knock Off|[of] p2a: Pixie
+|
+|upkeep
+|turn|14
+|
+|t:|1677808273
+|switch|p2a: Rogue|Corviknight, F, shiny|100/100
+|-ability|p2a: Rogue|Pressure
+|move|p1a: Blissey|Stealth Rock|p2a: Rogue
+|-sidestart|p2: Blazing Phantoms|move: Stealth Rock
+|
+|upkeep
+|turn|15
+|
+|t:|1677808284
+|switch|p1a: Skarmory|Skarmory, F|100/100
+|move|p2a: Rogue|Body Press|p1a: Skarmory
+|-damage|p1a: Skarmory|86/100
+|-damage|p2a: Rogue|84/100|[from] item: Rocky Helmet|[of] p1a: Skarmory
+|
+|-heal|p2a: Rogue|90/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1677808296
+|switch|p2a: Satella|Magnezone|100/100
+|-damage|p2a: Satella|94/100|[from] Stealth Rock
+|move|p1a: Skarmory|Body Press|p2a: Satella
+|-supereffective|p2a: Satella
+|-damage|p2a: Satella|38/100
+|
+|-heal|p2a: Satella|44/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|inactive|RafaVila has 120 seconds left.
+|
+|t:|1677808324
+|move|p2a: Satella|Thunderbolt|p1a: Skarmory
+|-supereffective|p1a: Skarmory
+|-damage|p1a: Skarmory|0 fnt
+|faint|p1a: Skarmory
+|
+|-heal|p2a: Satella|50/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1677808333
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|turn|18
+|
+|t:|1677808337
+|move|p1a: Dragonite|Fire Punch|p2a: Satella
+|-supereffective|p2a: Satella
+|-damage|p2a: Satella|0 fnt
+|faint|p2a: Satella
+|-damage|p1a: Dragonite|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1677808351
+|switch|p2a: Pixie|Clefable, M|100/100
+|turn|19
+|
+|t:|1677808360
+|switch|p1a: Blissey|Blissey, F|87/100
+|move|p2a: Pixie|Moonblast|p1a: Blissey
+|-damage|p1a: Blissey|75/100
+|
+|upkeep
+|turn|20
+|
+|t:|1677808370
+|switch|p2a: Rogue|Corviknight, F, shiny|90/100
+|-damage|p2a: Rogue|78/100|[from] Stealth Rock
+|-ability|p2a: Rogue|Pressure
+|move|p1a: Blissey|Seismic Toss|p2a: Rogue
+|-damage|p2a: Rogue|53/100
+|
+|-heal|p2a: Rogue|59/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1677808380
+|switch|p1a: Rotom|Rotom-Wash|100/100
+|move|p2a: Rogue|Roost|p2a: Rogue
+|-heal|p2a: Rogue|100/100
+|-singleturn|p2a: Rogue|move: Roost
+|
+|upkeep
+|turn|22
+|
+|t:|1677808389
+|move|p1a: Rotom|Volt Switch|p2a: Rogue
+|-supereffective|p2a: Rogue
+|-damage|p2a: Rogue|57/100
+|
+|t:|1677808393
+|switch|p1a: Blissey|Blissey, F|75/100|[from] Volt Switch
+|move|p2a: Rogue|Defog|p1a: Blissey
+|-unboost|p1a: Blissey|evasion|1
+|-sideend|p2: Blazing Phantoms|Stealth Rock|[from] move: Defog|[of] p2a: Rogue
+|
+|-heal|p2a: Rogue|63/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1677808407
+|switch|p1a: Rotom|Rotom-Wash|100/100
+|move|p2a: Rogue|Body Press|p1a: Rotom
+|-damage|p1a: Rotom|81/100
+|
+|-heal|p1a: Rotom|87/100|[from] item: Leftovers
+|-heal|p2a: Rogue|69/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1677808417
+|move|p1a: Rotom|Will-O-Wisp|p2a: Rogue
+|-status|p2a: Rogue|brn
+|move|p2a: Rogue|Roost|p2a: Rogue
+|-heal|p2a: Rogue|100/100 brn
+|-singleturn|p2a: Rogue|move: Roost
+|
+|-heal|p1a: Rotom|93/100|[from] item: Leftovers
+|-damage|p2a: Rogue|94/100 brn|[from] brn
+|upkeep
+|turn|25
+|
+|t:|1677808433
+|switch|p2a: Pixie|Clefable, M|100/100
+|move|p1a: Rotom|Volt Switch|p2a: Pixie
+|-damage|p2a: Pixie|76/100
+|
+|t:|1677808447
+|switch|p1a: Blissey|Blissey, F|75/100|[from] Volt Switch
+|
+|-heal|p2a: Pixie|82/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1677808455
+|move|p2a: Pixie|Wish|p2a: Pixie
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|100/100
+|
+|-heal|p2a: Pixie|88/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1677808464
+|switch|p2a: Guardian|Garchomp, M|100/100
+|move|p1a: Blissey|Stealth Rock|p2a: Guardian
+|-sidestart|p2: Blazing Phantoms|move: Stealth Rock
+|
+|upkeep
+|turn|28
+|
+|t:|1677808474
+|switch|p1a: Rotom|Rotom-Wash|93/100
+|move|p2a: Guardian|Swords Dance|p2a: Guardian
+|-boost|p2a: Guardian|atk|2
+|
+|-heal|p1a: Rotom|99/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1677808492
+|move|p2a: Guardian|Scale Shot|p1a: Rotom
+|-damage|p1a: Rotom|78/100
+|-damage|p1a: Rotom|56/100
+|-hitcount|p1a: Rotom|2
+|-unboost|p2a: Guardian|def|1
+|-boost|p2a: Guardian|spe|1
+|move|p1a: Rotom|Will-O-Wisp|p2a: Guardian
+|-status|p2a: Guardian|brn
+|-enditem|p2a: Guardian|Lum Berry|[eat]
+|-curestatus|p2a: Guardian|brn|[msg]
+|
+|-heal|p1a: Rotom|62/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1677808517
+|move|p2a: Guardian|Iron Head|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|50/100
+|move|p1a: Rotom|Hydro Pump|p2a: Guardian
+|-damage|p2a: Guardian|58/100
+|
+|-heal|p1a: Rotom|56/100|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1677808525
+|move|p2a: Guardian|Swords Dance|p2a: Guardian
+|-boost|p2a: Guardian|atk|2
+|move|p1a: Rotom|Hydro Pump|p2a: Guardian
+|-damage|p2a: Guardian|13/100
+|
+|-heal|p1a: Rotom|63/100|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1677808535
+|move|p2a: Guardian|Scale Shot|p1a: Rotom
+|-damage|p1a: Rotom|26/100
+|-damage|p1a: Rotom|0 fnt
+|faint|p1a: Rotom
+|-hitcount|p1: Rotom|2
+|-unboost|p2a: Guardian|def|1
+|-boost|p2a: Guardian|spe|1
+|
+|upkeep
+|
+|t:|1677808543
+|switch|p1a: Dragonite|Dragonite, M|91/100
+|turn|33
+|
+|t:|1677808547
+|move|p1a: Dragonite|Extreme Speed|p2a: Guardian
+|-damage|p2a: Guardian|0 fnt
+|-damage|p1a: Dragonite|78/100|[from] ability: Rough Skin|[of] p2a: Guardian
+|faint|p2a: Guardian
+|-damage|p1a: Dragonite|68/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1677808549
+|switch|p2a: Pixie|Clefable, M|88/100
+|turn|34
+|
+|t:|1677808557
+|switch|p1a: Blissey|Blissey, F|100/100
+|move|p2a: Pixie|Knock Off|p1a: Blissey
+|-damage|p1a: Blissey|92/100
+|
+|-heal|p2a: Pixie|94/100|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1677808564
+|switch|p2a: Rogue|Corviknight, F, shiny|94/100 brn
+|-damage|p2a: Rogue|82/100 brn|[from] Stealth Rock
+|-ability|p2a: Rogue|Pressure
+|move|p1a: Blissey|Toxic||[still]
+|-fail|p1a: Blissey
+|
+|-heal|p2a: Rogue|88/100 brn|[from] item: Leftovers
+|-damage|p2a: Rogue|82/100 brn|[from] brn
+|upkeep
+|turn|36
+|
+|t:|1677808576
+|move|p2a: Rogue|Defog|p1a: Blissey
+|-unboost|p1a: Blissey|evasion|1
+|-sideend|p2: Blazing Phantoms|Stealth Rock|[from] move: Defog|[of] p2a: Rogue
+|move|p1a: Blissey|Seismic Toss|p2a: Rogue
+|-damage|p2a: Rogue|57/100 brn
+|
+|-heal|p2a: Rogue|63/100 brn|[from] item: Leftovers
+|-damage|p2a: Rogue|57/100 brn|[from] brn
+|upkeep
+|turn|37
+|
+|t:|1677808586
+|move|p2a: Rogue|Roost|p2a: Rogue
+|-heal|p2a: Rogue|100/100 brn
+|-singleturn|p2a: Rogue|move: Roost
+|move|p1a: Blissey|Seismic Toss|p2a: Rogue
+|-damage|p2a: Rogue|75/100 brn
+|
+|-heal|p2a: Rogue|82/100 brn|[from] item: Leftovers
+|-damage|p2a: Rogue|75/100 brn|[from] brn
+|upkeep
+|turn|38
+|
+|t:|1677808597
+|move|p2a: Rogue|Body Press|p1a: Blissey
+|-supereffective|p1a: Blissey
+|-damage|p1a: Blissey|70/100
+|move|p1a: Blissey|Stealth Rock|p2a: Rogue
+|-sidestart|p2: Blazing Phantoms|move: Stealth Rock
+|
+|-heal|p2a: Rogue|82/100 brn|[from] item: Leftovers
+|-damage|p2a: Rogue|75/100 brn|[from] brn
+|upkeep
+|turn|39
+|
+|t:|1677808605
+|switch|p1a: Dragonite|Dragonite, M|68/100
+|move|p2a: Rogue|Defog|p1a: Dragonite
+|-unboost|p1a: Dragonite|evasion|1
+|-sideend|p2: Blazing Phantoms|Stealth Rock|[from] move: Defog|[of] p2a: Rogue
+|
+|-heal|p2a: Rogue|82/100 brn|[from] item: Leftovers
+|-damage|p2a: Rogue|75/100 brn|[from] brn
+|upkeep
+|turn|40
+|
+|t:|1677808615
+|move|p1a: Dragonite|Fire Punch|p2a: Rogue
+|-supereffective|p2a: Rogue
+|-damage|p2a: Rogue|23/100 brn
+|-damage|p1a: Dragonite|59/100|[from] item: Life Orb
+|move|p2a: Rogue|Brave Bird|p1a: Dragonite
+|-damage|p1a: Dragonite|38/100
+|-damage|p2a: Rogue|17/100 brn|[from] Recoil
+|
+|-heal|p2a: Rogue|24/100 brn|[from] item: Leftovers
+|-damage|p2a: Rogue|17/100 brn|[from] brn
+|upkeep
+|turn|41
+|
+|t:|1677808630
+|switch|p2a: Pixie|Clefable, M|94/100
+|move|p1a: Dragonite|Fire Punch|p2a: Pixie
+|-damage|p2a: Pixie|64/100
+|-damage|p1a: Dragonite|29/100|[from] item: Life Orb
+|
+|-heal|p2a: Pixie|71/100|[from] item: Leftovers
+|upkeep
+|turn|42
+|
+|t:|1677808640
+|switch|p1a: Blissey|Blissey, F|70/100
+|move|p2a: Pixie|Wish|p2a: Pixie
+|
+|-heal|p2a: Pixie|77/100|[from] item: Leftovers
+|upkeep
+|turn|43
+|
+|t:|1677808646
+|switch|p2a: Rogue|Corviknight, F, shiny|17/100 brn
+|-ability|p2a: Rogue|Pressure
+|move|p1a: Blissey|Stealth Rock|p2a: Rogue
+|-sidestart|p2: Blazing Phantoms|move: Stealth Rock
+|
+|-heal|p2a: Rogue|67/100 brn|[from] move: Wish|[wisher] Pixie
+|-heal|p2a: Rogue|73/100 brn|[from] item: Leftovers
+|-damage|p2a: Rogue|67/100 brn|[from] brn
+|upkeep
+|turn|44
+|
+|t:|1677808665
+|move|p2a: Rogue|Body Press|p1a: Blissey
+|-supereffective|p1a: Blissey
+|-damage|p1a: Blissey|50/100
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|99/100
+|
+|-heal|p2a: Rogue|73/100 brn|[from] item: Leftovers
+|-damage|p2a: Rogue|67/100 brn|[from] brn
+|upkeep
+|turn|45
+|
+|t:|1677808678
+|move|p2a: Rogue|Roost|p2a: Rogue
+|-heal|p2a: Rogue|100/100 brn
+|-singleturn|p2a: Rogue|move: Roost
+|move|p1a: Blissey|Seismic Toss|p2a: Rogue
+|-damage|p2a: Rogue|75/100 brn
+|
+|-heal|p2a: Rogue|82/100 brn|[from] item: Leftovers
+|-damage|p2a: Rogue|75/100 brn|[from] brn
+|upkeep
+|turn|46
+|
+|t:|1677808692
+|move|p2a: Rogue|Brave Bird|p1a: Blissey
+|-damage|p1a: Blissey|83/100
+|-damage|p2a: Rogue|66/100 brn|[from] Recoil
+|move|p1a: Blissey|Seismic Toss|p2a: Rogue
+|-damage|p2a: Rogue|41/100 brn
+|
+|-heal|p2a: Rogue|47/100 brn|[from] item: Leftovers
+|-damage|p2a: Rogue|41/100 brn|[from] brn
+|upkeep
+|turn|47
+|
+|t:|1677808703
+|switch|p1a: Dragonite|Dragonite, M|29/100
+|move|p2a: Rogue|Roost|p2a: Rogue
+|-heal|p2a: Rogue|91/100 brn
+|-singleturn|p2a: Rogue|move: Roost
+|
+|-heal|p2a: Rogue|97/100 brn|[from] item: Leftovers
+|-damage|p2a: Rogue|91/100 brn|[from] brn
+|upkeep
+|turn|48
+|
+|t:|1677808712
+|move|p1a: Dragonite|Fire Punch|p2a: Rogue
+|-supereffective|p2a: Rogue
+|-damage|p2a: Rogue|43/100 brn
+|-damage|p1a: Dragonite|19/100|[from] item: Life Orb
+|move|p2a: Rogue|Brave Bird|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|-damage|p2a: Rogue|38/100 brn|[from] Recoil
+|
+|-heal|p2a: Rogue|44/100 brn|[from] item: Leftovers
+|-damage|p2a: Rogue|38/100 brn|[from] brn
+|upkeep
+|
+|t:|1677808725
+|switch|p1a: Latios|Latios, M|59/100 tox
+|turn|49
+|
+|t:|1677808750
+|switch|p2a: Pixie|Clefable, M|77/100
+|move|p1a: Latios|Thunderbolt|p2a: Pixie
+|-damage|p2a: Pixie|31/100
+|
+|-heal|p2a: Pixie|38/100|[from] item: Leftovers
+|-damage|p1a: Latios|53/100 tox|[from] psn
+|upkeep
+|turn|50
+|
+|t:|1677808759
+|move|p1a: Latios|Thunderbolt|p2a: Pixie
+|-damage|p2a: Pixie|0 fnt
+|faint|p2a: Pixie
+|
+|-damage|p1a: Latios|41/100 tox|[from] psn
+|upkeep
+|
+|t:|1677808762
+|switch|p2a: Rogue|Corviknight, F, shiny|38/100 brn
+|-damage|p2a: Rogue|25/100 brn|[from] Stealth Rock
+|-ability|p2a: Rogue|Pressure
+|turn|51
+|
+|t:|1677808770
+|move|p1a: Latios|Thunderbolt|p2a: Rogue
+|-supereffective|p2a: Rogue
+|-damage|p2a: Rogue|0 fnt
+|faint|p2a: Rogue
+|
+|win|RafaVila
+|raw|RafaVila's rating: 1168 &rarr; <strong>1194</strong><br />(+26 for winning)
+|raw|Blazing Phantoms's rating: 1178 &rarr; <strong>1152</strong><br />(-26 for losing)
+|l|☆Blazing Phantoms
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

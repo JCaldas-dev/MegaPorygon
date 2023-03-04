@@ -1,0 +1,307 @@
+|j|☆Prikki
+|j|☆Ellyellell
+|t:|1677781728
+|gametype|singles
+|player|p1|Prikki|hassel|
+|player|p2|Ellyellell|169|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Dragonite, F|
+|poke|p1|Swampert, M|
+|poke|p1|Magnezone|
+|poke|p1|Scizor, M|
+|poke|p1|Incineroar, M|
+|poke|p1|Gyarados, M|
+|poke|p2|Incineroar, M|
+|poke|p2|Ditto|
+|poke|p2|Maractus, F|
+|poke|p2|Vileplume, M|
+|poke|p2|Slowking, F|
+|poke|p2|Magnezone|
+|teampreview
+|
+|t:|1677781748
+|start
+|switch|p1a: Scizor|Scizor, M|100/100
+|switch|p2a: Prickster|Maractus, F|100/100
+|turn|1
+|
+|t:|1677781756
+|move|p1a: Scizor|U-turn|p2a: Prickster
+|-supereffective|p2a: Prickster
+|-damage|p2a: Prickster|0 fnt
+|faint|p2a: Prickster
+|
+|t:|1677781768
+|switch|p1a: Magnezone|Magnezone|100/100|[from] U-turn
+|
+|upkeep
+|
+|t:|1677781779
+|switch|p2a: John Cena|Incineroar, M|100/100
+|-ability|p2a: John Cena|Intimidate|boost
+|-unboost|p1a: Magnezone|atk|1
+|turn|2
+|
+|t:|1677781787
+|switch|p1a: Gyarados|Gyarados, M, shiny|100/100
+|-ability|p1a: Gyarados|Intimidate|boost
+|-unboost|p2a: John Cena|atk|1
+|move|p2a: John Cena|Swords Dance|p2a: John Cena
+|-boost|p2a: John Cena|atk|2
+|
+|upkeep
+|turn|3
+|
+|t:|1677781801
+|switch|p2a: Magnezone|Magnezone|100/100
+|move|p1a: Gyarados|Dragon Dance|p1a: Gyarados
+|-boost|p1a: Gyarados|atk|1
+|-boost|p1a: Gyarados|spe|1
+|
+|upkeep
+|turn|4
+|
+|t:|1677781810
+|switch|p1a: Swampert|Swampert, M|100/100
+|move|p2a: Magnezone|Substitute|p2a: Magnezone
+|-start|p2a: Magnezone|Substitute
+|-damage|p2a: Magnezone|76/100
+|
+|-heal|p2a: Magnezone|82/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1677781826
+|move|p2a: Magnezone|Flash Cannon|p1a: Swampert
+|-resisted|p1a: Swampert
+|-crit|p1a: Swampert
+|-damage|p1a: Swampert|79/100
+|move|p1a: Swampert|Stealth Rock|p2a: Magnezone
+|-sidestart|p2: Ellyellell|move: Stealth Rock
+|
+|-heal|p1a: Swampert|85/100|[from] item: Leftovers
+|-heal|p2a: Magnezone|88/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1677781835
+|move|p2a: Magnezone|Body Press|p1a: Swampert
+|-damage|p1a: Swampert|59/100
+|move|p1a: Swampert|Earthquake|p2a: Magnezone
+|-supereffective|p2a: Magnezone
+|-end|p2a: Magnezone|Substitute
+|
+|-heal|p2a: Magnezone|94/100|[from] item: Leftovers
+|-heal|p1a: Swampert|65/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1677781852
+|switch|p2a: Blueberry|Ditto, shiny|100/100
+|-damage|p2a: Blueberry|88/100|[from] Stealth Rock
+|-transform|p2a: Blueberry|p1a: Swampert|[from] ability: Imposter
+|move|p1a: Swampert|Yawn|p2a: Blueberry
+|-start|p2a: Blueberry|move: Yawn|[of] p1a: Swampert
+|
+|-heal|p1a: Swampert|71/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1677781866
+|switch|p1a: Scizor|Scizor, M|100/100
+|move|p2a: Blueberry|Stealth Rock|p1a: Scizor
+|-sidestart|p1: Prikki|move: Stealth Rock
+|
+|-end|p2a: Blueberry|move: Yawn|[silent]
+|-status|p2a: Blueberry|slp
+|upkeep
+|turn|9
+|
+|t:|1677781877
+|switch|p2a: Slowking|Slowking, F|100/100
+|-damage|p2a: Slowking|88/100|[from] Stealth Rock
+|move|p1a: Scizor|Defog|p2a: Slowking
+|-unboost|p2a: Slowking|evasion|1
+|-sideend|p2: Ellyellell|Stealth Rock|[from] move: Defog|[of] p1a: Scizor
+|-sideend|p1: Prikki|Stealth Rock|[from] move: Defog|[of] p1a: Scizor
+|
+|upkeep
+|turn|10
+|
+|t:|1677781888
+|move|p1a: Scizor|U-turn|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|3/100
+|
+|t:|1677781901
+|switch|p1a: Swampert|Swampert, M|71/100|[from] U-turn
+|move|p2a: Slowking|Scald|p1a: Swampert
+|-damage|p1a: Swampert|49/100
+|
+|-heal|p1a: Swampert|55/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1677781915
+|switch|p2a: Carl|Vileplume, M|100/100
+|move|p1a: Swampert|Stealth Rock|p2a: Carl
+|-sidestart|p2: Ellyellell|move: Stealth Rock
+|
+|-heal|p1a: Swampert|61/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1677781930
+|switch|p1a: Scizor|Scizor, M|100/100
+|move|p2a: Carl|Moonblast|p1a: Scizor
+|-resisted|p1a: Scizor
+|-damage|p1a: Scizor|63/100
+|
+|upkeep
+|turn|13
+|
+|t:|1677781940
+|switch|p2a: Magnezone|Magnezone|94/100
+|-damage|p2a: Magnezone|88/100|[from] Stealth Rock
+|move|p1a: Scizor|Bullet Punch|p2a: Magnezone
+|-resisted|p2a: Magnezone
+|-damage|p2a: Magnezone|82/100
+|
+|-heal|p2a: Magnezone|88/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1677781951
+|move|p1a: Scizor|U-turn|p2a: Magnezone
+|-resisted|p2a: Magnezone
+|-damage|p2a: Magnezone|75/100
+|
+|t:|1677781967
+|switch|p1a: Swampert|Swampert, M|61/100|[from] U-turn
+|move|p2a: Magnezone|Volt Switch|p1a: Swampert
+|-immune|p1a: Swampert
+|
+|-heal|p2a: Magnezone|81/100|[from] item: Leftovers
+|-heal|p1a: Swampert|67/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1677781984
+|switch|p2a: Carl|Vileplume, M|100/100
+|-damage|p2a: Carl|88/100|[from] Stealth Rock
+|move|p1a: Swampert|Flip Turn|p2a: Carl
+|-resisted|p2a: Carl
+|-damage|p2a: Carl|73/100
+|
+|t:|1677781992
+|switch|p1a: Dragonite|Dragonite, F|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|16
+|
+|t:|1677782001
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|move|p2a: Carl|Moonblast|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|48/100
+|
+|upkeep
+|turn|17
+|
+|t:|1677782009
+|move|p1a: Dragonite|Dual Wingbeat|p2a: Carl
+|-supereffective|p2a: Carl
+|-damage|p2a: Carl|0 fnt
+|faint|p2a: Carl
+|-hitcount|p2: Carl|1
+|
+|upkeep
+|
+|t:|1677782014
+|switch|p2a: Magnezone|Magnezone|81/100
+|-damage|p2a: Magnezone|75/100|[from] Stealth Rock
+|turn|18
+|
+|t:|1677782020
+|move|p1a: Dragonite|Earthquake|p2a: Magnezone
+|-supereffective|p2a: Magnezone
+|-damage|p2a: Magnezone|0 fnt
+|faint|p2a: Magnezone
+|
+|upkeep
+|
+|t:|1677782028
+|switch|p2a: John Cena|Incineroar, M|100/100
+|-damage|p2a: John Cena|75/100|[from] Stealth Rock
+|-ability|p2a: John Cena|Intimidate|boost
+|-unboost|p1a: Dragonite|atk|1
+|turn|19
+|
+|t:|1677782034
+|move|p1a: Dragonite|Earthquake|p2a: John Cena
+|-supereffective|p2a: John Cena
+|-damage|p2a: John Cena|0 fnt
+|faint|p2a: John Cena
+|
+|upkeep
+|
+|t:|1677782041
+|switch|p2a: Slowking|Slowking, F|36/100
+|-damage|p2a: Slowking|24/100|[from] Stealth Rock
+|turn|20
+|
+|t:|1677782046
+|move|p1a: Dragonite|Dual Wingbeat|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|-hitcount|p2: Slowking|1
+|
+|upkeep
+|
+|t:|1677782050
+|switch|p2a: Blueberry|Ditto, shiny|88/100 slp
+|-damage|p2a: Blueberry|76/100 slp|[from] Stealth Rock
+|-transform|p2a: Blueberry|p1a: Dragonite|[from] ability: Imposter
+|turn|21
+|
+|t:|1677782057
+|cant|p2a: Blueberry|slp
+|move|p1a: Dragonite|Dual Wingbeat|p2a: Blueberry|[miss]
+|-miss|p1a: Dragonite|p2a: Blueberry
+|
+|upkeep
+|turn|22
+|
+|t:|1677782067
+|cant|p2a: Blueberry|slp
+|move|p1a: Dragonite|Dual Wingbeat|p2a: Blueberry
+|-damage|p2a: Blueberry|43/100 slp
+|-damage|p2a: Blueberry|12/100 slp
+|-hitcount|p2a: Blueberry|2
+|
+|upkeep
+|turn|23
+|
+|t:|1677782074
+|move|p1a: Dragonite|Extreme Speed|p2a: Blueberry
+|-damage|p2a: Blueberry|0 fnt
+|faint|p2a: Blueberry
+|
+|win|Prikki
+|c|☆Ellyellell|gg man
+|c|☆Prikki|gg
+|l|☆Ellyellell
